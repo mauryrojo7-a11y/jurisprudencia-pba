@@ -8,7 +8,7 @@
 ---
 - **Fragmento para NotebookLM / Gemini**: Parte 2 de 4 (`03_Camaras_PBA_Parte2.md`)
 - **Archivo Fuente Completo**: `03_Camaras_Civiles_PBA.md`
-- **Fallos incluidos en esta parte**: 110
+- **Fallos incluidos en esta parte**: 118
 
 ---
 
@@ -992,6 +992,59 @@ Regístrese y devuélvase.
 ---
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - SAN ISIDRO (`idOrganismo: 628`)
+
+### ACT-21-10-2026. [RR-1036-2026] FUSZ NELIDA ESTHER S QUIEBRA S/ INCIDENTE CONCURSO/QUIEBRA(EXCEPTO VERIFICACION)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - SAN ISIDRO
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `SI-4873-2017`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-1036-2026`
+- **Código de Acceso SCBA**: `5462E043`
+- **Firmantes**: Funcionario: ZUNINO Jorge JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1036-2026 - Código acceso: 5462E043 - PUBLICO | Registrado por: ARAZI Valeria - Fecha registración: 21/10/2026 17:28
+
+#### Texto Íntegro
+```text
+En la ciudad de San Isidro, Provincia de Buenos Aires.
+1. Arriban las actuaciones a esta Alzada, a fin de resolver los recursos de apelación interpuestos contra la resolución dictada con fecha 18/08/26 mediante la cual la Señora Juez de grado dejó sin efecto la resolución que dispuso la venta en subasta del 50% del inmueble objeto de autos, y, en su lugar, ordenó la venta directa en los términos del art. 213 de la ley 24.522 de éste a favor del acreedor hipotecario por la suma de u$s 24.200, ordenándole que en el plazo de diez días proceda a practicar la liquidación a los efectos de compensar su crédito, dejando aclarado que, en el caso de no ser suficiente la suma ofertada, queda a su cargo el pago del crédito con privilegio especial de la Municipalidad de Tigre, que fuera declarado admisible en los autos principales, con costas del proceso a cargo del acreedor adquirente, y, además, reguló honorarios.
+2. Los recursos y sus fundamentos
+2.1 El primer recurso fue articulado de manera subsidiaria a una revocatoria por la letrada apoderada del acreedor, por presentación electrónica del 20/08/26. Desestimada la reposición, el día 21/08/26 en relación se concedió la apelación subsidiaria, cuyos fundamentos, incorporados en aquél escrito recursivo y sustanciados el 21/08/26 respecto de la fallida y el 11/09/26 respecto de la Sindica, fueron contestados por ésta última únicamente el día 21/09/26.
+Se agravia la recurrente en torno a la imposición de costas a cargo de su mandante.
+Sostiene que no resultó vencida, como tampoco incurrió en mora o dio lugar a la reclamación, sino que, al contrario, dice que se habría llegado a esta instancia por la mora de la fallida, quien inició este proceso de quiebra voluntariamente.
+Refiere que, entonces, no se dan los supuestos contemplados en las normas invocadas por la Magistrada, y, por tal motivo, resulta improcedente imponerle las costas a su representado.
+Solicita que, sin perjuicio de lo dispuesto por el art. 244 de la Ley 24.522, se deje sin efecto la imposición de costas a su parte y se impongan a la fallida.
+A su vez, apela por altos los honorarios regulados a favor del enajenador y la sindica, y, también, apela por altos y por bajos los regulados a su favor.
+No obstante, teniendo en cuenta que la recurrente no ha presentado el memorial correspondiente a la apelación que fuera concedida en los términos del art. 246 del CPCC, en relación a los honorarios regulados a favor de la sindicatura y del perito enajenador, corresponde declararlo desierto , persistiendo únicamente el articulado contra sus honorarios, que fue concedido en los términos del art. 57 de la ley 14.967.
+Por su lado, la sindicatura sostiene q ue el art. 70 del CPCC establece las excepciones mediante las cuales no se impondrán las costas al vencido, siendo una de ellas el reconocimiento de la pretensión del adversario, hecho ocurrido al momento de presentarse la fallida en quiebra.
+A su vez, expresa que el segundo párrafo del art. 68 del mismo cuerpo legal faculta a los jueces a eximir de la responsabilidad de las costas al litigante vencido, en forma parcial o total, siempre que encontrare mérito para ello. Lo que, dice, habría ocurrido en autos, por cuanto la Magistrada, justificó la imposición en el hecho de que la suma ofertada por el acreedor hipotecario era sensiblemente inferior a la tasación del 50% del inmueble realizada por el martillero, por lo que considera acertada la imposición de costas a su cargo.
+2.2. El segundo, interpuesto con fecha 25/08/26 por el perito enajenador, quien apeló los estipendios fijados a su favor por bajos. El mentado embate fue concedido en relación el día 26/08/26. Sus fundamentos, fueron sustanciados los días 10/09/26 y 11/09/26.
+Explica que aquéllos no guardan debida relación con el valor del acuerdo alcanzado, estimado en u$s 24.200, ni con los porcentajes habituales aplicables en las subastas judiciales.
+Refiere que, en una subasta, ambas partes deben abonar el tres por ciento (3%) correspondiente. Concluye que, entonces, debió fijarse la suma de u$s 1452, es decir, en moneda de curso legal, la de $2.207.040.-.
+Menciona que no sólo realizó las gestiones y pasos necesarios para llevar adelante la subasta, sino que también propuso y coordinó el acuerdo final que permitió concluir la causa en forma exitosa. Asimismo, alude a que, al proponerse dicho acuerdo, la parte interesada manifestó su voluntad de respetar los honorarios que le fueran correspondientes.
+Por su parte, la mandataria del acreedor expone que p ara regular honorarios, la Juez a quo ha invocado el art. 271 de la Ley 24.522, norma cuya inconstitucionalidad no ha sido planteada y que le otorga la facultad de fijarlos por debajo de los mínimos legales. Además, dice, el monto regulado respeta estrictamente el art. 57 de la Ley 10.973, que establece para estos casos un honorario del 1%.
+Afirma que es inexacto que se hubiere llegado a acuerdo alguno entre acreedor y fallida, como sostiene el apelante.
+2.3. El tercero interpuesto por la Sindica mediante escrito electrónico del 31/08/26, por considerar sus honorarios bajos. El recurso fue concedido en relación el mismo día, y, sus fundamentos, presentados en igual fecha, fueron sustanciados los días 10/09/26 y 11/09/26, fueron contestados por la apoderada del acreedor el 15/09/26.
+Arguye que en el marco del presente incidente de venta, bajo concurso especial (art 209 LCQ), ha llevado adelante la conducción del procedimiento, reactivando el mismo y otorgándole mayor celeridad, luego de años de encontrarse estancado y dilatado, realizando todas las medidas de manera oficiosa, a fin de impulsar no sólo el proceso, sino también a las partes y auxiliares, con el objeto de no continuar perjudicando a la masa de acreedores, ni generar un mayor perjuicio al patrimonio falencial, aspectos que, afirma, no habrían sido considerados por la judicante.
+Expone que, a los efectos de la regulación, se aplicó el 1% sobre el producido de la venta directa, sin considerar como base regulatoria el valor del crédito reclamado por el acreedor hipotecario, asemejando el instituto del concurso especial a un juicio ejecutivo y no a un incidente de verificación de créditos, como tantos autores han considerado.
+Solicita se incrementen los honorarios que le fueran regulados, considerando la base solicitada y el mérito e importancia de la labor desarrollada.
+Por su parte, la apoderada del acreedor adjudicatario del bien aduce que, en autos, su parte sólo puede cobrar su crédito hasta el precio del inmueble. Por lo que, e n lo que el crédito ejecutado exceda de dicho valor, se transforma en quirografario, y su cobro no puede perseguirse aquí sino que debe hacérselo en el expediente principal de la quiebra, donde oportunamente -si correspondiere- se regularán honorarios adicionales a favor de la apelante.
+Por lo que, sostiene que resultaría inatendible la pretensión de la funcionaria de percibir en este incidente honorarios por el valor total del crédito, debiendo confirmarse el criterio de la Juez a quo de limitar la base regulatoria al valor del bien liquidado.
+En cuanto al porcentaje aplicado, dado que tampoco esta apelante ha planteado la inconstitucionalidad del art. 271 de la Ley 24.522 invocado por la Magistrada de grado, es que, dice, no correspondería elevarlo por encima de lo regulado al enajenador (1%), por ser aplicables las mismas consideraciones en ambos casos.
+3. La solución
+3.1. La imposición de costas
+Antes de ingresar a la cuestión de fondo, es menester efectuar una advertencia preliminar: en el estudio y análisis de los agravios los jueces no están obligados a analizar todas y cada una de las argumentaciones de las partes, sino tan sólo aquéllas que sean conducentes y posean relevancia para decidir el caso (ver CSJN, "Fallos": 258:304; 262:222; 265:301; 272:225; Fassi Yañez, "Código Procesal Civil y Comercial de la Nación, Comentado, Anotado y Concordado", T° I, pág. 825; Fenocchieto Arazi. "Código Procesal Civil y Comercial de la Nación. Comentado y Anotado", T 1, pág. 620).
+Sentado ello, cabe señalar que calificada doctrina entiende que, como principio, los gastos y honorarios generados en el concurso especial deben ser abonados por el acreedor con fundamento en la prescindencia del trámite, el que, por otra parte, fue seguido en su exclusivo beneficio, razón por la cual debe asumir exclusivamente los costos de este urgimiento. Por ello, puede tomarse como premisa que las costas son a cargo del peticionario porque no son gastos en beneficio común y porque el "apuro del acreedor no puede gravar aún más la situación del resto de los acreedores concurrentes", máxime cuando el síndico se allanó a la pretensión y no hubo oposición por parte de la fallida (PESARESI, Guillermo M. y PASSARON Julio F.. "Honorarios en concursos y quiebras". Ed. Astrea año 2002. Pág. 451).
+Así, se ha dicho también que el concurso especial no devenga costas a cargo del concursado, en principio, y menos a cargo "del concurso" (habiendo agregado la jurisprudencia el argumento concurrente de no haber mediado oposición de la fallida, o de haber mediado allanamiento del síndico, a la pretensión). Por cuanto constituye una actuación a favor del acreedor instada por éste, quien -incluso- debe contribuir a los gastos.
+Ello, en base al argumento de que en la quiebra el crédito hipotecario se admite a través de la verificación de créditos; y la liquidación del bien sobre el que reposa la garantía puede hacerse también en el proceso principal sin necesidad de habilitar una vía diferente. En este sentido, el concurso especial constituye una preferencia temporal, establecida únicamente a favor del acreedor hipotecario, y para la satisfacción de su crédito, sin beneficio alguno para los restantes acreedores; si el acreedor hipotecario no quiere hacerse cargo de las costas del procedimiento instaurado en su propio interés, debe dejar que la venta del bien se realice con el resto del activo en la quiebra principal (MARTORELL Ernesto E. "Ley de Concursos y Quiebras Comentada. Tomo V, pág. 338-342. Ed. La Ley. Año 2012)
+Ello así, teniendo en cuenta que en el presente concurso especial fue iniciado por el acreedor, no habiéndose opuesto a ello la sindicatura (v. escrito elect. del 13/11/17), como tampoco la fallida, y, considerando, incluso, que el presente proceso culmina con la adquisición del 50% del bien inmueble objeto de autos por venta directa al acreedor hipotecario (cf. art. 213 de la LCQ), quien lo adquiere por un valor menor (u$s 24.200.-) al que surge de la tasación de fecha 17/06/25 (de u$s 31.000.-) -motivo éste brindado por la judicante en el pronunciamiento en crisis que no ha sido rebatido-, es que no se advierten motivos para apartarse de lo decidido por la Juez de grado en relación a la imposición de costas (art. 260 del CPCC).
+Así las cosas, y por los fundamentos aquí expuestos, es que el recurso impetrado en relación al punto habrá de ser desestimado, confirmándose lo decidido en la instancia de grado en cuanto a que las costas del presente proceso serán a cargo del acreedor hipotecario adquiriente (cf. arts. 209 y 244 -su doct.- LCQ; 68 in fine del CPCC). Las costas devengadas ante esta Alzada, se imponen a cargo del recurrente en su condición de vencido (arts. 68 y 69 del Cód. Procesal), difiriéndose la regulación de honorarios para su oportunidad procesal (art. 31 de la ley 14.967). Lo que, así se decide .
+3.2. Los honorarios
+En cuanto al tópico, resulta menester señalar que deviene prematura la regulación de honorarios efectuada en la instancia de grado, desde que el proceso no se encuentra concluido, toda vez que, aún, no se ha aprobado la liquidación pertinente, ni compensado el crédito aquí reclamado.
+Por lo que corresponde dejar sin efecto la base allí fijada, como los estipendios fijados como consecuencia de ello, hasta tanto se de cumplimiento con lo ordenado en el resolutorio de fecha 18/08/26 (v. puntos 3 y 4), debiendo, en su momento, observarse la previsión legal del art. 34 de la ley 14967, por remisión del art. 36 inc. "e" del mismo cuerpo normativo, en consonancia con lo dispuesto por los arts. 209, 213 y 265 de la LCQ. Lo que, así también se decide.
+Notifíquese, regístrese y devuélvase.
+```
+
+---
 
 ### ACT-23-10-2026. [RR-1042-2026] L. R. A. C/ A. L. F. S/ COBRO DE HONORARIOS
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - SAN ISIDRO
@@ -1993,6 +2046,113 @@ Notifíquese, regístrese y devuélvase.
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN ISIDRO (`idOrganismo: 2070`)
 
+### ACT-23-10-2026. [RR-1067-2026] SOLA JAVIER C/ BELLINI VALENTINO S/ DIVISION DE CONDOMINIO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN ISIDRO
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `SI-22573-2017`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-1067-2026`
+- **Código de Acceso SCBA**: `ADD49A80`
+- **Firmantes**: Funcionario: MAURI Silvina Andrea JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1067-2026 - Código acceso: ADD49A80 - PUBLICO | Registrado por: BREUER Ana María - Fecha registración: 23/10/2026 10:41
+
+#### Texto Íntegro
+```text
+San Isidro,
+I. La resolución apelada.
+En la resolución del 29/04/2026, el juez de primera instancia desestimó el planteo de prorrateo de las costas formulado por la parte obligada al pago, con fundamento en que había sido efectuado una vez vencido el plazo previsto en el art. 54 de la ley 14.967 para abonar los honorarios regulados.
+Para así decidir, consideró que, encontrándose firme la liquidación aprobada y los honorarios regulados, el prorrateo previsto en el art. 730 del Código Civil y Comercial debía solicitarse dentro de los diez días otorgados para el pago de los estipendios profesionales. Sostuvo que, vencido dicho plazo sin que se hubiera formulado el planteo, la obligación entraba en mora y el crédito por honorarios quedaba consolidado por su importe íntegro, con más los accesorios correspondientes.
+En ese sentido, entendió que no resultaba admisible que el deudor pretendiera limitar posteriormente el monto de las costas, cuando había contado con un plazo razonable y con la información necesaria para ejercer oportunamente esa facultad. Agregó que la notificación de la providencia que ordenó la devolución de las actuaciones tampoco impedía formular el planteo en esa oportunidad, pues el obligado podía hacer valer entonces las defensas que estimara pertinentes.
+Con cita de precedentes jurisprudenciales, concluyó que no correspondía admitir que el deudor, una vez incurrido en mora, aguardara a que sus acreedores iniciaran la ejecución de los honorarios para solicitar la aplicación del límite previsto en el art. 730 del Código Civil y Comercial.
+En consecuencia, al considerar que la mora se había configurado el 20 de febrero de 2026 y que el pedido de prorrateo había sido formulado una vez vencido el plazo de diez días para el pago de los honorarios, desestimó el planteo, con fundamento en los arts. 3, 10 y 730 del Código Civil y Comercial y 54 de la ley 14.967.
+II. El recurso.
+Apeló el letrado apoderado de la demandada el 06/05/2026, recurso de apelación concedido en la misma fecha, fundado conforme memorial del 12/05/2026 y contestado por el accionante Javier Sola y los letrados Hugo Román Vázquez, Milagros Lucía Aznar, Nancy Valeria Almada, y Francisco Blaksley Señorans todos por sus propios derechos, el 10/06/2026.
+III. Los agravios.
+En primer lugar, sostiene que la decisión resulta contraria a derecho, pues considera que no se ha configurado la mora en el pago de los honorarios regulados.
+Al respecto, señala que las regulaciones correspondientes a la primera y segunda instancia no fueron notificadas conforme a las exigencias del art. 54 de la ley 14.967, toda vez que los instrumentos utilizados no contenían la transcripción íntegra de dicha norma.
+Añade que tampoco se notificó a su mandante en el domicilio real denunciado en el expediente principal, pese a que intervino en el proceso en carácter de letrado apoderado.
+En esa línea, afirma que la omisión de cumplir con las formalidades legales impide tener por firmes las regulaciones de honorarios y, consecuentemente, por iniciado el plazo de diez días para su pago. Por ello, cuestiona que el juez de grado haya considerado configurada la mora el 20 de febrero de 2026, sobre la base de las constancias de la causa y de la notificación de la providencia que ordenó la devolución de las actuaciones. A su entender, tales circunstancias no pueden suplir las exigencias expresamente establecidas por la norma arancelaria, cuya inobservancia acarrea la nulidad del acto de notificación.
+En consecuencia, sostiene que, al no haberse configurado la mora, el planteo de prorrateo fue formulado oportunamente, por lo que solicita que se revoque la resolución apelada y se admita la aplicación del límite de responsabilidad por costas previsto en el art. 730 del Código Civil y Comercial de la Nación.
+Por otra parte, invoca el alcance de dicha disposición legal y la doctrina jurisprudencial que la interpreta, según la cual el límite del 25 % opera sobre la responsabilidad del condenado en costas, sin afectar la cuantía de los honorarios regulados conforme a las normas arancelarias.
+Sobre esa base, afirma que, tomando como referencia una base regulatoria de $314.185.000, la responsabilidad por las costas de primera instancia debe limitarse a la suma de $78.546.250, equivalente al 25 % de aquella. A tal efecto, individualiza los honorarios correspondientes a los profesionales intervinientes y solicita que se practique el prorrateo por Secretaría de primera instancia, considerando la totalidad de las costas comprendidas en la norma.
+Por todo ello, solicita que se revoque la resolución interlocutoria recurrida, se declare que no se ha configurado la mora en el pago de los honorarios por incumplimiento de las formalidades de notificación previstas en el art. 54 de la ley 14.967 y, en consecuencia, se haga lugar al planteo de prorrateo formulado con fundamento en el art. 730 del Código Civil y Comercial de la Nación, limitando la responsabilidad por las costas de primera instancia al 25 % de la base regulatoria indicada.
+IV. Solución.
+Preliminarmente, cabe señalar que el art. 730 del CCyC limita la responsabilidad por el pago de las costas de un juicio , incluidos los honorarios profesionales de todo tipo devengados y correspondientes a la primera o única instancia, al 25% del monto de la sentencia, laudo, transacción o instrumento que ponga fin al diferendo, mas no deroga las disposiciones de las leyes arancelarias, que son de orden público, carácter que emerge de numerosas disposiciones de las leyes arancelarias -decreto ley 8904/77 y ley 14.967- (conf. arts. 1 al 8, 11, 16, 19, 21, 35, 59, 60 y cc.; Berizonce-Méndez, "Honorarios de Abogados y Procuradores, Ley 8.904 comentada y concordada con la ley 21.839", págs. 28/29), ni reduce el quantum de los honorarios regulados.
+No obstante, el mentado artículo nada dispone respecto a la oportunidad para formular el planteo, de modo que cabe a la judicatura estipular su límite mediante una labor interpretativa (art. 2 CCyC), aunque sí puede afirmarse que la petición de la aplicación del mínimo debe efectuarse en tiempo oportuno, no resultando admisible guardar silencio o consentir etapas pretendiendo luego su reedición.
+Ello así, el límite temporal para hacer valer la restricción prevista en el art. 730 del CCyC se ubica en el momento en que el obligado al pago es requerido para el pago compulsivo de los honorarios a su cargo -siempre que no haya habido previamente por parte del condenado en costas un acto por el cual expresamente o mediante una conducta que demuestre inequívocamente la renuncia a dicha prerrogativa de neto corte patrimonial-, ya que, en principio, es el momento en que se formaliza el reclamo por la vía judicial y donde el ejecutado puede oponer las defensas que hacen al límite de su responsabilidad por el pago de las costas.
+De allí que, el condenado en costas, en el caso que advierta que las costas del proceso superan el porcentaje de ley, puede requerir el prorrateo de los montos entre los beneficiarios aún encontrándose firmes los honorarios (causas D-2579-2 r.i. 271/13 y SI-46863-8 r.i. 334/16, de esta Sala III).
+Sentado ello, corresponde examinar las circunstancias particulares de la causa.
+El 9 de diciembre de 2024 se regularon los honorarios correspondientes a la primera instancia a favor de los Dres. Hugo Román Vázquez y Nancy Valeria Almada, por su actuación en representación de la parte actora; de los Dres. Waldo Javier Grosso y Milagros Lucía Aznar, por su actuación en representación de la demandada; de la perito martillera Karin Andrea Reindl y de la mediadora María Nora Juvenal. Dichas regulaciones fueron modificadas por esta Alzada el 24 de octubre de 2025.
+Posteriormente, el Dr. Hugo Román Vázquez promovió el incidente "Vázquez, Hugo Román c/ Bellini, Valentino s/ Ejecución de honorarios" (SI-47091-2025), en el que, el 3 de marzo de 2026, se dictó sentencia mandando llevar adelante la ejecución de sus honorarios contra el ejecutado Bellini.
+Asimismo, el Dr. Francisco Blaksley Señorans, en su carácter de cesionario de los honorarios regulados a favor de las Dras. Milagros Lucía Aznar y Nancy Valeria Almada, inició el incidente "Blaksley Señorans, Francisco c/ Bellini, Valentino s/ Incidente de ejecución de honorarios" (SI-47313-2025), en el que también se dictó sentencia de ejecución el 26 de marzo de 2026 contra el aquí demandado.
+Por su parte, el planteo de prorrateo con fundamento en el art. 730 del CCyC fue formulado por la parte demandada en estas actuaciones el 19 de abril de 2026.
+En este contexto, corresponde distinguir entre los honorarios cuyo cobro ya fue reclamado compulsivamente y aquellos respecto de los cuales no se ha promovido ejecución.
+En efecto, en relación con los honorarios cuya ejecución fue iniciada, el planteo de prorrateo resulta extemporáneo, pues el obligado tuvo la oportunidad de invocar el límite de responsabilidad previsto en el art. 730 del CCyC al ser requerido judicialmente para su pago y no lo hizo en esa oportunidad. Por consiguiente, no corresponde admitir que pretenda ejercer esa facultad con posterioridad, una vez avanzado el trámite de ejecución (art. 18 CN)..
+Distinta es la solución respecto de los restantes honorarios, cuyo cobro compulsivo no había sido promovido al momento de formularse el planteo. En tal supuesto, al no haberse configurado todavía la oportunidad procesal que, conforme al criterio expuesto, delimita temporalmente el ejercicio de aquella facultad, corresponde considerar temporáneo el pedido de prorrateo, sin que la firmeza de las regulaciones ni el vencimiento del plazo previsto en el art. 54 de la ley 14.967 resulten, por sí solos, suficientes para sustentar una solución contraria.
+En consecuencia, corresponde modificar la resolución apelada y admitir el tratamiento del planteo de prorrateo si bien exclusivamente respecto de los honorarios cuya ejecución no se hubiera iniciado al momento de su formulación, debiendo sustanciarse y resolverse la petición en la instancia de origen, según su estado. Deberá mantenerse en cambio, el rechazo del planteo en relación a aquellos cuyos honorarios ya estaban siendo objeto de ejecución cuando el pedido fue formulado, lo que así se decide.
+Las costas de Alzada se imponen en el orden causado, en atención al modo en que se resuelve la cuestión (arts. 68 y 69 del CPCC).
+Regístrese y devuélvase al juzgado de origen.
+```
+
+---
+
+### ACT-23-10-2026. [RR-1066-2026] IGLESIAS CRISTIAN LIONEL C/ PACHECO ELVIO HUGO Y OTROS S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN ISIDRO
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `SI-35250-2024`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-1066-2026`
+- **Código de Acceso SCBA**: `6213CAD3`
+- **Firmantes**: Funcionario: MAURI Silvina Andrea JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1066-2026 - Código acceso: 6213CAD3 - PUBLICO | Registrado por: BREUER Ana María - Fecha registración: 23/10/2026 10:41
+
+#### Texto Íntegro
+```text
+San Isidro.
+Considerando:
+I. La resolución apelada.
+La resolución de fecha 05/02/2026 tuvo presente el desistimiento de la acción formulado por la parte actora (art. 304 del C.P.C.C), impuso las costas a su cargo (art. 73 del C.P.C.C) y la intimó para que, dentro del plazo de cinco días, abonara la tasa de justicia, liquidada en ese acto en la suma de $445.319,87, con más el aporte legal de $44.531,98, bajo apercibimiento de comunicar su incumplimiento al funcionario a cargo del Departamento de Cobro de Honorarios y Tasa de Justicia, dependiente de la Secretaría de Servicios Jurisdiccionales departamental, conforme lo dispuesto por el Acuerdo 3827 del 23 de noviembre de 2016 de la S.C.B.A.
+Asimismo, determinó la base regulatoria sobre la cual fijar los emolumentos de los profesionales actuantes en autos en la suma de $20.241.812,70 y reguló los honorarios de la letrada de la accionante y de la mediadora interviniente.
+Finalmente, atento al estado de la causa y encontrándose concluidas las actuaciones, ordenó que oportunamente se procediera a su archivo (art. 75 del Ac. 3397/08 de la S.C.J.B.A.), haciendo saber que la fecha de destrucción sería el 05/02/2031, de conformidad con lo establecido por el art. 115 inc. a), apartado 1, segundo párrafo, del citado Acuerdo, con comunicación a la Caja de Previsión Social del Colegio de Abogados de la Provincia de Buenos Aires, a los fines previstos por el art. 20 de la ley 6716.
+II. Articulación recursiva.
+Con fecha 13/02/2026, el Sr. Cristian Lionel Iglesias , por derecho propio, con el patrocinio letrado de la Dra. Maria Laura Bongiorno , interpuso recurso de apelación, fundándolo en la misma presentación.
+III. Agravios.
+La parte actora se agravia de la base regulatoria establecida en la suma de $20.241.812,70, por considerarla elevada y por encontrarse determinada sobre la base de un tercio del monto estimado en la demanda ($60.725.438,18), pese a que dicha suma resultó ser meramente provisoria y unilateral.
+Señala que el proceso concluye por desistimiento antes de la notificación de la demanda, sin traba de litis, contestación, producción de prueba ni determinación judicial del derecho sustancial, por lo que sostiene que la base debe reflejar ese estadio procesal y solicita que se la considere de monto indeterminado o, subsidiariamente, que se la adecue a parámetros proporcionales a la actividad efectivamente desarrollada.
+Asimismo, cuestiona la incidencia de dicha base en la tasa de justicia y solicita que se suspenda su exigibilidad hasta tanto se resuelva el beneficio de litigar sin gastos o que se la readecúe conforme a la base que finalmente se determine.
+En segundo término, apela por altos los honorarios de la mediadora y de la letrada patrocinante. Respecto de la mediadora, cuestiona la regulación fijada en 31,31 JUS, destacando que su intervención se limitó a una única audiencia sin acuerdo y sin actividad posterior, por lo que solicita su reducción al mínimo legal o, subsidiariamente, a 8,67 JUS, con fundamento en el supuesto de desistimiento de la mediación y del reclamo previsto por el art. 31 del Decreto 600/2021.
+IV. Solución .
+IV.1. Tasa de justicia.
+Es atribución de esta Alzada examinar la procedencia del recurso de apelación, lo que debe hacerse oficiosamente y con prioridad respecto del análisis de la cuestión a decidir, en virtud del orden público de las reglas que gobiernan la materia (doc. Art. 242 del C.P.C.C.; Fassi, "Código Procesal...", 2ª ed., Tº III, pág. 392; causa 107.677 del 24-4-09; 107.973 del 11-6-09; 108.898 del 17-12-09 RSI 484/09; 108.899 del 17-12-09 RSI 483/09 de esta Sala III).
+Al respecto cabe recordar que la ley establece cuáles serán las resoluciones susceptibles de ser revisadas por recurso de apelación, así por regla son apelables todas las sentencias definitivas o de mérito; también las sentencias interlocutorias, que si bien no deciden sobre lo medular de la pretensión, si lo hacen sobre una incidencia previa con bilateralidad; por último las providencias simples pueden ser apelables si causan un gravamen que no puede ser reparado por la sentencia definitiva -también llamados autos definitivos- (conf. Camps, Carlos Enrique, Código Civil y Comercial de la Provincia de Buenos Aires, anotado concordado y comentado, Tomo I, Buenos Aires, De Palma, 2004, pág. 440, causa SI 88889021, r.i. 235/20 del 24/07/2020 de esta Sala III).
+En cuanto a las providencias simples resulta jurisprudencia inveterada que aquellas que disponen una intimación u ordenan un traslado no causan el gravamen irreparable que autorice la apelación (Conf. Camps, Carlos Enrique, obra y págs. citadas).
+De allí que, si bien el principio general es la universalidad de la apelación, el auto que en la especie se pretende apelar -que dispone una intimación- claramente no reviste el carácter de sentencia ni de auto definitivo, por lo cual, por su naturaleza, se encuentra excluido de la vía intentada (art. 242 inc. 3 del CPC, Conf. causas SI-22811-2013 R.I. nº 421, A-22754 R.I. 596/15 de la Sala IIIª; causa D 295/2005, R.I. 324/2016, causa SI 27905/11, r.i. 157/20, del 12/06/2020 causa SI 88889021, r.i. 235/20 del 24/07/2020 de esta Sala III).
+Así, por más trascendente que resulte para la parte el decreto que en su opinión la agravia y tiene error, no puede utilizar la apelación contra él (art. 242 inc. 3 del CPC, Conf. causas SI-22811-2013 R.I. nº 421, A-22754 R.I. 596/15 de la Sala IIIª; causa D 295/2005, R.I. 324/2016, causa SI 27905/11, r.i. 157/20, del 12/06/2020 causa SI 88889021, r.i. 235/20 del 24/07/2020 de esta Sala III, de esta sala III, arts. 239, 240, 242 inc. 3 y 248 del C.P.C.C., 18 CN).
+Por lo expuesto, corresponde declarar mal concedido el recurso interpuesto contra la intimación al pago de la tasa de justicia de fecha 05/02/2026 (art. 242 CPCC). Lo que así se decide.
+IV.2. Base regulatoria.
+Ahora bien, en cuanto a la base regulatoria, cabe poner de relieve que, habiendo concluido el presente juicio por el desistimiento del derecho y del proceso efectuado por la accionante en fecha 04/02/2026; a fin de determinar el valor del pleito resulta aplicable el art. 25 de la ley 14.967.
+Es que dicho articulo es sumamente claro al disponer que "en los modos anormales de terminación del proceso, la cuantía del asunto o monto del juicio a los fines arancelarios, será el total reclamado en la demanda o reconvención incluyendo los intereses [.]".
+Por lo tanto, toda vez que el presente juicio concluyó como se dijo, por el desistimiento del proceso, no corresponde hacer lugar al agravio vertido por el recurrente en el cual postula que se considere a éste como un proceso de monto indeterminado o, subsidiariamente, que sea adecuada a parámetros proporcionales a la actividad efectivamente desarrollada, en tanto el presente proceso tiene un valor pecuniario determinado y una normativa especifica aplicable que no puede ser dejada de lado.
+En consecuencia, la queja no puede prosperar y corresponde confirmar la decisión apelada en cuanto fijó la base regulatoria en la suma de $20.241.812,70. Lo que así se decide.
+IV.3. Determinación de los honorarios de la Dra. Bongiorno .
+En atención al monto del juicio ($ 20.241.812,70 ), al mérito, extensión y eficacia de los trabajos realizados, las etapas efectivamente realizadas y considerando la época en la que fueron llevados a cabo, fíjense los honorarios de la DRA. MARIA LAURA BONGIORNO (T XXV F 251 CASM), patrocinante de la parte actora - en las sumas de 47,94 JUS, confirmándose por no ser altos los que le fueran regulados con fecha 05/02/2026 ( Ac.4200/25 SCBA arts. 15, 16, 21, 23, 28, de la ley 14.967; art. 7 CCyC; SCBA Ac. 73016 del 08/11/2017).
+IV.4. Determinación de los honorarios de la mediadora.
+Cabe recordar que los honorarios de los profesionales intervinientes en un proceso judicial se encuentran vinculados a la realidad económica en juego en la causa pertinente.
+Es que la insoslayable obligación de considerar la real envergadura de los derechos juzgados, habida cuenta de que el significado monetario del juicio delimita el continente patrimonial de las retribuciones, constituye la forma más idónea de respetar el principio de justicia conmutativa y del derecho de propiedad garantizado por el art. 17 de la Constitución Nacional (Hitters - Cairo, "Honorarios de Abogados y Procuradores", Lexis Nexis, 2007, 1°ed., pág. 175).
+Ahora bien, tratándose de la regulación de honorarios de auxiliares de justicia, o bien del abogado mediador -por su intervención en la etapa obligatoria previa al trámite de la acción judicial-, sus emolumentos no solo deben adecuarse al monto del juicio, sino también a la regulación practicada a favor de los letrados que asistieron a las partes a lo largo del todo el proceso, como así también al mérito de la labor realizada, la jerarquía intrínseca y la complejidad de la cuestión (conf. CSJN 28.4.72, LL. 149-568; conf causas nº 46.467 del 18.2.88; nº 46.709 r.i. 67/88; nº 66.652 r.i. 519/96; nº 84.256 r.i. 736/00; nº 88.285 r.i. 465/01; nº 84.562 r.i. 221/2000 nº 76.991 r.i. 683/2000 entre otras de Sala II, conf. causa nº 109.451 r.i. 23/2011, causa D-26208-2002 r.i. 7/2012 de la Sala III), de lo contrario los montos preestablecidos o convenidos pueden ser confiscatorios en tanto denoten una manifiesta desproporción entre los mismos y la cuantía de los intereses debatidos, la labor profesional realizada, o en su relación con los correspondientes a los letrados que actuaron a lo largo de todo el proceso (conf. arg. CSJN, Fallos, 261-223, 280-48, causas 51.562 del 13-6-91 de Sala II; SI-15232-2014 r.i. 251/2015 de la Sala III; doctr. art 1255 CCyC; doctr. art. 18 CN).
+De ahí que, la aplicación aislada de la medida referida en el art. 31 de dec. 600/21 -norma aplicable en función de lo dispuesto por el art. 7 CCyC y lo resuelto por la SCBA en el Ac. I-73016 del 08/11/2017- que sólo tiene en cuenta el monto reclamado -o el de la sentencia o acuerdo- incluyendo capital e intereses para determinar los honorarios del mediador, configura, en la especie, un desequilibrio en relación a la retribución que les corresponde a los letrados actuantes en autos -en función del mérito de los trabajos desarrollados y el interés económico en juego-, lo que afecta la economía/equilibrio del proceso entendido como un sistema (art. 18 CN).
+Por lo que la tarifación legal del dec. 600/21, en casos como el de autos -donde se verifica la desproporción referida-, debe ceder hasta el punto de llegar a un monto que guarde relación con la importancia de la labor realizada y con la retribución que les corresponde a los letrados intervinientes en el proceso conforme la aplicación de las pautas que establece su ley arancelaria (conf. causa SCBA Q-75064 del 06/11/2019; Cám. Segunda Civ. y Com. La Plata Sala II, causa n°120368, r.s. 261 del 23/11/2016; conf. art 10 CCyC; doctr. art. 1255 CCyC; art. 18 CN; causa SI-26009/14 r.h. 69/17, de esta Sala III).
+Así, el primer párrafo del art. 1255 del CCyC establece que "Las leyes arancelarias no pueden cercenar la facultad de las partes de determinar el precio de las obras o de los servicios. Cuando dicho precio debe ser establecido judicialmente sobre la base de la aplicación de dichas leyes, su determinación debe adecuarse a la labor cumplida por el prestador. Si la aplicación estricta de los aranceles locales conduce a una evidente e injustificada desproporción entre la retribución resultante y la importancia de la labor cumplida, el juez puede fijar equitativamente la retribución".
+De lo que se desprende de su propia redacción que su alcance no solo resulta comprensivo de las remuneraciones que correspondan a labores que tienen su origen en contratos -obras-, sino también de aquellas que provengan de la prestación de servicios (conf. "Código Civil y Comercial de la Nación comentado: Tomo VI" dir. Lorenzetti Ricardo Luis, 1ra ed., Santa Fe: Rubinzal-Culzoni, 2015, pág. 777/781).
+Por lo que, al tratarse el presente de la remuneración de un servicio -mediación obligatoria- en donde los montos mínimos de regulación de honorarios se encuentran normados por el dec. 600/21, el art. 1255 CCyC resulta aplicable.
+En este sentido, el Máximo Tribunal Provincial sostuvo la aplicación del art. 1255 del CCyC, señalando que "cuando el precio de los servicios deba ser establecido judicialmente sobre la base de la aplicación de leyes arancelarias, su determinación debe adecuarse a la labor cumplida por el prestador. Si la aplicación estricta de los aranceles locales conduce a una evidente e injustificada desproporción entre la retribución resultante y la importancia de la labor cumplida, el juez puede fijar equitativamente la retribución", agregando que "de advertirse esa desproporción, el juez debe adecuar los honorarios a las pautas de justicia y razonabilidad que se desprenden del art. 28 de la Constitución Nacional" (causa SCBA Q-75064 del 06/11/2019).
+Así las cosas, sentado que la aplicación del dec. 600/21 para regular los honorarios de los mediadores debe armonizarse con los principios orientadores en materia de honorarios profesionales (atinentes a la proporcionalidad de los emolumentos judiciales respecto a distintas variables) sostenidos tanto por la Corte Suprema de Justicia de la Nación, la Suprema Corte de Justicia Provincial, como por este Tribunal en numerosas ocasiones (ver CSJN Fallos: 261-223, 280-48 y CSJN 28.4.72, LL. 149-568; causa SCBA Q-75064 del 06/11/2019; y causas D-26208-2002 r.i. 7/2012 y SI-15232-2014 r.i. 251/2015, entre muchas otras de esta Sala III), se advierte que de la aplicación de tal conjunto de reglas y razones, los estipendios regulados en la instancia de origen a favor de la mediadora resultan altos, ello considerando el monto del juicio, los trabajos efectivamente cumplidos y los honorarios regulados a los letrados que actuaron en el juicio.
+Por ello, se reducen los honorarios de la mediadora MARIA JIMENA LOPEZ, en la cantidad de 22 JUS, por ser altos los que le fueran regulados el 05/02/2026; (art. 1255 CCyC; doctr. art. 18 CN; conf. causa SCBA Q-75064 del 06/11/2019). Lo que así también se decide.
+Regístrese y devuélvase al Juzgado de origen.
+```
+
+---
+
 ### ACT-23-10-2026. [RR-1065-2026] TEXARA &amp; CO S.R.L. S/ QUIEBRA(PEQUEÑA)
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN ISIDRO
 - **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
@@ -2965,6 +3125,63 @@ Firme la presente y a efectos de no tomar en cuenta la expresión de agravios al
 ---
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - SAN MARTIN (`idOrganismo: 689`)
+
+### ACT-21-10-2026. [RR-458-2026] S., M. L. C/ N., L. A. S/ LIQUIDACION DE REGIMEN PATRIMONIAL DEL MATRIMONIO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - SAN MARTIN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `88699`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-458-2026`
+- **Código de Acceso SCBA**: `AF5ABE20`
+- **Firmantes**: Funcionario: FEDE Claudio Hugo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 458-2026 - Código acceso: AF5ABE20 - PUBLICO | Registrado por: LLAMBIAS Martín Arnaldo - Fecha registración: 21/10/2026 11:04
+
+#### Texto Íntegro
+```text
+Causa nº 88699
+" SCHEFER MARIA LUISA C/ NEGRIN LUIS ALBERTO S/ LIQUIDACION DE REGIMEN PATRIMONIAL DEL MATRIMONIO
+SCH88699/jb/jf1sm
+General San Martín.-
+AUTOS Y VISTOS :
+No habiendo el apelante (demandado Sr. Negrin Luis Alberto) expresado agravios y estando vencido el plazo que otorga el art. 254 del CPCC, se declara desierto el recurso interpuesto con fecha 03/09/2026 (art. 261 del cód. cit.).-
+De la expresión de agravios de fecha 25/09/2026 presentado por la parte actora, traslado por el término de 5 (cinco) días (arts. 260 y 262 C.P.C.C.). REGÍSTRESE. NOTIFÍQUESE .-
+```
+
+---
+
+### ACT-21-10-2026. [RR-457-2026] SERRAL MARIA ANGELICA Y OTROS S/ SUCESION AB-INTESTATO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - SAN MARTIN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `88669`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-457-2026`
+- **Código de Acceso SCBA**: `8D65CEC2`
+- **Firmantes**: Funcionario: FEDE Claudio Hugo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 457-2026 - Código acceso: 8D65CEC2 - PUBLICO | Registrado por: LLAMBIAS Martín Arnaldo - Fecha registración: 21/10/2026 11:04
+
+#### Texto Íntegro
+```text
+Causa nº 88.669
+ser88669/jcc9
+" SERRAL, MARIA ANGELICA Y OTROS S/ SUCESION AB-INTESTATO "
+General San Martín,
+AUTOS Y VISTOS :
+La apelación subsidiaria concedida a la ex cónyuge de uno de los coherederos contra la providencia (con fecha 2/9/26), en virtud de la cual, revocándose por contrario imperio y en los términos del art. 238 del CPCC una providencia precedente que la tuvo por parte, la deja sin efecto teniéndola por presentada en carácter de acreedora y disponiendo el encauzamiento de una petición por la vía que corresponda.
+A través del memorial acompañado en oportunidad de interponer revocatoria (presentación electrónica del 8//26) y con referencia a los antecedentes del proceso, la fundamentación desplegada se dirige a señalar, principalmente, que no reviste calidad de acreedora ni ejerce acción personal alguna contra el acervo, sino que en calidad de cotitular, por mitades, de la indivisión post-comunitaria que recae sobre un bien ganancial no liquidado, su pretensión se ciñe a la partición de dicha indivisión en el presente sucesorio con sustento en lo normado en el art. 2336 del CCyC.
+Puntualiza, que su parte sólo procura disolver su participación en el capital comanditado de una Farmacia en virtud del carácter de bien ganancial al momento del fallecimiento del causante, perteneciendo un 50% a su parte y el otro 50% a los herederos de su ex-cónyuge y que habiendo fallecido éste con posterioridad, es el juez del sucesorio quien tiene competencia para realizar la partición de los bienes respecto de los cuales subsiste la comunidad, constituyendo un presupuesto ineludible para que pueda desvincularse de la titularidad del capital comanditado y acceder al beneficio jubilatorio.
+Destaca también, que la indivisión post-comunitaria se produjo cuando la sociedad conyugal se disolvió por sentencia de divorcio anterior y no se realizó la liquidación de los bienes, afirmando de ese modo - con cita de doctrina y precedentes jurisprudenciales que entiende aplicables - que el iudicante de grado resulta competente para practicar la partición requerida respecto de un bien ganancial cuya indivisión subsiste y que rechazar el pedido de partición implica negar la vía legal correspondiente y un dispendio jurisdiccional, afirmando al respecto, que lo pretendido resulta viable, atento que habiéndose dictado declaratoria queda garantizado el contradictorio y que los derechos de eventuales acreedores se hallan resguardados.
+A su turno, en su contestación (presentación electrónica del 10/9/26), uno de los coherederos expone en respuesta, que en virtud del origen temporal de la indivisión, con motivo del divorcio en vida de ambos cónyuges y el carácter restrictivo del fuero de atracción, sumado a la complejidad societaria, la pretensión excede el marco de la sucesión y que admitir lo requerido, implicaría desnaturalizar el presente proceso universal.
+CONSIDERANDO :
+Delimitado la cuestión sometida al análisis de este Tribunal (art. 272 del CPCC), ésta se origina en el marco de un proceso con declaratoria de herederos ya dictada (resolución del 16/7/25) e inscripción de la misma ya ordenada (con fecha 11/08/25), en relación a un bien denunciado como integrante del acervo y en cuyo contexto.
+Posteriormente (presentación electrónica del 11/08/26), realiza su intervención la ahora recurrente, poniendo de manifiesto la misma situación que ahora se expone en el recurso y habiéndosela inicialmente tenido por parte (providencia del 20/8/26) y requiriéndose en el mismo acto que se acompañe documentación vinculada a la sociedad a la que se hacía referencia, no obstante luego de una nueva intervención de la misma interesada (con fecha 27/8/26), solicitando se aclare lo exigido en atención a los alcances de su requerimiento, se culmina finalmente en la providencia cuya disposición es ahora materia de tratamiento.
+Explicitado así el tema a resolver, y en situaciones análogas a la aquí planteada, se ha expresado que, durante la vigencia de la comunidad de bienes, existe un régimen de administración separada con división de responsabilidades y de deudas (art. 467, CCCN), donde cada uno de los cónyuges responde frente a los terceros -salvo las excepciones que el mismo código señala- por las deudas que contrae tienen como prenda común frente a a acreedores a sus bienes propios y los gananciales de su titularidad o administración, sin que se pueda ir contra el patrimonio propio ni ganancial de titularidad o administración exclusiva del otro cónyuge. La comunidad se extingue por muerte, anulación de matrimonio, divorcio, separación judicial de bienes o modificación del régimen matrimonial convenido (art. 475, CCCN). Y extinguido el régimen por muerte de uno de los cónyuges, o producido el fallecimiento mientras subsista la indivisión postcomunitaria, se aplican las reglas de la indivisión hereditaria (art. 481, CCCN). CC0201 LP 136884 1 255 I 11/07/2024 Carátula: OBREGON CESAR AUGUSTO S/ INC DE REALIZACIÓN DE BIENES MAT 7283, Magistrados Votantes: Sosa Aubone-Lopez Muro.
+En la misma línea argumental, se ha señalado que, la liquidación de los bienes que constituyen la sociedad conyugal disuelta requiere una consideración unitaria y universal, como masa única de bienes. La naturaleza de esa comunidad variará según el motivo de la disolución del vínculo. Cuando ocurre por divorcio o nulidad de matrimonio, la liquidación no supone la alteración de las relaciones que la titularidad original sobre los bienes de la sociedad conyugal permitió a cada cónyuge oponer frente a terceros como título suficiente para administrar y disponer. Pero muy distinto es el caso de la disolución por muerte de uno de los cónyuges. En este supuesto se altera la relación de titularidad originaria que el cónyuge premuerto investía respeto de los bienes y derechos que, los que, como es natural, se transmiten por sucesión universal. Los bienes gananciales integran el acervo sujeto a liquidación y la comunidad ahora vincula a los herederos del premuerto con la supérstite. Se forma allí una masa única integrada por los bienes propios del premuerto y por la totalidad de los gananciales, cualquiera fuere el cónyuge que los hubiese adquirido CC0102 MP 149430 65-S S 22/03/2019 Juez MONTERISI (SD) Carátula: IACOVELLI, LUISA Y OT. C/ SUCESORES DE SAGRARIA, MARISA E. S/ ESCRITURACIÓN Magistrados Votantes: Monterisi-Loustaunau Tribunal Origen: CC0102MP
+Finalmente, nuestro Superior Tribunal Provincial, se ha pronunciado en similar línea argumental, al puntualizar que, ante el conflicto de competencia suscitado entre el juez que decidió la disolución de la sociedad conyugal y el del sucesorio, para entender en la pretendida ejecución del convenio a que arribaron los esposos para liquidar la sociedad conyugal, es pertinente ponderar que, si bien el causante no ha sido -estrictamente- demandado, resultaba la contraparte obligada en su condición de integrante de la sociedad conyugal que se pretende liquidar, y en tanto no surge de autos que su sucesorio haya concluido por medio de la partición de los bienes dejados por el de cujus, no se advierte el cese del fuero de atracción que ejerce el mismo, conforme lo disponen los arts. 2335 y 2336 del C.C. SCBA LP Rc 121019 I 28/12/2016, Carátula: G. ,B. A. s/ Ejecución de sentencia, Magistrados Votantes: de Lázzari-Kogan-Negri-Soria).
+De este modo y a la luz de las pautas jurisprudenciales reseñadas, cabe concluir, que existiendo una indivisión postcomunitaria con motivo de la disolución de un vínculo conyugal - por divorcio - pero que subsiste al momento del fallecimiento de uno de los integrantes de dicha sociedad, ciertamente debe tenerse por operado lo dispuesto en el art. 2336 del CCyC al existir una partición pendiente de realizar, para la cual, el aquí presentante debe ser valorado como parte a dichos fines y no como acreedor al no tratarse estrictamente de una acreencia contra el causante.
+POR ELLO , con el alcance indicado, se revoca la providencia recurrida. Sin imposición de costas de Alzada atento la naturaleza interpretativa de la cuestión (art. 68 2° pte del CPCC). REGISTRESE. DEVUELVASE .
+```
+
+---
 
 ### ACT-21-10-2026. [RR-456-2026] MICROCIRUGIA DEL NOROESTE S.A.S. C/ PREDASSI MARCELO FABIAN Y OTRO/A S/ INCIDENTE ART.250
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - SAN MARTIN
@@ -4243,6 +4460,71 @@ Consecuentemente, en virtud de las consideraciones que anteceden, SE RESUELVE :
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN MARTIN (`idOrganismo: 2067`)
 
+### ACT-23-10-2026. [RR-440-2026] M. M. D. C/ R. N. N. S/ ALIMENTOS (EXPEDIENTE DIGITAL)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN MARTIN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `88824`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-440-2026`
+- **Código de Acceso SCBA**: `8F4C4B7A`
+- **Firmantes**: Funcionario: ALONSO Ricardo Daniel JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 440-2026 - Código acceso: 8F4C4B7A - PUBLICO | Registrado por: GORGONE Bruno José - Fecha registración: 23/10/2026 14:22
+
+#### Texto Íntegro
+```text
+Causa Nro. 88824 Sala Tercera
+JUZGADO DE FAMILIA Nº 4 - SAN MARTIN juzfam4-sm@jusbuenosaires.gov.ar
+" MASSET MELINA DENISE C/ ROMERO NORBERTO NICOLAS S/ ALIMENTOS (EXPEDIENTE DIGITAL) " 3
+General San Martín.-
+VISTOS Y CONSIDERANDO:
+I. Vienen las presentes actuaciones a fin de resolver el recurso de apelación interpuesto el 03/09/2026, por la parte demandada, por considerar elevados los honorarios regulados a los Dras. Campanella y Lencina, ex letradas de las partes que intervinieron hasta el convenio -no homologado- oportunamente presentado en autos.-
+II. Que respecto a los agravios del recurrente, en torno a que las tareas de las mencionadas profesionales habrían sido inoficiosas (art. 30 de la Ley 14.967), cabe señalar que si bien es cierto que el acuerdo acompañado con fecha 13/04/2021 no resulto homologado judicialmente, habiendo sido -parcialmente- observado por la Asesoría actuante y paralizadas las actuaciones luego de ello, la realidad difiere sustancialmente a lo manifestado.-
+En este sentido y conforme las constancias obrantes en la presente causa, el accionado hasta noviembre de 2025 se encontraba abonando la cuota alimentaria pactada, por lo que corresponde presumir que dicha actuación fue útil y necesaria en tanto las partes estuvieron de hecho cumpliendo el acuerdo por ellos mismos suscripto y, por lo tanto, las abogadas que los patrocinaron merecen su retribución; ello, no obstante, a la pertinente adecuación del quantum de los estipendios regulados.-
+Sobre el particular, se ha dicho que: " El artículo 30 del decreto ley arancelaria -al igual que la norma del artículo 158 de la ley 5177 que fuera sustituída por el mismo- determina que se excluya toda retribución por las labores notoriamente inoficiosas, siguiendo una pauta similar a la que, en materia de costas, estatuye el artículo 77, tercer apartado, del Código Procesal. Entendiéndose por inoficiosa, la tarea inútil, superflua, inconducente, etc.. El calificativo de notoria alude, de su lado, el carácter de fehaciente, manifiesto o, lo que es el mismo, indudable " (JUBA, CC0201 LP 112589 RSD-50-10 S 22/04/2010), lo que no sucede en la especie.-
+Asimismo, es importante destacar que el impulso del proceso recae particularmente sobre los litigantes y no solo sobre sus letrados; por lo que no corresponde atribuir a estos últimos la responsabilidad exclusiva por la falta de homologación del acuerdo; máxime, teniendo en cuenta el carácter de patrocinante que detentaban.-
+A mayor abundamiento, se recuerda que el honorario del abogado integra el concepto global de propiedad privada y está protegido por todas las garantías que la ley fundamental prevé para ella. Constituye la retribución reconocida al profesional por la actividad intelectual que desarrolla y que se traduce en el derecho a su percepción (Hitters Juan Manuel - Cairo Silvina, "Honorarios de abogados y procuradores", Ed. LexisNexis, Año 2007, pág. 31).-
+En este entendimiento, corresponde rechazar el planteo formulado por no darse el supuesto contemplado en la norma arancelaria citada, lo que así se RESUELVE .-
+III. En cuanto al recurso de apelación por altos, en atención a la labor desarrollada e importancia del asunto, modificase la regulación de fecha 31/08/2026, disminuyéndose los honorarios fijados a la Dra. NOELIA GISELLE CAMPANELLA , por su actuación como letrada de la parte actora hasta el convenio de fecha 13/04/2021, a la suma equivalente a QUINCE (15) JUS ARANCELARIOS ; y a la Dra. FLAVIA VANESA ALEJANDRA LENCINA , por su actuación como letrada de la parte demandada hasta el convenio de fecha 13/04/2021, a la suma equivalente a DIEZ (10) JUS ARANCELARIOS .-
+IV. A todos ellos, se deberá adicionar el aporte de Ley e IVA si correspondiere (arts. 1, 15, 16, 21, 28, 39 y concs. de la Ley 14.967 y Resolución RP 873/26). REGÍSTRESE. DEVUÉLVASE.-
+```
+
+---
+
+### ACT-23-10-2026. [RR-439-2026] B. R. R. S/ SUCESION AB INTESTATO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN MARTIN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `88768`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-439-2026`
+- **Código de Acceso SCBA**: `DCB48F9A`
+- **Firmantes**: Funcionario: ALONSO Ricardo Daniel JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 439-2026 - Código acceso: DCB48F9A - PUBLICO | Registrado por: GORGONE Bruno José - Fecha registración: 23/10/2026 14:21
+
+#### Texto Íntegro
+```text
+Causa Nº 88768 Sala Tercera.
+-60397- JUZGADO EN LO CIVIL Y COMERCIAL Nº 1 - SAN MARTIN juzciv1-sm@jusbuenosaires.gov.ar
+" BENITO ROBERTO RICARDO S/ SUCESION AB INTESTATO " 3
+Gral. San Martín.-
+VISTOS :
+El recurso de apelación interpuesto el 09/03/2020 por la Dra. Peralta -por derecho propio-, contra la regulación de honorarios del 20/11/2019, por considerar bajos sus emolumentos y cuestionando además la base regulatoria utilizada.-
+Y CONSIDERANDO :
+I. Sostiene la apelante en lo principal que sus honorarios fijados en la suma de $13.337 resultan sumamente exiguos en consideración a las tareas realizadas en la causa, la composición del acervo hereditario y la duración del proceso.-
+Asimismo, acompaña la valuación fiscal de ambos inmuebles denunciados en la causa como pertenecientes al causante y actualizadas a la fecha de presentación del recurso.-
+II. Delimitada así la cuestión a resolver, en primer término, cabe advertir que la regulación recurrida fijó los honorarios por la inscripción de la declaratoria de herederos del 23/03/2018 únicamente en relación al 50% del inmueble con matricula N° 1306/3 (localidad Saenz Peña); por lo que corresponde desestimar el planteo de la letrada respecto al valor del otro bien (localidad Villa Lynch), toda vez que sus eventuales estipendios serán regulados al momento de efectuarse su inscripción.-
+Por otro lado y c onforme lo dispuesto por la S.C.B.A. en "Morcillo, Hugo Héctor c/ Provincia de Bs. As. s/ Inconst. Decr.-Ley 9020" de fecha 08/11/2017, la remuneración por la labor de los abogados en los juicios se determina teniendo en cuenta las etapas cumplidas en las que el proceso se divide, resulta necesario, ante la entrada en vigor de un nuevo ordenamiento arancelario, discriminar aquellas pasadas durante la vigencia del régimen anterior de las que se hicieron a partir de la operatividad del nuevo sistema.-
+En similar sentido se ha expedido la Sala Segunda de la Cámara Segunda de Apelación en lo Civil y Comercial de La Plata, causa n° 122.800, del 6 de noviembre de 2.017, " .los trabajos profesionales realizados durante la vigencia de la anterior normativa quedan bajo su órbita." y que ". a fines de determinar la legislación aplicable para la regulación de honorarios profesionales de abogados, ha de estarse al régimen legal vigente al momento que se desarrolló la tarea profesional (art. 7 de CCC y fallos referenciados)".-
+En autos, teniendo en cuenta la clasificación de tareas aprobada, toda la intervención en el proceso de la Dra. Peralta, tanto la mitad de la primera etapa (demanda del 28/12/2004), como la segunda etapa (D.H. del 14/12/2005), hasta su revocación de patrocinio del 15/03/2010, fue efectuada bajo la vigencia del Decreto Ley 8904/77.-
+III. Ahora bien, el artículo 35 segundo párrafo de la norma mencionada establece que: " Cuando constare en el proceso un valor por tasación, estimación o venta superior a la valuación fiscal, dicho valor será considerado a los efectos de la regulación ".-
+Que esta Sala en reiteradas oportunidades se ha expedido al respecto (causas n° 67.675 del 27/2/2014 y n° 84596 del 19/11/2024, entre otras), disponiendo que el valor por tasación, estimación o venta superior a la valuación fiscal únicamente prevalecerá en el supuesto de que constare en el proceso con anterioridad, es decir, cuando ello derivaba de actos propios y específicos del proceso sucesorio, pero no en la medida en que esto se realizara con la única finalidad de aumentar la base regulatoria.-
+En este sentido, la aplicación sólo cede en situaciones excepcionales, cuando constare en el proceso un mayor valor por tasación, estimación o valor de venta, lo que debe interpretarse en el sentido de que dicha tasación la hubieran efectuado los sucesores o herederos, o que por alguna otra circunstancia se encontraba agregada al proceso con anterioridad a la regulación de los honorarios y además, debidamente aprobada (Hitters, Juan Manuel - Cairo, Silvina; "Honorarios de Abogados y procuradores"; Ed. LexisNexis; Bs. As., 2007; pág. 425).-
+Sentado ello y de una compulsa exhaustiva de las actuaciones, se observa que luce agregado a fs. 111 por la cónyuge supérstite para la audiencia celebrada el 11/03/2008 una tasación del inmueble objeto de autos, cuyo valor para la venta fue estimado por una inmobiliaria entre US$ 16.000 y US$ 18.000 (se adjunta a la presente resolución en PDF).-
+Así las cosas, existiendo un valor por tasación superior a la valuación fiscal, agregado en autos por la cónyuge supérstite del causante con anterioridad a la regulación de honorarios, corresponde considerarla a los fines arancelarios (conf. art. 35, 2° párrafo del Dec. Ley 8404/77); y por lo tanto, hacer lugar al recurso de apelación por bajos presentado por la Dra. Peralta, disponiendo la pertinente adecuación de sus honorarios.-
+IV. Por todo lo expuesto, el Tribunal RESUELVE: 1°) HACER LUGAR al recurso de apelación deducido, por los argumentos aquí señalados. 2°) En atención a la labor desarrollada e importancia del asunto, modificase la regulación de fecha 20/11/2019, elevándose los honorarios fijados la Dra. LIDIA HORTENSIA PERALTA , por su actuación en la mitad de la primera y segunda etapa del proceso y hasta su revocación de patrocinio del 15/03/2010, a la suma de PESOS QUINIENTOS MIL ($500.000) , debiéndose adicionar el aporte de Ley e IVA si correspondiere (arts. 1, 15, 16, 28, 35 y concs. de la Ley 14.967 y Resolución RP 873/26). REGISTRESE. DEVUELVASE.-
+```
+
+---
+
 ### ACT-23-10-2026. [RR-438-2026] M. B. D. A. C/ B. D. Y OTRO/A S/ COBRO EJECUTIVO DE ALQUILERES
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - SAN MARTIN
 - **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
@@ -4836,6 +5118,62 @@ IV. Por todo ello, y de conformidad con lo dispuesto por los artículos citados,
 ---
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - LA MATANZA (`idOrganismo: 1420`)
+
+### ACT-23-10-2026. [RR-499-2026] DAP COOPERATIVA DE CREDITO, CONSUMO Y SERVICIOS SOCIALES LIMITADA C/ DISANTE JORGE LUIS S/ COBRO SUMARIO SUMAS DINERO (EXC. ALQUILERES, ETC) (109)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - LA MATANZA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `LM-2368-2023`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-499-2026`
+- **Código de Acceso SCBA**: `6028D3D3`
+- **Firmantes**: Funcionario: TARABORRELLI José Nicolás JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 499-2026 - Código acceso: 6028D3D3 - PUBLICO | Registrado por: TORANZO ORUÉ Valeria Graciela - Fecha registración: 23/10/2026 14:10
+
+#### Texto Íntegro
+```text
+"DAP COOPERATIVA DE CREDITO, CONSUMO Y SERVICIOS SOCIALES LIMITADA C/ DISANTE JORGE LUIS S/ COBRO SUMARIO SUMAS DINERO (EXC. ALQUILERES, ETC) (109)"
+LM-2368-2023
+JUZ. CIV. Y COM. N° 4
+San Justo, en la fecha de firma digital del presente.
+Los Jueces de la Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de la Matanza - Sala Primera - celebran Acuerdo Ordinario para dictar pronunciamiento en los presentes actuados, resolviéndose en consecuencia que:
+AUTOS Y VISTOS: La declaración de incompetencia del sentenciante de grado con fecha 9/9/2026, el recurso de revocatoria con apelación en subsidio de igual fecha por la parte actora, el rechazo del primer remedio intentado y su concesión en relación, los agravios que giran en torno a dicha incompetencia, argumentando la parte que " Es de público conocimiento que son innumerables los casos en que una persona tiene registrado su domicilio en una jurisdicción y vive en otra, no habiendo realizado el trámite de cambio de domicilio correspondiente. Y de las constancias de la causa, no se desprende que se encuentre debidamente acreditado en autos que el ejecutado se encuentre actualmente en el domicilio registrado sito en José León Suarez 2262 de la Ciudad Autónoma de Buenos Aires. De hecho, la suscripta ha efectuado las averiguaciones pertinentes al domicilio en cuestión y el mismo corresponde a una empresa denominada TAXIS OBAMAX S.A., conforme foto y constancia adjunta. La resolución recurrida resulta claramente prematura (.) A tal fin por ejemplo, se podría disponer el libramiento de oficio a la Policía de la Ciudad de Buenos Aires (empleador del demandado), para que informe el domicilio registrado por el accionado en su legajo y librarse mandamiento de constatación al domicilio José León Suarez 2262 de la Ciudad Autónoma de Buenos Aires para que el Oficial interviniente constante si el ejecutado vive allí e informe las personas que lo habitan "; y
+CONSIDERANDO: Que cabe traer a la memoria que la Corte Suprema de Justicia Nacional ha dejado sentado en los autos "Compañía Financiera Argentina SA c/ Monzón Mariela Claudia s/ ejecutivo" con fecha 10 de diciembre de 2013 que "...2°) Que el artículo 36, último párrafo, de la ley 24.240, texto según la reforma operada por la ley 26.361, establece que "será competente, para entender en el conocimiento de los litigios relativos a contratos regulados por el presente artículo, siendo nulo cualquier pacto en contrario, el tribunal correspondiente al domicilio real del consumidor". 3°) Que la mencionada norma, encabeza el capítulo referido a las operaciones financieras para consumo y de crédito para consumo, sin efectuar distinción ni exclusión de ninguna especie. 4°) Que según inveterada doctrina de esta Corte, cuando una ley es clara y no exige mayor esfuerzo interpretativo, no cabe sino su directa aplicación, con prescindencia de las consideraciones que excedan las circunstancias del caso expresamente contempladas por la norma (Fallos: 324:291, 1740 y 3143; 328:1774; 330:4476 y 4988, entre mucho otros). 5°) que esta Corte Suprema debe resolver según las circunstancias existentes en la causa y dentro del limitado marco de conocimiento en que se dirimen las contiendas de competencia. 6°) que, sobre tales bases, las circunstancias personales de las partes, en cuanto coinciden con la formulación normativa que corresponde a los sujetos -consumidor y proveedor, respectivamente- de la relación de consumo (arts. 1°, 2° y 3° de la ley 24.240, texto según ley 26.361) permiten inferir que el negocio jurídico concertado entre ellas queda comprendido en la descripción de la norma bajo análisis. (.) 8°) Que, bajo tales circunstancias, por aplicación de la regla contenida en el art. 36 de la ley 24.240, texto según ley 26.361, resulta competente para conocer en las actuaciones, el juez con jurisdicción sobre el domicilio real de la demandada ...".
+Qué asimismo, es criterio reiterado de este Tribunal que en aquellos supuestos donde pueda presumirse la existencia de una relación de consumo entre las partes, la ley 24240 y sus modificatorias debe ser aplicada por todo juzgador; pues la misma se impone como cuestión de orden público no siendo materia disponible para las partes.
+Ahora bien, conforme las constancias de autos luego de remitida las actuaciones a un proceso de conocimiento conforme sentencia dictada por esta Sala, realizado el traslado de la demanda con fecha 08/07/2024, declarada la rebeldía del accionado Disante con fecha 12/11/2025 y notificada la misma, la parte actora peticionó que se declare la cuestión de puro derecho y se dicte sentencia. Sin perjuicio de ello, corrida vista a la Fiscalía departamental, la misma con fecha 12/08/2026 solicitó se recabe información a través de RENAPER a los fines de obtener el último domicilio del accionado.
+Por lo cual, en función de lo informado por dicho organismo como domicilio real del accionado sito en José León Suarez 2262 Mataderos, el día 04/09/2026 la Fiscalía dictaminó que el magistrado: " debería revisar su competencia en atención al domicilio que surge de las constancias de autos" . Es así que el día 09/09/2026 el sentenciante de grado decide declararse incompetente y archivar las actuaciones; circunstancia que fuera motivo de agravio por la parte accionante.
+Así las cosas, sin perjuicio de la vigencia de la doctrina citada, este Tribunal comparte el razonamiento plasmado por la accionante en su escrito de agravios en cuanto considera que la resolución atacada resulta en cuanto menos prematura. En autos, aún no se han llevado a cabo medidas a los efectos de tomar conocimiento del real domicilio del demandado, pues nótese que más allá de lo informado por la secretaria del juzgado a partir de la plasmado en Renaper, no se han librado otros oficios u ordenado otras medidas que permitan verificar o dar certeza respecto al domicilio del Sr. Disante.
+En consecuencia, toda vez que la tutela de los derechos de los consumidores y usuarios debe conjugarse con el efectivo acceso irrestricto a la justicia y la tutela judicial continua y efectiva de quien demanda (art. 18 de la C.N.; 15 Const. Pcial), ha de revocarse la resolución apelada por prematura.
+En suma por dichas consideraciones legales, el Tribunal RESUELVE: 1°) HACER LUGAR al recurso de apelación subsidiariamente interpuesto y revocar la resolución dictada el 09/09/2026 por prematura 2°) SIN COSTAS EN LA ALZADA , atento a la naturaleza de la cuestión, a la falta de contradictor y la forma en que se resuelve (art. 68, segundo párrafo, CPCC). REGISTRESE, NOTIFIQUESE la presente resolución por Secretaría, en los términos del artículo 10 del Reglamento para las presentaciones y las notificaciones por medios electrónicos, Anexo I, capítulo II del Acuerdo 4039 SCBA, a los domicilios electrónicos respectivos, los que se consignan seguidamente. Fecho, DEVUELVASE.
+27204038681@notificaciones.scba.gov.ar
+```
+
+---
+
+### ACT-23-10-2026. [RR-498-2026] B. M. D. S/ DETERMINACION DE LA CAPACIDAD JURIDICA
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - LA MATANZA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `3186`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-498-2026`
+- **Código de Acceso SCBA**: `52408268`
+- **Firmantes**: Funcionario: TARABORRELLI José Nicolás JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 498-2026 - Código acceso: 52408268 - PUBLICO | Registrado por: TORANZO ORUÉ Valeria Graciela - Fecha registración: 23/10/2026 14:10
+
+#### Texto Íntegro
+```text
+" BERNARDI MARIA DOLORES S/ DETERMINACION DE LA CAPACIDAD JURIDICA " N° 3186
+JUZ. DE FLIA. N°4
+San justo, en la fecha de firma digital del presente.
+Los Jueces de la Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de la Matanza -Sala Primera- celebran Acuerdo Ordinario para dictar pronunciamiento en los presentes actuados, resolviéndose en consecuencia que:
+A UTOS, VISTOS y CONSIDERANDO:
+El estado en que se encuentran las presentes actuaciones, la naturaleza de la cuestión "sub exámine" y advirtiéndose que para resolver el recurso incoado se necesitaran los obrados en formato papel, este Tribunal RESUELVE: SOLICITAR al juzgado de origen la remisión a esta Alzada de las presentes actuaciones en formato papel.
+REGISTRESE. NOTIFIQUESE la presente resolución por Secretaría, en los términos del artículo 10 del Reglamento para las presentaciones y las notificaciones por medios electrónicos, Anexo I, capítulo II del Acuerdo 4039 SCBA., a los domicilios electrónicos respectivos, los que se consignan seguidamente. NOTIFIQUESE por Secretaria.
+MDISANTO@MPBA.GOV.AR
+JUZFAM4-LM@JUSBUENOSAIRES.GOV.AR
+ECORREA@MPBA.GOV.AR
+```
+
+---
 
 ### ACT-23-10-2026. [RR-497-2026] SOCIEDAD DE FOMENTO BARRIO PARQUE MODELO PRESIDENTE VICENTE LOPEZ Y PLANES (07) C/ GAGLIOLO CRISTIAN MARIO Y OTRO/A S/ ACC S/ QUEJA
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - LA MATANZA
@@ -7129,6 +7467,82 @@ En consecuencia, por las consideraciones expuestas, reunidos en la Sala de Acuer
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - MORON (`idOrganismo: 415`)
 
+### ACT-22-10-2026. [RR-628-2026] BANCO SUPERVIELLE SA C/ ROJAS KAREN ANDREA S/ EJECUCIÓN PRENDARIA
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - MORON
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `MO-6355-2026`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-628-2026`
+- **Código de Acceso SCBA**: `0C6301BE`
+- **Firmantes**: Funcionario: QUADRI Gabriel Hernan JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 628-2026 - Código acceso: 0C6301BE - PUBLICO | Registrado por: OSORIO Ricardo Amilcar - Fecha registración: 22/10/2026 12:51
+
+#### Texto Íntegro
+```text
+VISTO: El recurso de apelación interpuesto y fundado en subsidio por el apoderado de la actora en su presentación del 2/6/2026 contra la interlocutoria dictada el 1/6/2026, habiendo tomado intervención en esta instancia el Ministerio Público Fiscal a través del dictamen que se adjunta en el escrito enviado con fecha 5/8/2026 ; y,
+CONSIDERANDO: La resolución impugnada declaró la inaplicabilidad de lo normado por el artículo 39 del decreto ley 15.348/46 -ratificado por ley 12.962- a las relaciones de consumo, readecuando la pretensión al trámite de ejecución prendaria, rechazando la presente acción. Contra tal temperamento se alza el apoderado del Banco agraviándose de lo recién expuesto requiriendo que el Tribunal revoque la resolución adoptada en la otra instancia.
+La cuestión que nos convoca, brevemente reseñada en los párrafos precedentes, fue abordada en forma reiterada por esta Cámara y la solución que invariablemente se adoptó, se inclinó -cabe adelantar- por convalidar la reconducción de la acción de secuestro prendario imprimiéndosele el trámite previsto por los artículos 598 y concordantes del C.P.C.C. (vgr. Cs. MO 33862 2019, R.R. 440/22; MO 45328 2022, R.R. 538/23 y MO 6396 2020, R.R. 627/23, MO 17194 2024 R.R.187/2025 entre otras).
+Reproduciremos las consideraciones vertidas en los referidos precedentes para que obren como fundamento de la presente.
+"Puestos a abastecer la cuestión que nos ocupa hemos de señalar que consideramos útil mencionar que el presente fue iniciado por la entidad financiera reclamante (ver primera presentación), respecto a la cual cabe inferir su carácter de proveedor, actuando en el caso contra una persona física, con el objeto de obtener el secuestro del automotor prendado que se describe. De tales circunstancias pueden extraerse -en primer lugar- serios elementos que hacen presumir fundamentalmente la existencia de una relación de consumo entre la persona jurídica accionante y sobre quien detenta el vehículo en cuestión (propietario) (arg. arts. 1, 2 y 3 de la ley 24240)."
+"Ello sentado debemos señalar también que las disposiciones de tal ley son de orden público -indisponibles para las partes- y reglamentan un derecho expresamente receptado en la Constitución Nacional (art. 65 de la ley 24240 y 42 de la CN)."
+"En tal sentido, se ha expresado que la finalidad de la ley 24240 consiste en la debida tutela del consumidor o el usuario, que a modo de "purificador legal" integra sus normas con las de todo el orden jurídico, de manera que se impone una interpretación que no produzca un conflicto internormativo, ni malogre o controvierta los derechos y garantías que, en tal sentido, consagra el art. 42 de la Constitución Nacional ("Fallos" 329:646 y 695, voto del doctor Zaffaroni; en el mismo sentido "Fallos" 331:2614, voto del doctor Maqueda)."
+"El art. 39 de la ley 12962 faculta a solicitar en sede judicial el secuestro de los bienes prendados, a los fines de proceder a la venta extrajudicial, agotándose el procedimiento con la orden de secuestro. De ello se desprende, que el señalado procedimiento importa una restricción de los derechos del consumidor, en especial su derecho de defensa en juicio, ampliando notablemente los derechos de la entidad proveedora. Ello colisiona con los preceptos de la ley 24240 que protege del modo más eficiente posible la finalidad tuitiva de grupos tradicionalmente postergados y particularmente vulnerables como son los usuarios y consumidores (art. 42 de la Constitución Nacional, art. 38 de la Constitución Provincial, art. 37 de la ley 24240)."
+"Ha sostenido el Cimero Tribunal Provincial, que la normativa concreta relativa a las relaciones de consumo no constituye una mera regulación de determinado ámbito de las relaciones jurídicas, como tantas otras. Es eso y mucho más. La preocupación del legislador -signada por la clarísima previsión del art. 42 de la Constitución nacional y la correlativa contenida en el art. 38 de la Constitución Provincial- radica en obtener la efectividad en la protección del consumidor. El principio protectorio como norma fundante es cimiento que atraviesa todo el orden jurídico. El propio art. 1 de la ley 24240, texto ley 26.361, así lo expresa terminantemente: "la presente ley tiene por objeto la defensa del consumidor o usuario" (causa C. 117.760, "G., A. C.", sent. de 1-IV-2015). Además, se sostuvo que el art. 3 en coordinación con el art. 65 de la citada ley establece la preeminencia del régimen tuitivo y su carácter de orden público, de allí que ante cualquier colisión entre una norma o criterio de derecho común y otra que proteja a los consumidores, prevalecerá esta última, se trate de aspectos sustanciales o procesales (causa C 117.760, cit.) (véase esta Sala causa MO-32271-2018, con voto de la Dra. Ludueña, R.S. 62/19, de fecha 16 de abril del corriente año)."
+"Por todo ello, consideramos que resulta inaplicable el art. 39 de la ley 12962 al caso de autos por encuadrar en una relación de consumo, por lo que corresponde rechazar el recurso en tratamiento, conformando lo decidido en la instancia de origen (en igual sentido se ha pronunciado la Excma. Cámara de Apelación en lo Civil y Comercial de Morón, Sala II, cs. MO-2665-2018, R.S. 154/2018 y Sala III cs. MO-35067-2012, R.I. 48/18)."
+"Por otro lado, tampoco resultaría de aplicación lo normado por el art. 2220 del CCCN ya que la ejecución allí prevista dista del secuestro solicitado en las presentes, en tanto, constituye un requisito esencial para la autoliquidación de la prenda la intimación fehaciente de pago al deudor y al propietario no deudor (arg. arts. 2200, LORENZETTI Ricardo, Código Civil y Comercial de la Nación, comentario art. 2229 del CCCN), debiendo también señalarse que la Corte Suprema de Justicia de la Nación ha señalado recientemente con fecha 11 de junio de 2020 (al resolver un recurso de hecho deducido por la Fiscal General ante la Cámara Nacional de Apelaciones en lo Comercial en la causa "HSBC Bank Argentina S.A. c/ Martínez, Ramón Vicente s/secuestro prendario") que privar al deudor -en la relación de consumo- de todo ejercicio de derecho de defensa, en forma previa al secuestro del bien prendado, podría colocarlo en una situación que no se condice con la especial protección que le confiere el artículo 42 de la Constitución Nacional."
+Los argumentos que hasta aquí hemos transcripto nos han llevado a mantener pronunciamientos que, al tiempo de rechazar el pretendido secuestro del bien sobre el que reposaba la garantía real, disponían adecuar la tramitación del pleito por la vía de la ejecución prendaria (cfme. Cs. MO 20128 2019, R.I. 170/21; MO 32466 2019, R.I. 176/21 y MO2479 2021, R.I. 210/21, entre otras), solución que compatibiliza los derechos en pugna de ambas partes, brindándole al deudor la posibilidad de concretar su constitucional derecho de defensa en juicio, poniendo a su alcance posibilidades de debate, audiencia y prueba. Esta reconducción de la demanda se traduce en un prudente y funcional ejercicio de las facultades contempladas en el artículo 34, inciso 5°, apartados "b", "c" y "e", que nuestro ordenamiento ritual reconoce al magistrado como director del proceso. En razón de ello concluimos que, con este alcance, debe rechazarse el planteo introducido por la actora.
+Por tales fundamentos, se confirma el pronunciamiento dictado el 1/6/2026, en lo que ha sido materia de agravio. No se imponen costas en la presente ante la falta de bilateralización de la cuestión (arg. art. 68, 2° párr. C.P.C.C.). Lo que asi se declara y resuelve.
+La presente resolución se pronuncia en la Ciudad de Morón, Provincia de Buenos Aires, firmando la Señora Jueza Doctora Liliana Graciela Ludueña y el Señor Presidente de esta Cámara Civil y Comercial, Dr. Gabriel Hernán Quadri, (Acuerdo Extraordinario de Cámara n°908/2025 y art. 36 Ley 5827) y el Funcionario interviniente, tal como queda consignado -con expresión de fecha y hora- en las constancias respectivas.
+Notifíquese de manera automatizada conforme Acuerdo n° 4013 de la S.C.B.A., a los siguientes domicilios electrónicos:
+20219805579@NOTIFICACIONES.SCBA.GOV.AR
+MTORT@MPBA.GOV.AR
+KIUZZOLINO@MPBA.GOV.AR
+```
+
+---
+
+### ACT-22-10-2026. [RR-627-2026] CERASO LORENA CARLA C/ TEXTIL MORON SA S/ EXAMEN DE LOS LIBROS DEL SOCIO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - MORON
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `MO-10586-2023`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-627-2026`
+- **Código de Acceso SCBA**: `03E42D0A`
+- **Firmantes**: Funcionario: QUADRI Gabriel Hernan JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 627-2026 - Código acceso: 03E42D0A - PUBLICO | Registrado por: OSORIO Ricardo Amilcar - Fecha registración: 22/10/2026 12:51
+
+#### Texto Íntegro
+```text
+AUTOS Y VISTOS : El recurso de apelación interpuesto en subsidio por la parte demandada mediante la presentación de fecha 29 de junio de 2026 (16:49:47 horas) contra el temperamento dispuesto el 26 de junio de 2026, concedido en relación el 17/7/2026, fundado con el memorial enviado el 10 de agosto de 2026 (13:51:52 horas) y contestado con la pieza enviada el 25 de agosto de 2026 (08:39:52 horas); y,
+CONSIDERANDO : I) Mediante el temperamento en crisis, la Juez de grado, invocando lo dispuesto por los arts. 55 y 284 de la Ley General de Sociedades y por el art. 819 del CPCC, y teniendo en cuenta que la parte actora no había tomado contacto en ninguna oportunidad con los originales de la documentación requerida, intimó a Textil Morón S.A. a que en el término de cinco días pusiera a disposición los libros y documentación requerida. Le impuso fijar fecha y hora, con anterioridad al comienzo de la feria judicial, para su compulsa por la requirente o la persona que ésta designe, en la sede social y en presencia de su representante legal, bajo apercibimiento de aplicar astreintes (art. 804 CCCN) (véase en su totalidad todo lo dispuesto con fecha 26/6/2026 a cuya íntegra lectura remitimos).
+Contra dicho temperamento ambas partes dedujeron reposición con apelación en subsidio (presentaciones del 27/6/2026 y del 29/6/2026). El 17/7/2026 se desestimó la reposición y se concedieron en relación los recursos subsidiarios. El 1/9/2026 se declaró desierto el recurso de la parte actora por no haber sido fundado (art. 246 CPCC). Por ello, sólo subsiste para su tratamiento el recurso de la parte demandada.
+En su memorial, la recurrente señalada en último término sostiene, en síntesis y entre otros puntos lo siguiente:
+-que la decisión reabre una etapa procesal agotada, en violación del principio de preclusión y de la firmeza de los actos procesales;
+-que excede las facultades conferidas por los arts. 34 y 36 del CPCC y suple la inactividad de la actora;
+-que altera la distribución de las cargas procesales;
+-que parte de un presupuesto fáctico jurídicamente insuficiente;
+-que desconoce la eficacia de la certificación que indica
+-que el apercibimiento de astreintes es improcedente por inexistencia de incumplimiento;
+-que se omitió valorar lo actuado en expedientes conexos.
+Pide de tal modo la revocación del temperamento en crisis, con costas (véase en su totalidad el escrito enviado con fecha 10/8/2026 a las 13:51:52 horas a cuya íntegra lectura remitimos).
+A su turno, la parte actora contesta los agravios y solicita la confirmación del temperamento recurrido, con costas (véase en su totalidad el escrito enviado con fecha 25/8/2026 a las 08:39:52 horas).
+II) Liminarmente, y como juez del recurso, corresponde a este Tribunal examinar la admisibilidad de la apelación, aun cuando haya sido concedida en la instancia de origen, pues dicha concesión no vincula a la Alzada.
+El art. 819 del CPCC dispone que el derecho del socio para examinar los libros de la sociedad se hará efectivo, sin sustanciación, con la sola presentación del contrato, decretándose las medidas necesarias si correspondiere, y que la resolución será irrecurrible. La norma no formula distingos entre la resolución que inicialmente ordena el examen y aquellas por las cuales se decretan las medidas necesarias para hacerlo efectivo.
+Sobre el alcance de dicho trámite y de la irrecurribilidad que la norma consagra ya se ha expedido esta Sala en estas mismas actuaciones, mediante la resolución del 3 de julio de 2025 (RR-291-2025), a cuyo considerando II remitimos en honor a la brevedad. Allí se declaró irrecurrible el temperamento entonces cuestionado y mal concedido el recurso deducido en su contra, decisión que fue consentida por las partes.
+III) El temperamento del 26 de junio de 2026 fue dictado expresamente en el marco del examen de libros por el socio.. Su contenido (la puesta a disposición de los libros y documentación para su compulsa por la socia requirente, con indicación del tiempo, lugar y modo de su realización) constituye una de las medidas necesarias para hacer efectivo el derecho de examen que la norma regula. Resulta, por tanto y tal lo adelantado al finalizar el considerando anterior, alcanzado por la irrecurribilidad que este proceso voluntario establece. Ello torna innecesario ingresar en los agravios desarrollados por la recurrente.
+No modifica esta conclusión el apercibimiento de astreintes contenido en la decisión. Éste no importa su aplicación efectiva, sino la advertencia de una consecuencia para el supuesto de incumplimiento. La eventual imposición de dichas sanciones conminatorias constituiría, de producirse, una resolución distinta de la que aquí se examina (arg. art. 804 CCCN).
+Sin perjuicio de lo expuesto, y a mayor abundamiento, cabe señalar que buena parte de las críticas del memorial reiteran, bajo distintos títulos (tal lo que hemos sintetizado al inicio de esta intervención) la invocación de la preclusión y de la eficacia de la certificación que se atribuye a la Actuaria. Ello no exhibe, tampoco respecto de cada parcela, una crítica concreta y razonada a los fundamentos del temperamento recurrido.
+Asimismo, lo aquí decidido lo es sin perjuicio de lo que corresponda proveer en la instancia de origen respecto de las peticiones pendientes, en ejercicio de las facultades de dirección del proceso (arts. 34 inc. 5° y 36 CPCC) tal como corresponde dejar aclarado.
+De tal modo y conforme lo dispuesto al finalizar el considerando segundo de este esta resolución, deviene mal concedido el recurso en tratamiento.
+Por tales fundamentos, corresponde declarar mal concedido con fecha 17 de julio de 2026 el recurso de apelación interpuesto en subsidio por la parte demandada mediante la presentación efectuada el 29 de junio de 2026 (16:49:47 horas), sin costas, en atención a lo aquí establecido (arg. art. 68 párr. 2do. CPCC) lo que así se declara.
+La presente resolución se pronuncia en la Ciudad de Morón, Provincia de Buenos Aires, firmando la Señora Jueza Doctora Liliana Graciela Ludueña y el Señor Presidente de esta Cámara Civil y Comercial, Dr. Gabriel Hernán Quadri, (Acuerdo Extraordinario de Cámara n°908/2025 y art. 36 Ley 5827) y el Funcionario interviniente, tal como queda consignado -con expresión de fecha y hora- en las constancias respectivas.
+Notifíquese de manera automatizada conforme Acuerdo n° 4013 de la S.C.B.A., a los siguientes domicilios electrónicos:
+27228241674@NOTIFICACIONES.SCBA.GOV.AR ; 27242125857@NOTIFICACIONES.SCBA.GOV.AR y
+20235234506@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
+
 ### ACT-22-10-2026. [RR-626-2026] BANCO SUPERVIELLE SA C/ GOMEZ AYLEN FIORELLA S(2)/ ACCION DE SECUESTRO (ART.39 LEY 12962)
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - MORON
 - **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
@@ -7309,365 +7723,6 @@ La presente resolución se pronuncia en la Ciudad de Morón, Provincia de Buenos
 continuación.
 Notifíquese de manera automatizada conforme Acuerdo n° 4013 de la S.C.B.A., a los siguientes domicilios electrónicos:
 23238394589@NOTIFICACIONES.SCBA.GOV.AR y 27065453172@NOTIFICACIONES.SCBA.GOV.AR
-```
-
----
-
-### 1. [RS-381-2026] RAVIZZOLI GRISELDA CLARA C/ COLIEN DAISY Y OTROS S/ USUCAPION
-- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - MORON
-- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
-- **Número de Causa / Expediente**: `C1-63144`
-- **Fecha**: 22-10-2026
-- **Número de Registro**: `RS-381-2026`
-- **Código de Acceso SCBA**: `633E29BE`
-- **Firmantes**: Funcionario: QUADRI Gabriel Hernan JUEZ --- Certificado Correcto
-- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 381-2026 - Código acceso: 633E29BE - PUBLICO | Registrado por: OSORIO Ricardo Amilcar - Fecha registración: 22/10/2026 12:32
-
-#### Texto Íntegro
-```text
-///En la ciudad de Morón, Provincia de Buenos Aires, celebran Acuerdo de Sala la Señora Jueza Dra. Liliana Graciela Ludueña (Presidenta de esta Sala I) y el Señor Juez Dr. Gabriel Hernán Quadri conforme lo establecido en el Acuerdo Extraordinario nro. 908/2025 , para pronunciar sentencia en los autos caratulados " RAVIZZOLI GRISELDA CLARA C/ COLIEN DAISY Y OTROS S/ USUCAPION " , de conformidad con el artículo 168 de la Constitución de la Provincia de Buenos Aires, por lo que habiéndose practicado el sorteo pertinente (art. 266 del Código Procesal Civil y Comercial) con la integración correspondiente, resulta que debe observarse el siguiente orden de votación: doctores QUADRI - LUDUEÑA, resolviéndose plantear y votar las siguientes:
-C U E S T I O N
-¿Es ajustada a derecho la resolución apelada?
-V O T A C I O N
-A LA CUESTION PROPUESTA EL SEÑOR JUEZ DOCTOR QUADRI, dijo:
-1) El Sr. Juez Titular del Juzgado de Primera Instancia en lo Civil y Comercial nro. 1 Departamental con fecha 21 de abril de 2026 resolvió declararse incompetente para entender en estas actuaciones. Impuso las costas a la actora y dispuso remitir el expediente al Juzgado Nacional de Primera Instancia en lo Civil nro. 5, donde tramita la sucesión de uno de los titulares registrales del inmueble.
-Apela la parte actora.
-El recurso se concedió en relación.
-Con fecha 30 de abril de 2026 se presentó el pertinente memorial, el cual fue contestado con fecha 7 de mayo de 2026 por la Sra. Defensora Oficial, en representación de los herederos ausentes.
-Con fecha 2 de septiembre de 2026 dictaminó el Ministerio Público Fiscal.
-La apelante se queja de que se haya aplicado el fuero de atracción del sucesorio a una acción real como la usucapión. Sostiene que el juez competente es el del lugar donde se ubica el inmueble, en el partido de Morón. Afirma que su pretensión carece de conexión sustancial con la sucesión, porque reclama un derecho propio nacido de la posesión. Cuestiona, por último, la imposición de costas.
-A los términos de la fundamentación recursiva -y sus réplicas- cabe remitirse para su lectura completa, en homenaje a la brevedad.
-Llegado el expediente a esta instancia, se llamaron "AUTOS" , providencia que fue consentida, procediéndose al sorteo del orden de estudio y votación, quedando entonces las actuaciones en condición de ser resueltas.
-2) Partiendo de la base de que el memorial cumple las exigencias del art. 260 del CPCC, paso a dar respuesta a los agravios.
-Nos encontramos frente a un juicio de usucapión sobre un inmueble ubicado en el partido de Morón.
-Uno de sus titulares registrales falleció y su sucesión tramita ante la justicia nacional en lo civil.
-El sentenciante entendió que, al integrar el bien el acervo hereditario, el fuero de atracción desplaza la competencia hacia el juez del sucesorio.
-Debemos decidir si esa conclusión es correcta.
-El art. 2336 del CCyC asigna al juez del sucesorio el conocimiento de ciertas acciones. Allí se enumeran la petición de herencia, la nulidad de testamento y los litigios vinculados con la administración y liquidación de la herencia. También comprende la ejecución de las disposiciones testamentarias, el mantenimiento de la indivisión y las operaciones de partición.
-Por su parte, el art. 5 inc. 1 del CPCC dispone que en las acciones reales sobre inmuebles es competente el juez del lugar donde esté situada la cosa.
-Y agrega que "La misma regla regirá respecto de las acciones posesorias, interdictos, restricción y límites del dominio, medianera, declarativa de la prescripción adquisitiva , mensura y deslinde, y división de condominio ".
-Ese texto resulta decisivo: el legislador previó específicamente la usucapión y la sujetó al juez del lugar del inmueble.
-Por otro lado, y en lo que hace al fuero de atracción sucesorio, la Sala II de este tribunal -como bien lo recuerda el apelante- se ha expedido en el sentido de que el mismo no opera respecto de este tipo de procesos.
-Se decía allí que:
-" en primer lugar corresponde aclarar que el proceso sucesorio tiene por objeto dar certeza a determinadas situaciones jurídicas, concretamente tiende a determinar la calidad de heredero y de cónyuge, la composición del patrimonio sucesorio y en su caso el que integra la sociedad conyugal a dividir y la partición del haber neto partible(cfr. Medina, Graciela, "Proceso Sucesorio", 2° edición actualizada, Rubinizal-Culzoni Editores, Santa fe 2.006, Tomo I, Págs.33 y sgtes).-
-Por lo tanto resulta ser un proceso especial que establece sus propias reglas de competencia a fin de no desvirtuar el objeto ut supra enunciado. A ello se suma la aplicación del fuero de atracción por ser el sucesorio un proceso de tipo universal.-
-De esta manera, frente a una acción que pudiera presentar conexidad con un proceso sucesorio, resulta oportuno analizar en primer lugar si resulta atraída por el sucesorio(Art.3284 del C.C.) para luego estudiar, en caso negativo, las reglas generales de competencia establecidas en la norma procesal provincial; sin involucrar ello un conflicto de leyes.-
-Ello sentado, dable es determinar que en autos nos encontramos ante una acción de prescripción adquisitiva o usucapión entablada por la Sra. Maria Alejandra Sinnott contra los Sres. Rafael Garcia y Carlos Alberto Garcia y Gutierrez.-
-Dicha acción ha sido iniciada ante el Juzgado de Primera Instancia en lo Civil y Comercial N°11 Dptal.
-A fs.356 y al advertir que los autos "GARCIA CUERVO, RAFAEL S/ SUCESIÓN AB-INTESTATO" Exp.n°61288 traídos ad effectum videndi et probandi , la titular de dicho juzgado resuelve declararse incompetente.-
-En este orden de ideas, es menester recordar que esta Sala II ha dicho que "El fuero de atracción establecido por el art.3284 del C.C.A. es de orden público por cuanto en el mismo están afectados intereses del Estado, de los acreedores, de los herederos, legatarios, etc (cfe. Salas-Trigo Represas, "Código Civil", T°3, pág.16); el fundamento de la norma es obvio: se desea facilitar la liquidación de la herencia, la división de los bienes, el pago de las deudas(cfe. Borda, "Tratado-Sucesiones", T°I, pág.60)".-
-"El instituto así caracterizado no es absoluto, no comprende todo tipo de acciones; y a tal punto ello es así que la misma norma determina a través de cuatro incisos los casos genéricos y específicos de acciones que son atraídas por el sucesorio; en definitiva genéricamente son atraídas las acciones personales, no así las acciones reales (nota del codificador al art.3284 siguiendo a Zacharie, Duranton y Chabot; Salas-Trigo Represas, obra citada, pág.18; Borda, obra citada pág.64)" (esta Sala en causa nro.45.406, R.S.482/2001).-
-A ello aduno que, siguiendo a la Dra. Graciela Medina, cuando el inciso 1° del art.3284 del C.C. menciona a las acciones entre coherederos quedan comprendidas las cuestiones que se refieren al monto del acervo hereditario, como por ejemplo, las demandas sobre inclusión y exclusión de bienes, objeciones al inventario, la reclamación contra el administrador para que rinda cuentas. También se atraen todas las causas suscitadas por las vocaciones en conflicto, como por ejemplo: exclusión del cónyuge, de herederos por desheredación o indignación, nulidad de testamento, institución de herederos, etc (cfr. obra citada "ut supra", págs.64 y sgtes.). En ningún caso se hace referencia a acciones reales.-
-Entonces, si definimos a la prescripción adquisitiva o usucapión como "el instituto por el cual el poseedor adquiere el derecho real que corresponde a su relación con la cosa (dominio, usufructo, uso, habitación, servidumbre, etc), por la posesión continuada por todo el tiempo exigido por la ley"(cfr.Papaño y otros, "Derechos Reales", Depalma, Buenos Aires, 1990, Tomo III, pág.41), entiendo que dicha acción se clasifica como real, por lo tanto no resulta atraída por el proceso sucesorio.-
-En Adhesión y en casos sustancialmente análogos al presente, la Suprema Corte de la Provincia de Buenos Aires viene sosteniendo que "el fuero de atracción previsto en el art.3284 del Código Civil no se produce respecto de la demanda de usucapión, por la cual se trata de hacer reconocer en juicio la existencia del derecho real de dominio(doct. causas Ac.77.640, resol. del 29-III-2000; Ac.92.153, resol. del 11-VII-2004; Ac.99.203, resol. del 27-XII-2006)" (SCBA, Rc 113811 I 23-2-2011, "Cid, Julio c/ Cid, Eloy s/ Prescripción Adquisitiva. Incidente de competencia", Sumario JUBA B39126).-
-Previo a arribar a la conclusión del tema en cuestión, se deja constancia que el art.3284 ha sido remplazado por el 2336 en la última reforma de nuestro Código Civil, sin tener modificaciones sustanciales con respecto al tema que hoy nos compete y manteniendo iguales conceptos que los vertidos "ut supra " (Causa Mo-22120-2017 R.I. 7/2019).
-Coincido totalmente con tales fundamentos e, incluso, es la postura que ha venido manteniendo la SCBA en sus precedentes mas recientes (SCBA, 10/04/2019, "Bavastro, José Atilio c/ Colela, Enrique y otro-a s/ Prescripción adquisitiva", 11/07/2022, "Marcone Benvenuto, Francisco Xavier c/ Paese y Montesano, Lydia Amarylis y otro-as/ Prescripción adquisitiva larga", 10/09/2024, "Valenti Domingo C/ Moussalli Emile Charles S/ División De Condominio", 20/12/2024, "García Mónica Graciela Y Otros C/ Cepeda Hilda Rosalía S/ División De Condominio").
-Tiene razón entonces la apelante: el inmueble está en Morón y es aquí donde debe tramitar el proceso, sin que se opere el fuero de atracción sucesoria, como se lo ha dispuesto en el auto apelado.
-Cabe destacar que -en este punto- existe una coincidencia completa.
-La actora, la Sra. Defensora Oficial y el Ministerio Público Fiscal sostienen que el juez de Morón es competente.
-Nadie, en suma, defiende la resolución apelada.
-Tampoco advierto razón alguna para apartarse de la regla del art. 5 inc. 1 del CPCC.
-Resta el agravio sobre las costas.
-Revocada la declaración de incompetencia, su imposición a la actora pierde sustento.
-La cuestión fue introducida de oficio por el sentenciante y no medió controversia entre partes.
-Por eso entiendo que no corresponde imponer costas por esta incidencia.
-Por idénticas razones, tampoco corresponde imponer costas de alzada.
-3) Consecuentemente, y si mi postura es compartida, se deberá revocar la resolución del 21 de abril de 2026 en cuanto a la incompetencia que declara, debiendo continuar interviniendo en las presentes el juzgado de origen, sin costas en ninguna de las instancias, por no haber mediado contradicción (art. 68 2° p. CPCC).
-Lo expuesto me lleva a votar en la cuestión propuesta
-POR LA NEGATIVA
-A LA MISMA CUESTIÓN, LA SEÑORA JUEZA DOCTORA LUDUEÑA DIJO:
-Adhiero a la propuesta del voto que antecede por sus mismos fundamentos, dando el mio
-POR LA NEGATIVA
-Con lo que terminó el Acuerdo, dictándose la siguiente:
-S E N T E N C I A
-AUTOS Y VISTOS: CONSIDERANDO: Conforme al resultado obtenido en la votación que instruye el Acuerdo que antecede, SE REVOCA la resolución del 21 de abril de 2026 en cuanto a la incompetencia que declara, debiendo continuar interviniendo en las presentes el juzgado de origen, sin costas en ninguna de las instancias, por no haber mediado contradicción (art. 68 2° p. CPCC).
-REGISTRESE. NOTIFIQUESE en los términos del Acuerdo 4013/21 de la S.C.J.B.A., mediante resolución autonotificable, a los siguientes domicilios electrónicos:
-20165893175@NOTIFICACIONES.SCBA.GOV.AR ; GAPENA@MPBA.GOV.AR y MTORT@MPBA.GOV.AR
-FIRMAN LA PRESENTE SENTENCIA LA SRA. JUEZA, EL SR. JUEZ Y EL FUNCIONARIO INTERVINIENTE TAL COMO QUEDA CONSIGNADO -CON EXPRESIÓN DE FECHA Y HORA- EN LAS REFERENCIAS QUE SE AGREGAN A CONTINUACIÓN.
-DEVUELVASE SIN MAS TRAMITE AL JUZGADO DE ORIGEN, DEJANDO CONSTANCIA DE QUE, PARA EL CASO DE SER NECESARIA LA ELEVACION DE LAS ACTUACIONES FRENTE A ALGUNA PRESENTACION DE LAS PARTES, LAS MISMAS SERÁN REQUERIDAS POR ESTE TRIBUNAL
-```
-
----
-
-### 2. [RS-382-2026] OTAZUA MIRTHA BEATRIZ C/ TARRECH PEDRO FERNANDO Y OTRO S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
-- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - MORON
-- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
-- **Número de Causa / Expediente**: `MO-48497-2018`
-- **Fecha**: 22-10-2026
-- **Número de Registro**: `RS-382-2026`
-- **Código de Acceso SCBA**: `B29A53FB`
-- **Firmantes**: Funcionario: QUADRI Gabriel Hernan JUEZ --- Certificado Correcto
-- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 382-2026 - Código acceso: B29A53FB - PUBLICO | Registrado por: OSORIO Ricardo Amilcar - Fecha registración: 22/10/2026 12:33
-
-#### Texto Íntegro
-```text
-///En la ciudad de Morón, Provincia de Buenos Aires, celebran Acuerdo de Sala la Señora Jueza Dra. Liliana Graciela Ludueña (Presidenta de esta Sala I) y el Señor Juez Dr. Gabriel Hernán Quadri conforme lo establecido en el Acuerdo Extraordinario nro. 908/2025 , para pronunciar sentencia en los autos caratulados " OTAZUA MIRTHA BEATRIZ C/ TARRECH PEDRO FERNANDO Y OTRO S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO) " , de conformidad con el artículo 168 de la Constitución de la Provincia de Buenos Aires, por lo que habiéndose practicado el sorteo pertinente (art. 266 del Código Procesal Civil y Comercial) con la integración correspondiente, resulta que debe observarse el siguiente orden de votación: doctores QUADRI - LUDUEÑA, resolviéndose plantear y votar las siguientes:
-C U E S T I O N
-¿Es ajustada a derecho la resolución apelada?
-V O T A C I O N
-A LA CUESTION PROPUESTA EL SEÑOR JUEZ DOCTOR QUADRI, dijo:
-1) La Sra. Jueza Titular del Juzgado de Primera Instancia en lo Civil y Comercial nro. 9 Departamental, con fecha 21 de Octubre de 2025 dictó sentencia definitiva en la que resolvió hacer lugar parcialmente a la demanda promovida, en las condiciones que de allí surgen.
-Apelan la actora y la citada en garantía.
-Los recursos fueron concedidos libremente.
-Elevado el expediente a esta instancia, con fecha 11 de Mayo de 2026 se presentó la expresión de agravios de la parte actora, la cual fue contestada con fecha 29 de ese mismo mes y año.
-Ese mismo día (el 11 de Mayo) se presentó la pertinente expresión de agravios de la parte citada en garantía, la cual no fue contestada por la accionante.
-La actora se queja del rechazo de la incapacidad física, del monto fijado por la incapacidad psíquica y de que no se haya considerado la incapacidad temporal; también cuestiona el monto del daño extrapatrimonial, la suma reconocida por gastos, el rechazo del tratamiento psicológico y la tasa de interés.
-La citada en garantía se queja de los montos fijados por incapacidad psíquica y daño extrapatrimonial, de la declaración de inconstitucionalidad del art. 7 de la ley 23.928 y la consecuente actualización del capital, y de la extensión de la condena más allá del límite de cobertura pactado en la póliza.
-A los términos de cada fundamentación recursiva -y su réplica, en el caso de los agravios de la actora- cabe remitirse para su lectura completa, en homenaje a la brevedad.
-Cumplidos los trámites pertinentes, se llamaron 'AUTOS PARA SENTENCIA' , providencia que fue consentida, procediéndose al sorteo del orden de estudio y votación, quedando entonces las actuaciones en condición de ser resueltas.
-2) Antes de ingresar al tratamiento de los agravios debo señalar que, a mi modo de ver, ambas expresiones de agravios satisfacen las exigencias de solvencia argumental que requiere el art. 260 del CPCC.
-Con lo cual, paso al abordaje de los agravios.
-Aclaro, además, que la atribución de responsabilidad no fue materia de agravio, de modo que llega firme a esta instancia.
-Me ocupo, en primer lugar, de los agravios que se refieren a la suma fijada en concepto de incapacidad, que prosperó por la suma de $ 2.200.000.
-Abordaré aquí tanto los agravios de la actora, quien se queja de la desestimación del componente físico del daño como de lo decidido en cuanto a la incapacidad psíquica y los de la aseguradora, quien cuestiona este último aspecto del decisorio.
-Para dar respuesta a la cuestión es importante destacar que la integridad psicofísica de la persona es un derecho que cuenta con la protección de todo el orden jurídico.
-En este sentido, la Convención Americana sobre Derechos Humanos es muy clara: toda persona tiene derecho a que se respete su vida (art. 4.1) y también su integridad física, psíquica y moral (art. 5.1).
-Cuando alguno de estos derechos es lesionado, el ordenamiento jurídico contempla diversas reacciones: preventivas, resarcitorias y sancionatorias.
-En el ámbito civil, atendemos a dos de estas reacciones: lo preventivo y lo resarcitorio.
-Es decir, nuestro sistema contempla dos cuestiones: evitar que se causen daños, que se agraven o subsistan los ya causados (faceta preventiva, arts. 1710 y subsiguientes CCyCN) y ocuparse de la reparación, por parte de las personas responsables, del daño que ya se produjo (faceta resarcitoria, arts. 1716 y subsiguientes).
-A partir de los arts. 1737 y siguientes, se regula lo atinente al daño (concebido como la lesión a un derecho o un interés no reprobado por el ordenamiento jurídico, que tenga por objeto la persona, el patrimonio, o un derecho de incidencia colectiva) y a la reparación (art. 1740 CCyCN), que debe ser plena.
-Desde este punto de vista, y cuando una persona reclama por un daño que pudiera haber recibido en su integridad psicofísica, aparecen dos tipos de consecuencias: patrimoniales y extrapatrimoniales.
-Aquí estamos abordando las primeras.
-El art. 1746 del CCyCN nos brinda las pautas a seguir para fijar la indemnización.
-Indica que "en caso de lesiones o incapacidad permanente, física o psíquica, total o parcial, la indemnización debe ser evaluada mediante la determinación de un capital, de tal modo que sus rentas cubran la disminución de la aptitud del damnificado para realizar actividades productivas o económicamente valorables, y que se agote al término del plazo en que razonablemente pudo continuar realizando tales actividades" agregando que "en el supuesto de incapacidad permanente se debe indemnizar el daño aunque el damnificado continúe ejerciendo una tarea remunerada" y que "esta indemnización procede aun cuando otra persona deba prestar alimentos al damnificado".
-Por otro lado, sabemos que el reclamo por daño psicológico constituye un desglose meramente metodológico, en tanto se inserta desde el punto de vista conceptual en el tópico de la capacidad, desde que el ser humano resulta una unidad biológico-psíquico-social.
-Aunque se reconozca autonomía conceptual al daño psíquico o psicológico, por la índole de la lesión que se causa a la integridad psicofísica de la persona, ello no significa que haya de ser individualizado como un rubro resarcitorio autónomo para ser sumado al daño patrimonial o al daño moral.
-Desde luego que el bien afectado, o sea la psíquis de la víctima podrá dar lugar a los gastos médicos que supone una intervención quirúrgica o un tratamiento médico de recuperación.
-También puede significar una limitación o restricción a su capacidad de desarrollar actividades que redunden en beneficio económico ya sea como lucro cesante o pérdida de chance.
-En la lesión psíquica se requiere desequilibrio patológico diagnosticable y clasificable, exigiéndose una alteración de la personalidad, es decir la perturbación profunda del equilibrio, con el nexo causal adecuado, que entrañe una significativa descompensación que perturbe su integración en el medio social (El daño psicológico - Gloria H. Arson de Grimberg - L.L. del 13/7/92).
-Su análisis, en lo que hace a la incapacidad, ingresa dentro del campo del art. 1746 del CCyCN.
-Ahora, lo primero que deberíamos analizar -de acuerdo con los agravios traídos y lo decidido en la sentencia- es cuáles han sido las consecuencias derivadas del accidente.
-Para lo cual es fundamental la prueba pericial.
-Aquí tenemos, como prueba fundamental, la pericia médica de fecha 3 de Febrero de 2025, con las explicaciones brindadas por el perito el 6 de Marzo del mismo año.
-En dicha pericia, se habla de una incapacidad del 7,84%.
-Dicha incapacidad se descompone así:
-un 4% por cervicalgia con limitación funcional (un 5% al que el perito descontó un 20% por signos degenerativos) y
-un 3,84% por fractura de la quinta y sexta costillas del lado izquierdo (un 4% calculado sobre la capacidad restante).
-Tenemos, además, la pericia psicológica de fecha 7 de Junio de 2023 y sus explicaciones del 2 de Julio del mismo año.
-En dicha pericia, se habla de una incapacidad del 15% , por un trastorno por estrés postraumático.
-A los términos de las pericias, los pedidos de explicaciones y sus contestaciones cabe remitirse, para evitar reiteraciones innecesarias.
-Reseñado todo esto, paso a los agravios que se traen sobre el punto.
-Empiezo por la incapacidad física, que la sentencia desestimó en su totalidad.
-La Sra. Jueza de grado consideró que no había correlación entre la pericia y la única documentación médica auténtica.
-Esa documentación es la constancia de atención por guardia del Hospital Héroes de Malvinas (la cual puede leerse en este enlace: http://docs.scba.gov.ar/documentos?nombre=2156f548-1381-4431-8518-66dee05c9831.augusta&hash=9F9A45C7F019259043BBF611A1E3A24C ), que solo consigna politraumatismos.
-Agregó que el personal policial mencionó únicamente que la actora se quejaba de dolor costal, y no cervical ni lumbar.
-Comparto esa conclusión en cuanto a la cervicalgia, pero no en cuanto a la fractura costal.
-Respecto de la cervicalgia, no hay ninguna constancia concomitante al hecho que dé cuenta de una lesión en esa zona.
-Los policías no la registraron y la constancia hospitalaria tampoco la individualiza.
-Es decir, no tenemos ningún elemento que nos indique que la patología cervical provenga, efectivamente, del accidente.
-Con la fractura costal, en cambio, la situación es distinta.
-El perito informa una fractura de la quinta y sexta costillas del lado izquierdo, con apoyo en la revisación de la actora y en los estudios complementarios que ordenó, entre ellos radiografías de la parrilla costal.
-Esa lesión tiene, además, un correlato inmediato con el hecho.
-La propia sentencia destaca que, al llegar al lugar, los policías constataron que la actora se quejaba de dolor costal.
-Esto puede leerse en la IPP (accesible mediante este enlace: http://docs.scba.gov.ar/documentos?nombre=d4a8b666-521a-46f1-9e90-2c0696b9c354.augusta&hash=FE77C6D8D9ECED2EFA496B7D80FF5220 ).
-Leemos en el acta de fs. 1/2 que al llegar los policías la actora " refiere poseer dolencias, fundamentalmente en la zona pectoral, sin lograr movilizarse, aconsejándole por ello su reposo en el lugar hasta el arribo del personal médico " y que " instantes después se hace presente personal de emergencias médicas, en móvil de Asiste Nro.. 14 a cargo del Dr. Elvinas, evaluando en primera instancia el galeno interviniente, a la femenina víctima, disponiendo su inmediato traslado a Nosocomio local a fin de ser correctamente evaluada, aseverando en primera instancia posibles lesiones costales ".
-Es decir que el dolor en esa zona aparece desde el primer momento, en el lugar mismo del accidente y la conclusión preliminar que se plasma en el acta coincide con la que, ahora, detalla el perito.
-La constancia del hospital, que habla de politraumatismos, no contradice ese dato.
-Se trata de una expresión genérica que deja abierta la existencia de una lesión costal.
-Por otro lado, la testigo Cafaro, en la audiencia del 26 de Junio de 2023, también refiere haber visto a la actora dolorida.
-Y, por cierto, la mecánica y magnitud del accidente se condice con la producción, como consecuencia del mismo, de una fractura costal.
-Hay un elemento más que me parece relevante.
-Cuando la citada en garantía pidió explicaciones al perito (art. 473 del CPCC), el 18 de Febrero de 2025, circunscribió sus cuestionamientos a la columna cervical y a la patología discal.
-Nada dijo sobre la fractura costal ni sobre su vinculación con el accidente.
-De modo que esa conclusión del perito quedó sin observaciones.
-Así las cosas, por las razones expuestas, encuentro acreditada la relación causal entre el accidente y la fractura costal (arts. 1726, 1727 y 1744 del CCyCN; 384 y 474 del CPCC).
-En este punto, entonces, el agravio de la actora debe prosperar y esta incapacidad debe considerarse para fijar el monto que corresponde.
-Paso a la incapacidad psíquica, donde -lo adelanto- voy a proponer que se rechacen las quejas de la citada en garantía.
-La apelante sostiene que no se consideraron como concausa otros hechos traumáticos de la vida de la actora.
-Esos antecedentes, sin embargo, eran conocidos por la experta: según la propia apelante, surgen del relato que la actora le hizo durante la entrevista pericial.
-Aun conociéndolos, la perito vinculó el cuadro con el accidente.
-Tampoco me convence que la falta de tratamiento durante estos años demuestre la inexistencia del daño.
-Hay muchas razones por las que una persona puede no consultar, y ninguna de ellas elimina un cuadro que la experta constató.
-El resto de las objeciones apunta a las técnicas utilizadas y al porcentaje asignado.
-Son discrepancias con las conclusiones de la experta, sin elementos objetivos que las respalden.
-Luego, emanando la pericia psicológica de profesional competente, expresando sus fundamentos y utilizando técnicas de la especialidad, no existiendo elementos (objetivos) que la contradigan (mas allá de la discrepancia subjetiva de la apelante), voy a ceñirme a lo que surge de dicho dictamen (arts. 384 y 474 del CPCC).
-Con lo cual voy a considerar la incapacidad derivada de la fractura costal y también la incapacidad psíquica.
-Es hora de analizar el monto fijado.
-Aquí hay algunas cosas importantes que, creo, debemos tener en cuenta.
-Cuando se trata de una incapacidad permanente, a diferencia de si fuera transitoria, no se pueden volver las cosas al estado anterior al hecho.
-Como ha señalado la Suprema Corte, "incapacidad sobreviniente es la secuela o disminución física o psíquica que pudiera quedar luego de completado el período de recuperación o restablecimiento, lo que no puede confundirse con el lucro cesante" (SCBA, C 122050, 05/06/2019, "M. ,L. M. c/ M. ,F. R. y o. s/ Daños y perjuicios", entre otras).
-Con lo cual, no queda mas -para fijar la reparación- que establecer una suma de dinero.
-La cuestión es cómo fijar esa suma de dinero.
-El tema es complejo por varias razones.
-La fundamental es que nos hallamos con un perjuicio actual pero que generó -y sigue generando- repercusiones económicas no solo pasadas y actuales sino también a futuro, porque se trata de una incapacidad permanente, instalada y que seguirá provocando consecuencias en los tiempos venideros, durante toda la vida de la persona damnificada.
-En sintonía con ello, el CCyCN nos indica que debemos fijar un capital de tal modo que sus rentas cubran la disminución de la aptitud del damnificado para realizar actividades productivas o económicamente valorables, y que se agote al término del plazo en que razonablemente pudo continuar realizando tales actividades.
-En este sentido, hay varias cuestiones: la indemnización, en el ámbito del daño patrimonial, se refiera no solo a las actividades productivas (el trabajo) sino también a las económicamente valorables.
-Es decir, la indemnización no se centra solamente en el aspecto laborativo de la persona, en la perdida o caída de sus ingresos derivados de la actividad productiva, sino que es mucho mas amplia, porque habla de actividades económicamente valorables.
-Así, por ejemplo, si la lesión física imposibilitara o dificultara a una persona desarrollar alguna tarea de su ámbito doméstico y cotidiano (aseo del domicilio, cortar el pasto, realizar pequeñas reparaciones, etc.) esto también entra dentro del daño material.
-De este modo, y a mi modo de ver, el rubro es omnicomprensivo de todas esas cuestiones en las cuales la lesión, y la incapacidad genera alguna repercusión económica.
-Como ha dicho la Corte Suprema de Justicia "cuando la víctima resulte disminuida de sus aptitudes físicas o psíquicas de manera permanente, esta incapacidad debe ser objeto de reparación al margen que desempeñe o no una actividad productiva, pues la integridad física tiene en sí misma un valor indemnizable y su lesión afecta diversos aspectos de la personalidad que hacen al ámbito doméstico, social, cultural y deportivo, con la consiguiente frustración del desarrollo pleno de su vida" (Corte Sup., 5/3/2024, "Lacave, Flora B. Y Otros C/ Buenos Aires, Provincia De Y Otros S/Cuaderno De Prueba Parte Actora").
-Para evaluar el monto del resarcimiento por la disminución de las aptitudes físicas no es necesario ajustarse a criterios matemáticos ni tampoco a los porcentajes fijados en la ley de accidentes de trabajo, aunque puedan ser útiles como pauta de referencia. Deben tenerse en cuenta, además, las circunstancias personales del damnificado, la gravedad de las secuelas y los efectos que estas puedan tener en su vida laboral y de relación
-Volviendo al artículo, vemos que el mismo nos brinda pautas sobre cómo fijar ese resarcimiento.
-Con todo, se produce una situación compleja, en una economía no siempre estable y con importante fluctuación de tasas de interés y rendimientos, para determinar cuál sería ese capital que, en un período prolongado (de varios años), genere las rentas que manda a computar el Código.
-Además de lo expuesto, y en cuanto a la forma de tarifar el daño, considero que, si bien de manera indicativa, los guarismos económicos pueden resultar de utilidad, no siempre el uso de fórmulas matemáticas (a las que no se refiere el artículo citado) nos va a acercar del todo a la plenitud resarcitoria de la que nos habla el art. 1740 del CCyCN.
-Es que, para ello, deberíamos contar con todos los elementos imprescindibles para trabajar.
-Con lo cual, si los ingresos de la víctima, por ejemplo, no estuvieran plena y cabalmente acreditados (por la razón que fuera, incluso con las dificultades que genera el trabajo desarrollado de manera informal) se termina trabajando con parámetros que, probablemente, no reflejen la realidad de la persona que ha recibido un daño en la integridad psicofísica.
-Así, por ejemplo, cuando se toma el salario mínimo vital y móvil, la utilización de una fórmula nos acercará a la cuantía del perjuicio solo en el caso de que esos sean los ingresos de la víctima, pero si los mismos son mayores, ya nos alejamos de la plenitud resarcitoria.
-Por lo demás, en la medida en que estuviera probado el perjuicio, pero faltaran los elementos para trabajar, el CPCC tiene una respuesta: la del art. 165 del CPCC: igualmente debe fijarse el resarcimiento, acudiendo a las posibilidades allí mencionadas.
-Pero al trabajar con una fórmula en la que alguna de sus variables no refleje, con exactitud, la situación y los elementos relevantes del caso concreto, entiendo que el resultado al que llegamos muchas veces -por exceso o por defecto- no logrará el objetivo del art. 1740 del CCyCN (reparación plena).
-Además, las secuelas de las lesiones y los porcentajes de incapacidad no siempre impactan de la misma manera en las distintas personas, con diversas realidades vitales y ocupaciones.
-Así para quien desempeña tareas en las cuales lo físico es mas importante, un determinado porcentual de incapacidad tal vez genere un perjuicio mas grande que el que se le produce a una persona que lleve a cabo tareas en donde lo físico no resulte tan preponderante.
-Entonces, un mismo porcentaje, tomado en relación a quien pueda acreditar ingresos mayores, determinará una indemnización mas alta y tal vez esté generando un daño patrimonial mas importante a una persona que tenga ingresos menores pero para quien lo físico resulte de mayor incidencia en sus tareas productivas.
-Sumado a que la utilización de fórmulas, con cálculos que involucren porcentuales e ingresos, además, pierde de vista un aspecto muy importante al enfocarse solo en lo laboral, y no en las demás actividades (las económicamente valorables) de las que hablaba precedentemente.
-Asimismo, en fallos recientes ha dicho la Corte Suprema que "para evaluar el monto del resarcimiento por la disminución de las aptitudes físicas no es necesario ajustarse a criterios matemáticos ni tampoco a los porcentajes fijados en la ley de accidentes de trabajo, aunque puedan ser útiles como pauta de referencia. Deben tenerse en cuenta, además, las circunstancias personales del damnificado, la gravedad de las secuelas y los efectos que estas puedan tener en su vida laboral y de relación" (Corte Sup., 5/3/2024, "Lacave, Flora B. Y Otros C/ Buenos Aires, Provincia De Y Otros S/Cuaderno De Prueba Parte Actora").
-En otro precedente, remarcaba el Dr. Lorenzetti que:
-"en este ámbito de la responsabilidad civil, la cuantificación del daño a la persona ceñida a una aplicación matemática y estricta del porcentual de incapacidad laboral que estiman los médicos en el pleito, convertiría a la delicada tarea del juez en una actividad mecánica, meramente algebraica, incompatible con la imprescindible dimensión valorativa que toda sentencia debe realizar a la hora de ponderar adecuadamente el alcance y la entidad de los intereses lesionados de la víctima.
-De este modo, una reparación eficaz impone la exigencia de abandonar parámetros abstractos -elaborados para un sujeto medio e hipotético- para otorgarle pleno sentido a la reparación del daño conforme a la dimensión concreta de los perjuicios sufridos por la víctima. Solo de tal modo la tutela resarcitoria cumple con el principio cardinal, base de todo sistema jurídico, de la inviolabilidad de la persona humana" (su voto en la causa "Grippo Guillermo Oscar, Claudia P.Acuña Y Otros C/ Campos Enrique Oscar Y Otros S/Daños Y Perjuicios", fallo del 2 de Septiembre de 2021).
-Y no creo que cambie las cosas que esos casos se hubieran resuelto aplicando el ordenamiento anterior porque, como lo resaltaba, el art. 1746 del CCyCN no indica, expresamente, que se deba aplicar una fórmula matemática la cual, como decía anteriormente, al menos en mi concepción deja bastantes cuestiones sin respuesta.
-Con lo cual, por tales razones, sin perder de vista tampoco la opinión y postura mayoritaria de los restantes colegas que integran esta Cámara (en cuanto a la no aplicación de fórmulas matemáticas para la fijación de los resarcimientos), y teniendo en cuenta que incluso carecemos de todos los elementos y parámetros que permitan realizar la cuenta respectiva, considero que -en el caso concreto- no deberíamos ajustarnos al resultado de las fórmulas matemáticas a la hora de fijar el resarcimiento que corresponde, sino que trabajando con las distintas variables que el caso nos ofrece, y dando los fundamentos pertinentes, corresponderá procurar la fijación de aquel monto que nos manda a determinar el art. 1746 ya referido.
-Sentado ello, y determinado el porcentual incapacitante derivado del hecho, tenemos para valorar -además- las condiciones personales de quien reclama: se trata de una mujer, casada, que tenía 56 años al momento del accidente, con tres hijos.
-Sus condiciones personales surgen del expediente sobre beneficio de litigar sin gastos, tramitado ante el juzgado de origen y accesible vía MEV (expediente MO - 48502 - 2018, trámites de fecha 21 de Mayo de 2020 y 23 de Octubre de 2025).
-Conjugando ello con las repercusiones (concretas, no abstractas) de la que nos habla el perito, la incapacidad que le quedó instalada, con incidencia en distintas áreas de su integridad, lo cual impacta no solo en su actividad de índole productiva, sino también en las distintas tareas cotidianas que una persona la edad de la actora lleva a cabo, según las máximas de la experiencia, entiendo que el monto fijado es reducido, motivo por el cual propondré que se lo eleve a la suma de $18.000.000 (dieciocho millones de pesos) .
-Dejo aclarado, para cerrar el punto, que atento los términos del escrito inicial, lo relativo a la incapacidad transitoria no puede ser abordado en esta instancia (art. 272 del CPCC).
-En cuanto a los tratamientos futuros, la Sra. Jueza de grado desestimó el tratamiento psicológico recomendado por la perito, por considerar que el daño se encontraba consolidado.
-Respecto de esta cuestión, la pericia psicológica ya mencionada indica que a los fines de no agravar la sintomatología del trastorno referido se recomienda realizar tratamiento psicoterapéutico, indicando que el mismo consistirá en una sesión semanal por un período de un año y medio; en sus explicaciones ratifica esta conclusión.
-A mi modo de ver, no existe ninguna razón para apartarse del dictamen pericial en este punto (arts. 384 y 474 del CPCC).
-No comparto el razonamiento de la sentencia sobre el punto.
-Que una secuela sea permanente no impide que un tratamiento evite su agravamiento o atenúe sus efectos.
-Esa es, precisamente, una de las funciones del sistema: evitar que el daño ya causado se agrave o subsista (arts. 1710 y siguientes del CCyCN).
-Tampoco veo una doble indemnización: la incapacidad compensa la secuela instalada y el tratamiento procura que no empeore, que es justamente lo que aquí señaló la pericia.
-Sentado ello, y en lo que hace al monto, debemos considerar, especialmente, el costo medio actual al que, conforme las máximas de la experiencia (art. 384 del CPCC), ascienden dichas prestaciones, como así también la cantidad de sesiones indicadas, por lo que propondré que se fije por este concepto la suma de $1.500.000 (un millón quinientos mil pesos) .
-Sigo con los restantes rubros que llegan cuestionados y uno de ellos es el relativo a los gastos, que prosperó por $ 50.000
-Como sabemos, hay distintos gastos (pagos a médicos, traslados por diversos medios, comidas fuera del hogar, medicamentos, etc.) que se hace necesario efectuar frente a padecimientos psicofísicos y respecto de los cuales, en la emergencia, no se conservan comprobantes.
-Así, es de la lógica mas elemental -por ejemplo- que para atenderse en alguna clínica o consultorio hay que trasladarse hasta allí.
-O que cuando se producen patologías y aparecen dolores e incomodidades se recetan medicamentos, es necesario adquirir algunos insumos, entre otros gastos afines.
-En precedentes históricos, la Suprema Corte local sostuvo que "...el hecho que la víctima de un accidente de tránsito se haya atendido en establecimientos asistenciales públicos, no obsta a que en la indemnización se incluya una suma en concepto de gastos médicos y de farmacia, pues es notorio que existen erogaciones que deben ser solventadas por el paciente, aunque el resarcimiento se reitera- debe guardar concordancia con las lesiones, afección o enfermedad sufrida, sin que resulte indispensable que se encuentre documentado su importe S. C. B. A., Ac. y Sent., T° 1.976-I-549; D.J.B.A., T. 118-74-. y que "...corresponde presumir las erogaciones por tal concepto a cargo de la víctima aunque no este demostrado cabalmente su importe..." -S.C.B.A., T° 117, pág. 127-.
-Hoy esa presunción ha quedado consagrada en el art. 1746 del CCyCN.
-De este modo, teniendo en cuenta la índole de las lesiones de las que nos ha hablado el perito médico, como así también lo que surge de las constancias médicas que documentan la atención de la actora, considero que el rubro es procedente y la suma cuantificada por la Sra. jueza de grado -considerada a valores actuales- resulta reducida, motivo por el cual propondré que se la eleve a la suma de $150.000 (ciento cincuenta mil pesos).
-Es hora de abordar las quejas relativas al daño extrapatrimonial, rubro que prosperó por la suma de $ 2.000.000
-Decía anteriormente que un hecho puede generar consecuencias patrimoniales (de las que ya me ocupé), pero también consecuencias no patrimoniales (de las que voy a ocuparme ahora).
-Recordemos que la integridad moral, es uno de los derechos reconocidos en la aludida Convención Americana sobre Derechos Humanos, con lo cual aquí ya tenemos un punto de partida.
-Seguimos, ahora, por la legislación de fondo.
-El art. 1738 del CCyCN nos indica que el concepto de daño incluye especialmente las consecuencias de la violación de los derechos personalísimos de la víctima, de su integridad personal, su salud psicofísica, sus afecciones espirituales legítimas y las que resultan de la interferencia en su proyecto de vida.
-Por su parte, el art. 1741 del CCyCN indica que está legitimado para reclamar la indemnización de las consecuencias no patrimoniales el damnificado directo y que el monto de la indemnización debe fijarse ponderando las satisfacciones sustitutivas y compensatorias que pueden procurar las sumas reconocidas.
-Clásicamente, la Suprema Corte provincial venía señalando que el daño moral resulta de una lesión a los sentimientos, en el padecimiento y las angustias sufridas, molestias, amarguras, repercusión espiritual, producidos en los valores más íntimos de un ser humano; que, probado el daño, el monto de la indemnización ha sido deferida por la ley al soberano criterio del Juez, y éste -a falta de pautas concretas resultantes de las constancias del proceso- ha de remitirse a sus propias máximas de experiencia (conf. entre otros: S.C.B.A., Ac. y Sent., 1992, t. I., pág. 99; 1974, t. I., pág. 315; 1975, pág. 187).
-En fechas mas recientes, se ha señalado que la indemnización del daño moral resarce el detrimento o lesión en los sentimientos, en las íntimas afecciones de una persona y que tiene lugar cuando se infiere un gravamen apreciable a ellas o, en general, cuando se agravia un bien extrapatrimonial o derecho de la persona digno de tutela jurídica (SCBA, C 122006, 11/08/2020, "Rodríguez, Alejandra c/ Doffo, Bruno Abel s/ Cumplimiento de contratos civiles y comerciales").
-Estos conceptos pueden seguirse utilizando, perfectamente, para aproximarnos a la idea de consecuencias no patrimoniales, lo cual -a mi juicio- se inscribe en un paradigma mucho mas amplio: el derecho de toda persona a vivir en paz, en ausencia de conflicto, en tranquilidad (sobre el tema puede verse ROMANO, Carlos, Derechos humanos de los pueblos, Lajouane, 2021, ps. 224 y siguientes) y que se ve menoscabado cuando se produce algún suceso dañoso, y ello altera la armonía vivencial.
-Por cierto, se trata de un rubro resarcitorio (para la víctima) y no sancionatorio (para el victimario).
-Coincido, además, con la tesis que sostiene que cuando se le producen a la víctima lesiones físicas, y estas incluso dejan instalada una incapacidad de carácter permanente el daño derivado de las consecuencias extrapatrimoniales puede presumirse, sin necesidad de prueba específica (art. 1741, parte final, CCyCN).
-Sentado ello, computando la índole misma del hecho dañoso (y especialmente la magnitud del impacto), las lesiones que se le produjeron a la actora (incluyendo una fractura, con el monto de dolor que ello implica), los tratamientos a los que debió someterse y la incapacidad que le quedó instalada, entiendo que -desde la perspectiva de las reparaciones sustitutivas- la suma fijada resulta reducida, por lo que propondré que se la eleve a la suma de $8.000.000 (ocho millones de pesos) .
-Me queda por tratar el siguiente agravio, relativo a la actualización monetaria.
-La sentencia de primera instancia ha declarado la inconstitucionalidad del art. 7 de la ley 23.928 y dispuesto la repotenciación del capital de condena desde la fecha de la sentencia de primera instancia hasta el momento del efectivo pago conforme índice de precios al consumidor, capital al que se le añadirán los intereses calculados a la tasa del 6% anual desde la fecha del hecho y hasta la del efectivo pago.
-Llegado este punto, y abordando los agravios, no dejo de resaltar que -desde mi punto de vista- es un temperamento muy valioso el de procurar prever las diversas alternativas que pueden darse, en el mismo momento de sentenciar, para evitar discusiones posteriores.
-Esto hace a la economía y celeridad procesal, y simplifica las cuestiones; incluso aunque sume mas trabajo al momento de sentenciar.
-Pero, aun así, creo que no corresponde seguir ese temperamento.
-Es que, en verdad, el análisis de la procedencia, o no, de la declaración de inconstitucionalidad, en este momento, se apoya solo en una eventualidad de perjuicio y erosión del valor de los rubros resarcitorios, que se produciría -a futuro- pero dependiendo de qué es lo que suceda tanto con la actitud de las partes (no podemos descartar que la condena se cumpla inmediatamente) como con las restantes variables económicas.
-Además, desde mi punto de vista, y sin desconocer la posibilidad de declarar inconstitucionalidades de oficio, en el antecedente "Barrios" la SCBA ha supeditado ese análisis no solo al pedido de parte sino a una labor argumental que deje en evidencia la existencia del agravio al derecho del acreedor, lo cual exige la comparación de variables, índices, guarismos y resultados que, a mi juicio, solo puede llevarse a cabo mirando hacia atrás (lo sucedido) y no con una mirada a futuro.
-Por lo tanto, creo que al dictar sentencia y al fijar los montos resarcitorios (a valores actuales del momento de la sentencia) no estamos en condiciones de determinar, todavía, si se producirá, o no, lesión constitucional en la prohibición de actualizar.
-Creo entonces, y sin dejar de resaltar la valiosa intención que subyace a la decisión apelada, que este aspecto de la sentencia debería revocarse, dejándose sin efecto la inconstitucionalidad y la orden de actualización; sin perjuicio -claro está- de lo que las partes pudieran plantear a futuro.
-Conexamente con ello, y en lo que hace a la tasa de interés, la SCJBA se ha expedido en la causa C 123.090, "Paredes Roberto Gabriel Horacio c/ Transporte La Perlita S.A. s/ Ds. y Pj." (fallo del 18-09-2020) considerando aplicable la doctrina sentada en materia de cálculo de intereses en casos de evaluaciones de deudas realizadas a valor real en las causas C.120.536 "Vera", sent.de 18-04-2018 y C.121.134, "Nidera", sent. de 3-05-2018 a un supuesto análogo presente.
-Esta orientación fue mantenida en precedentes posteriores y no se la abandonó, tampoco, en el mas reciente caso "Barrios".
-Por lo demás, converge en el mismo sentido la orientación de la Corte Suprema de Justicia de la Nación, sostenida en el caso "Barrientos" (sentencia del 15 de Octubre de 2024).
-Luego, por tales fundamentos, teniendo en cuenta la época a la que se están cuantificando los rubros -es decir, a la fecha de esta sentencia- y siendo que este momento de determinación de los valores es el que marca la fecha de corte para la aplicación de la tasa pura, deberá modificarse la sentencia apelada, dejando establecido que la tasa del 6% se aplicará desde la fecha del hecho hasta la fecha de esta sentencia y, de allí en mas, y hasta la oportunidad del efectivo pago y sin capitalizar los intereses devengados en el lapso anterior, se computará la tasa pasiva más alta fijada por el Banco de la Provincia de Buenos Aires en sus depósitos a treinta días, vigente al inicio de cada uno de los periodos comprendidos y, por aquellos días que no alcancen a cubrir el lapso señalado, el cálculo deberá ser diario con igual tasa.
-Sigo con los temas vinculados a la extensión de la condena a la citada en garantía.
-Así, llegando reconocido el vínculo asegurativo, la condena deberá hacerse extensiva a la aseguradora en los términos del contrato de seguro (art. 118 ley 17.418) aunque con alguna aclaración.
-Para comenzar, entiendo que los términos de la póliza contratada son oponibles a la víctima que trae en garantía a la aseguradora (Corte Sup., "Flores").
-Con todo, es necesario calibrar los límites de esa oponibilidad.
-Recordaré, en este sentido, que la SCBA en causa 119088 ha dicho que "que el art. 68 de la ley 24.449, al imponer el requisito del seguro obligatorio, no pretende otra cosa que proteger -con carácter de orden público- a las víctimas de accidentes de tránsito y asegurar su reparación, poseyendo un verdadero fundamento tuitivo, de seguridad social.
-Dicha obligatoriedad es una pieza más del sistema de protección de las víctimas porque la garantía de solvencia que -en ejercicio de una función social- ofrecen las aseguradoras permite que los daños irrogados con el ejercicio de determinadas actividades (como ser la conducción de un automóvil) sean efectivamente reparados (conf. Mosset Iturraspe, Jorge y Rosatti, Horacio, "Derecho de tránsito. Ley 24.449", Rubinzal-Culzoni, Santa Fe, 1995, pág. 269 y sigs.).
-Así, el seguro obligatorio -que no se agota en la relación jurídica que vincula al asegurado con el asegurador- también obedece a una necesidad y función socializadora y colectivizadora de los riesgos, atenta primordialmente a la protección de la víctima a través de la efectiva reparación de sus daños; de modo que una razonable aplicación de las cláusulas del contrato, ponderadas a la luz de la tutela reglamentaria de la Superintendencia de Seguros de la Nación y del principio de reparación integral de los damnificados, debe llevar a extender la garantía contratada incorporando la cobertura básica vigente al momento de la valuación judicial del daño contenida en la sentencia definitiva, sustituyendo dicho componente en su valor histórico, y sin perjuicio del mayor valor pactado por encima de dicho mínimo obligatorio y las demás prestaciones o riesgos convencionalmente comprometidos por la aseguradora (conf. arts. 1, 14, 17, 19, 28, 31, 33, 75 inc. 22 y concs., Const. nac.; 16, 21, 499, 502, 530, 907, 953, 1.037, 1.068, 1.069, 1.071, 1.077, 1.079, 1.109, 1.137, 1.167, 1.197, 1.198 y concs., Cód. Civ.; 68 y concs., ley 24.449; 23, 24, 25, 30, 31, 33, 43, y concs., ley 20.091; 5, 7, 11, 61, 62, 65, 68, 69, 109, 118, 158 y concs., LS; 3, 37 y concs., ley 24.240; arts. 217, 218, 219 y concs., Cód. Com.; 47, 92 y concs., ley 11.430)."
-Ese es el criterio que ha de aplicarse aquí y que no tiene que ver con la conducta, o inconducta, de la aseguradora, sino que apunta a la reparación integral, y efectiva, del daño causado.
-Por lo demás, a lo que se tiende es a que el valor de la prestación de la aseguradora se mantenga, apegándose no a montos caprichosos, sino a los mínimos establecidos por la autoridad competente.
-Desde ya, tampoco hay modificación de la esencia del vínculo asegurativo, sino llevar a valores actuales, aquello que originariamente se pactó y que perdería toda virtualidad a raíz de circunstancias ajenas a los actores, que en definitiva son quienes han sufrido el daño y deben ser resarcidos.
-Mas aún en tiempos de progresivo deterioro de nuestro signo económico, donde valores fijados hace unos años pueden perder toda virtualidad tiempo después.
-Algo mas para decir: recientemente la SCBA ha resuelto que esta doctrina aplica también a los casos de seguro voluntario (SCBA, 2/9/2025, en la causa C. 124.368, "Montaño y Zarate, Ana María y otros contra Faccio, Julio César y otros. Daños y perjuicios")
-No hay, entonces, razón para apartarse de la doctrina de la SCBA sobre el particular, independientemente del tipo de seguro del que estemos hablando.
-Con lo cual, y de acuerdo con las circunstancias que ostenta el presente caso, entiendo que deberá confirmarse la sentencia apelada en este aspecto.
-3) Luego, y por todo ello, considero que se deberá modificar la sentencia apelada elevando las sumas fijadas en concepto de incapacidad, gastos y daño extrapatrimonial a las de $18.000.000 (dieciocho millones de pesos) , $150.000 (ciento cincuenta mil pesos) y $8.000.000 (ocho millones de pesos) , respectivamente, y admitiendo el rubro tratamiento psicológico por la suma de $1.500.000 (un millón quinientos mil pesos) . También deberá dejarse sin efecto la declaración de inconstitucionalidad del art. 7 de la ley 23.928 y la actualización del capital allí dispuesta. Los intereses se calcularán a la tasa del 6% anual desde la fecha del hecho hasta la de esta sentencia. De allí en más, y hasta el efectivo pago, sin capitalizar los intereses devengados en el lapso anterior, se aplicará la tasa pasiva más alta fijada por el Banco de la Provincia de Buenos Aires en sus depósitos a treinta días, vigente al inicio de cada uno de los períodos comprendidos; por los días que no alcancen a cubrir el lapso señalado, el cálculo será diario con igual tasa. Confirmando la sentencia apelada en lo demás que decide y ha sido materia de agravio.
-Las costas de alzada se deberán imponer a la demandada y citada en garantía, sustancialmente vencidas (art. 68 del CPCC).
-Lo expuesto me lleva a votar en la cuestión propuesta
-PARCIALMENTE POR LA NEGATIVA
-A LA MISMA CUESTIÓN, LA SEÑORA JUEZA DOCTORA LUDUEÑA DIJO:
-Adhiero a la propuesta del voto que antecede por sus mismos fundamentos, dando el mio
-PARCIALMENTE POR LA NEGATIVA
-Con lo que terminó el Acuerdo, dictándose la siguiente:
-S E N T E N C I A
-AUTOS Y VISTOS: CONSIDERANDO: Conforme al resultado obtenido en la votación que instruye el Acuerdo que antecede, SE MODIFICA la sentencia apelada ELEVANDO las sumas fijadas en concepto de incapacidad, gastos y daño extrapatrimonial a las de $18.000.000 (dieciocho millones de pesos) , $150.000 (ciento cincuenta mil pesos) y $8.000.000 (ocho millones de pesos) , respectivamente, y ADMITIENDO el rubro tratamiento psicológico por la suma de $1.500.000 (un millón quinientos mil pesos) . SE DEJA SIN EFECTO la declaración de inconstitucionalidad del art. 7 de la ley 23.928 y la actualización del capital allí dispuesta, ESTABLECIENDO que los intereses se calcularán a la tasa del 6% anual desde la fecha del hecho hasta la de esta sentencia. De allí en más, y hasta el efectivo pago, sin capitalizar los intereses devengados en el lapso anterior, se aplicará la tasa pasiva más alta fijada por el Banco de la Provincia de Buenos Aires en sus depósitos a treinta días, vigente al inicio de cada uno de los períodos comprendidos; por los días que no alcancen a cubrir el lapso señalado, el cálculo será diario con igual tasa. SE CONFIRMA la sentencia apelada en lo demás que decide y ha sido materia de agravio.
-Costas de alzada , a la demandada y citada en garantía (art. 68 del CPCC).
-SE DIFIERE la regulación de honorarios profesionales para su oportunidad.
-REGISTRESE. NOTIFIQUESE en los términos del Acuerdo 4013/21 de la S.C.J.B.A., mediante resolución autonotificable, a los siguientes domicilios electrónicos:
-27230733010@NOTIFICACIONES.SCBA.GOV.AR ; MTORT@MPBA.GOV.AR y 20325285142@NOTIFICACIONES.SCBA.GOV.AR
-FIRMAN LA PRESENTE SENTENCIA LA SRA. JUEZA, EL SR. JUEZ Y EL FUNCIONARIO INTERVINIENTE TAL COMO QUEDA CONSIGNADO -CON EXPRESIÓN DE FECHA Y HORA- EN LAS REFERENCIAS QUE SE AGREGAN A CONTINUACIÓN.
-DEVUELVASE SIN MAS TRAMITE AL JUZGADO DE ORIGEN, DEJANDO CONSTANCIA DE QUE, PARA EL CASO DE SER NECESARIA LA ELEVACION DE LAS ACTUACIONES FRENTE A ALGUNA PRESENTACION DE LAS PARTES, LAS MISMAS SERÁN REQUERIDAS POR ESTE TRIBUNAL
-```
-
----
-
-### 3. [RS-383-2026] SANCHEZ ARNALDO C/ CEJAS LAZARO LUCINDO Y OTROS S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
-- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - MORON
-- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
-- **Número de Causa / Expediente**: `MO-36329-2012`
-- **Fecha**: 22-10-2026
-- **Número de Registro**: `RS-383-2026`
-- **Código de Acceso SCBA**: `3E4D62EE`
-- **Firmantes**: Funcionario: QUADRI Gabriel Hernan JUEZ --- Certificado Correcto
-- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 383-2026 - Código acceso: 3E4D62EE - PUBLICO | Registrado por: OSORIO Ricardo Amilcar - Fecha registración: 22/10/2026 12:34
-
-#### Texto Íntegro
-```text
-///En la ciudad de Morón, Provincia de Buenos Aires, celebran Acuerdo de Sala la Señora Jueza Dra. Liliana Graciela Ludueña (Presidenta de esta Sala I) y el Señor Juez Dr. Gabriel Hernán Quadri conforme lo establecido en el Acuerdo Extraordinario nro. 908/2025, para pronunciar sentencia en los autos caratulados " SANCHEZ ARNALDO C/ CEJAS LAZARO LUCINDO Y OTROS S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO) " , de conformidad con el artículo 168 de la Constitución de la Provincia de Buenos Aires, por lo que habiéndose practicado el sorteo pertinente (art. 266 del Código Procesal Civil y Comercial) con la integración correspondiente, resulta que debe observarse el siguiente orden de votación: doctores LUDUEÑA - QUADRI, resolviéndose plantear y votar las siguientes:
-C U E S T I O N E S
-1ra. ¿Es justa la sentencia apelada de fecha 07/10/2025?
-2da. ¿Qué pronunciamiento corresponde dictar?
-V O T A C I O N
-A LA PRIMERA CUESTION : la Señora Jueza doctora LUDUEÑA, dijo:
-I.- Contra la sentencia dictada con fecha 07/10/2025 interponen recursos de apelación el actor Arnaldo Sánchez, el demandado Mancabri y la citada en garantía Federación Patronal Seguros S.A. que concedidos libremente son sustentados con fecha 05/08/2026 y 07/08/2026. Los traslados son evacuados mediante sus respectivas presentaciones del dpia 21/08/2026 y del 24/08/2026.
-La Sra. Jueza a-quo hace lugar a la demanda de daños y perjuicios promovida por Arnaldo Sánchez contra Lázaro Lucindo Cejas y Mancabri, haciendo extensiva la condena a Federación Patronal Seguros S.A., condenándoles a pagar la suma de pesos quince millones ciento cincuenta mil ($15.150.000), con más su actualización monetaria, intereses y costas.
-II.- En forma previa a abordar el recurso que me convoca, considero adecuado precisar cuál debe ser la normativa que subsume al caso en tratamiento. En tal sentido, se ha señalado, que las consecuencias jurídicas aún no ocurridas al dictarse el Código Civil y Comercial de la Nación, quedan gobernadas por éste; en cambio, las consecuencias ya producidas están consumadas y no resultan afectadas por las nuevas leyes, pues lo impide la noción de consumo jurídico.
-De modo tal, teniendo en cuenta que el hecho por el que se acciona aconteció antes del 1° de agosto de 2015, corresponde aplicar la normativa entonces vigente, es decir, el Código Civil derogado. Ello así, en atención a encontrarse la situación jurídica consolidada al amparo del mismo (esta Sala, causas 55234 R.S.4/16; MO-31028-2013 R.S.51/17; MO-28863-2010 R.S.154/18; MO-15334-2012 R.S.12/19).
-III.- Tras analizar las pruebas traídas al proceso conforme a las reglas de la sana crítica, concluyó la Sentenciante que: "De este modo, no habiendo el demandado, alegado ni probado motivo alguno de eximición, aunque mas no fuera parcial de su presumida responsabilidad, tengo por acreditada la existencia del nexo causal invocado en la demanda y deberá responder por los daños y perjuicios sufridos por la actora como consecuencia del siniestro motivo de autos (art.906 del C. Civil)."
-IV.- Conforme surge del escrito liminar, el evento dañoso se produjo el día 16/04/2012 cuando el actor circulaba a bordo de su motocicleta dominio 831HZU por la Avenida Mosconi de Lomas del Mirador, en dirección desde Avenida General Paz hacia San Justo. Al arribar a la intersección con la calle De La Democracia, el Peugeot 504 dominio RPK474, que circulaba en el mismo sentido, inició una maniobra de sobrepaso y giró hacia la derecha, embistiendo el lateral izquierdo del motovehículo y provocando la caída del accionante.
-La Sra. Jueza a-quo fija para el Sr. Sánchez la indemnización por daño biológico (comprensivo del daño psicofísico) en la suma de pesos diez millones ($10.000.000) .
-Se agravia el actor por considerar escasa la suma concedida. A su turno, e l demandado y la citada en garantía cuestionan conjuntamente el reconocimiento de una incapacidad por material de osteosíntesis en el tobillo izquierdo y consideran excesivo el monto indemnizatorio solicitando su rechazo o subsidiariamente su reducción.
-El Sr. Sánchez fue asistido el día del hecho en el Centro Médico Integral Fitz Roy por traumatismo de tobillo. Posteriormente asistió el 17/04/2012 al Centro Médico SOI y se le diagnosticó fractura del maléolo medial del tobillo izquierdo sin desplazamiento, indicándose inmovilización con bota corta de yeso, medicación y uso de muletas. Finalmente el 8/05/2012 fue intervenido quirúrgicamente mediante reducción y osteosíntesis de la fractura del maléolo tibial, estabilizada con dos clavijas (H.C. acompañadas el 10/02/2021, 17/08/2021 y 23/08/2022, arts. 375 y 384 CPCC).
-El Perito Médico Dr. Guillermo Alejandro Vera , en razón del examen clínico y los estudios complementarios practicados al Sr. Sánchez , determinó una incapacidad física parcial y permanente del 25,03% de la total obrera así discriminada: 6% por cervicalgia; 6% por lumbalgia; 6% por cicatriz en zona tibia tobillo izquierdo; 5% por fractura tobillo izquierdo; 5% por material de osteosíntesis (peritaje del 27/10/2023, explicaciones del 09/02/2024, arts. 384 y 474 CPCC).
-Tras analizar las constancias de autos conforme las reglas de la sana crítica, me aparto del porcentaje fijado en el peritaje médico del Dr. Vera en lo que respecta al 6% por cervicalgia y 6% por lumbalgia toda vez que las mencionadas lesiones no fueron debidamente acreditadas como coetáneas al accidente por el que se acciona (arts. 384, 474 CPCC).
-Tengo dicho que la osteosíntesis no otorga un porcentaje de incapacidad distinto a la secuela por la fractura operada, se coloca para mejorar su realización y evolución y por ello es que también me aparto del peritaje en lo que respecta al 5% por material de osteosíntesis en tobillo izquierdo (esta Sala I mis votos MO-40954-2017 y MO-23180-2017 R.S 211/23, arts. 384 y 474 CPCC).
-A su turno, la Perito Psicóloga Lic. Julieta Da Silva Araoz , luego de realizar las entrevistas y test de rigor al Sr. Sánchez , dictaminó: "No se han hallado evidencias de que el SR. SÁNCHEZ, ARNALDO, presente alteraciones psicopatológicas de origen reactivo relacionadas directa o indirectamente con el hecho de autos" (peritaje del 22/11/2022, explicaciones del 19/12/2022, arts. 384 y 474 CPCC).
-El peritaje traduce a los jueces -legos en medicina-, en lenguaje inteligible, las vinculaciones de causa a efecto que pueden suceder entre acontecimientos probados. El profesional reúne las características de asesor, de colaborador del juez, de ahí que el mismo constituye un elemento de vital importancia.
-La fuerza probatoria del dictamen pericial -reza el art. 474 del CPCC- será estimada por el Juez teniendo en consideración la competencia de los peritos, la uniformidad o disconformidad de sus opiniones, los principios científicos en que se funda, la concordancia de su aplicación con las reglas de la sana crítica y demás pruebas y elementos de convicción que la causa ofrezca, es decir que, el Código Procesal Civil y Comercial consagra con todas las letras el principio de la sana crítica como lo hizo en general con todos los medios de prueba (art. 384 cód. cit.; esta Sala I, mis votos causas 41423 R.S. 174/99; MO-31265-2010 R.S.49/16; MO-23318-09 R.S. 15/17; MO-19312-2011 R.S.132/18; MO-34575-2015 R.S. 47/19).
-Vengo sosteniendo que los porcentajes establecidos por los profesionales no son vinculantes y que la reparación patrimonial comprende tanto lo relativo a las lesiones traumáticas como a las psicológicas y a las estéticas, pues cabe atender a todas las calidades físicas, psicológicas y estéticas que permitan a la persona obrar normalmente, de modo tal que si las mismas se vieron afectadas por el hecho dañoso, el menoscabo debe ser reparado (esta Sala I mis votos causas 35393 R.S.90/96; 38585 R.S.181/97; 49388 R.S.9/04; 52023 R.S.236/05; MO-23318-09 R.S. 15/17; C11-56979 R.S.19/18; MO-7474-2012 R.S.96/19).
-Todas las lesiones de que puede ser víctima un ser humano son distintos rubros del daño indemnizable que en la medida que repercuta en intereses patrimoniales o extrapatrimoniales dará lugar a las correspondientes indemnizaciones (Vázquez Ferreyra Roberto, Importantísimos Aspectos del Derecho de Daños, en Curso de actualización de Derecho Procesal. Temas de apoyo. Prueba, Ed. Fundesi, pág. 229); o dicho de otro modo el resarcimiento de las lesiones físicas, psíquicas y estéticas debe, en principio, englobarse en un sólo rubro indemnizatorio, pues la medida del daño causado a la persona debe apreciarse en lo que representa como alteración y afectación no sólo del ámbito físico sino también del psíquico y estético (Trigo Represas Félix y López Mesa Marcelo, Tratado de la Responsabilidad Civil. El derecho de daños en la actualidad: teoría y práctica, T.IV-2004, n° 1D, Ed. La Ley; esta Sala I mis votos causas MO-15577-10 R.S. 149/2016; MO-19312-2011 R.S.132/18; MO-34575-2015 R.S. 47/19).
-Valorando que el Sr. Sánchez contaba con 24 años de edad a la fecha del hecho, de estado civil soltero, empleado como operario, estudios secundarios completos, la proyección en su vida de relación y las secuelas que padece en relación causal con el accidente, es que propongo en la medida de los agravios, confirmar el resarcimiento por daño biológico (comprensivo del daño psicofísico) en la suma de pesos diez millones ($10.000.000) a valores actuales .
-Ello así de conformidad con lo prescripto por los artículos 1068 y 1086 del Código Civil; 165 in-fine del CPCC, 375, 384 y 474 CPCC, rechazando sendos recursos.
-V.- Fija la Sra. Jueza a-quo el resarcimiento por el daño moral en la suma de pesos cinco millones ($5.000.000) . Apela el actor por considerar baja dicha suma. A su turno, el demandado y la citada en garantía solicitan el rechazo del rubro o subsidiariamente su disminución.
-A la luz de lo normado por el artículo 1078 del Código Civil, el daño moral debe comprender el resarcimiento de la totalidad de los padecimientos físicos y espirituales derivados del ilícito, su estimación no debe ni tiene por qué guardar proporcionalidad con los daños materiales emergentes del ilícito pues la magnitud del daño en tal sentido, sólo depende de la índole especial del hecho generador de la responsabilidad y no del resarcimiento específicamente referido al daño material. El reconocimiento y resarcimiento del daño moral depende -en principio- del arbitrio judicial para lo cual basta la certeza de que ha existido sin que sea necesaria otra precisión (causas 31042 R.S. 74/94; 51258 R.S.361/05; MO 6441-2008 R.S.91/13; MO-18823-2010 R.S.148/16; MO-14684-2012 R.S.122/17; MO-41863-2012 R.S.153/18; MO-7474-2012 R.S.96/19).
-Ello sentado, a la luz de las constancias objetivas de la causa, las dolencias padecidas por el actor que ameritaron su internación e intervención quirúrgica es que me llevan, en la medida de los agravios, fijar este resarcimiento en la suma de pesos seis millones ($6.000.000) a valores actuales , de conformidad con lo prescripto por el artículo 165 in fine CPCC, acogiendo los agravios del actor y rechazando los del demandado y de la citada en garantía.
-VI.- Fija la Sra. Jueza a-quo el resarcimiento por gastos de material médico y farmacia en la suma de pesos ciento cincuenta mil ($150.000) .
-Se agravian conjuntamente el demandado y la citada en garantía por considerar desproporcionada la cuantificación, solicitan su rechazo o su reducción en subsidio.
-La indemnización debida por los gastos de farmacia, médicos y traslados, más que un resarcimiento de los daños y perjuicios ocasionados, constituye un reintegro del valor de los gastos hechos por el lesionado, sea que los hubiere abonado con anterioridad o que los adeudare, ya que al pagar todos los gastos u obligarse a hacerlo, experimenta un menoscabo inmediato en su patrimonio, se trata en definitiva, de una pérdida real y efectivamente sufrida.
-Es decir que, la indemnización entonces, debe fijarse a la luz de lo prescripto por el artículo 165 in fine del CPCC, con suma prudencia, pues la falta de una prueba específica obliga a recurrir a dicha norma y no puede convertirse en una fuente de indebido beneficio.
-Por lo expuesto, propongo, en la medida de los agravios, confirmar el resarcimiento en la suma de pesos ciento cincuenta mil ($150.000) a valores actuales, rechazando el agravio del demandado y de la citada en garantía.
-VII.- La sentencia apelada declara la inconstitucionalidad del art.7 de la ley 23.928, disponiendo que el capital de condena fijado será repotenciado desde la fecha de la presente y hasta el momento del efectivo pago.
-En cuanto a la posibilidad de declarar inconstitucionalidades de oficio, en el antecedente "Barrios", la SCBA ha supeditado ese análisis no solo al pedido de parte, sino a una labor argumental que deje en evidencia la existencia del agravio al derecho del acreedor, lo cual exige la comparación de variables, índices, guarismos y resultados que, a mi juicio, solo puede llevarse a cabo mirando hacia atrás (lo sucedido) y no con una perspectiva a futuro.
-Por lo tanto, al dictar sentencia y al fijar los montos resarcitorios (a valores del momento de la decisión) no se está en condiciones de determinar, todavía, si se producirá, o no, lesión constitucional en la prohibición de actualizar.
-Conforme lo expuesto precedentemente, corresponde modificar este aspecto de la sentencia, dejar sin efecto la inconstitucionalidad y la orden de actualización fijada y estar a los montos que aquí se establecen (conf. esta Sala I mis votos causas MO-28153-2012 RS-103-2025; MO-3489-2019 RS-165-2025).
-Con respecto a la liquidación de los intereses , es doctrina recibida de la Suprema Corte de Justicia de la Provincia de Buenos Aires que el cálculo del crédito a valores actuales, pese a no identificarse con las operaciones estrictamente indexatorias, se asemeja a ellas en cuanto evidencia una respuesta frente al impacto negativo de factores económicos notorios, como son los derivados de las altas tasas de inflación experimentadas.
-Así concluye que, cuando se fije un quantum a valores actuales -como ocurre en la especie- debe aplicarse, en principio, el denominado interés puro al 6% a fin de evitar distorsiones en el cálculo y determinación del crédito (Vera C.120.536 del 18/4/2018 y Nidera S.A. C.121.134 del 3/05/2018; Paredes, Roberto c/ Transportes La Perlita S.A. y otros. Daños y perjuicios - C.123.090, sent. 18/9/2020; arts.161 inc. 3º ap "a" de la Constitución Provincial y 289 1º CPCC).
-Sigo de ello que, cuando la obligación sea exigible antes de su cuantificación y se fije dicho quantum a valores actuales, necesariamente se impone aplicar dos tasas diferentes: una desde que la obligación se hizo exigible hasta que se determinó el valor de la prestación y la otra desde este último momento hasta su pago.
-Nótese que no hay depreciación monetaria alguna desde el momento en que la obligación se torna exigible hasta la cuantificación de los daños, dado que los mismos se determinan en éste último instante -a valores actuales-, por lo que corresponde aplicar en dicho período un interés destinado a la retribución de la privación del capital, pero despojado de otros componentes, como la pérdida del valor adquisitivo de la moneda.
-Reiteradamente tengo dicho que para el cálculo de los intereses deberá aplicarse la alícuota del 6% anual, la que corresponderá ser impuesta al crédito indemnizatorio en cuestión desde que se hayan producidos los perjuicios establecidos en la sentencia -10/05/2018- y hasta el momento tenido en cuenta para la evaluación de la deuda, esto es la fecha de este decisorio de Cámara . Mientras que en el segundo período se aplicará, sin capitalizar, la tasa pasiva más alta fijada por el Banco de la Provincia de Buenos Aires en sus depósitos a treinta días, vigente al inicio de cada uno de los períodos comprendidos y, por aquellos días que no alcancen a cubrir el lapso señalado, el cálculo deberá ser diario con igual tasa (art. 37 f de la ley 5827, art. 772 CCCN).
-VIII.- Como los agravios dan la medida de la competencia de esta Alzada (arts. 260, 261 y 266 CPCC), se fijan a valores actuales las siguientes sumas: daño biológico (comprensivo del daño psicofísico) pesos diez millones ($10.000.000); daño moral pesos seis millones ($6.000.000); gastos de material médico y farmacia pesos ciento cincuenta mil ($150.000). Ha quedado firme por falta de ataque el rechazo de las indemnizaciones correspondientes al tratamiento kinésico, daños materiales y pérdida de valor venal. TOTAL: pesos dieciséis millones ciento cincuenta mil ($16.150.000) .
-Se revoca la inconstitucionalidad declarada de oficio en instancia de origen, dejándose constancia que los intereses se liquidarán conforme lo decidido en el punto VII.
-Costas de esta Instancia a los demandados y a la citada en garantía que resultan fundamentalmente vencidos (art. 68, 1° párrafo CPCC), difiriendo las regulaciones de honorarios para su oportunidad.
-Voto, en consecuencia, PARCIALMENTE POR LA AFIRMATIVA.
-A la misma cuestión, el Señor Juez doctor QUADRI , por iguales fundamentos, votó también PARCIALMENTE POR LA AFIRMATIVA.
-A LA SEGUNDA CUESTION , la Señora Jueza doctora LUDUEÑA , dijo:
-Conforme se ha votado la cuestión anterior, corresponde fijar a valores actuales las siguientes sumas: daño biológico (comprensivo del daño psicofísico) pesos diez millones ($10.000.000); daño moral pesos seis millones ($6.000.000); gastos de material médico y farmacia pesos ciento cincuenta mil ($150.000). Ha quedado firme por falta de ataque el rechazo de las indemnizaciones correspondientes al tratamiento kinésico, daños materiales y pérdida de valor venal. TOTAL: pesos dieciséis millones ciento cincuenta mil ($16.150.000) .
-Se revoca la inconstitucionalidad declarada de oficio en instancia de origen, dejándose constancia que los intereses se liquidarán conforme lo decidido en el punto VII.
-Costas de esta Instancia a los demandados y a la citada en garantía que resultan fundamentalmente vencidos.difiriendo las regulaciones de honorarios para su oportunidad.
-ASI LO VOTO
-El Señor Juez doctor QUADRI , por los mismos fundamentos, votó en análogo sentido.
-Con el que terminó el Acuerdo dictándose la siguiente:
-S E N T E N C I A
-AUTOS Y VISTOS: De conformidad al resultado que arroja la votación que instruye el Acuerdo que antecede, por unanimidad se fijan a valores actuales las siguientes sumas: daño biológico (comprensivo del daño psicofísico) pesos diez millones ($10.000.000); daño moral pesos seis millones ($6.000.000); gastos de material médico y farmacia pesos ciento cincuenta mil ($150.000). Ha quedado firme por falta de ataque el rechazo de las indemnizaciones correspondientes al tratamiento kinésico, daños materiales y pérdida de valor venal. TOTAL: pesos dieciséis millones ciento cincuenta mil ($16.150.000) .
-Se revoca la inconstitucionalidad declarada de oficio en instancia de origen, dejándose constancia que los intereses se liquidarán conforme lo decidido en el punto VII.
-Costas de esta Instancia a los demandados y a la citada en garantía que resultan fundamentalmente vencidos. difiriendo las regulaciones de honorarios para su oportunidad.
-LA PRESENTE RESOLUCIÓN SE PRONUNCIA EN LA CIUDAD DE MORÓN, PROVINCIA DE BUENOS AIRES, FIRMANDO LA SRA. JUEZA, EL SR. JUEZ Y EL FUNCIONARIO INTERVINIENTE TAL COMO QUEDA CONSIGNADO -CON EXPRESIÓN DE FECHA Y HORA- EN LAS REFERENCIAS QUE SE AGREGAN A CONTINUACIÓN.
-DEVUELVASE SIN MAS TRAMITE AL JUZGADO DE ORIGEN, DEJANDO CONSTANCIA DE QUE, PARA EL CASO DE SER NECESARIA LA ELEVACION DE LAS ACTUACIONES FRENTE A ALGUNA PRESENTACION DE LAS PARTES, LAS MISMAS SERÁN REQUERIDAS POR ESTE TRIBUNAL.
-Notifíquese de manera automatizada conforme Acuerdo n° 4013 de la S.C.B.A., a los siguientes domicilios electrónicos:
-23228450669@NOTIFICACIONES.SCBA.GOV.AR
-20255250648@NOTIFICACIONES.SCBA.GOV.AR
 ```
 
 ---

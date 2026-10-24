@@ -1,8 +1,8 @@
 {
-  "ultimaEjecucion": "2026-10-24T21:56:07.234Z",
+  "ultimaEjecucion": "2026-10-24T22:50:24.188Z",
   "juzgado7": {
     "nuevasSentencias": 0,
-    "nuevasResoluciones": 1,
+    "nuevasResoluciones": 0,
     "totalRegistrados": 438
   },
   "camaraAvellanedaLanus": {
@@ -11,20 +11,73 @@
     "totalRegistrados": 465
   },
   "camarasPBA": {
-    "nuevosFallos": 62,
-    "totalRegistrados": 512
+    "nuevosFallos": 44,
+    "totalRegistrados": 556
   },
   "arquitecturaCognitivaArxiv": {
-    "nuevosPapers": 60,
+    "nuevosPapers": 0,
     "totalRegistrados": 60
   },
-  "sincronizacionNube": {
-    "googleDriveLocal": null,
-    "rclone": null,
-    "githubPush": {
-      "ok": true,
-      "remote": "https://github.com/mauryrojo7-a11y/jurisprudencia-pba.git",
-      "changesCommitted": true
-    }
+  "particionesNotebookLM": {
+    "01_Juzgado_Parte": [
+      {
+        "archivo": "01_Juzgado_Parte1.md",
+        "palabras": 369395,
+        "palabrasEstricto": 376938,
+        "fallos": 86
+      },
+      {
+        "archivo": "01_Juzgado_Parte2.md",
+        "palabras": 369691,
+        "palabrasEstricto": 379206,
+        "fallos": 219
+      },
+      {
+        "archivo": "01_Juzgado_Parte3.md",
+        "palabras": 148608,
+        "palabrasEstricto": 152709,
+        "fallos": 133
+      }
+    ],
+    "02_Camara_Parte": [
+      {
+        "archivo": "02_Camara_Parte1.md",
+        "palabras": 370165,
+        "palabrasEstricto": 379389,
+        "fallos": 238
+      },
+      {
+        "archivo": "02_Camara_Parte2.md",
+        "palabras": 331849,
+        "palabrasEstricto": 340194,
+        "fallos": 227
+      }
+    ],
+    "03_Camaras_PBA_Parte": [
+      {
+        "archivo": "03_Camaras_PBA_Parte1.md",
+        "palabras": 366701,
+        "palabrasEstricto": 377005,
+        "fallos": 142
+      },
+      {
+        "archivo": "03_Camaras_PBA_Parte2.md",
+        "palabras": 368109,
+        "palabrasEstricto": 378277,
+        "fallos": 118
+      },
+      {
+        "archivo": "03_Camaras_PBA_Parte3.md",
+        "palabras": 369532,
+        "palabrasEstricto": 378200,
+        "fallos": 187
+      },
+      {
+        "archivo": "03_Camaras_PBA_Parte4.md",
+        "palabras": 202229,
+        "palabrasEstricto": 206308,
+        "fallos": 109
+      }
+    ]
   }
 }
