@@ -122,13 +122,19 @@ async function buscarEnOrganismo({
   textoIncluido = "",
   baseUrl = BASE_URL_PRIMERA
 }) {
-  const registroNombre = String(idRegistro) === "1" ? "REGISTRO DE SENTENCIAS" : "REGISTRO DE RESOLUCIONES";
+  const regStr = String(idRegistro);
+  let registroNombre = "REGISTRO DE RESOLUCIONES";
+  if (regStr === "1") registroNombre = "REGISTRO DE SENTENCIAS";
+  else if (regStr === "2") registroNombre = "REGISTRO DE RESOLUCIONES";
+  else if (regStr === "4") registroNombre = "REGISTRO DE SENTENCIAS DE SUPREMA CORTE";
+  else if (regStr === "5") registroNombre = "REGISTRO DE RESOLUCIONES DE SUPREMA CORTE";
+
   const payload = {
     fDesde,
     fHasta,
     texoIncluido: textoIncluido, // Nombre exacto del campo en el DOM de SCBA
     idOrganismo: String(idOrganismo),
-    idRegistro: String(idRegistro),
+    idRegistro: regStr,
     nombreOrganismo,
     registro: registroNombre
   };
@@ -228,6 +234,107 @@ async function obtenerTextoIntegro(idCodigoAcceso, baseUrl = BASE_URL_PRIMERA) {
     firmantes,
     registracion,
     textoIntegro
+  };
+}
+
+/**
+ * Extrae metadatos enriquecidos, sumario JUBA / síntesis y doctrina legal aplicable
+ * de un fallo de la Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA - Causas C. / Ac.).
+ */
+function extraerDoctrinaYSumarioSCBA(textoIntegro, caratulaTabla = "", nroExpediente = "") {
+  const txt = String(textoIntegro || "");
+  if (!txt) {
+    return {
+      caratulaCompleta: caratulaTabla,
+      tribunalOrigen: "",
+      magistradosVotantes: "",
+      cuestionPlanteada: "",
+      precedentesCitados: [],
+      doctrinaLegalAplicable: [],
+      resolucionDispositiva: ""
+    };
+  }
+
+  // 1. Carátula completa si en la tabla figura anonimizada con puntos
+  let caratulaCompleta = caratulaTabla;
+  const acuerdoCaratulaMatch =
+    txt.match(/causa\s+(?:C\.|Ac\.)\s*[\d.]+,\s*"([^"]+)"/i) ||
+    txt.match(/^(?:C\.|Ac\.)\s*[\d.]+\s+"([^"]+)"/m);
+  if (acuerdoCaratulaMatch && (!caratulaCompleta || /^\.+/.test(caratulaCompleta))) {
+    caratulaCompleta = `${acuerdoCaratulaMatch[1].trim()} (${caratulaTabla || nroExpediente})`;
+  }
+
+  // 2. Magistrados votantes (Ac. 2078)
+  let magistradosVotantes = "";
+  const votMatch = txt.match(/orden de votaci[oó]n[^:]*:\s*([^\n.]+)\./i);
+  if (votMatch) {
+    magistradosVotantes = votMatch[1].trim();
+  }
+
+  // 3. Tribunal de Origen (Cámara o Tribunal apelado)
+  let tribunalOrigen = "";
+  const camMatch = txt.match(/((?:La\s+)?(?:Sala\s+[I|V|X\d]+\s+de\s+la\s+)?C[aá]mara\s+(?:Primera\s+|Segunda\s+|I+\s+)?de\s+Apelaci[oó]n\s+en\s+lo\s+Civil\s+y\s+Comercial[^\n.,;]*|Tribunal\s+de\s+Familia[^\n.,;]*)/i);
+  if (camMatch) {
+    tribunalOrigen = camMatch[1].replace(/^La\s+/i, "").trim();
+  }
+
+  // 4. Cuestión Planteada en el Acuerdo
+  let cuestionPlanteada = "";
+  const cuestMatch = txt.match(/C\s*U\s*E\s*S\s*T\s*I\s*[OÓ]\s*N(?:\s*E\s*S)?\s*\n+([^\n]+(?:\n¿[^\n]+)*)/i);
+  if (cuestMatch) {
+    cuestionPlanteada = cuestionPlanteada = cuestMatch[1].replace(/\s+/g, " ").trim();
+  }
+
+  // 5. Precedentes de la SCBA citados en el fallo (Causas C., Ac., L., B., etc.)
+  const precedentesSet = new Set();
+  const rxPrec = /\b(?:causas?\s+)?(C\.\s*\d{2,3}\.\d{3}|Ac\.\s*\d{2,3}\.\d{3}|L\.\s*\d{2,3}\.\d{3}|B\.\s*\d{2,3}\.\d{3})\b/gi;
+  for (const m of txt.matchAll(rxPrec)) {
+    const code = m[1].replace(/\s+/g, " ").trim();
+    if (!nroExpediente || !code.replace(/\D/g, "").includes(nroExpediente.replace(/\D/g, ""))) {
+      precedentesSet.add(code);
+    }
+  }
+  const precedentesCitados = [...precedentesSet].slice(0, 15);
+
+  // 6. Doctrina Legal Aplicable / Sumario JUBA extraído de los fundamentos centrales de la Corte
+  const parrafos = txt.split(/\n+/).map(p => p.trim()).filter(p => p.length > 90);
+  const doctrinaParrafos = [];
+  const rxDoctrina = /(tiene dicho esta Corte|doctrina legal|esta Suprema Corte|art\.\s*279|art\.\s*289|vicio de absurdo|recurso extraordinario de inaplicabilidad|principio de congruencia|tasa de inter[eé]s|Barrios|obligaci[oó]n de dar dinero|valoraci[oó]n de la prueba|costas|caducidad|prescripci[oó]n|inconstitucionalidad)/i;
+
+  for (const p of parrafos) {
+    if (/^(A C U E R D O|A N T E C E D E N T E S|S E N T E N C I A|AUTOS Y VISTOS|Reg[ií]strese)/i.test(p)) continue;
+    if (rxDoctrina.test(p)) {
+      doctrinaParrafos.push(p);
+      if (doctrinaParrafos.length >= 4) break;
+    }
+  }
+  if (doctrinaParrafos.length === 0 && parrafos.length > 1) {
+    doctrinaParrafos.push(...parrafos.slice(1, 3));
+  }
+
+  // 7. Parte Dispositiva / Sentencia
+  let resolucionDispositiva = "";
+  const sentIdx = txt.search(/\bS\s*E\s*N\s*T\s*E\s*N\s*C\s*I\s*A\b|\bPOR ELLO,\s*se\s*resuelve:/i);
+  if (sentIdx !== -1) {
+    resolucionDispositiva = txt
+      .slice(sentIdx)
+      .replace(/^S\s*E\s*N\s*T\s*E\s*N\s*C\s*I\s*A\s*/i, "")
+      .split(/\n/)
+      .filter(l => !/^Reg[ií]strese|^Suscripto|^Funcionario:|^---/i.test(l.trim()))
+      .slice(0, 6)
+      .join(" ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  return {
+    caratulaCompleta,
+    tribunalOrigen,
+    magistradosVotantes,
+    cuestionPlanteada,
+    precedentesCitados,
+    doctrinaLegalAplicable: doctrinaParrafos,
+    resolucionDispositiva
   };
 }
 
@@ -339,6 +446,7 @@ async function ejecutarBusquedaComparativa({
   maxTextosJuzgado7 = 5,
   maxTextosAlzadaDirecta = 5,
   maxTextosOtrasCamaras = 5,
+  maxTextosSupremaCorte = 5,
   incluirTodasLasCamaras = true
 }) {
   const config = JSON.parse(fs.readFileSync(ORGANISMOS_PATH, "utf8"));
@@ -363,8 +471,14 @@ async function ejecutarBusquedaComparativa({
       )
     : [];
 
-  // Ejecutar búsquedas en paralelo en los 3 niveles
-  const [resultadosJuzgado7, resultadosAlzadaDirecta, resultadosOtrasCamaras] = await Promise.all([
+  const orgSupremaCorte = config.suprema_corte_scba?.secretaria_civil_y_comercial
+    ? [{ id: config.suprema_corte_scba.secretaria_civil_y_comercial.id, nombre: config.suprema_corte_scba.secretaria_civil_y_comercial.nombre }]
+    : [{ id: "289", nombre: "SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA" }];
+
+  const registrosSupremaCorte = registros.map(r => (String(r) === "1" ? "4" : String(r) === "2" ? "5" : String(r)));
+
+  // Ejecutar búsquedas en paralelo en los 4 niveles (Juzgado 7, Cámara Avellaneda-Lanús, Cámaras PBA y Suprema Corte SCBA)
+  const [resultadosJuzgado7, resultadosAlzadaDirecta, resultadosOtrasCamaras, resultadosSupremaCorte] = await Promise.all([
     buscarMultiTerminoEnOrganismos({
       organismos: orgJuzgado7,
       terminos,
@@ -393,7 +507,16 @@ async function ejecutarBusquedaComparativa({
           filtroCaratula,
           concurrency: 12
         })
-      : Promise.resolve([])
+      : Promise.resolve([]),
+    buscarMultiTerminoEnOrganismos({
+      organismos: orgSupremaCorte,
+      terminos,
+      registros: registrosSupremaCorte,
+      fDesde,
+      fHasta,
+      filtroCaratula,
+      concurrency: 6
+    })
   ]);
 
   // Priorizar en Alzada Directa a la Cámara de Avellaneda-Lanús (ID 4157) y causas con prefijo AL-
@@ -410,17 +533,33 @@ async function ejecutarBusquedaComparativa({
     return b.fechaISO.localeCompare(a.fechaISO);
   });
 
+  // En Suprema Corte priorizar Sentencias Definitivas (RS / idRegistro 4) y mayor coincidencia de términos
+  resultadosSupremaCorte.sort((a, b) => {
+    if (b.terminosCoincidentes.length !== a.terminosCoincidentes.length) {
+      return b.terminosCoincidentes.length - a.terminosCoincidentes.length;
+    }
+    const aIsRS = a.idRegistro === "4" ? 1 : 0;
+    const bIsRS = b.idRegistro === "4" ? 1 : 0;
+    if (bIsRS !== aIsRS) return bIsRS - aIsRS;
+    return b.fechaISO.localeCompare(a.fechaISO);
+  });
+
   // Seleccionar top N de cada categoría para extraer texto íntegro
   const topJuzgado7 = resultadosJuzgado7.slice(0, maxTextosJuzgado7);
   const topAlzadaDirecta = resultadosAlzadaDirecta.slice(0, maxTextosAlzadaDirecta);
   const topOtrasCamaras = resultadosOtrasCamaras.slice(0, maxTextosOtrasCamaras);
+  const topSupremaCorte = resultadosSupremaCorte.slice(0, maxTextosSupremaCorte);
 
   // Extraer textos íntegros en paralelo
-  const enrichWithFullText = async (items) => {
+  const enrichWithFullText = async (items, isSCBA = false) => {
     return mapConcurrent(items, 6, async (item) => {
       const detalle = await obtenerTextoIntegro(item.idCodigoAcceso, item.portalOrigen);
+      const extraSCBA = isSCBA
+        ? extraerDoctrinaYSumarioSCBA(detalle.textoIntegro, item.caratula, item.nroExpediente)
+        : {};
       return {
         ...item,
+        ...extraSCBA,
         firmantes: detalle.firmantes,
         registracion: detalle.registracion,
         textoIntegro: detalle.textoIntegro
@@ -428,10 +567,11 @@ async function ejecutarBusquedaComparativa({
     });
   };
 
-  const [juzgado7ConTexto, alzadaDirectaConTexto, otrasCamarasConTexto] = await Promise.all([
+  const [juzgado7ConTexto, alzadaDirectaConTexto, otrasCamarasConTexto, supremaCorteConTexto] = await Promise.all([
     enrichWithFullText(topJuzgado7),
     enrichWithFullText(topAlzadaDirecta),
-    enrichWithFullText(topOtrasCamaras)
+    enrichWithFullText(topOtrasCamaras),
+    enrichWithFullText(topSupremaCorte, true)
   ]);
 
   return {
@@ -446,7 +586,8 @@ async function ejecutarBusquedaComparativa({
     resumen: {
       total_juzgado_7_avellaneda: resultadosJuzgado7.length,
       total_alzada_directa_avellaneda_lanus_y_lomas: resultadosAlzadaDirecta.length,
-      total_restantes_camaras_pba: resultadosOtrasCamaras.length
+      total_restantes_camaras_pba: resultadosOtrasCamaras.length,
+      total_suprema_corte_scba_civil_comercial: resultadosSupremaCorte.length
     },
     juzgado_7_avellaneda: {
       organismo: config.juzgado_propio,
@@ -465,6 +606,12 @@ async function ejecutarBusquedaComparativa({
       total_encontrados: resultadosOtrasCamaras.length,
       fallos_con_texto_integro: otrasCamarasConTexto,
       listado_completo: resultadosOtrasCamaras.slice(0, 30)
+    },
+    suprema_corte_scba: {
+      organismo: orgSupremaCorte[0],
+      total_encontrados: resultadosSupremaCorte.length,
+      fallos_con_texto_integro: supremaCorteConTexto,
+      listado_completo: resultadosSupremaCorte.slice(0, 30)
     }
   };
 }
@@ -563,6 +710,7 @@ if (require.main === module) {
 module.exports = {
   buscarEnOrganismo,
   obtenerTextoIntegro,
+  extraerDoctrinaYSumarioSCBA,
   buscarMultiTerminoEnOrganismos,
   ejecutarBusquedaComparativa
 };

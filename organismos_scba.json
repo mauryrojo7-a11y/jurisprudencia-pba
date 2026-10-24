@@ -14,8 +14,10 @@
       "obtener_pdf_base64": "/RegistroElectronico/ObtenerRegistroVisualizarPdf/"
     },
     "registros": {
-      "1": "REGISTRO DE SENTENCIAS",
-      "2": "REGISTRO DE RESOLUCIONES"
+      "1": "REGISTRO DE SENTENCIAS (Primera y Segunda Instancia)",
+      "2": "REGISTRO DE RESOLUCIONES (Primera y Segunda Instancia)",
+      "4": "REGISTRO DE SENTENCIAS DE SUPREMA CORTE (SCBA)",
+      "5": "REGISTRO DE RESOLUCIONES DE SUPREMA CORTE (SCBA)"
     },
     "fechas_minimas_sistema": {
       "sentencias_scba_gov_ar": "01/06/2025",
@@ -25,6 +27,35 @@
       "El parámetro JSON para búsqueda por texto libre en BuscarRegistrosPorFechaYOrganismo se denomina exactamente 'texoIncluido' (con el typo nativo del portal SCBA).",
       "El endpoint OrganismosDeUnRegistro?idRegistro=1 e idRegistro=2 en sentencias.scba.gov.ar lista los 284 órganos de primera instancia; con idRegistro=3 expone el padrón maestro de 1191 órganos de toda la provincia (incluyendo la Cámara de Avellaneda-Lanús ID 4157 y todas las Cámaras y Salas departamentales).",
       "El endpoint ObtenerRegistroVisualizar/ recibe POST JSON { idCodigoAcceso: '<HEX_ID>' } sin requerir token de reCAPTCHA y devuelve el HTML completo con metadatos, firmantes, número de registro (RS/RR) y el texto íntegro del fallo."
+    ]
+  },
+  "suprema_corte_scba": {
+    "secretaria_civil_y_comercial": {
+      "id": "289",
+      "nombre": "SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA",
+      "materia": "Civil, Comercial y de Familia (Causas C. / Ac.)",
+      "secretario_titular": "Dr. Carlos Enrique Camps",
+      "instancia": "Suprema Corte de Justicia de la Provincia de Buenos Aires (Casación Provincial - Doctrina Legal art. 279 CPCCBA)",
+      "registros_habilitados": ["4", "5"],
+      "portal_preferido": "https://sentencias-camara.scba.gov.ar",
+      "fecha_minima": "01/03/2025"
+    },
+    "otras_secretarias": [
+      {
+        "id": "290",
+        "nombre": "SECRETARIA DE DEMANDAS ORIGINARIAS - SUPREMA CORTE DE JUSTICIA",
+        "registros_habilitados": ["4", "5"]
+      },
+      {
+        "id": "292",
+        "nombre": "SECRETARIA LABORAL - SUPREMA CORTE DE JUSTICIA",
+        "registros_habilitados": ["4", "5"]
+      },
+      {
+        "id": "288",
+        "nombre": "SECRETARIA PENAL - SUPREMA CORTE DE JUSTICIA",
+        "registros_habilitados": ["4", "5"]
+      }
     ]
   },
   "juzgado_propio": {

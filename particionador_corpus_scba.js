@@ -324,6 +324,10 @@ function generarTodasLasParticiones() {
     {
       sourceFile: path.join(ROOT_DIR, "03_Camaras_Civiles_PBA.md"),
       partPrefix: "03_Camaras_PBA_Parte"
+    },
+    {
+      sourceFile: path.join(ROOT_DIR, "05_Suprema_Corte_SCBA_Civil_Comercial.md"),
+      partPrefix: "05_SCBA_Parte"
     }
   ];
 

@@ -13,7 +13,8 @@ const fs = require("fs");
 const path = require("path");
 const {
   buscarEnOrganismo,
-  obtenerTextoIntegro
+  obtenerTextoIntegro,
+  extraerDoctrinaYSumarioSCBA
 } = require("./motor_jurisprudencia_scba");
 
 const ORGANISMOS_PATH = path.join(__dirname, "organismos_scba.json");
@@ -48,7 +49,8 @@ async function mapConcurrent(items, concurrency, fn) {
 }
 
 function formatFalloMarkdown(item, index) {
-  const tipoLabel = item.idRegistro === "1" ? "SENTENCIA DEFINITIVA" : "RESOLUCIÓN INTERLOCUTORIA";
+  const isSentencia = item.idRegistro === "1" || item.idRegistro === "4";
+  const tipoLabel = isSentencia ? "SENTENCIA DEFINITIVA" : "RESOLUCIÓN INTERLOCUTORIA";
   return [
     `### ${index}. [${item.nroRegistro}] ${item.caratula}`,
     `- **Organismo**: ${item.nombreOrganismo || item.organismo || ""}`,
@@ -59,6 +61,56 @@ function formatFalloMarkdown(item, index) {
     `- **Código de Acceso SCBA**: \`${item.idCodigoAcceso}\``,
     item.firmantes ? `- **Firmantes**: ${item.firmantes.replace(/\n+/g, " | ")}` : null,
     item.registracion ? `- **Datos de Registración**: ${item.registracion.replace(/\n+/g, " | ")}` : null,
+    "",
+    `#### Texto Íntegro`,
+    "```text",
+    (item.textoIntegro || "(Sin texto disponible)").trim(),
+    "```",
+    "",
+    "---",
+    ""
+  ].filter(line => line !== null).join("\n");
+}
+
+function formatFalloSCBAMarkdown(item, index) {
+  const isSentencia = item.idRegistro === "4" || item.idRegistro === "1";
+  const tipoLabel = isSentencia
+    ? "SENTENCIA DEFINITIVA DE SUPREMA CORTE (CASACIÓN PROVINCIAL)"
+    : "RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE";
+  const metaSCBA = extraerDoctrinaYSumarioSCBA(item.textoIntegro, item.caratula, item.nroExpediente);
+  const caratulaMostrar = metaSCBA.caratulaCompleta || item.caratula || item.nroExpediente;
+
+  const doctrinaLines = [];
+  if (metaSCBA.cuestionPlanteada) {
+    doctrinaLines.push(`- **Cuestión Planteada en el Acuerdo**: ${metaSCBA.cuestionPlanteada}`);
+  }
+  if (metaSCBA.doctrinaLegalAplicable && metaSCBA.doctrinaLegalAplicable.length > 0) {
+    for (const d of metaSCBA.doctrinaLegalAplicable) {
+      doctrinaLines.push(`- ${d}`);
+    }
+  } else {
+    doctrinaLines.push(`- Fallo registrado en Secretaría Civil, Comercial y de Familia SCBA bajo causa \`${item.nroExpediente}\` (\`${item.nroRegistro}\`).`);
+  }
+
+  return [
+    `### ${index}. [${item.nroRegistro}] ${caratulaMostrar}`,
+    `- **Organismo**: ${item.nombreOrganismo || item.organismo || "SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA"}`,
+    `- **Tipo de Fallo**: ${tipoLabel} (${item.tipoRegistro || ""})`,
+    `- **Número de Causa / Expediente**: \`${item.nroExpediente}\``,
+    `- **Fecha**: ${item.fecha}`,
+    `- **Número de Registro**: \`${item.nroRegistro}\``,
+    `- **Código de Acceso SCBA**: \`${item.idCodigoAcceso}\``,
+    metaSCBA.tribunalOrigen ? `- **Tribunal de Origen / Cámara Apelada**: ${metaSCBA.tribunalOrigen}` : null,
+    metaSCBA.magistradosVotantes ? `- **Magistrados Votantes (Ac. 2078)**: ${metaSCBA.magistradosVotantes}` : null,
+    item.firmantes ? `- **Firmantes**: ${item.firmantes.replace(/\n+/g, " | ")}` : null,
+    item.registracion ? `- **Datos de Registración**: ${item.registracion.replace(/\n+/g, " | ")}` : null,
+    metaSCBA.precedentesCitados.length > 0
+      ? `- **Precedentes SCBA Citados (Doctrina Legal)**: ${metaSCBA.precedentesCitados.map(c => `\`${c}\``).join(", ")}`
+      : null,
+    metaSCBA.resolucionDispositiva ? `- **Decisión / Parte Dispositiva**: ${metaSCBA.resolucionDispositiva}` : null,
+    "",
+    `#### Sumario JUBA y Doctrina Legal Aplicable`,
+    ...doctrinaLines,
     "",
     `#### Texto Íntegro`,
     "```text",
@@ -414,16 +466,132 @@ async function generarArchivo03CamarasCivilesPBA() {
   return { outPath, fallos: countIncluded, salas: porOrganismo.size, words: totalWords, bytes: Buffer.byteLength(fullContent) };
 }
 
+async function generarArchivo05SupremaCorteSCBA() {
+  console.log("=== [4/4] Generando 05_Suprema_Corte_SCBA_Civil_Comercial.md ===");
+  const nombreOrg = "SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA";
+
+  // Consultar la totalidad de las Sentencias Definitivas (idRegistro: 4) y las Resoluciones Interlocutorias (idRegistro: 5) desde el 01/03/2025
+  const [sentenciasSCBA, resolucionesSCBA] = await Promise.all([
+    buscarEnOrganismo({
+      idOrganismo: "289",
+      nombreOrganismo: nombreOrg,
+      idRegistro: "4",
+      fDesde: "01/03/2025",
+      baseUrl: BASE_URL_CAMARA
+    }),
+    buscarEnOrganismo({
+      idOrganismo: "289",
+      nombreOrganismo: nombreOrg,
+      idRegistro: "5",
+      fDesde: "01/03/2025",
+      baseUrl: BASE_URL_CAMARA
+    })
+  ]);
+
+  console.log(`Suprema Corte SCBA Civil y Comercial (ID 289) -> Sentencias Definitivas (RS): ${sentenciasSCBA.length} | Resoluciones Interlocutorias (RR): ${resolucionesSCBA.length}`);
+
+  // 1. Descargar el 100% de las Sentencias Definitivas (RS) de la Suprema Corte Civil y Comercial
+  console.log(`Descargando texto íntegro de las ${sentenciasSCBA.length} Sentencias Definitivas (RS) de la Suprema Corte...`);
+  const sentenciasConTexto = await mapConcurrent(sentenciasSCBA, 20, async (s) => {
+    const det = await obtenerTextoIntegro(s.idCodigoAcceso, BASE_URL_CAMARA);
+    return { ...s, ...det, nombreOrganismo: nombreOrg, nroExpediente: s.nroExpediente, caratula: s.caratula };
+  });
+
+  // 2. Descargar las 350 Resoluciones Interlocutorias (RR) más recientes de la Suprema Corte Civil y Comercial
+  const cantResoluciones = Math.min(resolucionesSCBA.length, 350);
+  console.log(`Descargando texto íntegro de las ${cantResoluciones} Resoluciones Interlocutorias (RR) más recientes de la Suprema Corte...`);
+  const resolucionesConTexto = await mapConcurrent(resolucionesSCBA.slice(0, cantResoluciones), 25, async (r) => {
+    const det = await obtenerTextoIntegro(r.idCodigoAcceso, BASE_URL_CAMARA);
+    return { ...r, ...det, nombreOrganismo: nombreOrg, nroExpediente: r.nroExpediente, caratula: r.caratula };
+  });
+
+  const headerLines = [
+    `# Corpus Jurisprudencial: Suprema Corte de Justicia de la Provincia de Buenos Aires - Materia Civil y Comercial (Doctrina Legal Casatoria)`,
+    "",
+    `- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA (\`idOrganismo: 289\`)`,
+    `- **Secretaría Actuante**: Secretaría Civil, Comercial y de Familia SCBA (Causas \`C.\` / \`Ac.\`)`,
+    `- **Carácter Normativo y Procesal**: Doctrina Legal obligatoria de Casación Provincial (arts. 161 inc. 3 ap. "a" Constitución PBA y arts. 278, 279, 289 y concs. CPCCBA)`,
+    `- **Fuente Oficial**: \`https://sentencias.scba.gov.ar/\` y \`https://sentencias-camara.scba.gov.ar/\``,
+    `- **Fecha de Extracción**: ${new Date().toISOString().slice(0, 10)}`,
+    `- **Contenido**: Totalidad de las Sentencias Definitivas (\`RS\`: ${sentenciasConTexto.length}) y Resoluciones Interlocutorias recientes (\`RR\`: ${resolucionesConTexto.length}) dictadas por la Suprema Corte de Justicia de la Provincia de Buenos Aires en materia Civil, Comercial y de Familia, incluyendo Metadatos Verificados, Tribunal de Origen, Magistrados Votantes, Sumarios JUBA / Doctrina Legal Aplicable, Precedentes Citados y Texto Íntegro.`,
+    "",
+    "---",
+    "",
+    `## SECCIÓN I: SENTENCIAS DEFINITIVAS DE LA SUPREMA CORTE DE JUSTICIA PBA (\`REGISTRO DE SENTENCIAS DE SUPREMA CORTE - RS\`)`,
+    ""
+  ];
+
+  const blocks = [headerLines.join("\n")];
+  let totalWords = countWords(blocks[0]);
+  let countIncludedSent = 0;
+  let countIncludedRes = 0;
+
+  for (let i = 0; i < sentenciasConTexto.length; i++) {
+    const item = sentenciasConTexto[i];
+    if (!item || item.error) continue;
+    const md = formatFalloSCBAMarkdown(item, i + 1);
+    const w = countWords(md);
+    if (totalWords + w > MAX_WORDS_NOTEBOOKLM) break;
+    blocks.push(md);
+    totalWords += w;
+    countIncludedSent++;
+  }
+
+  const secIILines = [
+    "",
+    `## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS DE LA SUPREMA CORTE DE JUSTICIA PBA (\`REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - RR\`)`,
+    ""
+  ].join("\n");
+  blocks.push(secIILines);
+  totalWords += countWords(secIILines);
+
+  for (let i = 0; i < resolucionesConTexto.length; i++) {
+    const item = resolucionesConTexto[i];
+    if (!item || item.error) continue;
+    const md = formatFalloSCBAMarkdown(item, i + 1);
+    const w = countWords(md);
+    if (totalWords + w > MAX_WORDS_NOTEBOOKLM) break;
+    blocks.push(md);
+    totalWords += w;
+    countIncludedRes++;
+  }
+
+  const outPath = path.join(__dirname, "05_Suprema_Corte_SCBA_Civil_Comercial.md");
+  const fullContent = blocks.join("\n");
+  fs.writeFileSync(outPath, fullContent, "utf8");
+  console.log(`Guardado ${outPath} -> ${countIncludedSent} Sentencias (RS) + ${countIncludedRes} Resoluciones (RR) | ${totalWords} palabras | ${(Buffer.byteLength(fullContent) / (1024 * 1024)).toFixed(2)} MB`);
+  return { outPath, sentencias: countIncludedSent, resoluciones: countIncludedRes, words: totalWords, bytes: Buffer.byteLength(fullContent) };
+}
+
 async function main() {
   const t0 = Date.now();
+  const args = process.argv.slice(2);
+  if (args.includes("--only-05")) {
+    const r5 = await generarArchivo05SupremaCorteSCBA();
+    console.log("\n=== EXTRACCIÓN ARCHIVO 05 SCBA COMPLETADA EN", ((Date.now() - t0) / 1000).toFixed(1), "SEGUNDOS ===");
+    console.log(JSON.stringify({ r5 }, null, 2));
+    return;
+  }
   const r1 = await generarArchivo01Juzgado7();
   const r2 = await generarArchivo02CamaraAvellanedaLanus();
   const r3 = await generarArchivo03CamarasCivilesPBA();
+  const r5 = await generarArchivo05SupremaCorteSCBA();
   console.log("\n=== EXTRACCIÓN MASIVA COMPLETADA EN", ((Date.now() - t0) / 1000).toFixed(1), "SEGUNDOS ===");
-  console.log(JSON.stringify({ r1, r2, r3 }, null, 2));
+  console.log(JSON.stringify({ r1, r2, r3, r5 }, null, 2));
 }
 
-main().catch(err => {
-  console.error("Error en extracción masiva:", err);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch(err => {
+    console.error("Error en extracción masiva:", err);
+    process.exit(1);
+  });
+}
+
+module.exports = {
+  generarArchivo01Juzgado7,
+  generarArchivo02CamaraAvellanedaLanus,
+  generarArchivo03CamarasCivilesPBA,
+  generarArchivo05SupremaCorteSCBA,
+  formatFalloMarkdown,
+  formatFalloSCBAMarkdown
+};

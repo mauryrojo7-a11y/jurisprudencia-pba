@@ -29,6 +29,9 @@ const {
   obtenerTextoIntegro
 } = require("./motor_jurisprudencia_scba");
 const {
+  formatFalloSCBAMarkdown
+} = require("./generar_markdown_notebooklm");
+const {
   actualizarArquitecturaCognitivaArxiv
 } = require("./actualizador_arquitectura_cognitiva_arxiv");
 const {
@@ -44,6 +47,7 @@ const FILE_01 = path.join(ROOT_DIR, "01_Juzgado_Civ_Com_7_Avellaneda.md");
 const FILE_02 = path.join(ROOT_DIR, "02_Camara_Avellaneda_Lanus.md");
 const FILE_03 = path.join(ROOT_DIR, "03_Camaras_Civiles_PBA.md");
 const FILE_04 = path.join(ROOT_DIR, "04_Arquitectura_Cognitiva_Viva.md");
+const FILE_05 = path.join(ROOT_DIR, "05_Suprema_Corte_SCBA_Civil_Comercial.md");
 const FILE_CONSOLIDADO = path.join(ROOT_DIR, "Corpus_Vivo_JCyC7_Avellaneda.md");
 
 const BASE_URL_PRIMERA = "https://sentencias.scba.gov.ar";
@@ -472,6 +476,92 @@ async function actualizarIncrementalCamarasPBA() {
 }
 
 /**
+ * 3b. Actualización incremental de 05_Suprema_Corte_SCBA_Civil_Comercial.md
+ */
+async function actualizarIncrementalSupremaCorteSCBA() {
+  const estado = analizarArchivoExistente(FILE_05, "01/03/2025");
+  const hoy = formatDateDDMMYYYY();
+  const nombreSCBA = "SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA";
+
+  log(`[Archivo 05 - Suprema Corte SCBA Civil y Comercial] Última fecha en archivo: ${estado.ultimaFechaStr} | Consultando desde ${estado.fDesdeConsulta} hasta ${hoy} (${estado.codigos.size} fallos ya registrados)...`);
+
+  const [sentsSCBA, resosSCBA] = await Promise.all([
+    buscarEnOrganismo({
+      idOrganismo: "289",
+      nombreOrganismo: nombreSCBA,
+      idRegistro: "4",
+      fDesde: estado.fDesdeConsulta,
+      fHasta: hoy,
+      baseUrl: BASE_URL_CAMARA
+    }),
+    buscarEnOrganismo({
+      idOrganismo: "289",
+      nombreOrganismo: nombreSCBA,
+      idRegistro: "5",
+      fDesde: estado.fDesdeConsulta,
+      fHasta: hoy,
+      baseUrl: BASE_URL_CAMARA
+    })
+  ]);
+
+  const nuevasSents = sentsSCBA.filter(s => !esDuplicado(s, estado));
+  // En actualizaciones diarias tomar hasta las 25 resoluciones interlocutorias nuevas más recientes además del 100% de las sentencias definitivas nuevas
+  const nuevasResos = resosSCBA.filter(r => !esDuplicado(r, estado)).slice(0, 25);
+
+  log(`[Archivo 05 - Suprema Corte SCBA] Nuevas Sentencias (RS): ${nuevasSents.length} | Nuevas Resoluciones (RR): ${nuevasResos.length}`);
+
+  if (nuevasSents.length === 0 && nuevasResos.length === 0) {
+    if (fs.existsSync(FILE_05)) {
+      const content = actualizarFechaExtraccionHeader(fs.readFileSync(FILE_05, "utf8"));
+      fs.writeFileSync(FILE_05, content, "utf8");
+    }
+    return { nuevasSentencias: 0, nuevasResoluciones: 0, totalRegistrados: estado.codigos.size };
+  }
+
+  const [sentsConTexto, resosConTexto] = await Promise.all([
+    mapConcurrent(nuevasSents, 15, async (s) => {
+      const det = await obtenerTextoIntegro(s.idCodigoAcceso, BASE_URL_CAMARA);
+      return { ...s, ...det, nombreOrganismo: nombreSCBA, nroExpediente: s.nroExpediente, caratula: s.caratula };
+    }),
+    mapConcurrent(nuevasResos, 15, async (r) => {
+      const det = await obtenerTextoIntegro(r.idCodigoAcceso, BASE_URL_CAMARA);
+      return { ...r, ...det, nombreOrganismo: nombreSCBA, nroExpediente: r.nroExpediente, caratula: r.caratula };
+    })
+  ]);
+
+  let content = fs.readFileSync(FILE_05, "utf8");
+  content = actualizarFechaExtraccionHeader(content);
+
+  const mdSents = sentsConTexto
+    .filter(x => x && !x.error)
+    .map(x => {
+      registrarEnEstado(x, estado);
+      return formatFalloSCBAMarkdown(x, `ACT-${x.fecha}`);
+    });
+
+  const mdResos = resosConTexto
+    .filter(x => x && !x.error)
+    .map(x => {
+      registrarEnEstado(x, estado);
+      return formatFalloSCBAMarkdown(x, `ACT-${x.fecha}`);
+    });
+
+  if (mdSents.length > 0) {
+    content = insertarNuevosFallosEnSeccion(content, "## SECCIÓN I: SENTENCIAS DEFINITIVAS", mdSents);
+  }
+  if (mdResos.length > 0) {
+    content = insertarNuevosFallosEnSeccion(content, "## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS", mdResos);
+  }
+
+  fs.writeFileSync(FILE_05, content, "utf8");
+  return {
+    nuevasSentencias: mdSents.length,
+    nuevasResoluciones: mdResos.length,
+    totalRegistrados: estado.codigos.size
+  };
+}
+
+/**
  * 4. Genera y mantiene actualizado el documento consolidado Corpus_Vivo_JCyC7_Avellaneda.md
  *    (unificando los fallos del Juzgado N° 7 y de la Cámara de Avellaneda-Lanús para consulta directa de Gemini Web / Google Drive)
  */
@@ -524,7 +614,7 @@ async function sincronizarEnLaNube() {
       try {
         const destDir = path.join(gdPath, "Corpus_Vivo_JCyC7_Avellaneda");
         fs.mkdirSync(destDir, { recursive: true });
-        for (const f of [FILE_01, FILE_02, FILE_03, FILE_04, FILE_CONSOLIDADO]) {
+        for (const f of [FILE_01, FILE_02, FILE_03, FILE_04, FILE_05, FILE_CONSOLIDADO]) {
           if (fs.existsSync(f)) {
             fs.copyFileSync(f, path.join(destDir, path.basename(f)));
           }
@@ -548,6 +638,7 @@ async function sincronizarEnLaNube() {
       execSync(`rclone copy "${FILE_02}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
       execSync(`rclone copy "${FILE_03}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
       execSync(`rclone copy "${FILE_04}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
+      execSync(`rclone copy "${FILE_05}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
       resultadoSync.rclone = `${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/`;
       log(`[Sync rclone] Sincronizado en ${resultadoSync.rclone}`);
     }
@@ -559,13 +650,17 @@ async function sincronizarEnLaNube() {
   try {
     if (fs.existsSync(path.join(ROOT_DIR, ".git"))) {
       const mdAndHtmlFilesToStage = fs.readdirSync(ROOT_DIR).filter(f =>
-        /^(01_|02_|03_|04_|Corpus_Vivo_|index).*\.(md|html)$/.test(f) || f === ".nojekyll"
+        /^(01_|02_|03_|04_|05_|Corpus_Vivo_|index).*\.(md|html)$/.test(f) || f === ".nojekyll"
       );
       const filesToStage = [
         ...mdAndHtmlFilesToStage,
+        "organismos_scba.json",
+        "motor_jurisprudencia_scba.js",
+        "generar_markdown_notebooklm.js",
         "actualizador_arquitectura_cognitiva_arxiv.js",
         "actualizador_diario_scba.js",
         "particionador_corpus_scba.js",
+        "ejecutar_actualizacion_diaria.bat",
         "estado_incremental_scba.json"
       ].filter(f => fs.existsSync(path.join(ROOT_DIR, f)));
 
@@ -598,7 +693,7 @@ async function main() {
   log("====================================================================");
   log("INICIANDO ACTUALIZACIÓN INCREMENTAL DIARIA DEL CORPUS SCBA + ARXIV");
 
-  let r01 = null, r02 = null, r03 = null, r04 = null;
+  let r01 = null, r02 = null, r03 = null, r04 = null, r05 = null;
   try {
     r01 = await actualizarIncrementalJuzgado7();
   } catch (e) {
@@ -623,6 +718,12 @@ async function main() {
     log(`[Aviso Archivo 04 arXiv] ${e.message}`);
     r04 = { error: e.message };
   }
+  try {
+    r05 = await actualizarIncrementalSupremaCorteSCBA();
+  } catch (e) {
+    log(`[Aviso Archivo 05 Suprema Corte SCBA] ${e.message}`);
+    r05 = { error: e.message };
+  }
 
   actualizarDocumentoConsolidadoVivo();
 
@@ -644,6 +745,7 @@ async function main() {
     camaraAvellanedaLanus: r02,
     camarasPBA: r03,
     arquitecturaCognitivaArxiv: r04,
+    supremaCorteSCBA: r05,
     particionesNotebookLM: resumenParticiones
   };
   fs.writeFileSync(ESTADO_PATH, JSON.stringify(estadoGlobal, null, 2), "utf8");
