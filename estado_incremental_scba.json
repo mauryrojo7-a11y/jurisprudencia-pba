@@ -1,9 +1,9 @@
 {
-  "ultimaEjecucion": "2026-10-23T16:55:13.939Z",
+  "ultimaEjecucion": "2026-10-24T21:56:07.234Z",
   "juzgado7": {
     "nuevasSentencias": 0,
-    "nuevasResoluciones": 0,
-    "totalRegistrados": 437
+    "nuevasResoluciones": 1,
+    "totalRegistrados": 438
   },
   "camaraAvellanedaLanus": {
     "nuevasSentencias": 0,
@@ -11,7 +11,11 @@
     "totalRegistrados": 465
   },
   "camarasPBA": {
-    "nuevosFallos": 59,
-    "totalRegistrados": 450
+    "nuevosFallos": 62,
+    "totalRegistrados": 512
+  },
+  "arquitecturaCognitivaArxiv": {
+    "nuevosPapers": 60,
+    "totalRegistrados": 60
   }
 }

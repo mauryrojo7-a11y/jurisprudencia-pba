@@ -28,6 +28,9 @@ const {
   buscarEnOrganismo,
   obtenerTextoIntegro
 } = require("./motor_jurisprudencia_scba");
+const {
+  actualizarArquitecturaCognitivaArxiv
+} = require("./actualizador_arquitectura_cognitiva_arxiv");
 
 const ROOT_DIR = __dirname;
 const LOGS_DIR = path.join(ROOT_DIR, "logs");
@@ -37,6 +40,7 @@ const ESTADO_PATH = path.join(ROOT_DIR, "estado_incremental_scba.json");
 const FILE_01 = path.join(ROOT_DIR, "01_Juzgado_Civ_Com_7_Avellaneda.md");
 const FILE_02 = path.join(ROOT_DIR, "02_Camara_Avellaneda_Lanus.md");
 const FILE_03 = path.join(ROOT_DIR, "03_Camaras_Civiles_PBA.md");
+const FILE_04 = path.join(ROOT_DIR, "04_Arquitectura_Cognitiva_Viva.md");
 const FILE_CONSOLIDADO = path.join(ROOT_DIR, "Corpus_Vivo_JCyC7_Avellaneda.md");
 
 const BASE_URL_PRIMERA = "https://sentencias.scba.gov.ar";
@@ -517,7 +521,7 @@ async function sincronizarEnLaNube() {
       try {
         const destDir = path.join(gdPath, "Corpus_Vivo_JCyC7_Avellaneda");
         fs.mkdirSync(destDir, { recursive: true });
-        for (const f of [FILE_01, FILE_02, FILE_03, FILE_CONSOLIDADO]) {
+        for (const f of [FILE_01, FILE_02, FILE_03, FILE_04, FILE_CONSOLIDADO]) {
           if (fs.existsSync(f)) {
             fs.copyFileSync(f, path.join(destDir, path.basename(f)));
           }
@@ -540,6 +544,7 @@ async function sincronizarEnLaNube() {
       execSync(`rclone copy "${FILE_01}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
       execSync(`rclone copy "${FILE_02}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
       execSync(`rclone copy "${FILE_03}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
+      execSync(`rclone copy "${FILE_04}" "${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/"`, { stdio: "ignore" });
       resultadoSync.rclone = `${gdriveRemote}Corpus_Vivo_JCyC7_Avellaneda/`;
       log(`[Sync rclone] Sincronizado en ${resultadoSync.rclone}`);
     }
@@ -550,14 +555,14 @@ async function sincronizarEnLaNube() {
   // --- OPCIÓN B: GitHub Raw (git add, commit & push automático) ---
   try {
     if (fs.existsSync(path.join(ROOT_DIR, ".git"))) {
-      execSync("git add 01_Juzgado_Civ_Com_7_Avellaneda.md 02_Camara_Avellaneda_Lanus.md 03_Camaras_Civiles_PBA.md Corpus_Vivo_JCyC7_Avellaneda.md estado_incremental_scba.json", {
+      execSync("git add 01_Juzgado_Civ_Com_7_Avellaneda.md 02_Camara_Avellaneda_Lanus.md 03_Camaras_Civiles_PBA.md 04_Arquitectura_Cognitiva_Viva.md actualizador_arquitectura_cognitiva_arxiv.js actualizador_diario_scba.js Corpus_Vivo_JCyC7_Avellaneda.md estado_incremental_scba.json", {
         cwd: ROOT_DIR,
         stdio: "pipe"
       });
       const status = execSync("git status --porcelain", { cwd: ROOT_DIR }).toString().trim();
       if (status) {
         const fechaHoy = new Date().toISOString().slice(0, 10);
-        execSync(`git commit -m "Actualización incremental diaria SCBA (${fechaHoy})"`, {
+        execSync(`git commit -m "Actualización incremental diaria SCBA + arXiv (${fechaHoy})"`, {
           cwd: ROOT_DIR,
           stdio: "pipe"
         });
@@ -577,10 +582,33 @@ async function sincronizarEnLaNube() {
 
 async function main() {
   log("====================================================================");
-  log("INICIANDO ACTUALIZACIÓN INCREMENTAL DIARIA DEL CORPUS SCBA");
-  const r01 = await actualizarIncrementalJuzgado7();
-  const r02 = await actualizarIncrementalCamaraAvellaneda();
-  const r03 = await actualizarIncrementalCamarasPBA();
+  log("INICIANDO ACTUALIZACIÓN INCREMENTAL DIARIA DEL CORPUS SCBA + ARXIV");
+
+  let r01 = null, r02 = null, r03 = null, r04 = null;
+  try {
+    r01 = await actualizarIncrementalJuzgado7();
+  } catch (e) {
+    log(`[Aviso Archivo 01] ${e.message}`);
+    r01 = { error: e.message };
+  }
+  try {
+    r02 = await actualizarIncrementalCamaraAvellaneda();
+  } catch (e) {
+    log(`[Aviso Archivo 02] ${e.message}`);
+    r02 = { error: e.message };
+  }
+  try {
+    r03 = await actualizarIncrementalCamarasPBA();
+  } catch (e) {
+    log(`[Aviso Archivo 03] ${e.message}`);
+    r03 = { error: e.message };
+  }
+  try {
+    r04 = await actualizarArquitecturaCognitivaArxiv();
+  } catch (e) {
+    log(`[Aviso Archivo 04 arXiv] ${e.message}`);
+    r04 = { error: e.message };
+  }
 
   actualizarDocumentoConsolidadoVivo();
 
@@ -588,7 +616,8 @@ async function main() {
     ultimaEjecucion: new Date().toISOString(),
     juzgado7: r01,
     camaraAvellanedaLanus: r02,
-    camarasPBA: r03
+    camarasPBA: r03,
+    arquitecturaCognitivaArxiv: r04
   };
   fs.writeFileSync(ESTADO_PATH, JSON.stringify(estadoGlobal, null, 2), "utf8");
 

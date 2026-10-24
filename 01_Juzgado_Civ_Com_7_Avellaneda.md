@@ -3,7 +3,7 @@
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA (`idOrganismo: 3659`)
 - **Juez Titular**: Dr. Martín Alfredo Botassi
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` (Suprema Corte de Justicia de la Provincia de Buenos Aires)
-- **Fecha de Extracción**: 2026-10-23
+- **Fecha de Extracción**: 2026-10-24
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`: 129) y Resoluciones Interlocutorias recientes (`RR`) con Carátula, N° de Causa, Fecha, N° de Registro, Código de Acceso y Texto Íntegro.
 
 ---
@@ -11415,6 +11415,31 @@ JUEZ
 
 
 ## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS RECIENTES (`REGISTRO DE RESOLUCIONES - RR`)
+
+### ACT-23-10-2026. [RR-1282-2026] BOVETTI ELBA Y OTRO/A S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `18084`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-1282-2026`
+- **Código de Acceso SCBA**: `958A1B02`
+- **Firmantes**: Fecha: 23/10/2026 13:46:14 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1282-2026 - Código acceso: 958A1B02 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 23/10/2026 13:56
+
+#### Texto Íntegro
+```text
+BOVETTI ELBA Y OTRO/A S/ SUCESION AB-INTESTATO
+Expte. N° 18084
+JM
+Avellaneda, el día de la firma digital.
+AUTOS y VISTOS:
+Advirtiendo en este acto un error involuntario en la resolución de fs.87/88, rectifíquese la Declaratoria de Herederos de fs. 87/88 en el sentido que, donde dice: " por el fallecimiento del señor ALBERTO JOSE VAZQUEZ , le suceden en carácter de universales herederos (...) MELANIE BELÉN VAZQUEZ (...)", deberá leerse: " por el fallecimiento del señor ALBERTO JOSE VAZQUEZ , le suceden en carácter de universales herederos (...) MELANY BELÉN VAZQUEZ (...)".
+Regístrese en relación a su antecedente (número RR1378 ) y notifíquese.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
 
 ### ACT-23-10-2026. [RR-1274-2026] CERETTO ERNESTO Y OTROS S/ SUCESION AB-INTESTATO
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
