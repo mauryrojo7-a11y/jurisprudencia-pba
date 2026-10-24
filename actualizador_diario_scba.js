@@ -31,6 +31,9 @@ const {
 const {
   actualizarArquitecturaCognitivaArxiv
 } = require("./actualizador_arquitectura_cognitiva_arxiv");
+const {
+  generarTodasLasParticiones
+} = require("./particionador_corpus_scba");
 
 const ROOT_DIR = __dirname;
 const LOGS_DIR = path.join(ROOT_DIR, "logs");
@@ -555,14 +558,25 @@ async function sincronizarEnLaNube() {
   // --- OPCIÓN B: GitHub Raw (git add, commit & push automático) ---
   try {
     if (fs.existsSync(path.join(ROOT_DIR, ".git"))) {
-      execSync("git add 01_Juzgado_Civ_Com_7_Avellaneda.md 02_Camara_Avellaneda_Lanus.md 03_Camaras_Civiles_PBA.md 04_Arquitectura_Cognitiva_Viva.md actualizador_arquitectura_cognitiva_arxiv.js actualizador_diario_scba.js Corpus_Vivo_JCyC7_Avellaneda.md estado_incremental_scba.json", {
+      const mdFilesToStage = fs.readdirSync(ROOT_DIR).filter(f =>
+        /^(01_|02_|03_|04_|Corpus_Vivo_).*\.md$/.test(f)
+      );
+      const filesToStage = [
+        ...mdFilesToStage,
+        "actualizador_arquitectura_cognitiva_arxiv.js",
+        "actualizador_diario_scba.js",
+        "particionador_corpus_scba.js",
+        "estado_incremental_scba.json"
+      ].filter(f => fs.existsSync(path.join(ROOT_DIR, f)));
+
+      execSync(`git add ${filesToStage.map(f => `"${f}"`).join(" ")}`, {
         cwd: ROOT_DIR,
         stdio: "pipe"
       });
       const status = execSync("git status --porcelain", { cwd: ROOT_DIR }).toString().trim();
       if (status) {
         const fechaHoy = new Date().toISOString().slice(0, 10);
-        execSync(`git commit -m "Actualización incremental diaria SCBA + arXiv (${fechaHoy})"`, {
+        execSync(`git commit -m "Actualización incremental diaria SCBA + arXiv + particiones NotebookLM (${fechaHoy})"`, {
           cwd: ROOT_DIR,
           stdio: "pipe"
         });
@@ -612,12 +626,25 @@ async function main() {
 
   actualizarDocumentoConsolidadoVivo();
 
+  log("Generando particiones de <= 400.000 palabras para NotebookLM / Gemini...");
+  const particionesRaw = generarTodasLasParticiones();
+  const resumenParticiones = {};
+  for (const [pref, list] of Object.entries(particionesRaw)) {
+    resumenParticiones[pref] = list.map(p => ({
+      archivo: p.fileName,
+      palabras: p.whitespaceWords,
+      palabrasEstricto: p.strictWords,
+      fallos: p.fallosCount
+    }));
+  }
+
   const estadoGlobal = {
     ultimaEjecucion: new Date().toISOString(),
     juzgado7: r01,
     camaraAvellanedaLanus: r02,
     camarasPBA: r03,
-    arquitecturaCognitivaArxiv: r04
+    arquitecturaCognitivaArxiv: r04,
+    particionesNotebookLM: resumenParticiones
   };
   fs.writeFileSync(ESTADO_PATH, JSON.stringify(estadoGlobal, null, 2), "utf8");
 

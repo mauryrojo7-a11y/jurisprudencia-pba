@@ -17,5 +17,14 @@
   "arquitecturaCognitivaArxiv": {
     "nuevosPapers": 60,
     "totalRegistrados": 60
+  },
+  "sincronizacionNube": {
+    "googleDriveLocal": null,
+    "rclone": null,
+    "githubPush": {
+      "ok": true,
+      "remote": "https://github.com/mauryrojo7-a11y/jurisprudencia-pba.git",
+      "changesCommitted": true
+    }
   }
 }
