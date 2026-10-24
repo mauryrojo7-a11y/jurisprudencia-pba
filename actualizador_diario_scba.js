@@ -558,11 +558,11 @@ async function sincronizarEnLaNube() {
   // --- OPCIÓN B: GitHub Raw (git add, commit & push automático) ---
   try {
     if (fs.existsSync(path.join(ROOT_DIR, ".git"))) {
-      const mdFilesToStage = fs.readdirSync(ROOT_DIR).filter(f =>
-        /^(01_|02_|03_|04_|Corpus_Vivo_).*\.md$/.test(f)
+      const mdAndHtmlFilesToStage = fs.readdirSync(ROOT_DIR).filter(f =>
+        /^(01_|02_|03_|04_|Corpus_Vivo_|index).*\.(md|html)$/.test(f) || f === ".nojekyll"
       );
       const filesToStage = [
-        ...mdFilesToStage,
+        ...mdAndHtmlFilesToStage,
         "actualizador_arquitectura_cognitiva_arxiv.js",
         "actualizador_diario_scba.js",
         "particionador_corpus_scba.js",
