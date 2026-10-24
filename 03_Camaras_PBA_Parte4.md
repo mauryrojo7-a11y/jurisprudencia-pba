@@ -8,11 +8,1357 @@
 ---
 - **Fragmento para NotebookLM / Gemini**: Parte 4 de 4 (`03_Camaras_PBA_Parte4.md`)
 - **Archivo Fuente Completo**: `03_Camaras_Civiles_PBA.md`
-- **Fallos incluidos en esta parte**: 109
+- **Fallos incluidos en esta parte**: 148
 
 ---
 
-## CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA (`idOrganismo: 41`) (Continuación - Parte 4/4)
+## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL (`idOrganismo: 14`) (Continuación - Parte 4/4)
+
+### 1. [RS-226-2026] BANCO CREDICOOP COOPERATIVO LIMITADO C/ PEREZ JUAN LUCIANO S/ COBRO EJECUTIVO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `2-75925-2026`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RS-226-2026`
+- **Código de Acceso SCBA**: `4A45682D`
+- **Firmantes**: Funcionario: PERALTA REYES Victor Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 226-2026 - Código acceso: 4A45682D - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 22/10/2026 12:38
+
+#### Texto Íntegro
+```text
+Causa nº: 2-75925-2026 " BANCO CREDICOOP COOPERATIVO LIMITADO C/ PEREZ JUAN LUCIANO S/ COBRO EJECUTIVO "
+JUZGADO EN LO CIVIL Y COMERCIAL Nº 2 - AZUL
+En la ciudad de Azul, a los veintidós días del mes de Octubre del año Dos Mil Veintiséis, reunidos en Acuerdo los Señores Jueces de la Cámara de Apelaciones Departamental -Sala II- Doctores Marcos Federico García Etchegoyen, María Inés Longobardi y Víctor Mario Peralta Reyes , con la presencia del Secretario, para dictar sentencia en los autos caratulados: "Banco Credicoop Cooperativo Limitado C/ Pérez Juan Luciano S/ Cobro Ejecutivo" (causa n° 75.925). Practicado el sorteo prescripto por los arts. 168 de la Constitución Provincial, 263 y 266 del C.P.C.C., resultó el siguiente orden de votación: DR. GARCÍA ETCHEGOYEN - DRA. LONGOBARDI - DR. PERALTA REYES.
+Estudiados los autos, el Tribunal resolvió plantear y votar las siguientes:
+-C U E S T I O N E S-
+1ª.-¿Es procedente el recurso de apelación interpuesto por la actora con fecha 02/07/2026, contra la sentencia de fecha 29/06/26?.
+2ª.-¿Qué pronunciamiento corresponde dictar?.
+-V O T A C I O N-
+A LA PRIMERA CUESTION , el Señor Juez Doctor GARCÍA ETCHEGOYEN , dijo:
+I) En la sentencia dictada en la anterior instancia, que ha llegado apelada a esta alzada, luego de señalarse que el demandado no se había presentado en autos, se mandó llevar adelante la ejecución hasta tanto el deudor Juan Luciano Pérez haga íntegro pago al acreedor Banco Credicoop Cooperativo Limitado del capital reclamado de $ 3.308.170,39 , con más intereses, costos y costas de la ejecución, a partir de la fecha de mora fijada el día 08/06/2026 , con base en la tasa activa que cobra el Banco de la Nación Argentina.
+Para así decidir, el Sr. Juez ponderó en la sentencia que el certificado de saldo deudor de cuenta corriente bancaria que sirve de base a la presente ejecución, no se trata de una obligación a la que pueda aplicarse el sistema de mora ex re porque es pura y simple, rigiendo en consecuencia la mora ex persona, por lo que es necesaria la interpelación del deudor. Habiéndose agregado que en el caso no se acreditó el día y horario en que el accionado recibiera la carta documento, fijó la mora el día del diligenciamiento del mandamiento de intimación de pago y embargo (08-06-26).
+II) Con fecha 02/07/26 el Dr. Jerónimo Franco, en representación del Banco Credicoop Cooperativo Limitado, interpuso recurso de apelación contra la sentencia de trance y remate dictada en autos. Con fecha 02/07/2026 el Sr. Juez concedió el recurso.
+El apelante se agravió por la fecha de mora fijada en la sentencia apelada. Refirió que la misma debió ubicarse en la fecha en que fuera interpelado el demandado mediante carta documento. Aclaró que, si bien es cierto que el acuse de recibo de la Carta Documento. Agregada al escrito de demanda, no indica la fecha de entrega de la misiva, no es menos cierto que el deudor tomó conocimiento de su contenido en una fecha cercana al despacho de la misma (06/10/2025). Asimismo, refirió que el demandado no negó haberla recibido, ni siquiera opuso defensa alguna, por lo que pretender que dicha interpelación no existió es negar la realidad y violentar el principio de buena fe que debe regir entre las partes. Por lo tanto, solicitó que se fije una fecha de mora más cercana a la fecha de despacho de la misma.
+Por otro lado, se agravió de la no determinación en la sentencia de la capitalización de intereses de conformidad con lo establecido en el art. 1398 del C.C.C.N. y lo solicitado en el escrito de inicio. Como fundamento citó jurisprudencia.
+Por último, manifestó que la sentencia omitió ordenar la aplicación del rubro IVA sobre intereses , conforme también fuera solicitado en el escrito de demanda. Como fundamento citó jurisprudencia de otras Cámaras.
+Por lo tanto, solicitó que se revoque y/o modifique la resolución apelada en cuanto a la fecha de mora, la capitalización de intereses y la aplicación de IVA sobre los intereses (cf. escrito de fecha 06/07/2026).
+Habiéndose decidido que la cuestión resulta definitiva, por lo que deberá resolverse con la formalidad del acuerdo (cf. despacho de fecha 01/09/2026), y practicado el sorteo de rigor (15/09/2026), han quedado estas actuaciones en condiciones de ser examinadas a los fines del dictado de la presente sentencia.
+III. El recurso prospera parcialmente.
+Mora : en primer lugar, corresponde recordar: "En materia de intereses moratorios que obviamente requieren para su devengamiento la mora del deudor, se ha sostenido en doctrina que "en caso de existir pacto expreso que obligue al cuentacorrentista a satisfacer el saldo deudor resultante luego de un determinado plazo, desde el cierre de la cuenta corriente bancaria, correrían automáticamente, en virtud de la mora pactada, acaecida por el mero transcurso del tiempo convenido. Este pacto expreso resulta inserto en la mayor parte de las solicitudes de apertura de la cuenta corriente bancaria , con lo cual podríamos afirmar que en general los bancos tendrían pactado que el curso de los intereses moratorios comience a correr a partir de la misma fecha del cierre de la cuenta o en fecha inmediata posterior" (conf. Alonso y Gotlieb, en Código de Comercio comentado y anotado, Rouillón director, Alonso coordinador, tomo II, págs.344 y 345, con cita de Fernández-Gómez Leo, Tratado teórico práctico de derecho comercial, tomo III-D, pág.326; esta Sala en causa n° 58.295, del 04/02/2014, "Banco Central.").
+En atención a ello, si bien en las presentes actuaciones se adjuntó la apertura de la cuenta corriente donde se pactó la mora en los saldos deudores sin necesidad de interpelación alguna (cf. documentación adjunta al escrito de inicio), la actora al momento del cierre de la cuenta corriente, dice haber interpelado al demandado a los fines de constituirlo en mora (arts. 886,887 del CCCN), mediante carta documento (cf. carta documento adjunta en el escrito de inicio). Por lo tanto, en atención a lo resuelto en la sentencia apelada y conforme al agravio del apelante, la solución del caso difiere de la doctrina citada previamente, debiendo determinarse la fecha de mora del deudor sobre la base de la postura adoptada por el recurrente (art. 260,266 y 272 CPCC).
+En efecto, de las actuaciones se observa que, si bien se adjuntó la carta documento enviada al demandado, notificándole los saldos deudores impagos, lo cierto es que no surge constancia de recepción de la misma, ni otro elemento que permita determinar una fecha de mora distinta a la fijada por el Sr. Juez de grado (08/06/2026), que se situó en el momento en que se diligenció el mandamiento de intimación de pago y embargo. De esta manera, pierden toda relevancia los argumentos traídos por la apelante en su pieza recursiva, toda vez que ha omitido agregar elementos probatorios relativos a la recepción de la carta documento, que pudieran determinar una fecha distinta a la fijada por el Sr. Juez de grado. Pesan sobre la ejecutante, por ello, las consecuencias negativas de su propio obrar procesal, confirmándose la fecha de mora fijada en la instancia de origen (arts.384, 518, 521, 523 y ccs. del Cód. Proc. y jurisprudencia citada).
+IV. En segundo lugar, corresponde abordar los agravios planteados por la actora respecto de aquellos aspectos omitidos en la sentencia de origen.
+La jurisdicción del Tribunal surge tanto si se interpreta que el silencio de la sentencia importa denegación tácita de lo pretendido, como si se entendiera que medió omisión del tratamiento de cuestiones esenciales. En el primer caso los agravios habilitan la vía revisora (arts. 242, 243, 246 y concs. C.P.C.). Pero, para el segundo caso, o sea si se entiende que medió omisión de tratar cuestiones esenciales- igualmente el Tribunal tiene su plena jurisdicción, toda vez que por la vía del art. 273 C.P.C. -invocado expresamente por los apelantes- se encuentra en condiciones de suplir esa inadvertencia u omisión (art. 273 C.P.C. cit.; Azpelicueta Juan J.-Tessone Alberto "La Alzada" págs. 137 y 217; Loutayf Ranez Roberto "El recurso ordinario de apelación en el proceso civil" T.1 p. 175; Hitters Juan C. "Técnica de los recursos ordinarios", pág. 401; esta Sala en causa n° 56.745, del 27/11/2012, "Fernández."). En el mismo sentido, este Tribunal entiende con criterio amplio el poder otorgado a la Alzada por el art. 273 del CPCC para suplir las omisiones que contuvieran tanto las sentencias definitivas como las interlocutorias, lo que incluye, por supuesto, a los incidentes (Morello- Sosa- Berizonce, "Códigos.", T. III, pág. 428; causa n° 40.974, "Fisco." del 18/11/99).
+1. Capitalización de intereses : Respecto al agravio referido a la omisión de tratamiento de la capitalización que prevé el art. 1398 del CCCN, solicitada en el escrito de inicio de fecha 07/05/2026, reiterándolo al momento de solicitar el dictado de la sentencia de fecha 19/06/2026, el art. 1398 CCCN dispone que "el saldo deudor de la cuenta corriente genera intereses, que se capitalizán trimestralmente, excepto que lo contrario resulte de la reglamentación, de la convención o de los usos. Las partes pueden convenir que el saldo acreedor de la cuenta corriente genere intereses capitalizables en los períodos y a la tasa que libremente pacten".
+Se tiene dicho que "la capitalización por los bancos sostiene la circulación del crédito. Y para que ello funcione, corresponde abonar el servicio bancario prestado. Esto es, si el cuentacorrentista ha dispuesto de sumas de dinero no reintegradas, lo que implica usufructuar los beneficios de semejante facultad dineraria y que genera, como obvia contrapartida, el necesario reintegro a la entidad bancaria de la acreencia con más los accesorios, la capitalización de intereses es conforme a derecho." (Eduardo Gabriel Clusellas, Código Civil y Comercial, tomo 5, pág. 138, Ed. Astrea).
+Asimismo, la jurisprudencia admitió la aplicación del art. 1398 del CCCN, estableciendo: ".En el caso de la cuenta corriente bancaria existe una expresa previsión legal que impone la capitalización trimestral de intereses en tanto no exista reglamentación, convención o uso en contrario. (cfr. art. 1398, Código Civil y Comercial). Esta norma tiene su vinculación con la disposición contenida en el art. 795, Código de Comercio derogado, el cual ya contempló el devengamiento de intereses por los saldos deudores en la cuenta, en forma trimestral. De modo entonces que ante un precepto específico atinente a la cuestión debatida -sin que concurran en el caso los supuestos legales de excepción- y no verificándose que su aplicación conlleve a una consecuencia patrimonial que acreciente la obligación del deudor hasta un límite que exceda los límites de la moral y las buenas costumbres, corresponde admitir el planteo formulado por la ejecutante, en tanto que los intereses serán capitalizables trimestralmente (arg. art. 1398, Código Civil y Comercial) (CCC Sala I, Lomas de Zamora, Buenos Aires; 25/09/2024; Rubinzal Online; RC J 11016/24, "Banco Santander Río S.A. vs. M. A. V. s. Cobro ejecutivo"; en el mismo sentido Cámara Nacional de Apelaciones en lo Comercial, Exp. 18.032 / 2017, Banco Itau Argentina S.A. C/ Morresi, Marisa S/ Ejecutivo, del 24/04/2019; Cámara Nacional de Apelaciones en lo Comercial Sala B, 34121/2004 - "Banco Itau Buen Ayre S.A. C/ Silbert Gloria Beatriz S/ Ejecutivo", del 25/03/2019; Cámara Comercial - Sala C, Banco Macro S.A. c/ Curtume CBR S.A. s/ Ejecutivo Expediente N° 12790/2021/Ca1, 20/03/2024; Cámara Civil y Comercial de Apelaciones de Azul, Sala I, en causa n° 64.222 "Banco Patagonia.", del 27/06/2019).
+En atención a lo expuesto, y toda vez que la actora solicitó la aplicación de la capitalización trimestral de los intereses (cf. escrito de inicio, escrito de fecha 19/06/206 y memorial de agravios); corresponde hacer lugar al recurso de apelación interpuesto.
+En consecuencia, debe suplirse en esta Instancia la omisión incurrida en el decisorio en crisis (art. 273 del C.P.C.C.), y hacer lugar a la capitalización de intereses conforme lo peticionado y la previsión del art. 1398 del CCCN.
+2. IVA sobre intereses : Respecto al agravio referido a la omisión efectuada en la sentencia de primera instancia, el mismo debe prosperar, toda vez que la actora solicitó la aplicación del IVA sobre intereses en el escrito de inicio de fecha 07/05/2026, reiterándolo al momento de solicitar el dictado de la sentencia de fecha 19/06/2026.
+Ello, toda vez que este Tribunal ya se ha expedido sobre dicha temática, refiriendo que "el importe derivado de la aplicación por I.V.A. que contempla la Resolución General 3337 D.G.I. debe considerarse de aplicación al sub-caso en atención a lo preceptuado por la ley 23.349 (T.O. Ley 24.073) de impuesto al valor agregado, en razón de no ser el accionante titular del mismo, sino simplemente resultar -como entidad financiera- obligada a actuar como agente de percepción de dichos rubros, lo que encuentra sustento legal en el Dec-Ley 879 del 3-6-92, modificada por la Ley 23.349 y en la Resolución General 3337 de Marzo de 1991, como consecuencia del incumplimiento del demandado" (cf. esta Sala, causas nº 41.793, "Banco Bansud S.A. .", 15/08/2000; nº 47.008, "Agromecánica Bolívar S.R.L. .", del 17.08.04; nº 58.296, "Banco Patagonia S.A. c/ Carruega s/ Cob. Ejec.", del 12/12/13, nº 59.946, "Banco Patagonia S.A. c/ Marcial s/ Cob. Ejec.", del 17/07/15).
+Por su parte, la Sala I de esta Cámara, en el mismo sentido, ha resuelto que "según lo dispuesto por la ley 23.349 art. 3 inc. e), punto 21 y por el art. 10 del Decreto 692/98, los intereses están alcanzados por dicho impuesto. Asimismo, los bancos son agentes de retención de tal rubro por las operaciones de crédito que realizaren con sus clientes pues en las operaciones de colocaciones o prestaciones financieras, en estos casos, el hecho imponible se perfecciona en el momento en que se produzca el vencimiento del plazo fijado para el pago del rendimiento o de su percepción total o parcial (cf. esta Cámara, Sala I, causas n° 45.125, "Bco. Francés S.A. .", del 30.09.03; nº 55.720, "Banco Patagonia S.A. c/ Magallan s/ Cob. Ejec.", del 30/12/11 y nº 57.579, "Banco Patagonia S.A. c/ Ocinaga s/ Cobro Ejecutivo" de abril de 2013).
+Asimismo, también se ha dicho que: "El banco reviste la calidad de sujeto pasivo del impuesto (art. 4 de la ley de IVA) y agente de retención (art. 2 inc. b, Anexo I, de la RG AFIP 2854/2010, texto según art. 1 de la RG AFIP 3896), por lo que resulta obligado frente al Fisco Nacional por el ingreso del IVA sobre los intereses que percibe. Ahora bien, el impuesto al valor agregado presenta la particularidad de ser trasladable, por lo que quien termina asumiendo su pago es el último eslabón de la cadena (en este caso el ejecutado), quien reviste la calidad de sujeto repercutido por el impuesto. De esta manera el banco acreedor, una vez percibido el gravamen, se encontrará en condiciones de cumplir con el Fisco, sin mengua de la intangibilidad de su crédito (cf. esta Cámara, Sala I, causa nº 41.355, del 12/4/2000 "Banco Olavarría ."; causa n° 41.735, del 31/05/2000, "Banco Bansud S.A. ." y causas cit.; esta Sala, causas causa n° 41.792, del 20/6/2000, "Banco Bansud SA."; 61.462 "Banco Patagonia." del 13/12/2016 y causas citadas, entre otras).
+En consecuencia, debe suplirse en esta Instancia la omisión incurrida en el decisorio en crisis (art. 273 del C.P.C.C.), condenando al ejecutado al pago del I.V.A. sobre intereses
+Por todo lo expuesto, propicio la confirmación de la sentencia apelada de fecha 29/06/2026, en cuanto al agravio referido a la fecha de mora; por los fundamentos dados, (arts.384, 518, 521, 523 y ccs. del Cód. Proc. y jurisprudencia citada). Supliendo en esta Instancia las omisiones incurridas en el decisorio en crisis, haciendo lugar a la capitalización de intereses conforme lo prevé el art. 1398 del CCCN y al pago del I.V.A. sobre intereses (art. 273 del C.P.C.C.; art. 1398 del CCCN, doctrina y jurisprudencia citada).
+Así lo voto.
+A la misma cuestión, los Dres. Longobardi y Peralta Reyes adhieren al voto que antecede, votando en idéntico sentido por los mismos fundamentos.
+A LA SEGUNDA CUESTION , el Señor Juez Doctor García Etchegoyen , dijo:
+Atento a lo que resulta del tratamiento de la cuestión anterior, se resuelve confirmar sentencia apelada de fecha 29/06/2026 en cuanto al agravio referido a la fecha de mora; por los fundamentos dados, (arts.384, 518, 521, 523 y ccs. del Cód. Proc. y jurisprudencia citada). Supliendo en esta Instancia las omisiones incurridas en el decisorio en crisis, haciendo lugar a la capitalización de intereses conforme lo prevé el art. 1398 del CCCN y al pago del I.V.A. sobre intereses (art. 273 del C.P.C.C.; art. 1398 del CCCN, doctrina y jurisprudencia citada), sin costas por no haber mediado oposición (art.68 del Cód. Proc.). Difiérese la regulación de honorarios para su oportunidad (arts.31 y 51 del dec. ley 9.904/77).
+Así lo voto .
+A la misma cuestión, los Dres. Longobardi y Peralta Reyes adhieren al voto que antecede, votando en idéntico sentido por los mismos fundamentos.
+Con lo que terminó el Acuerdo dictándose la siguiente:
+S E N T E N C I A
+Azul, 22 Octubre de 2026.-
+AUTOS Y VISTOS :
+CONSIDERANDO :
+Por todo lo expuesto, atento lo acordado al tratar las cuestiones anteriores, demás fundamentos del acuerdo, citas legales, doctrina y jurisprudencia referenciada, y lo dispuesto por los arts. 266, 267 y ccs. del C.P.C.C., se resuelve: 1) Confirmar sentencia apelada de fecha 29/06/2026 en cuanto al agravio referido a fecha de mora ; por lo fundamentos dados, (arts.384, 518, 521, 523 y ccs. del Cód. Proc. y jurisprudencia citada). 2) Suplir en esta Instancia las omisiones incurridas en el decisorio en crisis, haciendo lugar a la capitalización de intereses conforme lo prevé el art. 1398 del CCCN y al pago del I.V.A. sobre intereses (art. 273 del C.P.C.C.; art. 1398 del CCCN, doctrina y jurisprudencia citada). 3) Sin costas por no haber mediado oposición (art.68 del Cód. Proc.). 4) Diferir la regulación de honorarios para su oportunidad (art.31 de la ley 14.967). REGISTRESE . NOTIFÍQUESE por Secretaría y devuélvase .
+20250656980@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
+
+### 2. [RS-227-2026] BONICELLI ARNALDO ENRIQUE S/ SUCESION AB INTESTATO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `2-74912-2025`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RS-227-2026`
+- **Código de Acceso SCBA**: `952A2E52`
+- **Firmantes**: Funcionario: PERALTA REYES Victor Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 227-2026 - Código acceso: 952A2E52 - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 22/10/2026 12:39
+
+#### Texto Íntegro
+```text
+Causa nº: 2-74912-2025
+" BONICELLI ARNALDO ENRIQUE S/ SUCESION AB INTESTATO "
+JUZGADO EN LO CIVIL Y COMERCIAL Nº 1 - OLAVARRIA
+En la ciudad de Azul, a los veintidós días del mes de octubre del año Dos Mil Veintiséis, celebran Acuerdo los Sres. Jueces integrantes de la Cámara de Apelación en lo Civil y Comercial Departamental, Sala II, Dres. Marcos Federico García Etchegoyen, María Inés Longobardi y Víctor Mario Peralta Reyes , con la presencia del Secretario, para dictar sentencia en los autos caratulados: "Bonicelli Arnaldo Enrique s/ Sucesión Ab- intestato" (Causa n° 74.912) . Habiéndose procedido oportunamente a practicar la desinsaculación prescripta por los arts. 168 de la Constitución Provincial, 263 y 266 del CPCC, resultó de ella que debían votar en el siguiente orden: Dr. Peralta Reyes - Dra. Longobardi - Dr. García Etchegoyen.
+Estudiados los autos, el Tribunal resolvió plantear y votar las siguientes:
+-C U E S T I O N E S-
+1ª .- ¿Procede el recurso de apelación planteado contra la resolución del 6/10/25?
+2ª .- ¿Qué pronunciamiento corresponde dictar?
+- V O T A C I Ó N-
+A LA PRIMERA CUESTIÓN , el Sr. Juez, Dr. Peralta Reyes , dijo:
+I. 1. La sentencia apelada del 6/10/25 , rechazó la pretensión formulada por Nancy Graciela Bustamante el 18/6/25 (en su calidad de donataria del causante), de que se incorporen al acervo hereditario el producido de la venta de un establecimiento rural , vendido por el causante el 20/2/1998 por la suma de U$S1.750.000 (equivalente, por entonces, a $1.750.000); así como el crédito litigioso objeto de las actuaciones que oportunamente también iniciara aquél contra el Banco Provincia, para el recupero de depósitos en plazo fijo (Expte. 27.623, "Sucesores de Bonicelli Arnaldo Enrique c/ Bco. de la Pcia. de Bs. As s/ Cobro de pesos", luego continuado por sus herederos, JCC n° 2, Olavarría).
+Para rechazar tal pretensión, la a quo destacó, en lo que respecta al valor de venta del referido establecimiento rural , que para agosto de 1998 el valor de la operación ya había sido percibido por completo por el causante; es decir, ocho años antes de su deceso .
+Ponderó que el causante era el sostén económico de su matrimonio y solventaba la totalidad de los gastos del hogar; y que en el marco de los autos "Gelso Isolina Erminia c/ Bonicelli Arnaldo E. s/ separación personal" (Expte. 12.206), el causante entregó a quien fuera su cónyuge, por convenio del 14/1/98, la suma de $350.000 y asumió la obligación de afrontar sus gastos personales posteriores a la sentencia de divorcio. Asimismo, recordó que dichos autos culminaron con un acuerdo transaccional, por el que el aquí causante asumió la totalidad de los gastos de justicia y abonó a su excónyuge la suma de $200.000, al 1/12/04, sin perjuicio de que el 28/12/04, percibió la suma de $114.911,11, en concepto de haber de la sociedad conyugal. Destacó, que si bien se observan depósitos en dólares y en pesos en diversas entidades bancarias , ellos no eran de titularidad exclusiva del causante , "no existiendo constancia de qué ocurrió con su producido, más allá de los acuerdos celebrados con su ex-cónyuge" . En ese marco, recordó que "cada persona por 'motu proprio', en principio, puede disponer de su patrimonio, más allá de la existencia de herederos forzosos."
+Seguidamente, en relación con el crédito litigioso objeto de las actuaciones n° 27.623, "Sucesores de Bonicelli Arnaldo Enrique c/ Bco. de la Pcia. de Bs. As s/ Cobro de pesos", iniciado por el causante y continuado por sus herederos, para el recupero de depósitos en plazo fijo , recordó que la negativa del banco a abonarlos se fundó en que el accionante ya había retirado las sumas depositadas en forma personal. Asimismo, agregó que en dichas actuaciones no se produjo prueba de la pretensión; y que los herederos que la continuaron no prosiguieron el trámite, encontrándose dicha causa paralizada.
+Agregó que de la causa " Bonicelli Elsa Zulema y otro c/ Bustamante Nancy Graciela y otro s/ acción de simulación y nulidad", surge que no existían al momento del fallecimiento, bienes inmuebles registrados a nombre del causante; que el inmueble donde éste vivió sus últimos días, junto al matrimonio Lazarte-Bustamante, fue donado a éstos, conjuntamente con los dos vehículos que detentaba; y que existieron depósitos a plazo fijo y en caja de ahorro en diferentes entidades bancarias, pero sus vencimientos operaron entre 1998 y 2005. Así es que, insistió " no puede acreditarse sobre la existencia de esos fondos al momento de su fallecimiento (esto es: enero del año 2006). Asimismo, puede extraerse que habrían sido de cotitularidad del causante con terceras personas ", y que "existían fondos líquidos por la venta del campo, los cuales se encontraban en certificado a plazo fijo, sin embargo, no puede apreciarse la existencia de los mismos al momento de la apertura de la sucesión."
+A continuación, recordó las reglas generales de la carga de la prueba (art. 375 CPCC); y sostuvo que la pretendiente Bustamante, no consiguió acreditar que los fondos que invoca, continuaran en el patrimonio del causante al tiempo de su deceso el 31 de enero de 2006; máxime cuando "tratándose de fondos líquidos, no habría impedimento para que el causante, en vida, los haya dispuesto libremente conforme a su voluntad y para satisfacer sus propias necesidades. Ello, considerando que gozaba de plena capacidad y puede presumirse que actuaba con conciencia de sus actos, sumado a la escasa frecuencia de trato con sus hijos."
+Así es que, la sentencia apelada rechazó la pretensión formulada por Nancy Graciela Bustamante , con costas a su parte ; y admitió la composición del patrimonio relicto efectuada por los herederos el 1/4/25, en los términos allí expresados (acervo hereditario total de U$S201.618,12; legítima de U$S161.294,49, y porción disponible de U$S40.323,63).
+2. Contra esta decisión interpuso recurso de apelación la donataria Bustamante (esc. del 14/10/25), argumentando, en lo que constituye una crítica concreta y razonada del decisorio apelado, que al excluir del acervo el crédito en litigio judicial, la sentencia ha vulnerado los artículos 3279 y 3417 C.C., de los que resulta que los herederos continúan la persona del causante y reciben todo lo que le correspondía al difunto, como acreedor o deudor. Entiende que el referido crédito litigioso constituye un derecho que "compone la herencia", debiendo determinarse su existencia y cuantía al tiempo de la apertura de la sucesión, independientemente del accionar posterior de los herederos.
+Por otra parte, argumenta que de las actuaciones seguidas contra el Banco Provincia, así como de las constancias obrantes en el Exp. n° 28.684, "Bonicelli Elsa Zulema y otro c/ Bustamante Nancy Graciela y otro s/ acción de simulación y nulidad", surge el crédito litigioso en cuestión; y destaca que en estas últimas actuaciones, esta Sala, por sentencia del 1/10/19, subrayó los fondos que el causante obtuvo por la venta del establecimiento rural a Loma Negra CIASA (U$S1.750.000), y que buena parte de esa suma fue canalizada a depósitos bancarios a plazo fijo.
+3. Corrido el traslado de ley, contestaron Viviana Carmusciano Bonicelli por escrito de 14/11/25; y Claudio José Carmusciano Bonicelli y Hugo José Carmusciano, por presentación del 7/11/25.
+Elevadas y radicadas las actuaciones en esta Sala, se resolvió que resultando definitiva la cuestión, ella debe resolverse con la formalidad del acuerdo. En consecuencia, habiéndose pasado los autos para sentencia, y practicado el sorteo de rigor, se encuentran estos obrados en condiciones de ser resueltos.
+II. 1. Anticipo que, a mi criterio, el recurso no puede prosperar.
+En primer término, recuerdo que conforme los arts. 3279 y 3417 CC (aplicables cf. el art. 7 CCCN, y la fecha de fallecimiento del causante, el 31/1/06), el acervo sucesorio está compuesto por "todo lo que el difunto era propietario, acreedor o deudor, con excepción de aquellos derechos que no son transmisibles por sucesión (.)". En sentido concordante, el actual art. 2277 CCCN prevé que "la herencia comprende todos los derechos y obligaciones del causante que no se extinguen por su fallecimiento".
+Por otra parte, considerando que el presente proceso sucesorio se encuentra en instancias de determinación de la porción legítima de los herederos y de reducción de las donaciones efectuadas a terceros por el causante (conforme sentencia firme de esta Sala del 1/10/19, en la causa n° 64.967, " Bonicelli Elsa Zulema y otro c/ Bustamante Nancy Graciela y otro s/ acción de simulación y nulidad"), recuerdo que, como allí se señaló, el art. 3602 C.C. prevé que "para fijar la legítima se atenderá al valor de los bienes quedados por muerte de testador. Al valor líquido de los bienes hereditarios se agregará el que tenían las donaciones, aplicando las normas del art. 3477 CC ." Este último precepto, estipula que los valores de las donaciones "deben computarse al tiempo de la apertura de la sucesión sea que existan o no en poder del heredero.".
+2. Sobre esa base, y en lo que toca a los depósitos a plazo fijo reclamados por el causante en el Expte. n° 27.623, "Sucesores de Bonicelli Arnaldo Enrique c/ Bco. de la Pcia. de Bs. As s/ Cobro de pesos", cuya subsistencia fue oportunamente negada por el banco accionado, bajo el argumento de que ya habían sido retirados , no advierto que sea posible ni razonable, incluir en el cuerpo de bienes una suma dineraria por tal concepto. Ello pues se trata de un derecho incierto, cuya existencia misma se encuentra controvertida en sede judicial; y que, al menos a la fecha, no posee más sustento que las afirmaciones oportunamente sostenidas por el causante al demandar.
+Los herederos han recibido una situación jurídica litigiosa, con la posibilidad de continuar la acción oportunamente ejercitada por el causante para obtener el reconocimiento de su pretendido derecho, pero a la fecha, no puede afirmarse que el derecho sustancial invocado en esas actuaciones, efectivamente exista, ni haya, por ende, sido heredado por los sucesores como un derecho cierto y actual.
+Máxime cuando la recurrente no desvirtúa el argumento central de la sentencia apelada, en punto a que en dichas actuaciones, no se produjo prueba de la pretensión , ni por el causante, ni por los herederos, ni por la donataria, encontrándose dicha causa a la fecha paralizada (art. 260 CPCC).
+En consecuencia, incorporar al cuerpo general de bienes un valor económico por tal concepto; importaría incluir un crédito eminentemente hipotético, estimándolo de una manera extremadamente conjetural y, en todo caso, prematura; y todo ello, con las evidentes consecuencias que tal proceder acarrearía en materia de determinación de la legítima, reducción de donaciones y consecuente determinación de la masa partible (arts. 1831, 3477, 3602 y ccs. C.C; doct. arts. 2453 y ccs. CCCN; arts. 375 y 384 CPCC).
+3. Por su parte, en lo que toca al producido de la venta de la fracción de campo , destaco que la recurrente no logra desvirtuar el fundamento central del decisorio apelado, de que no se ha acreditado la subsistencia total o parcial de dicha suma en el patrimonio del causante al tiempo de su deceso. Tampoco contradice la recurrente el análisis efectuado en la instancia anterior, en punto a que el producido de esa venta pudo haberse consumido en vida por el causante, en virtud de que éste era el sostén del hogar familiar; y de las sumas que entregó a quien fuera su cónyuge en el marco de las actuaciones de separación personal, e incluso con posterioridad a tal separación.
+4. No obsta a lo destacado en los puntos anteriores, lo expresado por esta Sala en la sentencia que invoca la recurrente, dictada el 1/10/19 en la causa n° 64.967, " Bonicelli Elsa Zulema y otro c/ Bustamante Nancy Graciela y otro s/ acción de simulación y nulidad". Ello desde que en tal ocasión, este Tribunal se limitó a referir que para determinarse la legítima, debería tenerse en cuenta la fracción de campo vendida por el causante el 20/2/98 a Loma Negra CIASA, así como los importantes depósitos a plazo fijo en el Banco Provincia que dieron lugar al ya mencionado juicio de cobro de pesos. Sin embargo, nada dijo esta Sala en relación con la subsistencia de tales sumas en el patrimonio del causante al tiempo de su deceso; dejando esa cuestión librada, naturalmente, a lo que luego se acreditara y resolviera en este expediente sucesorio.
+Incluso, en relación con los depósitos a plazo fijo, en el apartado 2 del Considerando VI, esta Sala advirtió sobre el carácter líquido de esos fondos y la libertad de disposición con la que contaba en consecuencia el causante pues éste "podía entregarlos libremente a las personas que -según su voluntad- fueran merecedoras de esas liberalidades, más allá de que ello implicara una transgresión a las normas que establecen la legítima de los herederos forzosos. La naturaleza de cosa fungible del dinero tornaba mucho más sencilla la satisfacción de los deseos del causante de beneficiar a las personas que lo acompañaron en los últimos momentos de su vida (art.2324 del Cód. Civil, arts.163 inc.5, 384 y ccs. del Cód. Proc.).".
+III. Finalmente, vale destacar, de todos modos, que nada de lo dicho obsta a que, de reconocerse en sentencia firme la existencia y cuantía del crédito por depósitos bancarios en cuestión , se denuncie ello en estas actuaciones sucesorias, requiriéndose la consecuente reforma, en su caso, de la partición efectuada, y realización de una partición complementaria o rectificativa (art. 2408 CCCN) . Ello pues, como se ha dicho "el inventariado -­o, lo que hace sus veces, la denuncia de bienes- de un sucesorio se encuentra siempre abierto a la posibilidad de inclusión de bienes que no se hubieran inventariado en su oportunidad (art. 717, Cód. Procesal) por ser letra expresa de la ley" (cf. Beatriz A. Areán, en Código Procesal Civil y Comercial de la Nación , Directoras Elena I. Highton y Beatriz A. Areán, Ed. Hammurabi, 1ª ed., Bs. As., 2010, T. 13, pág. 806; el destacado es propio).
+Y ello aun cuando se haya vencido el plazo del art. 760 CPCC, habida cuenta de que, como más adelante amplía la citada autora -en referencia al art. 725 CPN-, "la omisión de formular reclamaciones durante el plazo fijado por el artículo anterior no afecta la facultad de cuestionar la exclusión o inclusión de bienes en el inventario, promoviendo el pertinente incidente o, en su caso, el proceso de conocimiento que corresponda. Tampoco afecta esta conclusión la circunstancia de que las operaciones hayan sido aprobadas. La reclamación por inclusión o exclusión de bienes en el sucesorio procede aun cuando el inventario haya sido aprobado y ello encuentra razón en que la resolución aprobatoria no prejuzga sobre la propiedad de los bienes" (Beatriz A. Areán, en Código Procesal Civil y Comercial de la Nación , ob. cit., T. 13, págs. 807 y 808; el resaltado me pertenece).
+Incluso, en el marco del actual Código Civil y Comercial ello podría canalizarse por la vía del ya citado art. 2408 CCCN , que inaugura el Capítulo "Nulidad y reforma de la partición" , y que admite, en lo que importa, la posibilidad de que "el perjudicado" reclame la reforma de una partición , efectuándose "una partición complementaria o rectificativa, o la atribución de un complemento" ; y, en su caso, reconociéndose a los donatarios el derecho al reintegro del valor de las donaciones que se hubieran reducido en exceso. La posibilidad que expresamente habilita la referida norma, obedece, según los fundamentos del Anteproyecto de Reforma que cita Ferrer, "a planteos judiciales frecuentes (.) en los que, sin dar lugar a la nulidad, la igualdad de los lotes se resguarda rectificando la partición practicada o con el complemento de la hijuela del heredero perjudicado. El Código unificado introduce un cambio al legislar sobre estas consecuencias, ya que en el Código Civil de Vélez Sarsfield solo se mencionaba a la nulidad y reforma de la partición en el art. 3284, inc. 2º referido al juez competente y al fuero de atracción." (cf. Francisco A. M. Ferrer, en Código Civil y Comercial Comentado. Tratado Exegético , 3ª ed. act. y amp., Dir. Jorge H. Alterini, La Ley, Bs. As, 2019, T. XI, consultado en https://proview.thomsonreuters.com/library).
+IV. En suma, conforme lo expuesto, propongo al acuerdo rechazar el recurso de apelación incoado por la donataria Bustamante, con costas a su parte; y confirmar la resolución recurrida en todo lo que ha sido materia de agravio, sin perjuicio de la aclaración formulada en el Considerando III (arts. 1, 2, 3, 7 y 1408 CCCN; arts. 3602, 3279, 3477 y 3417 y ccs. C.C.; art. 2408 CCCN; arts. 68, 375, 384, doct. art. 760 y ccs. CPCC).
+Así lo voto.
+A la misma cuestión, los señores Jueces, Dres. Longobardi y García Etchegoyen , votaron en idéntico sentido, por los mismos fundamentos.
+A LA SEGUNDA CUESTIÓN , el señor Juez, Dr. Peralta Reyes , dijo :
+Atento lo acordado al tratar la cuestión anterior, demás fundamentos del acuerdo, citas legales, doctrina y jurisprudencia referenciada, y lo dispuesto por los arts. 266 y 267 y concs. del C.P.C.C., corresponde : 1) Rechazar el recurso de apelación incoado por la donataria Nancy Graciela Bustamante, con costas a su parte en calidad de vencida; y confirmar la resolución recurrida en todo lo que ha sido materia de agravio, sin perjuicio de la aclaración formulada en el Considerando III. 2) Diferir la regulación de honorarios para su oportunidad (arts. 31 y 51 de la Ley 14.967).
+Así lo voto.
+A la misma cuestión, los señores Jueces, Dres. Longobardi y García Etchegoyen , votaron en idéntico sentido, por los mismos fundamentos.
+Con lo que terminó el acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Azul, 22 de octubre de 2026.
+AUTOS Y VISTOS:
+CONSIDERANDO:
+Por todo lo expuesto, atento lo acordado al tratar las cuestiones anteriores, demás fundamentos del acuerdo, citas legales, doctrina y jurisprudencia referenciada, y lo dispuesto por los arts. 266 y 267 y concs. del C.P.C.C., SE RESUELVE: 1) Rechazar el recurso de apelación incoado por la donataria Nancy Graciela Bustamante, con costas a su parte en calidad de vencida; y confirmar la resolución recurrida en todo lo que ha sido materia de agravio, sin perjuicio de la aclaración formulada en el Considerando III. 2) Diferir la regulación de honorarios para su oportunidad (arts. 31 y 51 de la Ley 14.967). Regístrese. Notifíquese por Secretaría y devuélvase.
+20176763966@notificaciones.scba.gov.ar 27270188953@notificaciones.scba.gov.ar 27385291081@notificaciones.scba.gov.ar 20167684328@notificaciones.scba.gov.ar 20169242829@notificaciones.scba.gov.ar
+```
+
+---
+
+### 3. [RS-228-2026] R. M. J. C/ S. J. S/ RECLAMACION DE ESTADO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `2-74956-2025`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RS-228-2026`
+- **Código de Acceso SCBA**: `1DEAE57C`
+- **Firmantes**: Funcionario: GARCIA ETCHEGOYEN Marcos Federico JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 228-2026 - Código acceso: 1DEAE57C - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 22/10/2026 12:40
+
+#### Texto Íntegro
+```text
+Causa nº: 2-74956-2025
+" R. M. J. C/ S. J. S/ RECLAMACION DE ESTADO " JUZGADO DE FAMILIA Nº 1 - AZUL
+En la ciudad de Azul, a los veintidós días del mes de Octubre del año Dos Mil Veintiséis, celebrando Acuerdo los Jueces de la Cámara de Apelación en lo Civil y Comercial Departamental, Sala II, Dr. Marcos Federico García Etchegoyen y Dra. María Inés Longobardi (arts. 47 y 48 Ley 5827), encontrándose excusado el Dr. Víctor Mario Peralta Reyes , con la presencia del Sr. Secretario, para pronunciar sentencia definitiva en los autos caratulados: " R. M. J. C/ S. J. S/ RECLAMACION DE ESTADO" (Causa N° 74.956), habiéndose procedido oportunamente a practicar la desinsaculación prescripta por los arts. 168 de la Constitución Provincial, 263 y 266 del C.P.C.C., resultando de ella que debían votar en el siguiente orden: Dr. García Etchegoyen y Dra. Longobardi .
+Estudiados los autos, el Tribunal resolvió plantear y votar las siguientes:
+-C U E S T I O N E S-
+1ra. ¿Es procedente el recurso de apelación interpuesto con fecha 28/11/2025, contra la sentencia de fecha 26/11/2025?
+2da. ¿Qué pronunciamiento corresponde dictar?
+-V O T A C I O N-
+A LA PRIMERA CUESTION , el Sr. Juez Dr. García Etchegoyen, dijo:
+I) La sentencia dictada en la instancia anterior rechazó la demanda de acción de reclamación de filiación extramatrimonial promovida por M. J. R. contra J. S., dejando establecido que éste no es el padre de la actora; reguló los honorarios de los letrados intervinientes y los de la perito Oficial del Laboratorio de Análisis Comparativo de A.D.N. de la Asesoría Pericial de La Plata e impuso las costas del proceso en el orden causado.
+Con fecha 28/11/2025, el Sr. J. S., con el patrocinio letrado de la Dra. María Cristina Almada, interpuso recurso de apelación. El día 03/12/2025, el Sr. Juez concedió el recurso. Recibidos los autos en la alzada, expresó agravios el apelante (03/03/2026); corrido el traslado de los mismos conforme despacho del día 19/06/2026, éstos fueron contestados por la parte actora (07/07/2026).
+II) En apelante se agravió exclusivamente de la imposición de las costas por su orden, del pago en partes iguales de la pericia genética y de la regulación de honorarios en 80 jus arancelarios. Considera la regulación de honorarios excesiva y desproporcionada, violando los principios de razonabilidad y proporcionalidad. Sostiene que el magistrado aplicó incorrectamente la Ley 14967 al no considerar las particularidades del caso estableciendo una base regulatoria excesiva. Expresa que el proceso concluyó sin contradictorio, quedando la causa resuelta en la audiencia preliminar, se sometió voluntariamente al examen de ADN, sin necesidad de intimación judicial, sin negativa, sin incidentes y sin apertura a prueba, por lo que la falta de contradicción, sencillez y celeridad reducen la complejidad. A su vez sostiene que cargar a cada parte con el 50% de la pericia genética es injustificado ya que dicho estudio fue instado por la actora. Agrega que el magistrado de grado al imponer las costas por su orden no acreditó la existencia de razones objetivas, serias y excepcionales que justifiquen apartarse del principio general atento haber sido rechazada en forma total la pretensión, por lo que resulta improcedente neutralizar los efectos del vencimiento. A lo dicho adiciona que la actora inició la acción sin base suficiente, simplemente hizo mención a que una conocida hace mas de treinta años, le dijo que el apelante podría ser su padre y sin ningún otro sustento fáctico inició la acción cuyo resultado fue negativo. Expresa que es un jubilado y no está en condiciones económicas de hacer frente al pago de los honorarios y de la pericia. Considera que la sentencia de grado no justifica el apartamiento del principio general limitándose a afirmar que hubo "razones para litigar", lo cual no satisface el estándar jurisprudencial exigido. En consecuencia, solicita que se revoque la regulación de 80 jus y se fije una regulación prudencial y proporcional a la mínima activad desarrollada, se revoque la imposición del 50% del gasto pericial al demandado y se lo traslade en un cien por ciento a la actora, imponiéndole la totalidad de las costas.
+Corrido que fuera el traslado de ley, los agravios fueron contestados por la actora con fecha 07/07/2026.
+Con fecha 20/08/2026 se dictó la providencia de autos para sentencia, y habiéndose cumplido con los pasos procesales de rigor, se encuentra esta Alzada en condiciones de abocarse al análisis de estas actuaciones, a los fines del dictado de la presente.
+III) Con fecha 17/09/2024 por ante el Juzgado de Familia Nro. 2 de Olavarría, la actora inició formal demanda por reconocimiento de reclamación de paternidad contra su presunto padre biológico, J. S. Como prueba solicitó pericial medica genética (ADN), adjuntó documental, informativa para el caso de desconocimiento de la documental acompañada y ofrece prueba testimonial. El mencionado Juzgado, con fecha 23/09/2024 se declaró incompetente territorialmente para entender en la acción entablada, remitiendo la misma al Juzgado de Familia Nro. 1 de Azul. En el primer despacho, con fecha 24/10/2024, el Sr. Juez de grado ordenó correr traslado de la acción incoada al demandado y ordenó dar intervención al Ministerio Público Departamental, lo que hizo el día 25/10/2024.
+El Sr. J. S. (12/11/2024), contesta la demanda negando los hechos relatados, sosteniendo que nunca tuvo una relación sentimental con la madre de la actora. Indica que hasta la notificación de la demanda desconocía que existiera una persona que pensara que era su hija, además de llamarle la atención que la actora haya esperado 28 años para iniciar la acción en busca de su verdadera identidad. Se allana a la prueba pericial biológica genética de ADN ofrecida por la actora y solicita el rechazo de la demanda con costas.
+Con fecha 03/04/2025 se celebra la audiencia preliminar, que fuera establecida para el día 24/02/2025, a la cual concurrieron las partes con sus letrados patrocinantes acordando la realización de la pericia de ADN. En dicho acto se procedió a practicar la extracción de las muestras correspondientes de acuerdo con el procedimiento indicado por la Asesoría Pericial de La Plata y se difirió la producción de la restante prueba ofrecida a las resultas de la pericia de ADN a producirse.
+El día 04/09/2025, se recibió la respuesta enviada por la Asesoría Pericial de La Plata, agregándose los resultados de los informes de la Determinación de Vínculo Biológico Mediante Análisis Comparativo de ADN confeccionados por la Lic. Greta María Carini, Perito Genetista integrante del Laboratorio de Análisis comparativo de ADN de la Suprema Corte bonaerense, de los cuales surge: " CONCLUSIONES : Los resultados observados a partir del análisis de las muestras remitidas, y basados en el Punto de Pericia informados en el Oficio de Solicitud de Pericia, EXCLUYEN a J. S. como posible padre biológico de M. J. R... " (Textual). Corrido el traslado de los mismos a las partes y al Agente Fiscal (08/09/2025), quien contestó la vista considerando que corresponde el rechazo de la demanda (08/08/2025), con fecha 20/11/2025 se llamaron autos para dictar sentencia y el día 26/11/2025 se dictó sentencia en la forma mencionada en el apartado I.
+IV) La sentencia debe ser modificada, respecto al modo en que fueron impuestas las costas del proceso, por cuanto del análisis de las actuaciones no surgen fundamentos para apartarse del principio general, por lo que las costas deben ser impuestas a la actora en su calidad de vencida (art. 68 CPCC).
+En este sentido se ha sostenido que " no hay razón para apartarse, en principio, en los procesos de estado en general y en las acciones de filiación y de patria potestad en particular, de la regla que impone la condena en costas del litigante vencido, conforme surge del art. 68 del Código Procesal. Será imprescindible considerar las peculiaridades de cada acción para determinar si es posible encontrar razones atendibles en la conducta asumida por una de las partes para que ésta sea eximida -en forma total o parcial- de la imposición de las costas (Azpiri, Jorge O., "Juicio de filiación y patria potestad" 2°ed., págs..136/137; esta sala en causa n° 59.025 del 06/04/2015, "Godoy."). Por ende, " el allanamiento a la demanda o a la excepción opuesta, como causal de exoneración de las costas, está condicionado por la conducta del vencido. Para que se lo exima de las mismas es menester que no se encuentre en mora con anterioridad a la promoción del juicio o que no haya originado por su culpa la necesidad de la iniciación de la demanda o de la articulación de la excepción (Alsina, Tratado, 2ªed., T.IV, p.542, "b"; Sentís Melendo, "El allanamiento a la demanda y la imposición de costas", Rev. Der. Proc. año IV, 1er. trim. 1948, Nº1, p.314)", (conf. Morello-Sosa-Berizonce "Códigos..." cit. T.II-B, p.199 punto I, en reenvío a numerosos fallos).
+De la reseña efectuada surge que, al contestar la demanda, el Sr. J. S. negó los hechos invocados por la actora en el escrito de demanda, se allanó a la prueba pericial biológica genética de ADN ofrecida, además de expresar que " nunca tuve una relación sentimental con la madre de la actora.; hasta la notificación de la demanda desconocía por completo que existía una persona que pensaba que es mi hija.; . nunca tuve contacto alguno con la actora, ni con los testigos ofrecidos, ni siquiera con su madre." , entendiendo de buena fe que no era el padre de la actora, lo cual fue corroborado con el resultado del análisis de ADN efectuado.
+Por lo expuesto, teniendo en consideración la conducta procesal asumida por el demandado y no existiendo razones para apartarse del principio objetivo de la derrota, propicio al acuerdo la modificación de la sentencia apelada en cuanto impuso las costas del proceso en el orden causado (art. 68 y concs. del CPCC), e imponerlas a la actora vencida, debiendo seguirse idéntico criterio con relación a las costas de alzada en atención al resultado de la vía recursiva (art. 68 y concs. del CPCC, doctrina y jurisprudencia citada).
+V) Corresponde en este estado abocarme a la revisión de los honorarios regulados en la instancia de origen, atento haber sido recurridos por el demandado por considerarlos altos.
+En primer término, corresponde señalar que el artículo 9 de la Ley arancelaria establece, para aquellos procesos carentes de apreciación pecuniaria, los honorarios mínimos que debe percibir el profesional por su actividad. De ello se concluye que, de ser el caso, esta norma podría interpretarse a la luz del artículo 16, únicamente en los casos en que deba considerarse elevar ese monto mínimo, pero en ningún caso para reducirlo pues, como se dijo, se trata del monto mínimo o piso que debe respetarse conforme lo establece la norma que resulta de aplicación al caso (doctr. art.9 Ley 14.967, esta Sala en causa n° 67.584, del 21/09/2021, "Desiderio."). Ahora bien, esta Sala también tiene dicho que, los montos tarifados se emplean para arancelar todas las etapas del proceso y el que es asignado por la ley para el/los letrados que representen y/o patrocinen a cada parte. En conclusión, ese mínimo tarifado se prevé, en principio, para la parte perdidosa, aumentándose su porcentaje para quién resulte ganador en la contienda (causa n° 69.296, del 27/09/2022, "Gómez.", causa n° 69.456, "García.", del 13/10/2022, entre otras)._
+Con respecto a la materia de autos se observa que posee estipulación de honorarios específica en la ley 14.967; debiendo regularse los honorarios de los letrados bajo la órbita del art. 9 ap. I inc. f), es decir "reclamación e impugnación de filiación", estableciendo para dicho caso un mínimo de 80 jus. Ahora bien, dicho mínimo se establece para el caso que se tramiten ambas acciones (reclamación e impugnación), resultando reducido a la mitad (40 jus) en caso que se tramite solo una de ellas, como ocurre en el presente caso.
+Analizadas las actuaciones, corresponde dejar sin efecto la regulación efectuada en la instancia de origen y en atención al valor y mérito de los trabajos realizados en autos, a las etapas cumplidas por cada letrado, la doctrina de la causa n° 71.276 del 19/09/2023 "A., C. B. c/ F.R s/ Acción de reclamación de filiación" y a lo dispuesto por los arts. 1, 9 ap. I 1. Inc. f, 10, 16, 22, 28 último párrafo y concs. de la Ley 14.967, y fijar los honorarios de la Dra. Yésica Paola Aspiroz, letrada patrocinante de la actora, en la suma equivalente a cuarenta (40) ius arancelarios y los de la Dra. María Cristina Almada, letrada patrocinante del demandado, en la suma equivalente a cincuenta y dos (52) ius arancelarios; en todos los casos con más el aporte legal e I.V.A., en caso de corresponder.
+En virtud del principio de celeridad y economía procesal, corresponde regular los estipendios de las profesionales por las tareas realizadas ante esta instancia y a mérito de lo dispuesto por el art. 31 de la ley 14.967, regúlanse los honorarios de la Dra. Yésica Paola Aspiroz, letrada patrocinante de la actora, en la suma equivalente a diez (10) jus arancelarios, y los de la Dra. María Cristina Almada, letrada patrocinante de la parte demandada, en la suma equivalente a trece (13) jus arancelarios, en ambos casos con más los aportes de ley e I.V.A. si correspondiere.
+Así lo voto.
+A la misma cuestión, la Dra. Longobardi adhiere al voto que antecede, por los mismos fundamentos, votando en idéntico sentido.
+A LA SEGUNDA CUESTIÓN, el Sr. Juez Dr. García Etchegoyen, dijo: En atención al acuerdo alcanzado al tratar las cuestiones anteriores corresponde: 1) Modificar la sentencia apelada de fecha 26/11/2025 -en lo que ha sido materia de agravios e imponer las costas del proceso a la actora vencida (art. 68 CPCC). 2) Modificar la regulación de honorarios efectuada en la instancia de origen, y fijar en consecuencia, los honorarios de la Dra. Yésica Paola Aspiroz , letrada patrocinante de la actora, en la suma equivalente a cuarenta (40) ius arancelarios y los de la Dra. María Cristina Almada letrada patrocinante de la parte demandada, en la suma equivalente a cincuenta y dos (52) ius arancelarios; en todos los casos con más el aporte legal e I.V.A., en caso de corresponder. 3) Imponer las costas de alzada a la actora, en atención al resultado de la vía recursiva (art. 68 y concs. del CPCC). 4) Regular los honorarios por los trabajos realizados en esta instancia a las letradas patrocinantes de las partes y a mérito de lo dispuesto por el art. 31 de la ley 14.967, regular los honorarios de la Dra. Yésica Paola Aspiroz , letrada patrocinante de la actora, en la suma equivalente a diez (10) jus arancelarios, y los de la Dra. María Cristina Almada , letrada patrocinante de la parte demandada, en la suma equivalente a trece (13) jus arancelarios, en ambos casos con más los aportes de ley e I.V.A. si correspondiere.
+Así lo voto.
+A la misma cuestión, Dra. Longobardi adhiere al voto que antecede, por los mismos fundamentos, votando en idéntico sentido.
+Con lo que terminó el Acuerdo dictándose la siguiente:
+- S E N T E N C I A-
+Azul, 22 de Octubre de 2026.
+AUTOS Y VISTOS:
+CONSIDERANDO:
+Por todo lo expuesto, atento lo acordado al tratar las cuestiones anteriores, demás fundamentos del acuerdo, citas legales, doctrina y jurisprudencia referenciada y lo dispuesto por los arts. 266 y 267 y concs. del CPCC, se resuelve: 1) Modificar la sentencia apelada de fecha 26/11/2025 -en lo que ha sido materia de agravios e imponer las costas del proceso a la actora vencida (art. 68 CPCC). 2) Modificar la regulación de honorarios efectuada en la instancia de origen, y fijar en consecuencia, los honorarios de la Dra. Yésica Paola Aspiroz , letrada patrocinante de la actora, en la suma equivalente a cuarenta (40) ius arancelarios y los de la Dra. María Cristina Almada , letrada patrocinante de la parte demandada, en la suma equivalente a cincuenta y dos (52) ius arancelarios; en todos los casos con más el aporte legal e I.V.A., en caso de corresponder. 3) Imponer las costas de alzada a la actora, en atención al resultado de la vía recursiva (art. 68 y concs. del CPCC). 4) Regular los honorarios por los trabajos realizados en esta instancia a las letradas patrocinantes de las partes y a mérito de lo dispuesto por el art. 31 de la ley 14.967, regular los honorarios de la Dra. Yésica Paola Aspiroz , letrada patrocinante de la actora, en la suma equivalente a diez (10) jus arancelarios, y los de la Dra. María Cristina Almada , letrada patrocinante de la parte demandada, en la suma equivalente a trece (13) jus arancelarios, en ambos casos con más los aportes de ley e I.V.A. si correspondiere. Regístrese. Notifíquese a las partes por Secretaría y devuélvase.
+ARTICULO 54° ley 14967: Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado. Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido. Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio. En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo. Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio. Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles. Operada la mora, el profesional podrá optar por: a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual. b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+27131728870@NOTIFICACIONES.SCBA.GOV.AR y 27331097352@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
+
+### 4. [RS-229-2026] PATRIMONIO DE TRIDOY HUGO ALBERTO - QUIEBRA S/ INCIDENTE DE REALIZACION DE BIENES
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `2-74771-2025`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RS-229-2026`
+- **Código de Acceso SCBA**: `11039D5D`
+- **Firmantes**: Funcionario: PERALTA REYES Victor Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 229-2026 - Código acceso: 11039D5D - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 22/10/2026 12:41
+
+#### Texto Íntegro
+```text
+Causa nº: 2-74771-2025
+" PATRIMONIO DE TRIDOY HUGO ALBERTO - QUIEBRA S/ INCIDENTE DE REALIZACION DE BIENES "
+JUZGADO EN LO CIVIL Y COMERCIAL Nº 1 - OLAVARRIA -
+En la ciudad de Azul, a los veintidós días del mes de octubre del año Dos Mil Veintiséis, celebran Acuerdo los Jueces integrantes de la Cámara de Apelación en lo Civil y Comercial Departamental, Sala II, Dr. Marcos Federico García Etchegoyen, Dra. María Inés Longobardi y Dr. Víctor Mario Peralta Reyes, con la presencia del Secretario, para dictar sentencia en los autos caratulados: "Patrimonio de Tridoy Hugo Alberto -Quiebra- s/ Incidente de realización de bienes" (causa nro. 74.771) . Practicado el sorteo prescripto por los arts. 168 de la Constitución Provincial, 263 y 266 del CPCC, resultó el siguiente orden de votación: Dr. García Etchegoyen - Dr. Peralta Reyes y Dra. Longobardi.
+Estudiados los autos, el Tribunal resolvió plantear y votar las siguientes:
+-C U E S T I O N E S-
+1era. ¿Procede el recurso de apelación de fecha 8/10/25 contra la sentencia del día 3/10/2025?
+2da. ¿Qué pronunciamiento corresponde dictar?
+-V O T A C I O N-
+A LA PRIMERA CUESTION , el Sr. Juez Dr. García Etchegoyen , dijo:
+I. La sentencia de grado.
+La sentencia de grado declaró la ineficacia de pleno derecho de los actos jurídicos instrumentados en las siguientes escrituras: (1) Escritura Nro. 235 , del 23 de Mayo de 2017, "Acta de requerimiento para acogimiento a los beneficios del Régimen de Regularización Dominial: TRIDOY Hugo Alberto, y (2) Escritura Número 410 . Acta de Constatación del cumplimiento de los requisitos formales y otorgamiento del beneficio del régimen de regularización dominial Ley 24.374: Subsecretaría social de tierras a TRIDOY Hugo Alberto", del 29 de Junio de 2017.
+Impuso las costas al patrimonio fallido (arts. 107, 109, 2do. párr., 118 in fine y concs. de la ley 24.522; 69 del C.P.C.C.), y difirió la regulación de honorarios para su oportunidad (arg. arts. 265 y 287 LCQ).
+Para así resolver la Sra. Jueza de grado señaló que la declaración de quiebra data del día 1/9/97, fecha a partir de la cual el fallido quedó desapoderado de pleno derecho de sus bienes. Dijo que el inmueble Matrícula N° 9409 fue adquirido por el Sr. Tridoy por boleto de compraventa del día 6 de julio de 1982, a través de la firma "Dapello & González", promoviéndose luego un juicio de escrituración: "Tridoy s/ Quiebra c/ Elbey Rubén y Ots. s/ Escrituración" (Exp. nro. 37.727), con sentencia favorable a los acreedores de autos (Juzgado de Primera Instancia en lo Civil y Comercial N° 2 de Azul). Señaló que dicha sentencia a la fecha no se encuentra inscripta porque restan abonarse las costas del proceso.
+Señaló que, al contestar el traslado respectivo (23/9/25), los herederos del causante manifestaron que en la sucesión del fallido se presentó el 50% del bien de autos y allí se aceptó el carácter ganancial del inmueble.
+Expresó que de la declaratoria de herederos dictada en los autos: "Tridoy, Hugo Alberto s/ sucesión ab intestato" (Exp. N° 3101), surge que el fallido estuvo casado con la Sra. Norma Marcela Iriarte, y que el matrimonio fue celebrado el día 21 de diciembre de 1984, por lo tanto consideró acreditado que el bien fue adquirido cuando el causante era soltero, y es propio. Dijo que el inmueble no está inscripto a nombre del Sr. Tridoy, pero desde la fecha de publicación de edictos del proceso falencial la transmisión adquirió publicidad frente a terceros.
+Expresó que del informe actualizado de dominio del inmueble Matrícula N° 9409 surgen los siguientes datos:
+"ASIENTO 2. SEGUNDO TESTIMONIO. Con relación al asiento en A-1 solic. pres, en autos: "TRIDOY Hugo A. S/ Quiebra C/ELBEY, Rubén J. y Otros s/cumplimiento de contrato-escrituración" Jdo.de 1ra.- Insten lo Cuy C.nro.2 Secá. Única del Dpto.Jud.de Azul. ASIENTO 3. TERCER TESTIMONIO- A Con relación al Acto Jurídico en A1(Esc.N°585 del 30/12/1967) Solicitud-- presentada en Autos" Tridoy Hugo A.--- s/Quiebra c/Elbey Rubén J. y dtros s/cumplimiento de Contrato-Escrituración" trámite por ante el Juzg CC N°2 Sec. Única Dto.Jud.f Azul. ASIENTO 4~~TRIDOY, Hugo Alberto DNI 11852088;Clave Fiscal 20-11852088-3 nac. 17/06/1955, argentino, cas.en 1rast nups c/Iriarte Nora Marcela ACTA LEY 24374Art6 Inc .- Escrit. Nro. 410 del 29/06/2017. Escrib LUCAS MARIA LAURA Reg. 1(78)" (sic.)
+Señaló que en autos fueron agregadas las Escrituras Nro. 235, del 23 de Mayo de 2017, "Acta de requerimiento para acogimiento a los beneficios del Régimen de Regularización Dominial: TRIDOY Hugo Alberto, y Nro. 410. Acta de Constatación del cumplimiento de los requisitos formales y otorgamiento del beneficio del régimen de regularización dominial Ley 24.374: Subsecretaría social de tierras a TRIDOY Hugo Alberto, del 29 de Junio de 2017.
+Dijo que, en contradicción con lo precedentemente expuesto, surge de dichas escrituras que el fallido "a) Posee en forma pública, pacífica, continua, con causa lícita desde el año 1988, en virtud de boleto de compraventa y que ha acreditado con documentación agregada al expediente que se relacionará su posesión por el término legal." . (Escritura Nro. 235/17). Es decir, se ha realizado un acto de disposición sobre el bien desapoderado de autos (art. 384 del CPCC), lo que compromete la actuación de la escribana interviniente que no actuó con la debida diligencia, realizando un acto jurídico sobre un bien desapoderado, encontrándose inhibido el fallido y constando en el informe de dominio un embargo (asiento 2-2007) y una anotación de litis (asiento 3-2015), por lo que ordenó librar oficio al Colegio de Escribanos a fin de que avalúe la actuación de la notaria y actúe en consecuencia (cfr. sentencia del día 3/10/2025).
+II. El recurso de apelación.
+La sentencia fue apelada por los herederos del Sr. Tridoy (8/10/25), el memorial presentado el día 15/10/25, contestado el día 20/10/25.
+1. Memorial.
+Los apelantes se agravian del pronunciamiento porque no consideró el 50% ganancial del bien inmueble Matrícula 9409. Reiteran -tal como lo expresaran en los autos "Tridoy, Hugo Alberto s/ sucesión ab-intestato" (Exp. 3102/2024), en trámite por ante le mismo juzgado de origen-, que sólo corresponde al causante el 50% de dicho inmueble. Alegan que en el sucesorio la jueza dictó resolución aceptando el carácter ganancial del bien.
+Concluyen que si no se cuestionó en la sucesión el carácter ganancial del bien, no puede ahora resolverse que se trata de un bien propio. Expresan que el cambio de condición del inmueble no solo resulta improcedente, sino también extemporáneo, pues la resolución en el proceso sucesorio es de fecha 26/9/2024. Manifiestan que habiendo aceptado la jueza el informe de dominio de fecha 18/9/24, en el cual figura la escritura de fecha 29/6/2017, no existían motivos para oponer la prescripción (arts. 2560 o 2562) por lo que la oponen en este acto porque es la primera oportunidad de hacerlo ante la nueva calificación.
+Solicitan que se revoque la sentencia de grado y se incluya en este incidente de realización de bienes sólo el 50% del inmueble Matrícula 9409 (cfr. memorial de fecha 15/10/25).
+Resultando definitiva la cuestión, deberá resolverse con la formalidad del acuerdo, y realizado el sorteo que determina el orden de votación de los jueces (30/9/26), se encuentra la causa en estado de dictar sentencia.
+III. Ingresando al análisis del recurso, cabe señalar que no se encuentra controvertido, ni ha sido objeto de agravio, que el fallido-causante Hugo Alberto Tridoy adquirió el bien inmueble Matrícula 9409 el día 6 de julio de 1982 y que contrajo nupcias con Norma Marcela Iriarte con posterioridad a dicha fecha, el día 21 de diciembre de 1984. Por lo tanto, al momento de la compra del inmueble el Sr. Tridoy era soltero, y el bien revestía el carácter de propio, llevándolo luego al matrimonio.
+El régimen jurídico vigente a la fecha de la adquisición, y también del matrimonio del causante, contemplaba como bienes propios de los cónyuges lo que éstos llevaban al matrimonio (arts. 1261, 1263, 1271 y cdtes. del Código Civil). Comentando el art. 1263 del Cód. Civ. señala Belluscio: "§ 2. Bienes aportados. Los bienes de los que cada uno de los esposos es propietario al celebrar matrimonio -denominados bienes aportados- son propios. Su carácter de tales responde al principio básico de la comunidad de ganancias, según la cual queda excluido de ella lo adquirido antes de su iniciación" (cfr. "Código Civil y Leyes complementarias", Tomo 6, Director Belluscio, Coord. Zannoni, Editorial Astrea, Bs. As. 1986, pág. 118, ver también: Hernández, Lidia B. "Código Civil y normas complementarias", Tomo 3 C, Dir. Bueres, Coord. Highton, Ed. Hammurabi, Bs. As., 1999, pág. 126).
+Dicha calificación legal fue replicada con mayor amplitud en el actual art. 464 del CCyC, que dispone: "Son bienes propios de cada uno de los cónyuges: a) los bienes de los cuales los cónyuges tienen la propiedad, otro derecho real o la posesión al tiempo de iniciación de la comunidad.". Comentando esta norma señala Úrsula C. Basset: "1. Bienes aportados por los cónyuges al matrimonio (principio de incolumnidad). Este primer inciso, siguiendo lo dispuesto por el art. 1263 del Código Civil derogado, establece que son propios los bienes aportados por los cónyuges al matrimonio. Están presentes el criterio temporal de calificación de bienes, pues éstos fueron adquiridos antes del matrimonio, y el principio de incolumnidad del patrimonio de los cónyuges, que tutela los derechos de cada uno sobre su patrimonio. Como novedad aclara que esto ocurre sea en su origen un derecho de propiedad, cualquier otro derecho real (cfr. art. 1887), o la posesión" (cfr. "Código Civil y Comercial comentado", Tomo III, Jorge H. Alterini (Dir.), Úrsula C. Basset Dir. del tomo, Ignacio E. Alterini (Coord.), Ed. La Ley, Bs. As. 2015, pág. 229).
+Por su parte, García de Ghiglino expresa: "Toda vez que las normas que regulan los regímenes patrimoniales son de orden público, los cónyuges no pueden atribuir por su voluntad el carácter propio o ganancial de los bienes. Dicha calificación resulta impuesta por el origen de las adquisiciones, según la calificación legal" (cfr. "Código Civil y Comercial de la Nación", Tomo 2, Alberto J. Bueres (Dir.), Jorge O. Azpiri (Cord.), Ed. Hammurabi, Bs. As. 2016, pág. 214).
+De modo que, el carácter de los bienes que componen la sociedad conyugal, o la comunidad de bienes en el nuevo código, proviene de la ley , es una calificación legal que realiza el legislador, indisponible para las partes.
+Lo expuesto deja sin chances el agravio expresado por los herederos del fallido, que pretenden -a raíz de una calificación "aceptada" en el sucesorio de Hugo Alberto Tridoy-, que el bien inmueble sea aquí considerado ganancial, para no desdecirse de lo allí resuelto. Aducen también que todo intento de modificar el carácter del bien resulta extemporáneo, ya que se encuentra alcanzado por el plazo de prescripción previsto en el art. 2560 o 2562 del CCyC, puesto que la resolución que lo calificó como ganancial fue dictada el día 26/9/24.
+Cabe señalar que luego de dictada la declaratoria de herederos en la sucesión del fallido (2/9/24), los herederos practicaron cuerpo general de bienes (25/9/24), denunciando el inmueble Matrícula 9409 como ganancial. La jueza de grado tuvo presente la denuncia de bienes practicada, y describió los requisitos para proceder a la inscripción, sin expedirse expresamente sobre el carácter del bien. Y aunque lo hubiera hecho, y por error hubiera calificado allí el bien como ganancial, tal calificación no causa estado en este expediente, puesto que se trata de una calificación legal y de orden público.
+A ello cabe agregar que consultado el sucesorio en la MEV, surge que con el cuerpo general de bienes de fecha 25/9/24, se adjuntaron las Escrituras nro. 235 "Acta de requerimiento para acogimiento a los beneficios del régimen de regularización dominial: Tridoy, Hubo Alberto", en la cual el Sr. Tridoy figura casado con Nora Marcela Iriarte y manifiesta ser poseedor desde el año 1988, y nro. 410 de regularización dominial, donde también el Sr. Tridoy manifiesta ser casado; documentación que se completó con el informe de dominio de fecha 18/9/24 donde consta el Asiento 4 de inscripción de esta última escritura, en la cual el causante figura como casado. Es decir, no se adjuntó el boleto de compraventa en virtud del cual resultó adquirente el causante Hugo Alberto Tridoy, de fecha 6 de julio de 1982, documentación que hubiera permitido a la Jueza de grado calificar el bien como propio del causante también en el juicio sucesorio.
+Por lo expuesto, propicio al acuerdo la confirmación de la sentencia apelada, con costas de alzada a los apelantes vencidos (arts. 68, 69 del CPCC, art. 278 de la LCQ), difiriendo la regulación de honorarios para su oportunidad (art. 31 de la ley 14.947).
+Así lo voto.
+A la misma cuestión, el Sr. Juez Dr. Peralta Reyes y la Sra. Jueza Dra. Longobardi , por los mismos fundamentos, adhieren al voto que antecede, votando en igual sentido.
+A LA SEGUNDA CUESTION , el Sr. Juez Dr. García Etchegoyen , dijo:
+Atento lo que resulta del tratamiento de la cuestión anterior, se resuelve: 1) confirmar la sentencia apelada de fecha 3/10/25; 2) imponer las costas de alzada a los apelantes vencidos (arts. 68, 69 del CPCC; art. 278 LCQ); 3) diferir la regulación de honorarios para su oportunidad (arts. 31 y 51 de la ley 14.967).
+Así lo voto.
+A la misma cuestión, el Sr. Juez Dr. Peralta Reyes y la Sra. Jueza Dra. Longobardi , por los mismos fundamentos, adhieren al voto que antecede, votando en igual sentido.
+Con lo que terminó el Acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Azul, 22 de octubre de 2026.
+AUTOS Y VISTOS :
+CONSIDERANDO :
+Por todo lo expuesto, atento lo acordado al tratar las cuestiones anteriores, demás fundamentos del acuerdo, citas legales, doctrina y jurisprudencia referenciadas, y lo dispuesto por los arts. 266 y 267 y concs. del CPCC se resuelve : 1) confirmar la sentencia apelada de fecha 3/10/25; 2) imponer las costas de alzada a los apelantes vencidos (arts. 68, 69 del CPCC; art. 278 LCQ); 3) diferir la regulación de honorarios para su oportunidad (arts. 31 y 51 de la ley 14.967). REGÍSTRESE. NOTIFÍQUESE por Secretaría a las partes y devuélvase.
+MRAMIREZ@MPBA.GOV.AR; 20135840352@NOTIFICACIONES.SCBA.GOV.AR; 20135840352@NOTIFICACIONES.SCBA.GOV.AR; 27059683670@CCE.NOTIFICACIONES; 20135840352@NOTIFICACIONES.SCBA.GOV.AR y 20135840352@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
+
+### 5. [RS-220-2026] SCHMALE EUGENIO ENRIQUE C/SPAGNOL STEFANO Y OTRO/A S/ ACCION REIVINDICATORIA
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `2-76057-2026`
+- **Fecha**: 16-10-2026
+- **Número de Registro**: `RS-220-2026`
+- **Código de Acceso SCBA**: `CE66190B`
+- **Firmantes**: Funcionario: PERALTA REYES Victor Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 220-2026 - Código acceso: CE66190B - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 16/10/2026 12:24
+
+#### Texto Íntegro
+```text
+Causa nº: 2-76057-2026 " SCHMALE EUGENIO ENRIQUE C/SPAGNOL STEFANO Y OTRO/A S/ ACCION REIVINDICATORIA "
+JUZGADO EN LO CIVIL Y COMERCIAL Nº 1 - OLAVARRIA
+En la ciudad de Azul, a los dieciséis días del mes de octubre del año Dos Mil Veintiséis, celebran Acuerdo los Señores Jueces integrantes de la Cámara de Apelación en lo Civil y Comercial Departamental, Sala II, Doctores Marcos Federico García Etchegoyen, María Inés Longobardi y Víctor Mario Peralta Reyes, con la presencia del Sr. Secretario, para dictar sentencia en los autos caratulados: "Schmale Eugenio Enrique C/ Spagnol Stefano y Otro/a S/ Acción Reivindicatoria" (Causa Nº 76.057) . Practicado el sorteo prescripto por los arts. 168 de la Constitución Provincial, 263 y 266 del CPCC, resultó el siguiente orden de votación: Dra. Longobardi - Dr. Peralta Reyes - Dr. García Etchegoyen
+Estudiados los autos, el Tribunal resolvió plantear y votar las siguientes:
+-C U E S T I O N E S-
+1ra. - ¿Es procedente el recurso de apelación en subsidio interpuesto por el actor con fecha 15/08/2026, contra la sentencia de fecha 07/08/2026?
+2da.- ¿Qué pronunciamiento corresponde dictar?.
+-V O T A C I O N -
+A LA PRIMERA CUESTION , la Señora Jueza Dra. Longobardi , dijo:
+I. En la sentencia que ha llegado apelada a esta alzada (dictada con fecha 07 de agosto de 2026), se declaró la caducidad de instancia de las presentes actuaciones, con costas a la actora.
+Para arribar a esta conclusión, la Sra. Jueza recordó que con fecha 03/11/2025, intimó a las partes a activar el trámite de las presentes actuaciones. Luego de aquel requerimiento, las partes activaron el procedimiento. Pese a ello, la última actividad procesal útil de autos data del 08/04/2026. Por lo que, cumplidos los plazos previstos por los arts. 310 y 311 del CPCC, decretó la caducidad de instancia, con costas a la actora.
+Contra dicha sentencia, con fecha 15/08/2026 la actora interpuso recurso de revocatoria con apelación en subsidio. Con fecha 19/08/2026 la Sra. Jueza rechazó la revocatoria, concedió el recurso de apelación en subsidio y corrió traslado del memorial a la contraria, quien lo contestó con fecha 26/08/2026.
+II. En su memorial la actora apelante manifestó que la resolución no aclara si la caducidad alcanza a la acción reivindicatoria por él iniciada, a la reconvención planteada por el demandado, o ambas acciones. Refirió que produjo la totalidad de la prueba ofrecida, lo cual mereció el auto para sentencia que luego fue suspendido, solicitando se dicte sentencia. Pese a ello, con fecha 08/04/2026 la Sra. Jueza, no hizo lugar a lo solicitado por encontrarse pendiente de cumplimiento el auto que ordenara integrar la litis con el resto de los titulares. Refirió que el impulso procesal de la referida integración le corresponde al demandado reconviniente. Esgrimió que a lo largo del proceso demostró un interés y actividad sin dilaciones. Por lo tanto, solicitó que se revoque la resolución recurrida, debiendo determinar que la caducidad de instancia sólo alcanza a la reconvención, y dictar sentencia por la acción principal (cf. escrito de fecha 15/08/2026).
+Habiéndose decidido que la cuestión resulta definitiva, por lo que deberá resolverse con la formalidad del acuerdo, y practicado el sorteo de rigor (15-09-2026), han quedado estas actuaciones en condiciones del dictado de la presente sentencia.
+III . Si mi opinión es compartida, habrá de revocarse la resolución apelada.
+En efecto, se ha dicho ". el instituto de la caducidad excede los intereses de los particulares y está por encima de ellos. Su fundamento no sólo radica en el abandono del proceso que la inactividad procesal permite suponer, sino también en el interés público que tiene el Estado en evitar su prolongación "sine die"; por ello se ha señalado que propende al bien común, responde a razones de orden público, agilizando el reparto de justicia, evitando así la duración indefinida de los procesos." (cfr. Loutayf Ranea, Roberto G. y Ovejero López, Julio C. "Caducidad de la instancia", 2da. edición actualizada y ampliada, Ed. Astrea, 2005, pág. 27). Tal orientación fue recogida en el ámbito provincial por la ley 13.986 (B.O. 7/5/2009), que reformó los arts. 310 y 315 del CPCC y puso de manifiesto la tensión existente sobre los juzgados, derivada del incremento de las demandas y el factor tiempo, que exige cada vez mayor celeridad en la prestación del servicio de justicia. Volvió a reiterarse la necesidad de otorgar un instrumento al Estado "para evitar la indefinida prolongación de los juicios" haciendo efectiva la manda constitucional que dispone que las causas sean decididas en un tiempo razonable (art. 15 de la Constitución Provincial; esta Sala, causas n°62.137, del 12/6/17 "Fideicomiso c/ Etchegoyen" y n°62.062, "Loimar.", del 27/6/17; n° 63.193, "Degano." del 22/05/2018, n° 72.260 "Pena.", del 23/05/2024, entre otras). La Suprema Corte provincial, a través del dictado de la Resolución Nro. 3694/12, del 19 de diciembre de 2012, señaló la necesidad de que el instituto sea utilizado por los operadores del sistema, a fin de depurar a los órganos de causas en las que las partes no manifiesten interés en su continuación, debiendo efectuar, cuando corresponda, la intimación previa dispuesta por el art. 315 del Código Procesal Civil (cfr. S.C.B.A, Res. 3694/12, de fecha 19/12/12).
+Asimismo, y como ha sostenido este Tribunal con anterioridad al presente: "la caducidad de instancia es un arbitrio instituido para sancionar la inacción de los litigantes siempre que se encuentren en el deber de instar el proceso o que no se hallen en la imposibilidad de impulsar el trámite del mismo hacia su fin que es la sentencia y por ello en el juzgamiento de la concurrencia de la existencia de las condiciones para su declaración debe prevalecer una interpretación restrictiva y favorecedora del mantenimiento de la vitalidad del proceso, debido a las consecuencias que dicho instituto produce" (Base JUBA, SCBA, A 72324, "Oleaginosa Moreno Hnos.", Rsd-310-16, del 26/10/2016, citado por esta Sala en causas n° 61881, "Affonso, Joaquín Clemente...", del 26/06/2017; n° 63768, "Techeiro, Elvira y otros..."del 29/11/18; n°63.812 del 16/04/19, "Banco Comafi S.A." y n°66.710 del 03/06/21, "Abedat.").
+Del análisis de las actuaciones se observa que la Sra. Jueza, atento a la imposibilidad de integrar la litis, con fecha 07/04/2025, como medida para mejor proveer, hizo saber a las partes que "... deberán activar las citaciones ordenadas en el auto del 25/10/24 ...", providencia que fue notificada y consentida por las partes. Con fecha 15/05/2025, la demandada solicitó oficios a los fines de obtener los domicilios de los restantes reconvenidos. La Sra. Jueza ordenó que ocurra por la vía prevista en el art. 57 de la ley 5177. Con fecha 07/07/2025, la Sra. Jueza reiteró a las partes activar las citaciones ordenadas en el auto de fecha 25/10/2024.
+Pese a ello, y ante la falta de actividad, con fecha 03/11/2025, se los intimó a activar el proceso bajo apercibimiento de decretar la caducidad (art. 315 CPCC). Con fecha 10/11/2025, la demandada informó el libramiento de los oficios ordenados al RENAPER y solicitó se intime a la actora a denunciar los domicilios de las personas detalladas a los efectos de integrar la litis. Por su parte, la actora desistió de la citación de la tercera ante la imposibilidad de ubicar con certeza el domicilio (cf. escrito de fecha 11/11/2025). De esta forma, las partes cumplieron con la intimación efectuada y reactivaron el proceso.
+Con fecha 25/03/2026, la sentenciante proveyó: " Advirtiendo que ha quedado sin proveer el tercer párrafo de la presentación del día 10/11/25, intímese al actor, por el plazo de cinco días, a dar cumplimiento con lo allí requerido y lo oportunamente dispuesto en auto del 25/10/24. Ello, a efectos de integrar el litisiconsorcio de autos y poder dictar sentencia (arts. 34 y 36 del C.P.C.C.) .". En atención a ello, el actor manifestó que desconoce los domicilios de las personas mencionadas, con quienes no mantiene relación. Asimismo, solicitó el dictado de la sentencia (cf. escrito de fecha 01/04/2026). La Sra. Jueza tuvo por cumplida la intimación y proveyó: ". Atento a lo requerido, y en base al auto que ordenara integrar la litis con el resto de los titulares -cuya sustanciación se encuentra aún pendiente-, no corresponde, por ahora, hacer lugar al pedido de dictado de sentencia .". (cf. despacho de fecha 08/04/2026).
+Del análisis efectuado se observa que, si bien las partes realizaron distintas gestiones para continuar con la tramitación del proceso, aún no se obtuvieron los domicilios de los litisconsortes a los fines de integrar la litis, encontrándose pendiente la respuesta de los oficios enviados por la demandada al RENAPER. Asimismo, si bien de la resolución de fecha 25/10/2024 surge que la Sra. Jueza ordenó a la parte demandada ".la confección y rúbrica de la cédula, así como también la adjunción de las copias digitales de la reconvención y documental recaerá en su letrado.", a los fines de integrar la litis, luego intimó a la actora a denunciar los domicilios de los litisconsortes, atento a la imposibilidad de obtenerlos por otros medios.
+Como ha sostenido reiterada doctrina "los actos que interrumpen el plazo de caducidad son todos los actos de impulso procesal de cualesquiera de las partes, el órgano jurisdiccional y sus auxiliares, tendientes a promover la marcha del proceso, haciéndolo avanzar, en sus distintas etapas, hacia su fin que es la sentencia" (Loutayf Ranea, Roberto G. - Ovejero Lopez, Julio C., "Caducidad de la instancia", 2° ed., pág.106).
+Por lo expuesto, y teniendo especialmente en consideración la situación precedentemente descripta, cabe señalar que, si bien ninguna de las partes volvió a impulsar el trámite del proceso desde abril de 2026, dicha circunstancia no puede ser imputada a la parte actora, toda vez que no recaía sobre ella la carga de notificar a los litisconsortes. Asimismo, corresponde destacar que la actora procedió a impulsar el proceso ante cada una de las intimaciones cursadas por el Juzgado, dando cumplimiento a las cargas procesales que le fueron oportunamente impuestas. Es por ello que, atento el criterio restrictivo con el que debe analizarse la perención de la instancia, la que debe interpretarse con prudencia y estrictez, con cautela, y no con prodigalidad, ya que la misma debe efectuarse a favor de la subsistencia del proceso, de la continuidad de la instancia (Loutayf Ranea - Ovejero López, ob.cit.pág.12/12); esta Sala, causas cit. n°63.812 del 16/4/19, "Banco Comafi." y n°66.710 del 03/6/21, "Abedat." entre otras), dada la especial situación que se presenta en autos, es decir la imposibilidad de obtener los domicilios de los litisconsortes y encontrándose pendiente la respuesta de los oficios enviados, corresponde estarse por la continuidad del proceso y revocar la sentencia apelada, sin costas de alzada atento la forma como se origina la cuestión.
+Así lo voto .
+A la misma cuestión, los Dres. Peralta Reyes y García Etchegoyen adhieren al voto que antecede, votando en idéntico sentido.
+A LA SEGUNDA CUESTION , la Señora Jueza Dra. Longobardi , dijo:
+Atento lo que resulta del tratamiento de la cuestión anterior, corresponde revocar la sentencia apelada, por los fundamentos dados (arts. 310,315 y concs. CPCC, doctrina y jurisprudencia citada), sin costas de alzada atento la forma como se origina la cuestión (arts. 68 del C.P.C.C.); difiriéndose la regulación de honorarios para su oportunidad (art. 31, Ley 14.967).
+Así lo voto .
+A la misma cuestión, los Dres. Peralta Reyes y García Etchegoyen adhieren al voto que antecede, votando en idéntico sentido.
+Con lo que terminó el Acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Azul, 16 de Octubre de 2026.
+AUTOS Y VISTOS
+CONSIDERANDO
+Por todo lo expuesto, atento lo acordado al tratar las cuestiones anteriores, demás fundamentos del acuerdo, citas legales, doctrina y jurisprudencia referenciada, y lo dispuesto por los arts.266, 267 y concs. del C.P.C.C., se resuelve: 1) Revocar la sentencia apelada, por los fundamentos dados (arts. 310,315 y concs. CPCC, doctrina y jurisprudencia citada). 2) Sin costas de alzada atento la forma como se origina la cuestión (arts. 68 del C.P.C.C.). 3) Diferir la regulación de honorarios para su oportunidad (art. 31, Ley 14.967). Regístrese. Notifíquese por Secretaría y devuélvase.
+20209814553@NOTIFICACIONES.SCBA.GOV.AR 20165091109@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
+
+### 6. [RR-586-2026] GOMEZ MONICA FABIANA C/ CAZENAVE ERNESTO RICARDO S/ NULIDAD DE CONTRATO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `2-76106-2026`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-586-2026`
+- **Código de Acceso SCBA**: `A6FD2839`
+- **Firmantes**: Funcionario: PERALTA REYES Victor Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 586-2026 - Código acceso: A6FD2839 - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 22/10/2026 12:42
+
+#### Texto Íntegro
+```text
+Nro. Expte: 2-76106-2026
+" GOMEZ MONICA FABIANA C/ CAZENAVE ERNESTO RICARDO S/ NULIDAD DE CONTRATO "
+JUZGADO EN LO CIVIL Y COMERCIAL Nº 1 - AZUL
+AUTOS Y VISTOS:
+CONSIDERANDO:
+I) Llegan los autos a esta instancia, con motivo de los recursos de apelación deducidos contra la resolución dictada el día 04/08/2026, que tuvo presente el acuerdo de pago formulado por las partes, aprobó la liquidación practicada en autos y reguló los honorarios a los profesionales intervinientes.
+II) Los recursos:
+a) Por escrito electrónico de fecha 11/08/2026, el Dr. Luis Armando Miralles, en su condición de apoderado del demandado, apeló la totalidad de las retribuciones establecidas en la resolución del 04/08/2026 por considerarlas elevadas.
+b) Con fecha 16/08/2026, los Dres. Gustavo Blanco, por derecho propio, con el patrocinio letrado de la Dra. Luciana Licciardello, también actuando por derecho propio y como apoderada de la parte actora, apelan la retribución efectuada a su favor, por entender que resultan bajos (por derecho propio) y por altos (por su mandante). También cuestionan la base sobre la cual se fijaron los honorarios, atendiendo a la ausencia de regulación independiente respecto de la acción de reconvención, lo que no resulta ajustado a derecho.
+Concedidos ambos recursos (21/08/2026), con fecha 23/08/2026, los Dres. Gustavo Blanco y Luciana Licciardello presentaron la fundamentación que da sustento a sus recursos, presentación sustanciada con fecha 27/08/2026.
+III) En primer término hemos de señalar que el recurso interpuesto por el Dr.Miralles, no fue fundado dentro del término establecido para hacerlo (art.246 CPCC), razón por la cual corresponde decretar su deserción respecto de los honorarios regulados a favor de la mediadora prejudicial y de los peritos intervinientes, manteniéndoselo respecto de los honorarios de los letrados.
+IV) Por su parte, en su memorial, los Dres. Blanco y Licciardello refieren que, si bien en el auto regulatorio se expresa que se han fijado honorarios por las acciones de demanda por nulidad de contrato y reconvención por escrituración, cabe interpretar que, o bien no se ha seguido el procedimeinto legal para ello, o que la retribución fijada es por demás exigüa.
+Manifiestan que la regulación deberá recaer en forma separada e independiente, es decir, una regulación por la demanda y otra por la reconvención, pues cada pretensión constituye una acción distinta con su propia base regulatoria (el monto reclamado en cada una), debiendo aplicarse los porcentajes de la escala legal que establece la Ley 14.967 según la condición de vencedor o vencido de cada parte.
+Luego de otras consideraciones, expresan que el magistrado de Primera Instancia tomó una única base por el juicio principal de la demanda de nulidad, la cual asciende a la suma de U$S 50.600 (monto del juicio denunciado y acordado por las partes), y que la forma de pesificar la misma fue la correcta, por ello no se sienten disconformes al fijar la misma en la suma de $ 76.406.000. Lo que sí consideran inapropiado, es que ese monto no puede ser la base para la demanda (nulidad de contrato) y a la vez para la reconvención (escrituración) y recaer una única retribución sobre esa base para ambas acciones.
+Las bases son diferentes y las regulaciones a efectuar también. Continúan manifestando que el Sr. Juez de grado debió considerar como base a dichos fines, la tasación del campo en cuestión conforme presentación de fecha 05/07/2025, de la perito Andrea Fernández que determinó el valor de la hectárea en U$S 3.000 y la extensión vendida, y por la cual pretende la escrituración del bien -que es de 29.33 has.- es decir, la base regulatoria omitida y que aquí se solicita lo es por U$S 87.990.
+Añaden que en caso de no considerarse tasado el campo o que la demandada reconviniente no preste conformidad con la misma, deberá ordenarse el procedimiento previsto en el art. 27 inc. a de la Ley 14.967 a fin de estimar el valor actualizado del bien objeto de autos.
+Citan normativa, doctrina y jurisprudencia en apoyo de su postura. Solicitan se haga lugar al recurso interpuesto y se regule por la demanda de nulidad -que prospera- conforme lo regulado, y por la demanda de escrituración (reconvención) se procede a regular de manera independiente tomando como base regulatoria el valor del campo tasado en autos. Hacen reserva del Caso Federal.
+V) Previo a resolver los recursos traídos, corresponde señalar que el artículo 26 LHP, en lo que aquí interesa, dispone: "si en el pleito se hubieren acumulado acciones o deducido reconvención, se regularán por separado los honorarios que corresponden a cada una.." Es decir, instituye la posibilidad de que en un mismo pleito se acumulen acciones (se refiere a la acumulación objetiva) o que se reconvenga para que resulte procedente tarifar por separado los honorarios que corresponden a cada una.
+En cuanto a la acumulación objetiva de acciones cabe señalar que, aunque se aluda a las acciones, lo que se acumulan son las pretensiones, habida cuenta de que la acción es un elemento abstracto (poder de petición), que no puede dividirse ni sumarse. La pretensión es -en cambio- unitaria o múltiple y se refiere al objeto.
+En cuanto a la reconvención ha de señalarse que "ésta se produce cuando el demandado, frente al reclamo del actor, presenta una pretensión autónoma contra éste, pero vinculada a las ya deducidas (art.355 CPCC). Conforme esta nueva situación, cada una de las partes asumirá el doble carácter de actor y demandado. De esta manera, si en el pleito se dedujo reconvención, la regla es la regulación por separado del honorario que corresponda a cada una (demanda y reconvención) teniendo en cuenta el carácter de ganancioso y perdidoso". A lo que cabe agregar que resulta adecuado, en el caso, que la base regulatoria también sea distinta para cada pretensión (acogida o desestimada) (Hitters,Juan Manuel-Cairo, Silvina, "Honorarios." págs.299/302; esta Sala, causas n°61.637 del 29/11/16, "Maynard; y n°65.038 del 19/12/19, "Alvarez...; entre otras)).
+VI) En autos, como se advierte del cotejo de la causa, más allá de la acumulación de acciones (pretensiones) deducidas por la actora (cf. escrito de fecha 17/04/24 -nulidad de contrato de boleto de compraventa y restitución de la posesión-), se dedujo reconvención por escrituración, razón por la cual, conforme lo expuesto precedentemente, corresponde dejar sin efecto la mentada regulación (04/08/26) toda vez que ella no refleja lo dispuesto por el art.26 de la Ley arancelaria -de aplicación al caso-.
+En efecto, tal como surge de la regulación analizada, en ella no se ha establecido una base regulatoria para cada pretensión y tampoco se han regulado los honorarios en forma discriminada, por cada acción, tal como lo indica y dispone la mentada norma.
+Por lo demás, en cuanto a la base regulatoria, la correspondiente a la acción principal, es la determinada en el acuerdo al que arribaron las partes con fecha 17/07/26, y, la correspondiente a la reconvención (por escrituración), deberá determinarse conforme lo dispuesto por el art.46 de la Ley 14.967 (esta Sala, causa n°70.745 del 06/08/24, "Pereyra..." entre otras).
+VI) Por lo expuesto, se resuelve :
+1) DEJAR SIN EFECTO la regulación de honorarios de fecha 04/08/26, con el alcance apuntado en el considerando precedente: 2) Sin costas , atento la naturaleza de la cuestión (arts.68 y 69 del CPCC; esta Sala, causas nº 54.656 del 06-7-10, "Artiles."; nº 55.870 del 20-10-11, "Vazquez."; nº 55.978 del 23-02-12, "Cueros S.A."; n° 60.110 del 11-4-16, "Aramburu."; y n°61.214 del 28-6-16, "Todaro." entre muchas otras); y 3) Declarar abstracto el tratamiento de los recursos interpuestos contra el aspecto cuantitativo de la referida regulación.
+Regístrese y vuelvan los autos a la instancia de origen, donde se practicarán las notificaciones del caso.
+20053889752@NOTIFICACIONES.SCBA.GOV.AR
+20148323535@NOTIFICACIONES.SCBA.GOV.AR
+27374808589@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
+
+### 7. [RR-587-2026] M. G. C/ C. D. D. S/ ALIMENTOS
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `2-75330-2026`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-587-2026`
+- **Código de Acceso SCBA**: `D61DF945`
+- **Firmantes**: Funcionario: PERALTA REYES Victor Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 587-2026 - Código acceso: D61DF945 - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 22/10/2026 12:42
+
+#### Texto Íntegro
+```text
+Nro. Expte: 2-75330-2026 " MEZQUIA GUALBERTO C/ COLOMBO DUHAMEL DANIELA S/ ALIMENTOS "
+JUZGADO DE PAZ - BOLIVAR
+AUTOS Y VISTOS:
+CONSIDERANDO:
+I) Llegan los autos a esta instancia con motivo de los recursos de apelación deducido contra las resoluciones de fechas 20/08/2026 y 27/08/2026, que fijaron la base regulatoria y regularon honorarios a los profesionales intervinientes. Los recursos interpuestos son los siguientes:
+a) Con fecha 28/08/2026 la Dra. Miriam G. Porta, por derecho propio, apeló sus honorarios regulados con fecha 20/08/2026, por considerarlos bajos en atención a las pautas previstas en el art. 16 de la ley arancelaria. Con fecha 31/08/2026, el Sr. Juez concedió el recurso.
+b) Con fecha 31/08/2026, el Sr. Gualberto Mezquia, por derecho propio, con el patrocinio letrado del Dr. Agustín Fal, apeló la resolución de fecha 20/08/2026 por resultar la base regulatoria fijada inadecuada. Manifestó que el rechazo de la demanda determina el resultado del proceso, pero no transforma la pretensión deducida en una acción de fijación originaria de alimentos. Tampoco modifica retrospectivamente el objeto sobre el cual debió desarrollarse la actividad profesional. Manifestó que la base regulatoria fijada surge de una operación que toma como parámetro el total de la prestación anterior y no el contenido económico de la pretensión deducida. La utilización de esa suma genera una ampliación artificial de la base, pues incorpora como materia regulable la totalidad de una obligación que no fue objeto de creación, reconocimiento o determinación en estas actuaciones. Asimismo, manifestó que tampoco resulta decisivo para resolver la cuestión, que el trámite haya sido sustanciado bajo la vía procesal de alimentos y no bajo una forma de incidente. La vía procesal utilizada no puede desplazar el objeto concreto de la pretensión. En resumen, la demanda procuró modificar una cuota alimentaria ya fijada y cambiar la moneda de pago, no establecer por primera vez una prestación alimentaria. Por otro lado, apeló los honorarios por altos, solicitando la reducción de los mismos en base a la errónea base regulatoria fijada. Por último, refirió que la demandada debió intervenir en la incidencia de la determinación de la base regulatoria (cf. escrito de fecha 31/08/2026). Con fecha 04/09/2026 el Sr. Juez concedió el recurso de apelación y corrió traslado del memorial a la contraria, quien contestó con fecha 16/09/2026.
+c) Con fecha 02/09/2026 la perito Contadora Josefina María Aries, apeló por bajos sus honorarios regulados con fecha 27/08/2026. Refirió que la regulación de sus honorarios no respeta el mínimo legal establecido en el art. 207 de la ley 10.620. Por lo tanto, solicitó que se revean sus honorarios. Con fecha 04/09/2026 el Sr. Juez concedió el recurso.
+II) El recurso de apelación interpuesto contra la base regulatoria debe prosperar, toda vez que este Tribunal tiene dicho que: "en torno a la base regulatoria, debe atenderse obviamente al interés económico comprometido, puntualizando que los honorarios deben ser fijados prudencialmente, valorando la importancia, complejidad y extensión de la labor desarrollada ." (Pesaresi Guillermo - Passarón, Julio, "Honorarios en concursos y quiebras", pág. 575; esta sala en causa n° 58.721, "Iturralde." del 13/05/2014). En tanto que citando a doctrina especializada esta Sala ha dicho que constituye un principio liminar en la materia que "el quantum de la base regulatoria debe representar el valor realmente comprometido en el litigio y el interés sustancialmente defendido por la demandada; esto es, la realidad económica en juego, de la que no cabe prescindir" (doct. arts.23 y 51 del dec. ley 8.904/77; Hitters- Cairo, Honorarios de abogados y procuradores, Lexis Nexis, Bs. As. 2007, pág. 264, con cita de jurisprudencia; esta Sala, causas nº 53.392 del 31-5-10, "Huarte."; n° 54.276 del 13-7-10, Sánchez."; n° 55.870 del 20-10-11, "Vázquez."; n° 57.964 del 24-10-13, "Bco. de la Pcia. de Bs. As."; n° 58.603 del 20-02-14, "Saavedra.").
+En atención a ello, del análisis de las actuaciones se observa que el presente proceso se inició a los efectos de lograr la reducción de la cuota alimentaria pactada por convenio privado y la modificación de la moneda de pago cambiaria fijada (cf. escrito de demanda de fecha 11/12/2023). Con fecha 27/12/2023, el Sr. Juez ordenó dar trámite de alimentos al presente proceso atento a no existir proceso principal, ordenando recaratular las actuaciones. Asimismo, al momento de contestar demanda, la Sra. Daniela Colombo Duhamel solicitó se le otorgue al presente proceso el trámite de incidente, lo que fue rechazado por el Sr. Juez de grado con fecha 04/03/2024.
+Producida la distinta prueba ofrecida, con fecha 23/12/2025 se dictó sentencia definitiva en la instancia de origen, la que fue apelada. Con fecha 22/05/2026 este Tribunal revocó la sentencia apelada y rechazó la demanda de autos, imponiendo las costas al demandado.
+Devuelto los autos al Juzgado de origen, con fecha 06/07/2026 la demandada estimó la base regulatoria, la que fue impugnada por la actora, solicitando sea reducida la misma teniendo en cuenta el objeto del proceso.
+Del análisis efectuado se observa que, si bien el Sr. Juez le otorgó a las presentes actuaciones el trámite de alimentos, la actora solicitó una reducción de una cuota alimentaria previamente pactada. Por lo que al momento de fijarse la base regulatoria deberá estarse al interés económico del proceso, el cual no se encuentra representado por la fijación de alimentos sino por la reducción de los pactados. Ahora bien, no escapa al análisis de este Tribunal que la actora no fijó un monto a los fines de reducir los alimentos, por lo que no puede determinarse la base regulatoria por la diferencia que resulte, tal como establece el art. 39 segunda parte. Por lo tanto, a la base regulatoria fijada en la instancia de origen en la suma de $14.325.792, la que surge de multiplicar la cuota alimentaria por 24 meses en atención a lo establecido en el art. 39, deberán aplicarse las reglas pertinentes para los incidentes, contenida en el art. 47 de la ley arancelaria.
+Por lo tanto, corresponde revocar la resolución apelada y dejar sin efecto las regulaciones de honorarios de fecha 20/08/2026 y 27/08/2026, debiendo en la instancia de origen dictarse una nueva resolución que contemple lo establecido en los arts. 39 y 47 de la ley arancelaria; ello en atención al interés económico del proceso (arts. 39, 47 y concs. de la ley 14.967, doctrina y jurisprudencia citada).
+III) En atención a lo resuelto en el Considerando II no corresponde abordar el aspecto cuantitativo de la resolución apelada por tornarse abstractos los recursos de apelación.
+IV) Por lo expuesto, SE RESUELVE: 1) Revocar la resolución apelada y dejar sin efecto las regulaciones de honorarios de fecha 20/08/2026 y 27/08/2026, debiendo en la instancia de origen dictarse una nueva resolución que contemple lo establecido en los arts. 39 y 47 de la ley arancelaria, ello en atención al interés económico del proceso (arts. 39, 47 y concs. de la ley 14.967, doctrina y jurisprudencia citada). 2) No abordar los restantes recursos, en atención al resultado arribado. 3) SIN COSTAS atento la naturaleza de la cuestión debatida (arts. 68, 69 y ccs. del C.P.C.C.; esta Sala, causa nº 55.870 del 20-10-11, "Vázquez."; nº 55.978 del 23-02-12, "Cueros S.A."; nº 55.958 del 28-02-12, "Rodríguez."; nº 56.186 del 22-3-12, "Zapararte."; entre muchas otras). REGÍSTRESE, NOTIFÍQUESE y devuélvanse los autos al Juzgado de origen.
+20229717937@NOTIFICACIONES.SCBA.GOV.AR ; 27249172532@NOTIFICACIONES.SCBA.GOV.AR 27334761768@CCE.NOTIFICACIONES
+```
+
+---
+
+### 8. [RR-588-2026] CASTILLO GOMEZ MARIA DE LOS MILAGROS C/ BARRAZA GASTON OSCAR S/ ALIMENTOS
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - AZUL
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `2-76254-2026`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-588-2026`
+- **Código de Acceso SCBA**: `5F19EDF3`
+- **Firmantes**: Funcionario: PERALTA REYES Victor Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 588-2026 - Código acceso: 5F19EDF3 - PUBLICO | Registrado por: CAMINO Claudio Marcelo - Fecha registración: 22/10/2026 12:43
+
+#### Texto Íntegro
+```text
+Nro. Expte: 2-76254-2026 " CASTILLO GOMEZ MARIA DE LOS MILAGROS C/ BARRAZA GASTON OSCAR S/ ALIMENTOS "
+JUZGADO DE FAMILIA Nº 1 - OLAVARRIA
+AUTOS Y VISTOS:
+CONSIDERANDO:
+I) A lo solicitado en el escrito de fecha 06/10/2026, téngase presente para resolver en la instancia de origen.
+Llegan los autos a la Alzada para resolver el recurso de apelación interpuesto con fecha 09/10/2025, por el Dr. Álvaro Mario Ressia, por derecho propio, contra la resolución de fecha 08/10/2025, que reguló los honorarios, por considerar los honorarios regulados por el convenio de alimentos, bajos. Asimismo, refirió que la base regulatoria fijada no resulta correcta, en atención al informe de AFIP adjunto al escrito.
+Con fecha 07/11/2025, el Sr. Juez concedió el recurso.
+II) 1. En primer lugar corresponde aclarar que el recurso interpuesto contra la base regulatoria no puede prosperar. Ello, en atención a que el Sr. Juez al momento del dictado de la resolución judicial, tomo como base los recibos de sueldo adjuntos en el expediente, donde surge la cuota alimentaria abonada al momento de la regulación. Lo que se condice también, con los movimientos de la cuenta judicial correspondiente a la presente causa. Por lo tanto, habiéndose determinado la base regulatoria conforme lo establecido en el art. 39 de la ley arancelaria, no corresponde acoger el agravio.
+2. Sentado lo expuesto y analizadas las actuaciones, en atención al valor y mérito de los trabajos realizados, al tipo de proceso, al acuerdo homologado, a la base regulatoria fijada en la suma de $3.901.500 y a lo dispuesto por los arts. 1, 10, 16, 21, 39 y concs. de la Ley 14.967, corresponde modificar la resolución apelada, fijando los honorarios del Dr. Álvaro Mario Ressia, letrado de la parte actora, en la suma equivalente a quince con ochenta y cinco (15,85) ius arancelarios ; con más el aporte legal e IVA en caso de corresponder. Regístrese , Notifíquese por Secretaría y Devuélvase .
+ARTICULO 54° ley 14967: Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado. Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido. Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio. En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo. Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio. Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles. Operada la mora, el profesional podrá optar por: a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual. b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+20182373444@notificaciones.scba.gov.ar
+```
+
+---
+
+## CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA (`idOrganismo: 40`)
+
+### ACT-21-10-2026. [RR-705-2026] N. C. D. S/ DETERMINACION DE LA CAPACIDAD JURIDICA
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170683`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-705-2026`
+- **Código de Acceso SCBA**: `281EB11D`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 705-2026 - Código acceso: 281EB11D - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170683
+Carátula: " N. C. D. S/ DETERMINACION DE LA CAPACIDAD JURIDICA "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I.- En el marco de este proceso de determinación de la capacidad jurídica, el juez de grado ordenó a PAMI-UGL V Bahía Blanca que, en el plazo de cinco días, dispusiera la cobertura total e integral del alojamiento del causante, C. D. N., en el Hogar "Rumah", Residencia de Larga Estadía para personas adultas, y que los importes correspondientes fueran depositados en la cuenta judicial de autos (res. del 1/9/2026).
+II.- Contra dicha decisión, el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (INSSJP) interpuso recurso de apelación y planteó la incompetencia de la Justicia Provincial (p.e. del 7/9/2026). Sostuvo, en lo sustancial, que el reclamo relativo a la cobertura de la prestación asistencial excede el objeto propio del proceso de determinación de la capacidad jurídica y debe tramitar ante la Justicia Federal, conforme a lo dispuesto por el art. 14 de la ley 19.032. Asimismo, cuestionó la procedencia de la medida ordenada, alegando que no se había iniciado el trámite administrativo correspondiente, que no existía una negativa de su parte a brindar la prestación y que no se encontraban acreditados los presupuestos necesarios para su dictado.
+Al contestar el traslado, el Curador Oficial solicitó que se declarara abstracta la cuestión recursiva, al informar que el requerimiento administrativo presentado el 26/08/2026 había sido receptado por PAMI y se encontraba en trámite ante su Nivel Central. Subsidiariamente, pidió el rechazo del recurso, sosteniendo que las gestiones administrativas habían sido promovidas previamente y que la cobertura requerida se vinculaba directamente con las necesidades de cuidado, supervisión y alojamiento del causante, cuya protección encuentra sustento en las facultades conferidas al juez por el art. 34 del Código Civil y Comercial (p.e. del 20/9/2026).
+III.- Con carácter previo a toda otra consideración corresponde abordar la cuestión de competencia, pues delimita la aptitud jurisdiccional del órgano para intervenir en el conflicto sometido a decisión.
+En el caso, el objeto específico de estas actuaciones se circunscribe a la determinación de la capacidad jurídica del Sr. C. D. N. y a la definición de los sistemas de apoyo que resulten pertinentes, en los términos de los arts. 31 y concordantes del Código Civil y Comercial.
+Es cierto que el art. 34 del mismo ordenamiento, en consonancia con los principios consagrados por la Convención sobre los Derechos de las Personas con Discapacidad, reconoce al juez facultades destinadas a la protección integral de la persona y de sus bienes. Sin embargo, tales atribuciones deben ejercerse dentro del ámbito de competencia propio del proceso en el que se desarrollan y en armonía con las reglas que distribuyen la jurisdicción entre los distintos fueros (v. Expte. Nro. 169.431, sent. interl. del 21/8/2026).
+Desde esa perspectiva, la controversia suscitada en torno a la cobertura integral de la prestación de alojamiento del causante en una residencia de larga estadía, reclamada frente al Instituto Nacional de Servicios Sociales para Jubilados y Pensionados, excede el objeto propio del presente proceso. Se trata de una cuestión vinculada con obligaciones prestacionales a cargo de un ente creado por la ley 19.032, cuyo art. 14 establece que el Instituto queda sometido exclusivamente a la jurisdicción nacional, pudiendo optar por la justicia ordinaria de las provincias cuando actúe como actor.
+En ese contexto, la decisión acerca del alcance de las obligaciones prestacionales atribuidas al organismo y de la procedencia de las medidas dirigidas a obtener su cumplimiento corresponde al fuero federal competente (art. 116 de la Constitución Nacional).
+La circunstancia invocada por el Curador Oficial en torno al estado del trámite administrativo no modifica la naturaleza de la cuestión sometida a decisión ni altera las reglas de competencia aplicables. Por ello, aun cuando se haya informado que el requerimiento se encuentra actualmente en trámite ante PAMI, ello no habilita a este Tribunal a examinar los agravios dirigidos contra la cobertura ordenada.
+Por consiguiente, siendo incompetente la Justicia Provincial para entender en la materia planteada, no corresponde a esta Alzada pronunciarse sobre el recurso de apelación interpuesto contra la resolución del 1/09/2026.
+Por último, resultando de aplicación lo preceptuado por los arts. 2 inc. 2º, 4 inc. 3º, 5 apartado segundo de la ley n° 26.854, corresponde que, en la instancia de grado, se extraigan fotocopias de las partes pertinentes y se remitan a la Cámara Federal que por jurisdicción corresponda (art. 2 inc. 2º apart. segundo, ley citada).
+POR ELLO , se declara la incompetencia de la Justicia Provincial para entender en la cuestión planteada (art. 116 de la Constitución Nacional). Costas al vencido (art. 69 CPCC). Regístrese y devuélvase al Juzgado de origen a sus efectos.
+```
+
+---
+
+### ACT-21-10-2026. [RR-704-2026] D. O. L. J. C/ P. H. S. S/ HOMOLOGACION DE CONVENIO
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `165632`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-704-2026`
+- **Código de Acceso SCBA**: `E38D557A`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 704-2026 - Código acceso: E38D557A - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170681
+Carátula: " D. O. L. J. C/ P. H. S. S/ HOMOLOGACION DE CONVENIO "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I- Mediante la resolución dictada el 12 de agosto de 2026 el juez de grado ordenó al Sr. H. S. P. la prohibición de innovar y de contratar en relación al inmueble sito en calle Roca N° 132 de la ciudad de Tres Arroyos y las unidades funcionales de su titularidad integrantes del mismo. Asimismo, dispuso la comunicación al Registro de la Propiedad Inmueble.
+II- Apeló el accionado. Se agravia del alcance otorgado a la medida cautelar pedida por la actora. Sostiene que si bien las unidades funcionales que integran la litis no se encuentran subdivididas, tanto él como la Sra. O. las alquilan y la decisión en crisis impediría la obtención de la renta que generan. Propone que la medida se limite a la venta de los bienes objetos del litigio (ver pe del 18/08/2026).
+El memorial llega a esta instancia sin replicar.
+III- Toda vez que la propia accionante en su presentación del 24/07/2026 solicitó que se inhiba al Sr. P. de disponer de sus bienes, la medida cautelar otorgada excede incluso lo pedido por la interesada. En el contexto señalado encontramos atinado limitar la cautelar a todo acto de disposición sobre el bien determinado en la resolución en crisis
+POR ELLO , con ese alcance se modifica la resolución dictada el 12 de agosto de 2026. Sin costas por ausencia de contradicción (arts. 68, 69 CPCC).
+Hágase saber y devuélvase.-
+```
+
+---
+
+### ACT-21-10-2026. [RR-703-2026] BANCO DE LA PROVINCIA DE BUENOS AIRES C/ PIROSANTO ERICA PAULA S/ COBRO SUMARIO SUMAS DINERO (EXC.ALQUILERES, ETC.)
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170675`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-703-2026`
+- **Código de Acceso SCBA**: `B35C0827`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 703-2026 - Código acceso: B35C0827 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170675
+Carátula: " BANCO DE LA PROVINCIA DE BUENOS AIRES C/ PIROSANTO ERICA PAULA S/ COBRO SUMARIO SUMAS DINERO (EXC.ALQUILERES, ETC.) "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I. Se agravia la actora de que no se hubiere admitido la ampliación del embargo decretado en fecha 05/02/2026.
+Funda su requerimiento en la desnaturalización de la finalidad de la cautelar, producto del proceso inflacionario que viene azotando a nuestro país. En tal sentido, señala que el monto originalmente presupuestado en concepto de capital ($ 469.986,16 ) ya no refleja el valor del crédito reclamado (5.607,09 UVAs), razón por la cual la medida ha perdido la función de garantía que le es propia (conf. art. 213 CPCC).
+II. Como es sabido, la extensión y aseguramiento de toda cautelar deben estar limitados por el interés a salvaguardar, de modo que ha de buscarse un equilibrio entre los derechos en juego. De allí que uno de los caracteres específicos de aquellas sea el de su mutabilidad y flexibilidad, con el objeto de que cumplan sus fines sin ocasionar molestias o perjuicios innecesarios al obligado (arts. 202 y 203 CPCC).
+En esta inteligencia, la justificación que brinda el recurrente es suficiente para autorizar la modificación del embargo, pues la norma no exige para ello que se configuren circunstancias excepcionales, sino simplemente que se demuestre el quebranto de la función de garantía a que está destinado (art. 204 CPCC), lo que sin dudas se consigue con la situación esgrimida.
+POR ELLO , se hace lugar a la apelación interpuesta en fecha 02/10/2026, debiendo el a quo dar curso a lo peticionado (art. 204 CPCC). Devuélvase.
+```
+
+---
+
+### ACT-21-10-2026. [RR-702-2026] CUOTAX S.A. C/ MERCAICH RODRIGO MARTIN S/ COBRO EJECUTIVO
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `167150`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-702-2026`
+- **Código de Acceso SCBA**: `73AD7909`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 702-2026 - Código acceso: 73AD7909 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170571
+Carátula: " CUOTAX S.A. C/ MERCAICH RODRIGO MARTIN S/ COBRO EJECUTIVO "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I.- Surge de las constancias obrantes en estas actuaciones, que el 3 de septiembre de 2025 el juez de grado rechazó la solicitud de embargo de haberes del demandado, con fundamento en la doctrina plenaria de este Tribunal emanada del fallo dictado en autos "Baieli Juan Carlos c/ Aguero Gladys E. y Ot. s/ C. Ejec." (expte. n° 118.568). La accionante interpuso recurso de reposición con apelación en subsidio, planteando la inconstitucionalidad del Decreto 6754/43, el cual fue rechazado por esta Sala que -de ese modo- confirmó la decisión impugnada (v. res. del 18 de septiembre de 2025).
+El pedido fue reiterado el 11 de junio, 8 y 15 de julio de 2026, aclarándose en estas dos últimas oportunidades que el accionado trabaja en relación de dependencia para la Armada Argentina (y no para el Gobierno de la Ciudad de Buenos Aires, como se había indicado inicialmente), y el magistrado a quo -en lo que aquí concierne- se limitó a remitir a lo ya resuelto (v. res. y proveídos del 8, 15 y 17 de julio de 2026).
+Una vez más, mediante presentación del 17 de julio de 2026, la parte actora reiteró el pedido de traba de embargo. Añadió que -a su entender- el Decreto 6754/43 admite la posibilidad de disponer la medida cautelar requerida una vez dictada la sentencia de trance y remate, y solicitó que para el supuesto de que su petición fuera desestimada, se le indicara por qué medio correspondía proceder a su ejecución.
+El 10 de agosto de 2026, el juez de la instancia anterior se remitió -nuevamente- a lo oportunamente resuelto, así como a las disposiciones del Decreto 6754/43, señalando en punto a la ejecución de la sentencia que debía estarse a lo normado en los arts. 557 y cc. del CPCC.
+II.- Contra dicha decisión, la firma actora interpuso recurso de revocatoria -rechazado por el a quo mediante proveído del 2 de octubre de 2026- con apelación en subsidio. Reitera la aclaración oportunamente efectuada en relación a la empleadora del accionado e insiste con la inconstitucionalidad del Decreto Ley 6754/43. Añade que, habiéndose dictado sentencia y siendo la misma un título que trae aparejada ejecución, la negativa de embargo resulta improcedente. En tal sentido, apunta que si bien la normativa impugnada prohíbe la traba de embargos preventivos en el marco de juicios ejecutivos, en el caso, la medida pretendida no encuentra fundamento en el título incausado que sirvió de base a las presentes sino, en la sentencia de trance y remate recaída en autos.
+III.- Tal como se desprende de las sucesivas providencias dictadas en la instancia anterior, no hay en el caso una nueva decisión. Se trata, en cambio, de una cuestión ya resuelta y firme, circunstancia que obsta a la procedencia del remedio en examen (v. res. del 18 de septiembre de 2025). Es que, según el principio de preclusión, resulta improcedente el recurso dirigido contra un pronunciamiento que es reiteración, ratificación o consecuencia de otro anterior que se encuentra firme (arg. art. 244 del CPCC). De otro modo, bastaría con replantear una y otra vez la misma cuestión para reabrir, otras tantas veces, la posibilidad de cuestionar lo oportunamente decidido.
+No obsta a lo señalado la circunstancia de que con posterioridad a que tal decisión fuera adoptada se hubiera dictado en autos sentencia de trance y remate. Ello toda vez que, independientemente de que esta última -como plantea el recurrente- revista fuerza ejecutoria, el Decreto 6754 supedita la posibilidad de afectar los haberes del deudor, mediando sentencia firme que imponga el pago de la deuda, a que esta haya sido dictada en un proceso de conocimiento, y no en el marco de un juicio ejecutivo como el presente (art. 11 inc. b).
+POR ELLO , declárase mal concedido el recurso de apelación interpuesto el 18 de agosto de 2026. Sin costas por ausencia de contradicción (arts. 68 y 69 del CPCC).
+Devuélvase sin más trámite.
+```
+
+---
+
+### ACT-21-10-2026. [RR-701-2026] AZQUIBEL OMAR BERNARDO S/ SUCESION AB-INTESTATO
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170409`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-701-2026`
+- **Código de Acceso SCBA**: `C60D64AD`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 701-2026 - Código acceso: C60D64AD - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170409
+Carátula: " AZQUIBEL OMAR BERNARDO S/ SUCESION AB-INTESTATO "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: Atento que la base arancelaria fue sustanciada y que la recurrente fue quien propuso el valor que finalmente se aprobó, el cuestionamiento ahora introducido, además de extemporáneo, deviene inabordable por conculcar sus propios actos (arts. 2, 9 y 1067 CCyC).
+POR ELLO , se rechaza la apelación dirigida contra la plataforma utilizada, con costas de Alzada a la recurrente vencida (arts. 68 y 69 CPCC).
+En cuanto al quantum de las retribuciones, cabe tener en cuenta las pautas determinadas por los artículos 15 y 16 de la ley 14.967. Así, ponderando el valor de la porción del bien transmitido ($15.743.071,50), el mérito, calidad y extensión de las tareas cumplidas por cada profesional, las etapas en las que participaron (conf. clasificación y calificación de trabajos presentada) y la eventual responsabilidad que entrañaría el asunto, de acuerdo a su complejidad e importancia, fíjanse los estipendios de las Dras. Leonela Natalin Cuevas y Guillermina Scillone en las sumas de veinticuatro jus y nueve jus, respectivamente, modificándose y confirmándose -en su caso- el auto regulatorio de fecha 27/08/2026 (arts. 28 y 35 ley 14.967).
+Deposítense los adicionales de ley.
+Notifíquese de conformidad con lo dispuesto en el artículo 10 del Anexo Único del Ac. 4039 SCBA y devuélvase.
+A tales efectos, se transcribe a continuación el artículo 54 de la ley 14.967: "Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado. Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido. Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio. En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo. Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio. Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles. Operada la mora, el profesional podrá optar por: a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual. b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación".
+```
+
+---
+
+### ACT-21-10-2026. [RR-700-2026] GUERRERO ISMAEL HORACIO C/ KUCKIEWICZ DANIEL NICOLAS S/ ACCION DE DESPOJO
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `167493`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-700-2026`
+- **Código de Acceso SCBA**: `0BF2E52C`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 700-2026 - Código acceso: 0BF2E52C - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170351
+Carátula: " GUERRERO ISMAEL HORACIO C/ KUCKIEWICZ DANIEL NICOLAS S/ ACCION DE DESPOJO "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: Que en la resolución de fecha 6/10/2026 se omitió el tratamiento del recurso de apelación contra los honorarios de los peritos Mario A. Nosei y Claudio R. Chiniestra.
+A su vez, se cometió un error material al establecer los estipendios de la perito Silvina San Martín y el mediador prejudicial Marcelo Irigoin con una base arancelaria equivocada.
+Frente a la situación descripta, corresponde anular de oficio las determinaciones allí efectuadas (arts. 169 y 172 CPCC).
+POR ELLO , se decreta la nulidad del pronunciamiento de fecha 06/10/2026 (arts. 169 y 172 CPCC), y habiendo emitido opinión, nos inhibimos de tratar los recursos interpuestos (art. 17 inc. 7 CPCC).
+Pasen los autos a la Secretaría de Presidencia para su debida integración.
+```
+
+---
+
+### ACT-21-10-2026. [RR-699-2026] "V. B. M. R. C/ S. D. F. S/ ALIMENTOS"
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `168750`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-699-2026`
+- **Código de Acceso SCBA**: `A710F9FD`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 699-2026 - Código acceso: A710F9FD - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170130
+Carátula: " V. B. M. R. C/ S. D. F. S/ ALIMENTOS "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I. La resolución apelada aprobó la liquidación de alimentos devengados presentada por el Sr. V. B. por un total de $424.426,84 en concepto de capital e intereses. La demandada pidió pagar en seis cuotas fijas y consecutivas.
+Al fundar su decisión el juez de grado recordó que las partes acordaron una cuota a cargo de demandada equivalente al 25% de sus haberes -12,5% por cada hijo-, en razón de ello dispuso saldar lo adeudado mediante tres cuotas suplementarias mensuales y consecutivas fijadas en 2,87 jus la primera y 2,83 jus cada una de las dos restantes, actualizables al valor vigente al momento de abonarlas. Ordenó abonarlas en el mismo plazo y modalidad que la cuota principal. Para definir la modalidad de pago, el magistrado ponderó la magnitud y acotado período de la deuda (un mes), la capacidad económica de la obligada, el monto de la cuota ordinaria -aproximadamente $389.310,96 en junio de 2026- y el valor del jus al momento del pronunciamiento.
+II. S. circunscribe su disenso a la modalidad de pago.
+Sostiene que la fijación de tres cuotas suplementarias carece de fundamentación suficiente para apartarse del plan que propuso. Considera que no se realizó un análisis explícito sobre el tiempo que insumió el proceso, la situación económica de las partes, el monto de la cuota ordinaria, el total adeudado y el lapso que demandará la satisfacción de la deuda. Invoca el deber de motivación previsto en el art. 34 inc. 4 del CPCC.
+Aduce luego que la decisión es desproporcionada frente a la obligación alimentaria vigente, en tanto la simultaneidad de las cuotas suplementarias con la cuota ordinaria impone, a su juicio, una carga no ponderada rigurosamente respecto de su capacidad contributiva. Insiste con que el plan en seis cuotas mensuales, fijas y consecutivas distribuye el impacto sin generar una dilación irrazonable. Pide que se contemple la diferencia de ingresos que refiere existir entre las partes.
+Finalmente, argumenta una errónea aplicación del art. 642 del CPCC y el desconocimiento de la finalidad de la cuota suplementaria. Remarca que reconoce la deuda, que no registra conductas dilatorias y que ofreció voluntariamente una modalidad de pago razonable. Añade que el actor no solicitó un número específico de cuotas ni se opuso a su esquema.
+III. La fijación de las cuotas suplementarias es tópico que queda sujeto al prudente arbitrio judicial. Deben ser valorados para ello, el tiempo que insumió el proceso, la condición económica de las partes, el monto de la pensión, el total adeudado y el lapso que demandará la satisfación total de la deuda (doct. art. 642 del CPCC).
+El art. 642 CPCC no reconoce un derecho del alimentante a fraccionar su deuda en tantas cuotas como estime convenientes, sino que confiere al juzgador una facultad prudencial para compatibilizar la percepción oportuna del crédito con la capacidad real de cumplimiento, evitando la frustración del derecho del alimentado y planes de pago que lo diluyan injustificadamente. Sabido es que no se busca preservar de manera absoluta la indemnidad de quien está obligado a pasar alimentos, toda vez que es de suponer que, por lo general, la prestación suplementaria quebrará en mayor o menor medida el equilibrio que debe existir entre la capacidad económica de la alimentante y la cuota fijada, al cargar sobre el límite de las posibilidades de aquel, un plus para cubrir los alimentos atrasados.
+En función de las constancias de autos, la cancelación de la deuda en tan solo tres cuotas suplementarias importa concentrar en un lapso demasiado acotado un desembolso adicional que, atendiendo la cuantía del canon vigente y los ingresos presuntos de la alimentante, puede traducirse en una gravosa situación económica en su perjuicio que no luce razonable exigir, sin que la extensión a seis mensualidades suponga, per se , una dilación irrazonable tratándose de un único período retroactivo.
+En esta inteligencia, a fin de evitar que la solución coloque a la obligada en un estado de apremio incompatible con el regular pago de la cuota corriente, entendemos que es más prudente admitir la modalidad de pago que peticionó por medio de la presentación realizada el 1/7/2026.
+POR ELLO , se modifica el pronunciamiento de fecha 13 de julio de 2026, fijándose en favor de la alimentante 6 cuotas suplementarias mensuales y consecutivas equivalentes a 1,32 jus arancelarios, según el valor del Jus Arancelario Ley 14.967 vigente al momento el pago (conf. Resolución RP 873/26 de la SCBA; arts. 205, 642 y cctes. CPCC), a fin de que satisfaga su deuda por alimentos atrasados conforme la liquidación practicada el 19/6/2026. Estas cuotas deberán ser abonadas mensualmente en igual plazo y modalidad que la principal.
+Las costas de Alzada se imponen en el orden causado en atención a la índole asistencial de la cuestión debatida y que la alimentante resultó victoriosa en su petición (arts. 68, 69 CPCC).
+Devuélvase.
+```
+
+---
+
+### ACT-21-10-2026. [RR-698-2026] DEAK ANGEL A.C/ PROFERTIL S.A.Y OTRAS S/ ··DAÑOS Y PERJUICIOS Y BENEFICIO DE LITIGAR SIN GASTOS S/ RECURSO DE QUEJA
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `169959`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-698-2026`
+- **Código de Acceso SCBA**: `3C1B2867`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 698-2026 - Código acceso: 3C1B2867 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expte. Nro. 169959
+Carátula: " DEAK ANGEL A.C/ PROFERTIL S.A.Y OTRAS S/ ··DAÑOS Y PERJUICIOS Y BENEFICIO DE LITIGAR SIN GASTOS S/ RECURSO DE QUEJA "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I.- La queja constituye un medio apto para obtener la concesión de un recurso que ha sido declarado inadmisible por el juez de primer grado, o para cuestionar el efecto, inmediato o diferido, suspensivo o meramente devolutivo, con que se lo ha admitido (v. exptes. 138.572, 151.697 de esta Sala, entre otros).
+En cuanto al primer aspecto, en atención a que de la compulsa del expediente surge que mediante providencia del 14 de agosto de 2026 el magistrado a quo hizo saber que ambos recursos articulados -y no sólo uno de ellos, como sostiene la quejosa- habían sido concedidos, su tratamiento deviene abstracto, por lo que no corresponde que el Tribunal emita pronunciamiento alguno.
+A todo evento, cabe destacar que -más allá de la literalidad de su anteúltimo párrafo- de la lectura integral del proveído del 7 de agosto de 2026 resultaba posible inferir que la concesión comprendía los dos recursos de apelación interpuestos.
+Ahora bien, conforme la regla general que sienta el art. 243 del Código Procesal, en cuanto establece que el recurso procede siempre con efecto suspensivo a menos que la ley disponga expresamente lo contrario, corresponde hacer lugar a la queja impetrada. Ello, toda vez que la circunstancia de que la providencia mencionada precedentemente haya ordenado dar cumplimiento con lo dispuesto en una de las resoluciones impugnadas (v. último párrafo), impone concluir que las apelaciones no fueron concedidas con efecto suspensivo, sino devolutivo.
+POR ELLO , con el alcance indicado, se hace lugar a la queja traída a consideración (art. 276 del CPCC), acordándose a las apelaciones interpuestas efecto suspensivo (art. 243 del cód. cit.). Hágase saber al Juez que viene interviniendo, a cuyos efectos líbrese oficio.
+```
+
+---
+
+### ACT-21-10-2026. [RR-697-2026] TABLAR MARIA EVELINA Y OTRO/A C/ 2 S S.R.L Y OTRO/A S/ DAÑOS Y PERJ. INCUMP. CONTRACTUAL (EXC. ESTADO)
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `150919`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-697-2026`
+- **Código de Acceso SCBA**: `7EA63089`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 697-2026 - Código acceso: 7EA63089 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expte. Nro. 169492
+Carátula: " TABLAR MARIA EVELINA Y OTRO/A C/ 2 S S.R.L Y OTRO/A S/ DAÑOS Y PERJ. INCUMP. CONTRACTUAL (EXC. ESTADO) "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: Al recurso extraordinario de inaplicabilidad de ley interpuesto en fecha 14/9/2026: Que el valor del litigio -conforme surge de la sentencia dictada en fecha 12 de noviembre de 2025- no alcanza el mínimo exigido por el art.278 del Cód.Proc., sin que corresponda, como lo ha sostenido reiteradamente el superior Tribunal, adicionar a dicho importe intereses (conf. doct. Ac. 100.588, resol. del 11-III-2009; C. 107.135, resol. del 17-II-2010; C. 120.379, cit.), ni actualización (art. 7, ley 23.928, mod. por ley 25.561; conf. doct. Ac. 97.739, resol. del 30-V-2007; Ac. 100.588 y C. 103.488 cits.; C. 108.315, resol. del 4-V-2011; C. 108.044, resol. del 13-VII-2011; C. 119.852 y C. 120.379, C. 120.878 cits., Rc 123548 del 31/3/2021, entre otros).
+POR ELLO , deniégase el recurso extraordinario de inaplicabilidad de ley interpuesto en fecha 14/9/2026 (art.281 inc.3 del Cód.Proc.).
+Notifíquese y devuélvase al juzgado de origen.
+```
+
+---
+
+### ACT-21-10-2026. [RR-696-2026] MENNA MIRTA LILIAN C/ LOPEZ LEITON LETICIA INES S/INCIDENTE (EXCEPTO LOS TIPIFICADOS EXPRESAMENTE)
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170663`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-696-2026`
+- **Código de Acceso SCBA**: `8942BE0E`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 696-2026 - Código acceso: 8942BE0E - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170663
+Carátula: " MENNA MIRTA LILIAN C/ LOPEZ LEITON LETICIA INES S/INCIDENTE (EXCEPTO LOS TIPIFICADOS EXPRESAMENTE) "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I.- Contra la resolución dictada el 4/09/2026, por la que la magistrada a cargo del Juzgado de Paz Letrado se inhibió de entender en el presente proceso por resultar incompetente en virtud de lo normado por el art. 61 de la ley 5827, se alzó la incidentista. En su memorial sostiene que existe una errónea determinación del objeto de la pretensión, una omisión de considerar el proceso sucesorio indicando que la obligación de rendir cuentas no se extingue con el fallecimiento del mandante. Asimismo, pone de resalto que ya se encuentra tramitando ante dicho organismo otro incidente de rendición de cuentas.
+II.- Tiene establecido el máximo Tribunal provincial que de promoverse un proceso sucesorio ante un juzgado de paz letrado y asimismo, de entablarse acciones en virtud de lo dispuesto en el artículo 3284 del Código Civil -actualmente receptado en el art. 2336 primer párrafo del Código Civil y Comercial vigente- que por su naturaleza excedan la competencia atribuida a la Justicia de Paz Letrada, conforme a lo prescripto en el art. 4 del Decreto Ley 9229/78 (t.o. según ley 10.571), el juez deberá declararse incompetente para conocer en ambos procesos y remitir las actuaciones al de primera instancia en lo civil y comercial que corresponda de acuerdo al último domicilio del causante (conf. doct. C. 113.002, resol. del 9-XII-2010; C. 116.628 y C. 118.041, cits.; C. 120.000, resol. del 26-VIII-2015).
+En el caso es evidente que el incidente pretende la rendición de cuentas no sólo de la venta de un inmueble en particular sino de la gestión de la incidentada, situación que excede claramente la competencia de la a quo , por lo que corresponde confirmar la resolución apelada debiendo extender dicha incompetencia al proceso sucesorio así como al restante incidente.
+POR ELLO , se confirma la resolución dictada el 4 de septiembre de 2026, decretándose también la incompetencia de la magistrada para intervenir en el proceso sucesorio caratulado "Menna, Emilio s/sucesión (acumulado "Patarata, Arminda s/sucesión ab-intestato)" , Expte. n° 5.180 y en el incidente caratulado "Menna, Mirta Lilian c/Menna, Silvia Beatriz y otro s/incidente" , Expte. n° 14.240. Sin costas atento la ausencia de contradicción (art. 68 CPCC).
+Devuélvase a los efectos de su posterior remisión a la Receptoría General de Expedientes, conjuntamente con las restantes actuaciones referidas.
+```
+
+---
+
+### 1. [RS-306-2026] COSTA RAUL LUIS CESAR Y OTROS C/ CONSORCIO DE PROPIETARIOS EDIFICIO PLAZA S/ ··REIVINDICACION
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `167156`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RS-306-2026`
+- **Código de Acceso SCBA**: `5FF1221E`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 306-2026 - Código acceso: 5FF1221E - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expediente Nro. 167.156.-
+En la ciudad de Bahía Blanca, provincia de Buenos Aires, en la fecha resultante del último certificado de firma digital, reunidos los señores Jueces de la Sala Uno de la Excma. Cámara Primera de Apelación en lo Civil y Comercial de este Departamento Judicial, doctores Patricio Lombardi, Marcelo O. Restivo y Fernando C. Kalemkerian, para dictar sentencia en los autos caratulados: " COSTA RAUL LUIS CESAR Y OTROS C/ CONSORCIO DE PROPIETARIOS EDIFICIO PLAZA S/ REIVINDICACIÓN " Expte. nro. 167.156, y practicado el sorteo pertinente (arts. 168 de la Constitución de la Provincia y 263 del Código Procesal), resultó que la votación debe tener lugar en el siguiente orden: Dres. Restivo, Lombardi y Kalemkerian, resolviéndose plantear y votar las siguientes
+CUESTIONES:
+1°) ¿Se ha incurrido en una omisión en la sentencia de fecha 9 de octubre de 2026?
+2°) ¿Qué pronunciamiento corresponde dictar?
+VOTACIÓN
+A LA PRIMERA CUESTION EL SEÑOR JUEZ DR. RESTIVO, DIJO:
+I.- Que una vez dictada la sentencia el juez conserva únicamente facultades para corregir algún error material, aclarar algún concepto oscuro o suplir alguna omisión sin alterar lo sustancial de la decisión.
+En el caso, a través del remedio intentado, la parte actora requiere la aclaración de la parte dispositiva del decisorio sustituyendo la expresión "POR ELLO: se la confirma", por la que corresponda, en tanto el rechazo de la acción reivindicatoria obedece a los fundamentos propios expuestos por este Tribunal.
+Si bien comparto el razonamiento de los recurrentes en cuanto a que la confirmación del rechazo de la demanda se debió exclusivamente a los fundamentos dados, no se advierte que se haya incurrido en error u omisión alguna, toda vez que en la parte dispositiva del decisorio expresamente se determinó que "la sentencia apelada, por los fundamentos expuestos , se ajusta a derecho" (el resaltado me pertenece).
+Consecuentemente, voto por la negativa.
+Los señores Jueces doctores Lombardi y Kalemkerian, por los mismos motivos, votan en igual sentido.
+A LA SEGUNDA CUESTION EL SEÑOR JUEZ DR. RESTIVO, DIJO:
+De conformidad con lo acordado al votarse la primera cuestión propongo rechazar el recurso de aclaratoria interpuesto contra la sentencia de fecha 9 de octubre de 2026.
+Así lo voto.
+Los señores Jueces doctores Lombardi y Kalemkerian, por los mismos motivos, votan en igual sentido.
+Por lo que se
+SENTENCIA
+AUTOS Y VISTOS: CONSIDERANDO : Que en el acuerdo que precede ha quedado decidido que el Tribunal no ha incurrido en error u omisión alguna al dictar el pronunciamiento de fecha 9 de octubre de 2026 (arts. 166 inc. 2 y cc. del CPCC).
+POR ELLO , se desestima la aclaratoria intentada.
+Notifíquese y devuélvase.
+```
+
+---
+
+### 2. [RS-307-2026] BERCHIALLA JUAN LUIS C/ BANCO DE LA PROVINCIA DE BUENOS AIRES S/ ACCION DE REAJUSTE
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `167894`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RS-307-2026`
+- **Código de Acceso SCBA**: `4FC163D1`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 307-2026 - Código acceso: 4FC163D1 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expediente Nro. 167894
+En la ciudad de Bahía Blanca, provincia de Buenos Aires, en la fecha resultante del último certificado de firma digital, reunidos los señores Jueces de la Sala Uno de la Excma. Cámara Primera de Apelación en lo Civil y Comercial de este Departamento Judicial, doctores Patricio J. Lombardi, Marcelo O. Restivo y Fernando C. Kalemkerian, para dictar sentencia en los autos caratulados: " BERCHIALLA JUAN LUIS C/ BANCO DE LA PROVINCIA DE BUENOS AIRES S/ ACCION DE REAJUSTE ", y practicado el sorteo pertinente (arts. 168 de la Constitución de la Provincia y 263 del Código Procesal), resultó que la votación debe tener lugar en el siguiente orden: Dres. Lombardi, Kalemkerian y Restivo, resolviéndose plantear y votar las siguientes
+CUESTIONES:
+1°) ¿Se ajusta a derecho la sentencia apelada de fecha 7 de noviembre de 2025?
+2°) ¿Qué pronunciamiento corresponde dictar?
+VOTACIÓN
+A LA PRIMERA CUESTION EL SEÑOR JUEZ DOCTOR LOMBARDI, DIJO:
+I.- La sentencia de primera instancia rechazó íntegramente la demanda promovida por Juan Luis Berchialla contra el Banco de la Provincia de Buenos Aires, mediante la cual pretendía la readecuación del mutuo hipotecario celebrado entre las partes, la nulidad parcial del contrato en cuanto establecía la actualización mediante UVA, la modificación del interés compensatorio y la declaración de inconstitucionalidad de las normas que regulan aquel mecanismo.
+Para así decidir, el magistrado encuadró el vínculo como una relación de consumo y analizó la pretensión de reajuste a la luz de la teoría de la imprevisión prevista en el art. 1091 del Código Civil y Comercial. Consideró que la inflación no podía reputarse una circunstancia extraordinaria e imprevisible, pues constituye un fenómeno históricamente presente en la economía nacional y el sistema UVA fue concebido, precisamente, para operar en contextos inflacionarios, incorporando la variación de precios como elemento propio de la modalidad contractual escogida. Asimismo, descartó que las estimaciones contenidas en el Relevamiento de Expectativas de Mercado del BCRA constituyeran garantías sobre el comportamiento futuro de la economía o que su posterior desvío importara un incumplimiento del deber de información por parte del banco.
+Agregó que, aun cuando se admitiera una alteración extraordinaria de las circunstancias, no se había acreditado la excesiva onerosidad sobreviniente. Destacó la insuficiencia de la prueba relativa a la evolución de los ingresos del actor y señaló que los elementos disponibles mostraban que la incidencia de la cuota sobre sus haberes se había mantenido en valores semejantes a los existentes al inicio del contrato, sin evidenciar una ruptura sustancial de la ecuación económica originaria.
+Finalmente, rechazó los planteos de nulidad parcial, reducción de intereses e inconstitucionalidad, por considerar que no se había demostrado el carácter abusivo del mecanismo de actualización ni de la tasa convenida, ni un agravio constitucional concreto derivado de las normas cuestionadas. En consecuencia, desestimó la demanda en su totalidad e impuso las costas al actor vencido.
+II.- Disconforme con lo resuelto, el actor apeló la sentencia y expresó sus agravios. Cuestiona, en primer término, la interpretación efectuada de la teoría de la imprevisión, sosteniendo que el art. 1091 del Código Civil y Comercial no exige que el fenómeno económico resulte absolutamente imprevisible, sino que basta con que se produzca una alteración extraordinaria de las circunstancias existentes al contratar que torne excesivamente onerosa la prestación. Afirma que tal extremo se encuentra acreditado por el significativo incremento experimentado por el capital adeudado, el valor de la UVA y las cuotas del préstamo.
+Se agravia, asimismo, de la valoración de la prueba pericial contable, que considera fragmentaria y arbitraria. Señala que el dictamen da cuenta de un incremento sustancial del valor de la UVA y de las cuotas, así como de que el capital adeudado pasó de representar 35 salarios al momento de contratar a 66 salarios al tiempo de la pericia, circunstancias que, a su entender, evidencian la ruptura del equilibrio contractual.
+Cuestiona también la conclusión del juez según la cual la cuota habría mantenido una incidencia cercana al 31 % de sus ingresos. Sostiene que se tomó aisladamente un período y que las restantes constancias de la causa demostrarían que, en distintos momentos, la cuota absorbió más del 50 % de sus haberes.
+Por último, denuncia una incorrecta aplicación de las normas protectorias del consumidor y del deber de información. Alega que no se ponderó adecuadamente la diferencia entre las proyecciones inflacionarias existentes al contratar y la evolución posterior, ni la falta de colaboración del banco en la producción de la prueba requerida por el perito. Sobre esa base, sostiene que se le impuso una carga probatoria excesiva, incompatible con las reglas propias de las relaciones de consumo.
+Con tales argumentos solicita la revocación de la sentencia y que se haga lugar a la demanda, disponiéndose la readecuación del crédito hipotecario o, subsidiariamente, un mecanismo de recomposición contractual con fundamento en el art. 1091 del Código Civil y Comercial.
+Corrido el traslado de ley, fue contestado por el Banco de la Provincia de Buenos Aires, quien solicita el rechazo del recurso y la confirmación de la sentencia. Sostiene que la inflación constituye un riesgo propio y previsible del sistema UVA, por lo que el incremento nominal del capital y de las cuotas no demuestra, por sí solo, una excesiva onerosidad sobreviniente. Añade que el actor no acredita una afectación sustancial de sus ingresos que justifique la revisión del contrato.
+Asimismo, defiende el cumplimiento del deber de información, señalando que las proyecciones macroeconómicas invocadas no son vinculantes ni garantizan la evolución futura de la inflación, los salarios o el valor de la UVA, y niega haber incumplido su deber de colaboración probatoria. En consecuencia, solicita la confirmación del pronunciamiento, con costas.
+III.- Los agravios no prosperan.
+La cuestión sometida a conocimiento de esta Alzada guarda sustancial analogía con la examinada en la causa "Rigal Juan Cruz y otra c/ Banco de la Provincia de Buenos Aires s/ acción de ineficacia contractual", expte. 163.283 -sent. del 15 de septiembre de 2026-, cuyos fundamentos comparto y resultan aplicables al caso, con las particularidades que presenta la prueba aquí producida.
+Allí se sostuvo que la aplicación del art. 1091 del Código Civil y Comercial requiere que la alteración extraordinaria invocada sea ajena al riesgo propio del contrato y que de ella derive, con incidencia causal directa, una excesiva onerosidad sobreviniente. También se señaló que, en los préstamos ajustados por UVA, la depreciación monetaria no constituye un acontecimiento extraño al negocio, pues la actualización mediante CER integra la propia modalidad contractual elegida, concebida para operar en contextos inflacionarios.
+Desde esa perspectiva, los incrementos del valor de la UVA, de las cuotas y del saldo de capital que destaca el recurrente no bastan para demostrar la ruptura del equilibrio contractual. Tales variaciones nominales deben ser apreciadas junto con las restantes circunstancias económicas relevantes y no aisladamente, como propone el apelante.
+Tampoco resulta decisiva la crítica dirigida contra la valoración de la relación cuota-ingreso.
+En "Rigal" se ponderó expresamente una "comprobada distorsión" de esa relación y, pese a ello, se concluyó que tal circunstancia no acreditaba la imprevisión, pues no se había demostrado la necesaria vinculación causal entre el acontecimiento extraordinario invocado y el agravamiento de la prestación.
+En este caso, el actor señala que en determinados períodos la cuota habría superado el 50 % de sus ingresos, cuestionando así el porcentaje considerado por el juez. Sin embargo, esos registros puntuales no permiten reconstruir la evolución de aquella relación durante la ejecución del contrato ni establecer que su eventual deterioro obedezca a una circunstancia extraordinaria en los términos exigidos por el art. 1091 del Código Civil y Comercial.
+La misma consideración permite descartar la alegada omisión de la pericia contable. El sentenciante no prescinde de sus conclusiones, sino que entiende que los incrementos allí informados carecen de aptitud suficiente para acreditar la excesiva onerosidad pretendida. No advierto, por ello, la valoración arbitraria que denuncia el recurrente (arts. 375 y 384 CPCC).
+Finalmente, las críticas vinculadas con el deber de información y la protección del consumidor tampoco resultan atendibles.
+El apelante sostiene que no se ponderó adecuadamente la diferencia entre las proyecciones inflacionarias existentes al contratar -en particular, las contenidas en el Relevamiento de Expectativas de Mercado del Banco Central- y la evolución posterior de la inflación .
+El asunto fue igualmente examinado en "Rigal". Allí se distinguió la información relativa a las condiciones del crédito de las estimaciones acerca del comportamiento futuro de la economía, señalándose que ni la entidad financiera ni los organismos públicos pueden garantizar la evolución de variables como la inflación, los salarios o el valor de la UVA. En consecuencia, las proyecciones del REM no constituyen promesas jurídicamente vinculantes y su posterior desvío no configura, por sí solo, un incumplimiento del deber de información.
+Las reglas protectorias del consumidor no conducen a una conclusión diferente, pues si bien imponen especiales deberes de información y pautas interpretativas favorables a la parte débil de la relación, no convierten aquellas estimaciones en garantías contractuales ni suplen la acreditación de los presupuestos necesarios para la revisión pretendida.
+En definitiva, los argumentos expuestos por el recurrente no desvirtúan las razones que sustentan la sentencia ni permiten tener por configurada la excesiva onerosidad sobreviniente contemplada por el art. 1091 del Código Civil y Comercial.
+Consecuentemente doy mi voto por la AFIRMATIVA .
+Los señores jueces doctores Kalemkerian y Restivo, por los mismos fundamentos, votan en igual sentido.
+A LA SEGUNDA CUESTION EL SEÑOR JUEZ DOCTOR LOMBARDI, DIJO:
+Atento el resultado arribado en el tratamiento de la primera cuestión, corresponde confirmar la sentencia apelada, con costas en la alzada al demandado vencido (art. 68 del CPCC.)
+Así lo voto.
+Los señores jueces doctores Kalemkerian y Restivo, por los mismos fundamentos, votan en igual sentido.
+Por lo que se
+SENTENCIA
+AUTOS Y VISTOS: CONSIDERANDO: Que en el acuerdo precedente ha quedado resuelto que la sentencia apelada se ajusta a derecho.
+POR ELLO , se la confirma, con costas en la alzada al demandado vencido (art. 68 del CPCC:).
+Difiérase la determinación de los honorarios para la oportunidad en que exista base, y se encuentren establecidos los de la instancia anterior (art. 23 ley 14.967)
+Hágase saber y devuélvase.
+```
+
+---
+
+### 3. [RS-308-2026] "P. M. R. C/ C. A. E. S/ LIQUIDACION DE REGIMEN PATRIMONIAL DEL MATRIMONIO"
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `169687`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RS-308-2026`
+- **Código de Acceso SCBA**: `5224DEF1`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 308-2026 - Código acceso: 5224DEF1 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expediente Nro. 169687
+En la ciudad de Bahía Blanca, provincia de Buenos Aires, en la fecha resultante del último certificado de firma digital, reunidos los señores Jueces de la Sala Uno de la Excma. Cámara Primera de Apelación en lo Civil y Comercial de este Departamento Judicial, doctores Patricio J. Lombardi, Marcelo O. Restivo y Fernando C. Kalemkerian, para dictar sentencia en los autos caratulados: " P. M. R. C/ C. A. E. S/ LIQUIDACION DE REGIMEN PATRIMONIAL DEL MATRIMONIO " , y practicado el sorteo pertinente (arts. 168 de la Constitución de la Provincia y 263 del Código Procesal), resultó que la votación debe tener lugar en el siguiente orden: Dres. Restivo, Kalemkerian y Lombardi, resolviéndose plantear y votar las siguientes
+CUESTIONES:
+1°) ¿Es procedente el agravio de nulidad deducido?
+2°) ¿Qué pronunciamiento corresponde dictar?
+VOTACIÓN
+A LA PRIMERA CUESTION EL SEÑOR JUEZ DOCTOR RESTIVO, DIJO:
+I.- Concluida la etapa previa el 15 de septiembre de 2023, M. R. P. promovió, el 22 de agosto de 2024, demanda de liquidación de la comunidad de ganancias contra A. E. C., con sustento en la sentencia de divorcio dictada el 13 de julio de 2022 en el expediente conexo nº 69.138 ("P. M. R. c/ C. A. E. s/ Divorcio por Presentación Unilateral"), que declaró disuelta la comunidad de ganancias con retroactividad al día 1 de julio de 2021, fecha de la separación de hecho de los cónyuges. Denunció como integrantes del activo ganancial: i) un automóvil marca Peugeot, modelo 307, XT Premium 2.0, HDI, 4P, 110CV, año 2007, Dominio GRQ989; ii) un motovehículo marca Guerrero, modelo GC200 Queen, cilindrada 200, año 2014, Dominio KOP855; iii) el inmueble sito en calle Estanislao López nº 3.363 de esta ciudad (Nomenclatura Catastral: Circ. II, Secc. A, Ch. 64, Mz. 64 I, Parc. 7, Partida 007-145.684, Matrícula 70.394) y las mejoras allí incorporadas. Acompañó documental -entre ella, informes de dominio, la escritura traslativa de dominio nº 22 y una tasación del inmueble- y ofreció prueba, formulando propuesta de partición.
+A. E. C. contestó la demanda el 17 de septiembre de 2024. Negó en forma general y particular los hechos y la documental de la actora, y sostuvo, en lo sustancial: a) que el automóvil Peugeot GRQ989 es un bien propio en su totalidad, por haber sido adquirido con el producido de la venta de otro rodado (Fiat Palio, dominio FSE702) que le fuera adjudicado en la sucesión de su padre, O, A. C., solicitando subsidiariamente, para el caso de no admitirse tal calificación, ser compensado por recompensa.
+Indicó también haber realizado el 100% de las mejoras incorporadas al inmueble ubicado en calle Estanislao López 3363, y que el valor de la donación de $125.000 invocada por la actora para justificar el carácter propio del 50% resultaba irrisorio.
+Con relación a la motocicleta marca Guerrero, si bien ganancial, no se hallaba en su uso exclusivo. En esa misma pieza ofreció, en forma amplia, prueba confesional, documental en poder de terceros (AFIP, Banco Provincia, Banco Credicoop, Registro Nacional de la Propiedad Automotor, Municipalidad de Bahía Blanca, expediente sucesorio "C. O. A. s/ Sucesión Ab Intestato", estudio de arquitectura e ingeniería), testimonial de cinco testigos, testimonial en extraña jurisdicción (Puerto Madryn, La Plata y, por vía de exhorto diplomático, Santiago de Chile), pericial en ingeniería civil, pericial martillero/tasador, pericial contable y pericial informática.
+El 17 de marzo de 2026 la actora, con nuevo patrocinio letrado solicitó el dictado de "sentencia de calificación de bienes", con sustento en que el proceso de liquidación de la comunidad se rige por las normas de la partición de las herencias (art. 500, Código Civil y Comercial; arts. 751 y sgtes., CPCC), correspondiendo canalizar toda cuestión litigiosa por la vía incidental.
+En consecuencia, el día 16 de junio de 2026 la señora Jueza procedió en tal sentido y precisó que el objeto del proceso está circunscripto a determinar si los bienes denunciados integran o no la masa partible, debiendo canalizarse toda cuestión litigiosa por la vía incidental (arts. 500 y ccs., Código Civil y Comercial; arts. 751 y sgtes., CPCC).
+En esa senda de marcha calificó como gananciales el motovehículo Guerrero KOP855, el automóvil Peugeot GRQ989, así como el 50% indiviso del inmueble de Estanislao López 3363 y las mejoras allí incorporadas.
+Remitió al demandado, para el planteo de recompensa que estime pertinente a la vía incidental separada.
+II.- Contra dicho pronunciamiento el demandado interpuso recurso de apelación planteando oportunamente como principal agravio la nulidad de la sentencia por haber sido dictada sin la previa apertura de la causa a prueba en violación al derecho de defensa en juicio.
+Sostuvo también, para el caso de que no se recepte la nulidad articulada, la arbitrariedad del pronunciamiento por falta de fundamentación en la calificación de los tres bienes controvertidos, así como la violación al principio de contradicción, por no haber podido controvertir la documental acompañada por la actora.
+La actora lo contestó el traslado conferido propugnando el rechazo de todos los agravios y la confirmación íntegra de la sentencia, con costas al apelante.
+III.- Encontrándose el expediente en condiciones de ser resuelto me aboco al estudio del mérito de las quejas.
+A.-) El agravio principal del recurrente no denuncia un vicio de forma de la sentencia misma -no se sostiene, por caso, que carezca de fecha, de firma, de relación de la causa o de fundamentos, ni que resulte incongruente con lo peticionado-, sino que reprocha un vicio anterior a su dictado: la omisión de abrir la causa a prueba, pese a haber ofrecido prueba conducente en su contestación de demanda. Corresponde entonces determinar, en primer término, cuál es el carril procesal apto para articular un planteo de esa naturaleza.
+La doctrina especializada es conteste en la materia. Enseña Arazi, con cita de reiterada doctrina de la Suprema Corte de Justicia de la Provincia, que "una resolución judicial no constituye un acto procesal de los comprendidos en los artículos 169 y ss. Tratándose de una sentencia de primera instancia, el ataque por nulidad está previsto en el artículo 253 del mismo Código y sus causales están reservadas a los vicios formales que presentare. El recurso de nulidad que el artículo 253 del CPCC comprende o subsume dentro del de apelación tiene por objeto resguardar la garantía constitucional de defensa en juicio, mediante la invalidación de aquellas sentencias que, por contener vicios o defectos formales o extrínsecos en su confección y dictado, relativos a los recaudos o solemnidades impuestos por la ley en lo concerniente a tiempo, lugar y forma, se encuentran descalificadas como actos jurisdiccionales, por lo que quedan fuera de su ámbito de aplicación los vicios de procedimiento anteriores al dictado del fallo, los cuales deben haber sido impugnados mediante la vía del incidente de nulidad previsto por los artículos 169 y siguientes del CPCC" (Arazi, Roland, Código Procesal Civil y Comercial de la Provincia de Buenos Aires, T. I, comentario al art. 172, con cita de SCJBA, 27/2/2008, "Plaza Construcciones SA s/Quiebra", C. 92.541-S, y de C1ªCCom. de Quilmes, 22/7/2008, "Alarcón, Zunilda Beatriz c/Hospital Subzonal Materno Infantil San Francisco Solano y otro s/Daño estético").
+En idéntico sentido se expide Camps, para quien el recurso al que alude el art. 253 del ordenamiento adjetivo "resulta únicamente procedente cuando en la sentencia misma se ha incurrido en defectos de forma, mas no para sanear eventuales vicios anteriores sólo invocables en la instancia de su causamiento y por el trámite procesal previsto" -esto es, el incidente de nulidad de los arts. 169 y sgtes. del rito- (Camps, Carlos E. [dir.], Código Procesal Civil y Comercial de la Provincia de Buenos Aires. Comentado, T. I, comentario al art. 169).
+La falta de apertura a prueba que el apelante denuncia -aun cuando pudiera importar, de configurarse tal como la describe, una restricción al derecho de ofrecer y producir prueba conducente- constituye, sin dudas, un vicio de trámite anterior y ajeno a la estructura formal de la sentencia misma; no se proyecta sobre los "recaudos o solemnidades impuestos por la ley en lo concerniente a tiempo, lugar y forma" de aquélla, sino sobre una etapa del procedimiento que la precedió. Por ello, el carril idóneo para su planteo era el incidente de nulidad (arts. 169 a 174, CPCC) y no la nulidad ínsita en el recurso de apelación (art. 253, CPCC), reservada a los defectos extrínsecos de la propia pieza sentencial (conf., además, Juan Carlos Hitters, Técnica de los recursos ordinarios, Cap. IX, sobre generalidades y naturaleza de la apelación como carril de revisión de la decisión de fondo, distinto del incidental para los vicios de procedimiento).
+Sentado lo anterior, de las constancias de la causa surge que el demandado no promovió, en momento alguno de la instancia de grado, el incidente de nulidad que el ordenamiento ponía a su disposición. En efecto: ofreció su prueba el 17/9/2024; compareció a la audiencia del art. 732, CPCC, del 10/12/2024 sin formular reserva ni petición alguna vinculada con la apertura a prueba; y guardó silencio durante los más de quince meses transcurridos hasta que la actora, el 17/3/2026, instó el dictado de la sentencia de calificación. Recién frente a un pronunciamiento adverso -y por vía de un memorial de agravios presentado el 30/6/2026- introdujo el planteo de invalidez.
+Ese proceder no puede prosperar a la luz de los principios que gobiernan la nulidad procesal. Por un lado, el de especificidad y trascendencia (arts. 169 y 172, CPCC): "no habrá nulidad en el solo beneficio de la ley", y quien la invoca debe indicar el perjuicio sufrido y el interés que procura subsanar, sin que baste la invocación genérica de la violación del debido proceso (Arazi, comentario al art. 172; en igual sentido Camps, comentario al art. 172). Por otro, y de modo decisivo en el caso, el principio de subsanación o convalidación (art. 170, CPCC): "la nulidad no podrá ser declarada cuando el acto haya sido consentido, aunque fuere tácitamente, por la parte interesada en la declaración", presumiéndose ese consentimiento tácito "cuando no se promoviere incidente de nulidad dentro de los cinco (5) días subsiguientes al conocimiento del acto". Tal como puntualiza Camps, quien pretende la declaración de nulidad "tiene a su disposición la vía idónea que en este caso es el incidente de nulidad, debiendo ser diligente y promoverlo en el plazo perentorio de cinco días. De lo contrario se entenderá tácitamente convalidado y nada más podrá reclamar al respecto" (Camps, comentario al art. 170).
+Operó en consecuencia la convalidación tácita del vicio que hoy invoca. A ello se suma que las nulidades procesales son, por regla, relativas -no advirtiéndose en el caso ninguno de los supuestos excepcionales de nulidad absoluta por afectación de formas sustanciales vinculadas al orden público, extremo que ni siquiera fue invocado por el recurrente-, de modo que "el consentimiento expreso o presunto de la parte a quien perjudica el acto irregular opera la preclusión, sin que razones abstractas, fundadas en el mero interés de la ley, autoricen una revisión que atentaría contra la seguridad jurídica de las decisiones" (Arazi, comentario al art. 168).
+Cabe agregar una razón adicional, vinculada con la naturaleza propia de este tipo de proceso, que la propia jueza de grado invocó en el considerando segundo de su sentencia y que la actora reiteró tanto al pedir el pronunciamiento cuanto al contestar los agravios. Conforme lo dispone el art. 500 del Código Civil y Comercial, la liquidación de la comunidad de ganancias se rige por las normas de la partición de las herencias (arts. 751 y sgtes., CPCC), estructura en la cual la doctrina especializada distingue la determinación del carácter propio o ganancial de los bienes -que se resuelve, en principio, con la prueba documental y registral incorporada al proceso liquidatorio- de las cuestiones litigiosas que de allí deriven -recompensas, origen de fondos, impugnación de instrumentos públicos-, las cuales "corresponden a las diversas cuestiones litigiosas que se susciten en el curso de la liquidación, pero no a esta en sí misma" y se difieren a la vía incidental o a la acción autónoma que en cada caso corresponda (Faraoni, Fabián E. - Orlandi, Olga E., "Liquidación de la comunidad de ganancias en vida y ante la muerte", Sup. Esp. Cód. Civ. y Com. 2019 [noviembre], p. 33, ap. VIII, con cita de CNCiv., sala A, 2/8/1984, LL 1985-B-496).
+Ello no implica desconocer que la propia doctrina citada advierte que, cuando la controversia sobre la calificación reviste complejidad, "no siempre la remisión a la partición hereditaria puede resultar adecuada [.] lo cual puede requerir un trámite previo que garantice la defensa y la prueba" (Faraoni - Orlandi, ob. cit., ap. VIII, apartado b). Pero, en tanto ese cuestionamiento remite al acierto sustancial de la decisión -y no a un vicio formal de procedimiento tácitamente consentido-, su cauce natural no es la nulidad, sino la crítica concreta y razonada de los fundamentos del fallo, que es precisamente lo que el propio apelante dedujo en subsidio.
+Voto por la NEGATIVA.
+A LA PRIMERA CUESTIÓN, EL SEÑOR JUEZ DOCTOR KALEMKERIAN, DIJO:
+I.- Disiento con la solución propuesta en el voto que antecede en cuanto propicia rechazar el planteo de nulidad articulado por el demandado.
+Es cierto que, como regla, los vicios de procedimiento anteriores al dictado de la sentencia definitiva deben ser denunciados en la instancia en que se producen, mediante el incidente de nulidad previsto por los arts. 169 y siguientes del Código Procesal, dentro del plazo establecido por el art. 170 del mismo ordenamiento.
+También es cierto que el art. 253 del CPCC establece que el recurso de apelación comprende el de nulidad por defectos de la sentencia, y que la doctrina de nuestro Superior Tribunal ha distinguido, en principio, entre los vicios anteriores al pronunciamiento -susceptibles de ser reparados mediante el incidente de nulidad- y aquellos que afectan a la sentencia misma.
+Sin embargo, entiendo que tal distinción no puede ser aplicada mecánicamente al supuesto que aquí se examina.
+II.- En el caso, el demandado contestó la demanda, controvirtió expresamente la calificación de diversos bienes y ofreció prueba destinada a acreditar los hechos en que sustentó sus defensas. En particular, invocó el carácter propio del automóvil Peugeot por haber sido adquirido -según sostuvo- con fondos provenientes de la sucesión de su padre y cuestionó la suficiencia del valor de la donación invocada respecto del 50% indiviso del bien, aunque sin acudir a la vía de la redargución de falsedad. Para acreditar tales extremos ofreció prueba documental, testimonial, confesional y pericial.
+No obstante ello, la causa no fue abierta a prueba, tampoco se produjo la ofrecida y no medió una decisión expresa que declarara la cuestión como de puro derecho. Finalmente, a instancia de la actora, se dictó directamente la sentencia de calificación, que tuvo por gananciales los bienes controvertidos y remitió al demandado a la vía incidental para formular, en su caso, los reclamos de recompensa.
+En esas condiciones, considero que la irregularidad denunciada no puede ser reducida a un mero vicio de trámite, pues la omisión de abrir la causa a prueba gravita directamente sobre el pronunciamiento que puso fin a la instancia, que resolvió cuestiones de hecho controvertidas sin que una de las partes hubiera tenido oportunidad efectiva de producir la prueba ofrecida.
+III.- No desconozco que el demandado asistió a la audiencia celebrada el 10 de diciembre de 2024 ni que transcurrió un lapso considerable hasta el dictado de la sentencia.
+Pero durante ese período no se dictó una resolución que rechazara expresamente la prueba ofrecida, clausurara la etapa probatoria, declarara la cuestión de puro derecho o hiciera saber al demandado que el proceso quedaba en condiciones de ser decidido sin producción de prueba.
+La omisión denunciada, por tanto, no se tradujo en un acto procesal individualizado cuya nulidad pudiera ser razonablemente articulada y cuyo consentimiento tácito pudiera presumirse por el mero transcurso del tiempo. El perjuicio se exteriorizó concretamente con el dictado de la sentencia, que resolvió la controversia prescindiendo de la actividad probatoria oportunamente ofrecida.
+No puede perderse de vista, además, que fue la actora quien, el 17 de marzo de 2026, solicitó el dictado de la denominada "sentencia de calificación de bienes", y que fue a partir de dicha petición que la jueza decidió pronunciarse sobre la naturaleza de los bienes prescindiendo de los medios probatorios ofrecidos por las partes.
+IV.- Desde esta perspectiva, entiendo que corresponde efectuar una interpretación tal que impida que la distinción entre vicios anteriores y posteriores a la sentencia conduzca, en las particulares circunstancias del caso, a convalidar un pronunciamiento dictado con prescindencia de una etapa procesal que resultaba sustancial para resolver las cuestiones efectivamente controvertidas.
+La nulidad que contempla el art. 253 del CPCC no puede quedar circunscripta, en términos absolutamente rígidos, a defectos puramente externos de la pieza sentencial cuando una irregularidad procesal previa gravita de manera directa y decisiva sobre su contenido y determina que el órgano jurisdiccional resuelva la controversia sin que una de las partes haya podido ejercer plenamente su derecho de defensa.
+En tal sentido se ha sostenido que debe considerarse admisible el recurso de nulidad cuando, pese a lo dispuesto por el art. 170 del ordenamiento procesal, "el trámite viciado de nulidad gravita con intensidad sobre el contenido de la sentencia", supuesto que se verificó, precisamente, frente a la falta de apertura a prueba oportunamente solicitada (Cám. Nac. Civil, Sala E, 30/12/1976, Jurisprudencia Argentina, 1978-I, 452).
+V.- La solución que propongo no importa desconocer el principio de convalidación ni habilitar que cualquier vicio procesal anterior pueda ser introducido recién al expresar agravios.
+La regla continúa siendo que los defectos de procedimiento deben ser denunciados oportunamente mediante la vía prevista por los arts. 169 y siguientes del CPCC. Pero una interpretación compatible con la garantía de defensa en juicio exige admitir una excepción cuando, como aquí ocurre, la irregularidad no fue objeto de una decisión procesal expresa susceptible de impugnación durante el trámite y recién adquiere concreta trascendencia con el dictado de una sentencia que decide la controversia prescindiendo por completo de la actividad probatoria ofrecida.
+No se trata, entonces, de conferir al apelante una nueva oportunidad para cuestionar un acto que conoció, consintió y dejó firme, sino de examinar si el pronunciamiento que llegó a esta Alzada puede reputarse válido cuando fue dictado sin haber habilitado la etapa probatoria necesaria para resolver hechos controvertidos que formaban parte de las defensas articuladas.
+VI.- En consecuencia, considero que la falta de apertura a prueba, en las particulares circunstancias del caso, constituye un vicio de entidad suficiente para afectar la validez del pronunciamiento recurrido, pues ha gravitado de manera directa sobre su contenido y ha comprometido las garantías de defensa en juicio, debido proceso, bilateralidad e igualdad de las partes.
+VII.- Por las razones expuestas, propongo hacer lugar al agravio de nulidad, declarar la nulidad de la sentencia dictada el 16 de junio de 2026 y ordenar la remisión de estas actuaciones incidentales a otro magistrado a fin de que, previa apertura de la causa a prueba y producción de la ofrecida por las partes, dicte un nuevo pronunciamiento (arts. 34 inc. 5°, 163, 172, 253, 266, 272, 273, 487, 838, primer párrafo; 843, 844, 845, 849, 853 y ccs. del CPCC), a cuyo deberán remitirse a la Receptoría General de Expedientes para que proceda al sorteo, haciéndose saber a la titular del Juzgado de Familia que venía interviniendo.
+Voto por la AFIRMATIVA.
+A LA PRIMERA CUESTIÓN, EL SEÑOR JUEZ DOCTOR LOMBARDI, DIJO:
+Adhiero a la solución que postula la nulidad de la sentencia apelada
+Considero, en efecto, que las particulares circunstancias que presenta el caso permiten apartarse de la regla conforme a la cual los vicios producidos durante el trámite anterior al pronunciamiento deben ser cuestionados mediante el pertinente incidente de nulidad y no a través del recurso previsto por el art. 253 del Código Procesal.
+Es que aquí no se trata de una irregularidad procesal producida durante la sustanciación del proceso que, conocida por la parte, hubiera podido ser oportunamente impugnada y, eventualmente, consentida. Por el contrario, luego de trabada la litis, el magistrado dictó directamente sentencia sin disponer la apertura de la causa a prueba, sin declarar la cuestión como de puro derecho y sin siquiera llamar autos para sentencia.
+De tal modo, no existió resolución alguna que exteriorizara previamente la decisión de prescindir de la etapa probatoria y frente a la cual la parte interesada hubiera podido ejercer los remedios procesales pertinentes. La primera manifestación de esa decisión estuvo constituida por la propia sentencia definitiva.
+Esta circunstancia resulta, a mi juicio, dirimente. La omisión señalada no puede ser considerada, en las concretas condiciones de la causa, como un mero defecto del procedimiento anterior desvinculado del pronunciamiento definitivo, pues se proyecta directamente sobre su validez. La sentencia fue dictada sin que el proceso hubiera alcanzado regularmente el estado procesal necesario para resolver y sin que las partes hubieran tenido oportunidad de cuestionar previamente esa circunstancia.
+A ello se agrega que la omisión adquiere trascendencia concreta desde la perspectiva del derecho de defensa, en tanto existían hechos controvertidos y prueba ofrecida destinada a su acreditación, cuya producción quedó directamente frustrada por el dictado del pronunciamiento.
+La Corte Suprema de Justicia de la Nación ha señalado que la garantía de defensa en juicio exige que el litigante sea oído y tenga ocasión de hacer valer sus medios de defensa en la oportunidad y forma previstas por las leyes de procedimiento (CSJN, Fallos: 297:134; 307:1487). Tal garantía no se satisface mediante la mera posibilidad formal de intervenir en el proceso, sino que requiere que las facultades que integran el derecho de defensa puedan ser efectivamente ejercidas antes de la decisión que habrá de resolver la controversia.
+En ese marco, entiendo que exigir a la parte la promoción de un incidente de nulidad respecto de una irregularidad cuya existencia sólo pudo conocer al ser notificada de la propia sentencia importaría desconocer la singular configuración que el vicio presenta en autos. No hubo aquí una actividad procesal defectuosa seguida de un pronunciamiento posterior, sino el dictado mismo de la sentencia sin haberse cumplido las etapas necesarias para colocar la causa en estado de resolver.
+Por ello, dada la entidad de la anomalía y su directa incidencia sobre la validez del pronunciamiento, considero que corresponde abordar la cuestión en el marco del recurso de apelación, comprensivo del de nulidad en los términos del art. 253 del Código Procesal.
+Con este alcance, adhiero al voto del Dr. Kalemkerian.
+A LA SEGUNDA CUESTIÓN, EL SR. JUEZ DR. RESTIVO, DIJO:
+Atento el resultado de la votación de la cuestión precedente corresponde declarar la nulidad de la sentencia dictada el 16 de junio de 2026 y ordenar la remisión de estas actuaciones incidentales a otro magistrado a fin de que, previa apertura de la causa a prueba y producción de la ofrecida por las partes, dicte un nuevo pronunciamiento (arts. 34 inc. 5°, 163, 172, 253, 266, 272, 273, 487, 838, primer párrafo; 843, 844, 845, 849, 853 y ccs. del CPCC), a cuyo deberán remitirse a la Receptoría General de Expedientes para que proceda al sorteo, haciéndose saber a la titular del Juzgado de Familia que venía interviniendo. Las costas de alzada han de imponerse a la parte actora en su carácter de vencida (art. 68 CPCC).
+Así lo voto
+Por idénticos fundamentos los Dres. Kalemkerian y Lombardi votan en igual sentido, por lo que se
+S E N T E N C I A
+AUTOS Y VISTOS: CONSIDERANDO: Que en el acuerdo precedente ha quedado resuelto que la sentencia apelada no se ajusta a derecho (arts. 34 inc. 5°, 163, 172, 253, 266, 272, 273, 487, 838, primer párrafo; 843, 844, 845, 849, 853 y ccs. del CPCC).
+POR ELLO , se declara la nulidad de la sentencia dictada el 16 de junio de 2026 y se ordena la remisión de estas actuaciones incidentales a otro magistrado a fin de que, previa apertura de la causa a prueba y producción de la ofrecida por las partes, dicte un nuevo pronunciamiento (arts. 34 inc. 5°, 163, 172, 253, 266, 272, 273, 487, 838, primer párrafo; 843, 844, 845, 849, 853 y ccs. del CPCC), a cuyo remítase a la Receptoría General de Expedientes para que proceda al sorteo, haciéndose saber a la titular del Juzgado de Familia que venía interviniendo. Las costas de alzada han de imponerse a la parte actora en su carácter de vencida (art. 68 CPCC).
+Difiérase la regulación de honorarios de Alzada para cuando sean determinados los de primera instancia (art. 31 ley 14.967).
+```
+
+---
+
+### 4. [RS-309-2026] PEREZ JORGE MARIO C/ DI PAOLO LEONEL RAUL S/ COBRO EJECUTIVO
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `170381`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RS-309-2026`
+- **Código de Acceso SCBA**: `E78227C0`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 309-2026 - Código acceso: E78227C0 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expediente Nro. 170381
+En la ciudad de Bahía Blanca, provincia de Buenos Aires, en la fecha resultante del último certificado de firma digital, reunidos los señores Jueces de la Sala Uno de la Excma. Cámara Primera de Apelación en lo Civil y Comercial de este Departamento Judicial, doctores Fernando C. Kalemkerian, Marcelo O. Restivo y Patricio J. Lombardi, para dictar sentencia en los autos caratulados: " PEREZ JORGE MARIO C/ DI PAOLO LEONEL RAUL S/ COBRO EJECUTIVO " , y practicado el sorteo pertinente (arts. 168 de la Constitución de la Provincia y 263 del Código Procesal), resultó que la votación debe tener lugar en el siguiente orden: Dres. Restivo, Kalemkerian y Lombardi, resolviéndose plantear y votar las siguientes
+CUESTIONES:
+1°) ¿Se ajusta a derecho la sentencia apelada de fecha 19/9/2025?
+2°) ¿Qué pronunciamiento corresponde dictar?
+VOTACIÓN
+A LA PRIMERA CUESTION EL SEÑOR JUEZ DOCTOR MARCELO O. RESTIVO, DIJO:
+I. El día 24/5/2024, el Dr. Jorge Manuel Perez Larsen, en representación de Jorge Perez inició acción de cobro de ejecutivo contra Leonel Di Paolo.
+En fecha 17/12/2024 compareció el demando representado por el Dr. José C. Albanese a hacer valer sus derechos e interponiendo excepción de falsedad de título.
+Luego de sorteado la perito calígrafo, el 17/4/25 el actor presentó el desistimiento de la acción y el derecho.
+Así el 29/4/2025 se dictó sentencia aceptando el desistimiento y dando fin al proceso.
+Se practicó la liquidación de intereses moratorios sobre el monto de condena, que fue aprobada en la suma de pesos sesenta y cuatro mil ciento treinta y siete con cero dos centavos ($ 64.137,02).
+De ahí que, existiendo base cierta (art. 51 Ley 14.967), el 19/9/2025 se procedió a fijar los estipendios de los letrados intervinientes y de la perito calígrafa que había aceptado el cargo.
+II. Considerando que dicha regulación es baja, se alzan el Dr.José C. Albanese y la perito Andrea Vago. A su vez la actora apeló sus honorarios por altos.
+III. En primer lugar, no hay dudas de que tratándose el presente de un cobro ejecutivo, deviene prima facie aplicable el arancel determinado por el artículo 34 de la normativa citada.
+No obstante, aún regulando sobre el máximo de la escala contenida en dicha disposición, surge patente que el honorario resultante es inferior al mínimo establecido por el artículo 22, con lo cual ésta es la norma que debe ser aplicada, en la medida que no exceda el 33% del monto del proceso, fijado como límite para la regulación a los efectos de evitar que los emolumentos se tornen confiscatorios (conf. fallo SCJBA en autos "Salud Alegre s/ inconstitucionalidad ley 5425" y CSJN en "Otero Monsegur Jorge c/ Pueyrredón Julio y otros").
+En esta inteligencia, se advierte claramente que los honorarios de fecha 19/8/2025 se encuentran por debajo del mínimo que establece el artículo 22, con el tope referido ut supra.
+Para concluir de tal manera, no hago más que aplicar, en primer término el criterio fijado por nuestro cimero Tribunal en causa A.77232 (entre otras), que determina la plena vigencia del art. 1255 del CCCN.
+Conforme dichas normas, los servicios profesionales que deban ser establecidos sobre bases arancelarias, habrán de adecuarse a la labor cumplida por el prestador, por lo que de resultar de la aplicación de las leyes arancelarias locales una desproporción evidente e injustificada, el juez puede fijarla equitativamente, en atención a la importancia de la labor cumplida.
+De advertirse esa desproporción, tal el presente caso, ya que, de aplicar los mínimos, el monto a fijar resultaría superior a la liquidación aprobada, debe adecuarse el honorario a las pautas de justicia y razonabilidad que se desprenden del art. 28 de la Constitución Nacional (doctrina causas C. 81.319, "Biondo", sent. de 24-V-2006; C.86.346 "Calleri", sent. de 26-IX-2007, entre otros).
+Por otro lado, la aplicación irrestricta de los mínimos, sin tener presente el monto de condena y la complejidad de la cuestión debatida (art. 15 Dec. Ley 8904 y ley 14.967), vulneraría el derecho de propiedad de los justiciables, ya que conforme lo normado por el art. 730 del C.C.C.N., el accionado vería limitada su obligación por imposición de costas al 25 % del monto de la sentencia, debiendo prorratearse la diferencia entre los beneficiarios.
+Tal razonamiento determinaría una negación de justicia para el acreedor, quien resultaría, por el solo hecho de hacer valer sus derechos, deudor de un monto muy superior al demandado, en concepto de honorarios de quien fuera su asesor letrado y qué por aplicación de la normativa indicada, no podrá repetir contra el condenado en costas, tornando antieconómico el reclamo judicial de aquel crédito.
+Así, las disposiciones que gobiernan el caso impedirían en los hechos el acceso a una instancia judicial, generando un agravio jurisdiccional originado en la privación de aquel derecho.
+Voto entonces por la negativa.
+A LA PRIMERA CUESTIÓN EL SEÑOR JUEZ DOCTOR FERNANDO C. KALEMKERIAN, DIJO:
+Comparto lo expuesto por mi distinguido colega, a excepción de lo atinente al tope del 33% que sobre la base arancelaria propugna aplicar, a los efectos de que el mínimo legal no se torne confiscatorio.
+Es que más allá de las constancias de autos -de las que por cierto surge patente una ardua labor desplegada por el letrado a los efectos de intimar de pago al accionado-, considero que, en consonancia con los fundamentos vertidos al momento de abordar el tratamiento de planteos similares (ver disidencia en "Nueva Card S.A. c/ Lepez Granillon Diego Martin s/ cobro ejecutivo", expte. nro. 152.034, nro. de orden: 108), los honorarios deben fijarse de acuerdo al mínimo previsto por el artículo 22 de la ley arancelaria, sin limitaciones.
+Voto entonces por la negativa.
+A LA PRIMERA CUESTIÓN EL SEÑOR JUEZ DOCTOR PATRICIO J. LOMBARDI, DIJO:
+Adhiero a los fundamentos y al voto del Dr. Kalemkerian.
+A LA SEGUNDA CUESTIÓN EL SEÑOR JUEZ DOCTOR MARCELO O. RESTIVO, DIJO:
+Conforme el resultado de la votación precedente y teniendo en cuenta el mérito y extensión de la labor desempeñada por el Dr. José C. Albanese, corresponde establecer su retribución en la suma de siete jus (arts. 22 Ley 14.967).
+Así lo voto.
+Los señores jueces doctores Kalemkerian y Lombardi, por los mismo fundamentos, votan en igual sentido.
+Por lo que se
+SENTENCIA
+AUTOS Y VISTOS: CONSIDERANDO: Que en el acuerdo que precede ha quedado resuelto que el auto regulatorio apelado no se ajusta a derecho (arts. 15, 16, 21, 22, 34 y 51 ley 14.967).
+POR ELLO , se lo modifica, elevándose los emolumentos del letrado José C. Albanese a la suma de siete jus (arts. 15, 21, 22 y 34 Ley 14.967).
+Y teniendo en cuenta el cargo aceptado por la perito calígrafa Andrea Vago, modifícanse sus estipendios a la suma de $53.232 (art. 1255 CCCN).
+Deposítense los adicionales de ley.
+Notifíquese de conformidad con lo dispuesto en el artículo 10 del Anexo Único del Ac. 4039 SCBA y devuélvase.
+A tales efectos, se transcribe a continuación el artículo 54 de la ley 14.967: "Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado. Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido. Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio. En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo. Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio. Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles. Operada la mora, el profesional podrá optar por: a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual. b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación".
+```
+
+---
+
+### 5. [RS-310-2026] BARBERA MARCELO OSCAR C/ FRIGORIFICO ANSELMO SA S/ INCIDENTE CONCURSO/QUIEBRA (EXCEPTO VERIFICACION)
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `170402`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RS-310-2026`
+- **Código de Acceso SCBA**: `1E7DD7E9`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 310-2026 - Código acceso: 1E7DD7E9 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:22
+
+#### Texto Íntegro
+```text
+Expediente Nro. 170402
+En la ciudad de Bahía Blanca, provincia de Buenos Aires, en la fecha resultante del último certificado de firma digital, reunidos los señores Jueces de la Sala Uno de la Excma. Cámara Primera de Apelación en lo Civil y Comercial de este Departamento Judicial, doctores Patricio J. Lombardi, Marcelo O. Restivo y Fernando C. Kalemkerian, para dictar sentencia en los autos caratulados: " BARBERA MARCELO OSCAR C/ FRIGORIFICO ANSELMO SA S/ INCIDENTE CONCURSO/QUIEBRA (EXCEPTO VERIFICACION) " , y practicado el sorteo pertinente (arts. 168 de la Constitución de la Provincia y 263 del Código Procesal), resultó que la votación debe tener lugar en el siguiente orden: Dres. Lombardi, Restivo y Kalemkerian, resolviéndose plantear y votar las siguientes
+CUESTIONES:
+1°) ¿Se ajusta a derecho la sentencia apelada de fecha 16/8/2026?
+2°) ¿Qué pronunciamiento corresponde dictar?
+VOTACIÓN
+A LA PRIMERA CUESTION EL SEÑOR JUEZ DOCTOR PATRICIO J. LOMBARDI, DIJO:
+I.- El 16/3/2026 el señor Marcelo Oscar Barbera solicitó en la quiebra de Frigorífico Anselmo S.A. el pronto pago de su crédito laboral (arts. 16 y 183 de la ley 24.522), que el juez de grado reseñó en la suma de $ 53.400.000, invocando el privilegio especial del art. 241 inc. 2 LCQ.
+La Sindicatura, al contestar el traslado, manifestó que no formulaba objeciones respecto del origen causal ni de la naturaleza laboral del crédito insinuado, sin perjuicio de señalar que el pronto pago debía analizarse conforme al régimen previsto por los arts. 183 y concordantes de la LCQ. En tal sentido, sostuvo que dicho instituto no constituye una fuente autónoma de recursos ni habilita a efectuar pagos con prescindencia de la situación patrimonial de la quiebra, por lo que, aun cuando eventualmente se reconocieran la existencia y el privilegio del crédito, no se encontrarían reunidos actualmente los presupuestos materiales para hacer efectivo el pago pretendido, ante la inexistencia de fondos líquidos disponibles.
+Agregó que la fallida se encuentra bajo un régimen de continuidad de la explotación autorizado judicialmente, circunstancia que impone preservar los activos afectados al giro productivo y atender a los objetivos propios del proceso falencial. Por ello, se opuso a la inmediata realización o adjudicación de maquinarias, mercaderías o materias primas -invocadas por el acreedor como asiento de su privilegio-, por considerar que la modalidad de realización de los bienes constituye una cuestión propia de la quiebra y no puede quedar supeditada a la petición individual de un acreedor. Concluyó que, por el momento, la ausencia de fondos líquidos impide efectivizar el pronto pago, sin que ello implique desconocer el derecho que pudiera corresponder al trabajador, cuya satisfacción deberá procurarse oportunamente con los primeros fondos disponibles y conforme al orden de prelación aplicable.
+II.- La resolución en crisis consideró que asistía razón a la sindicatura atribuyendo a los gastos del art. 240 LCQ una "prioridad operativa" respecto del pronto pago, derivada de la necesidad de generar recursos y aplicarlos primero a sostener la empresa. Señaló que el pago del privilegio especial debía salir del producido de los bienes, que en su mayoría no se había realizado por la continuación de la explotación. "Ante la inexistencia de fondos" difirió "la resolución en cuanto [a] lo solicitado por el acreedor laboral, para la oportunidad en que existan fondos disponibles".
+En la parte dispositiva declaró admisible el crédito laboral con privilegio especial insinuado por Marcelo Oscar Barbera "con el alcance establecido en los Considerandos" y ordenó al síndico practicar liquidación del crédito en diez días "de conformidad con lo dispuesto en la Ley 24.522", a fin de que la acreencia sea incorporada de manera correcta al pasivo falencial. Las costas fueron impuestas por su orden (arts. 68 y 69 CPCC).
+III.- Contra dicho pronunciamiento se alzó el incidentista.
+Inició su queja indicando que la resolución ha diferido "sine die" el reconocimiento y la efectivización del pronto pago subordinándolo indebidamente a la existencia de fondos líquidos, pese a que su crédito fue reconocido y se le atribuyó privilegio especial. Cuestiona, asimismo, que se haya otorgado prioridad genérica a gastos que la ley posterga (arts. 240 y 244 LCQ) y sostiene que, aun cuando no existieran fondos suficientes para cancelar íntegramente la acreencia, la ley contempla un mecanismo específico para hacer efectivo el beneficio mediante la afectación del tres por ciento de los ingresos bruto y la elaboración de un plan de pagos. Por lo demás, señala que la premisa de la falta de fondos se contradice con la documentación de la gerenciadora, de la que surgirían ventas en marzo de 2026 por $ 615.483.286,65 netos ($ 683.358.265,08 facturados). Por último, cuestiona la imposición de costas por su orden, invocando el régimen específico del art. 16 de la LCQ, que exime al trabajador de las costas salvo los supuestos de connivencia, temeridad o malicia.
+En función de lo expuesto, solicita la revocación del pronunciamiento y el pago inmediato del crédito reconocido; subsidiariamente, que se disponga la afectación del porcentaje previsto en la ley sobre los ingresos brutos y la elaboración de un plan de pagos y, en su caso, la realización o adjudicación de los bienes asiento del privilegio.
+La sindicatura aboga por la confirmación de lo decidido (P.E. del 11/9/2026). Sostiene que no desconoce la naturaleza laboral ni el privilegio del crédito, pero que la facturación de FIDUC S.A. no puede equipararse a fondos líquidos de libre disponibilidad de la masa, dado que la explotación se desarrolla bajo un esquema de gerenciamiento en el que dicha sociedad afronta los costos y gastos propios de la actividad. En consecuencia, considera que no se encuentra acreditada la existencia de fondos que permitan aplicar el porcentaje previsto por los arts. 16 y 183 de la LCQ, y que la continuidad de la explotación debe preservarse en beneficio del conjunto de los acreedores. Entiende correcta la forma en que se impusieron las costas en atención a que no se opuso al reconocimiento del crédito y a que el pronto pago no fue admitido en los términos pretendidos por el incidentista.
+IV.- Hallándose el expediente en condiciones de ser resuelto, corresponde ingresar en el análisis de los agravios. Al respecto, cabe señalar que el caso que nos ocupa guarda sustancial identidad con el resuelto por este Tribunal con fecha 2/10/2026 en el incidente promovido por el señor Chidichimo (Expte. n.° 170.078), seguido en el marco de la misma quiebra, por lo que habrán de reiterarse, en lo pertinente, los fundamentos allí expuestos.
+a.-) El pronto pago no es una simple verificación anticipada: es una preferencia temporal que permite al trabajador percibir su acreencia sin aguardar la liquidación general (Fassi-Gebhardt lo califican, con cita de autorizada doctrina, como un "superprivilegio" de índole temporal -"Concursos y quiebras", 7ª ed., Astrea, 2000, coment. art. 183, § 3-; Junyent Bas - Molina Sandoval, "Ley de Concursos y Quiebras comentada", Abeledo-Perrot, 2009, t. I, coment. art. 16, II).
+En esa línea, Maza y Lorente consideran que se trata de un instituto bifronte, pues constituye una modalidad de verificación del crédito y, al mismo tiempo, permite su satisfacción anticipada. En similar sentido se expresa Barbieri, para quien el instituto configura un procedimiento de admisión al pasivo concursal con características sumamente particulares, que incluso contempla una modalidad de satisfacción de los créditos diferente de la correspondiente a los restantes acreedores concurrentes. De allí que, en definitiva, lo caracterice como un "procedimiento verificatorio modificado", dotado de rasgos propios y diferenciados. En consecuencia, su regulación es ambivalente: desde la perspectiva del concursado, constituye una autorización para atender un crédito cuya causa es anterior a su presentación en concurso; desde la del trabajador, representa el ejercicio de su derecho creditorio a obtener el cobro inmediato de su acreencia, en atención a su naturaleza alimentaria ("Pronto pago de créditos laborales a la luz de las reformas de las leyes 26.086 y 26.684", Junyent Bas, Francisco y Giménez, Sofía I., Publicado en: DCCyE 2013 (octubre), Cita: TR LALEY AR/DOC/3776/2013).
+El segundo párrafo del art. 183 LQC establece que los créditos laborales con privilegio especial y general "se pagarán de inmediato con los primeros fondos que se recauden o con el producido de los bienes sobre los cuales recae el privilegio especial, con reserva de las sumas para atender créditos preferentes", con remisión a las disposiciones del art. 16.
+De ello se desprende que la disponibilidad de fondos no constituye un requisito para la admisión del pronto pago, sino para su efectivización. Por consiguiente, para que este último se concrete, se requiere la existencia de fondos de la procedencia prevista legalmente, con sujeción al prorrateo entre acreedores del mismo rango.
+La decisión recurrida se aparta de ese régimen. En efecto, aunque admite el crédito, "difiere la resolución" de lo solicitado hasta tanto existan fondos y, en su parte dispositiva, ordena liquidarlo conforme a las reglas de verificación para incorporarlo "al pasivo falencial". De ese modo, el reconocimiento carece de eficacia práctica, pues el trabajador obtiene lo mismo que conseguiría mediante una verificación ordinaria, mientras que la percepción de su crédito queda supeditada a un acontecimiento futuro e incierto, cuyo acaecimiento nadie tiene el deber de controlar.
+Para revisar la solución adoptada, corresponde recordar que el art. 240 LCQ establece que los créditos originados en la conservación, administración y liquidación de los bienes del concursado, así como en el trámite del concurso, "son pagados con preferencia a los créditos contra el deudor salvo que éstos tengan privilegio especial". A su vez, respecto del producido del bien afectado, el único concepto que precede al privilegio especial es la reserva contemplada en el art. 244, comprensiva de los gastos de conservación, custodia, administración y realización de ese mismo bien, así como de la parte de los honorarios correspondiente exclusivamente a las diligencias cumplidas sobre él.
+En este sentido, Junyent Bas y Molina Sandoval explican que la ley diferencia la reserva de gastos prevista en el art. 244, que prevalece sobre los privilegios especiales, de los gastos de conservación y justicia regulados por el art. 240, los cuales "son postergados por los créditos especiales" (ob. cit., t. II, coment. art. 244).
+En consecuencia, no cabe reconocer una "prioridad operativa" general de los gastos derivados de la continuación de la explotación por sobre el crédito del apelante, en la medida en que este cuenta con privilegio especial. Así, sobre el producido de las mercaderías, materias primas y maquinarias pertenecientes a la fallida que se encuentren en el establecimiento donde el trabajador prestó servicios o que estén destinadas a su explotación (art. 241 inc. 2), el crédito laboral debe satisfacerse con anterioridad a los gastos del art. 240, con la única deducción de la reserva establecida en el art. 244.
+Cabe señalar que la solución varía cuando el crédito debe satisfacerse con los "primeros fondos que se recauden" en virtud del privilegio general (arts. 183 y 246 inc. 1). En ese supuesto, la ley impone efectuar la "reserva de las sumas para atender créditos preferentes", entre los que se incluyen los gastos contemplados en el art. 240, que anteceden a los privilegios generales (Fassi-Gebhardt, ob. cit., coment. art. 240, § 1). Sin embargo, de esa previsión únicamente se deriva un orden de prelación entre los acreedores respecto de los fondos existentes. No puede extraerse de ella una autorización para postergar indefinidamente la efectivización de un pronto pago ya admitido. Menos aún cuando, como se expondrá seguidamente, la propia ley concursal contempla la falta de liquidez y establece una solución diferente de su diferimiento.
+Precisamente, frente a la inexistencia de fondos líquidos, el art. 16 LCQ, en su redacción vigente y al que remite el art. 183, dispone: "Los créditos serán abonados en su totalidad, si existieran fondos líquidos disponibles. En caso contrario y hasta que se detecte la existencia de los mismos por parte del síndico se deberá afectar el tres por ciento (3%) mensual del ingreso bruto de la concursada. El síndico efectuará un plan de pago proporcional a los créditos y sus privilegios, no pudiendo exceder cada pago individual en cada distribución un monto equivalente a cuatro (4) salarios mínimos vitales y móviles". Asimismo, prevé que la sindicatura, en el marco de su control e informe mensual, incorpore las modificaciones que correspondan "si existen fondos líquidos disponibles, a los efectos de abonar la totalidad de los prontos pagos o modificar el plan presentado".
+Por lo tanto, la afectación del 3% mensual del ingreso bruto constituye la alternativa expresamente prevista por la normativa concursal para el supuesto de que no existan fondos líquidos disponibles para atender los créditos, con sujeción a la proporcionalidad del plan de pagos y al límite de cuatro salarios mínimos por pago individual.
+El antecedente de esta disposición -el uno por ciento contemplado en el texto de la ley 26.086- tuvo, según explican Junyent Bas y Molina Sandoval, la finalidad de asegurar a los trabajadores "la percepción de al menos un porcentaje de su acreencia, evitando que soporten la crisis empresaria y se transformen en 'fusible' o financiación de la empresa" (ob. cit., t. I, coment. art. 16, II.7.3). Tal finalidad adquiere mayor relevancia cuando la empresa en crisis continúa funcionando durante la quiebra, bajo administración judicial y con los mismos bienes que constituyen el asiento del privilegio laboral.
+En ese contexto, la base de cálculo de la afectación es el ingreso bruto, no la utilidad obtenida. Por ello, resulta indiferente que la explotación no haya alcanzado su punto de equilibrio. Al establecer un porcentaje limitado, desvinculado de la existencia de ganancias, el legislador ponderó la tensión entre la continuidad de la empresa y la protección del crédito de naturaleza alimentaria.
+En este orden de ideas, corresponde señalar que, contrariamente a lo sostenido por la sindicatura, los ingresos integran la masa y no pertenecen a la gerenciadora que financia la actividad.
+Ello es así porque la continuación regulada en los arts. 189 a 192 LCQ corresponde a la empresa de la fallida, que funciona bajo la administración del síndico o del coadministrador que designe el juez. Las obligaciones asumidas por quien tiene a su cargo la explotación "gozan de la preferencia de los acreedores del concurso" (art. 192 inc. 3, LCQ, texto según ley 26.684). Se trata, por ende, de deudas de la quiebra, que deben afrontarse con los recursos generados por la explotación. En consecuencia, si FIDUC S.A. obtiene el reembolso, en calidad de acreedora de la masa, de los gastos en que incurra -que cuentan con la preferencia prevista en el art. 240 LCQ-, su aporte constituye financiamiento de la explotación de la fallida, mientras que los ingresos que esta genera pasan a integrar el patrimonio falencial.
+Por ese motivo, las sumas percibidas en la quiebra deben depositarse a la orden del juez dentro de los tres días (art. 183, primer párrafo, LCQ), sin perjuicio de la autorización que pueda otorgarse al síndico para conservar los fondos necesarios para afrontar los gastos que se autoricen.
+b.-) Por los fundamentos expuestos, propongo al acuerdo dejar sin efecto el diferimiento dispuesto y ordenar que la efectivización del pronto pago se ajuste a las previsiones legales.
+A tal fin, deberá requerirse a la sindicatura que, dentro del plazo de diez días, informe: 1) los ingresos brutos mensuales de la explotación desde agosto de 2026 -mes en que se admitió del crédito- hasta la actualidad, acompañando la documentación respaldatoria; 2) si existen fondos líquidos disponibles; 3) la nómina de los créditos laborales cuyo pronto pago fue admitido, con indicación de sus respectivos privilegios; y 4) cuáles eran los bienes que constituían el asiento del privilegio especial previsto en el art. 241 inc. 2 al momento de la quiebra, que se encontraban en el establecimiento, y cuál es su situación actual (art. 192 LCQ).
+En caso de existir fondos líquidos disponibles el crédito del apelante ha de pagarse en su totalidad, con la reserva para créditos preferentes (arts. 16 y 183 LCQ) y respetando la igualdad con los demás acreedores con pronto pago de igual rango.
+Si no se contara con tales fondos, deberá destinarse el tres por ciento (3%) del ingreso bruto mensual de la explotación, desde agosto de 2026 y hasta la cancelación total de los créditos cuyo pronto pago haya sido admitido, con un límite por acreedor pronto pagable equivalente a cuatro (4) salarios mínimos, vitales y móviles, o al monto total del crédito si este fuera inferior. Las sumas correspondientes deberán depositarse en una cuenta a la orden del juzgado y como pertenecientes a la quiebra (art. 183 LCQ). Asimismo, el síndico deberá elaborar un plan de pagos proporcional a los créditos y sus privilegios, de modo que ningún pago individual en cada distribución supere el equivalente a cuatro salarios mínimos, vitales y móviles (art. 16 LCQ).
+V.- Corresponde analizar, por último, el agravio vinculado con las costas.
+La norma contenida en el art. 16 de la LCQ establece expresamente que no se impondrán costas al trabajador en el trámite de pronto pago, excepto cuando medie connivencia, temeridad o malicia, circunstancias que no fueron invocadas ni se advierten en el caso. En tales condiciones, distribuir las costas en el orden causado supone, en los hechos, hacer recaer sobre el trabajador los gastos ocasionados por su propia actuación, lo que resulta contrario a la regla específica establecida por la ley concursal.
+Por otra parte, debe considerarse que el trámite adquirió carácter contencioso a raíz de la oposición de la sindicatura, que sostuvo la procedencia del diferimiento del pago del crédito. En ese aspecto central de la controversia, aquella resultó vencida, de modo que la aplicación de la regla general prevista en el art. 68 del CPCC conduce también a imponer las costas a la quiebra.
+En virtud de lo expuesto, corresponde modificar la decisión de primera instancia en este aspecto e imponer las costas de esa instancia a la quiebra.
+Consecuentemente doy mi voto por la NEGATIVA.
+Los señores jueces doctores Restivo y Kalemkerian, por los mismos fundamentos, votan en igual sentido.
+A LA SEGUNDA CUESTION EL SEÑOR JUEZ DOCTOR PATRICIO J. LOMBARDI, DIJO:
+Atento al resultado obtenido al tratar la cuestión precedente, corresponde:
+1°) Disponer que el pronto pago admitido se efectivice con el siguiente alcance:
+a) La sindicatura deberá informar, dentro del plazo de diez días, los ingresos brutos mensuales de la explotación desde agosto de 2026, la existencia de fondos líquidos disponibles, la nómina de los créditos laborales con pronto pago admitido y la existencia y situación de los bienes que constituyen el asiento del privilegio previsto en el art. 241 inc. 2 LCQ.
+b) Si existieran fondos líquidos disponibles, el crédito deberá abonarse en su totalidad, previa reserva de las sumas destinadas a atender los créditos preferentes.
+c) En caso contrario, deberá afectarse el 3% del ingreso bruto mensual de la explotación desde agosto de 2026, o bien el equivalente a 4 SMVM por cada crédito laboral con pronto pago admitido, según cuál de ambos importes resulte menor. Las sumas deberán depositarse a la orden del juzgado y distribuirse mediante un plan de pagos proporcional entre los créditos con pronto pago admitido, respetando el límite de cuatro salarios mínimos, vitales y móviles por pago individual.
+2°) Imponer las costas de ambas instancias a la quiebra (arts. 16 LCQ y 68 CPCC).
+Así lo voto.
+Los señores jueces doctores Restivo y Kalemkerian, por los mismos fundamentos, votan en igual sentido.
+Por lo que se
+SENTENCIA
+AUTOS Y VISTOS: CONSIDERANDO: Que en el acuerdo que antecede ha quedado resuelto que la resolución de fecha 16 de agosto de 2026 no se ajusta totalmente a derecho (arts. 16, 183, 192, 240, 241 inc. 2, 244 y 246 inc. 1 LCQ; 68 CPCC).
+POR ELLO , se la modifica ordenando: 1) Disponer que el pronto pago admitido se efectivice de conformidad con lo establecido en los arts. 16 y 183 LCQ. A tal fin, el síndico deberá informar, dentro del plazo de diez días, los ingresos brutos mensuales de la explotación desde agosto de 2026, la existencia de fondos líquidos disponibles, la nómina de los créditos laborales con pronto pago admitido y la existencia y situación actual de los bienes que constituyen el asiento del privilegio previsto en el art. 241 inc. 2 LCQ.
+Si existieran fondos líquidos disponibles, el crédito deberá abonarse íntegramente, previa reserva de las sumas destinadas a atender los créditos preferentes. En caso contrario, deberá afectarse el 3% del ingreso bruto mensual de la explotación desde agosto de 2026 o el equivalente a 4 SMVM por cada crédito laboral con pronto pago admitido, según cuál resulte menor. Las sumas correspondientes deberán depositarse a la orden del juzgado y distribuirse conforme a un plan de pagos proporcional entre los créditos con pronto pago admitido, respetando el límite de cuatro salarios mínimos, vitales y móviles por pago individual.
+Las costas de primera instancia y de Alzada se imponen a la quiebra vencida (arts. 16 LCQ y 68 CPCC).
+Difiérese la regulación de honorarios para la oportunidad procesal correspondiente.
+Regístrese, notifíquese y devuélvase.
+```
+
+---
+
+### 6. [RR-693-2026] ETCHEPAREBORDA, PEDRO ALBERTO S/MEDIDAS PRELIMINARES (ART. 323 CPCC)
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170420`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-693-2026`
+- **Código de Acceso SCBA**: `1141C015`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 693-2026 - Código acceso: 1141C015 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170420
+Carátula: " ETCHEPAREBORDA, PEDRO ALBERTO S/MEDIDAS PRELIMINARES (ART. 323 CPCC) "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I.- El Sr. Juez a cargo del Juzgado de Paz Letrado de Carmen de Patagones se declaró incompetente para intervenir en la diligencia preliminar promovida por el peticionante, destinada a individualizar a los ocupantes de un sector de la Quinta 45 de esa ciudad y conocer el carácter en virtud del cual lo ocupan, con miras a preparar una futura acción posesoria. Fundó su decisión en que la competencia para entender en las medidas preliminares corresponde al juez que deba intervenir en el proceso principal, materia que consideró ajena a la atribuida a la Justicia de Paz (art. 6 inc. 4 del CPCC).
+II.- El Sr. Juez titular del Juzgado de Primera Instancia en lo Civil y Comercial nro. 4 resistió la atribución de competencia por considerar que el art. 61 inc. e de la ley 5827 asigna a los Juzgados de Paz competencia para entender en las medidas preparatorias de los procesos de conocimiento, sin que la eventual competencia sobre la acción principal resulte determinante en esta etapa. De ese modo, quedó planteado el conflicto negativo de competencia que corresponde dirimir a esta Alzada (art. 11 del CPCC).
+III.- La Ley Orgánica del Poder Judicial asigna a los Juzgados de Paz competencia para entender en las medidas preparatorias de los procesos de conocimiento y en la prueba anticipada (art. 61, apartado 1, inc. e). En el caso, la diligencia solicitada -consistente en la constatación del inmueble, la individualización de sus ocupantes y la determinación del carácter en virtud del cual lo ocupan- se encuentra comprendida en aquella previsión legal, pues está dirigida a reunir los elementos necesarios para preparar adecuadamente la eventual acción principal.
+En tales condiciones, la circunstancia de que el peticionante haya manifestado su intención de promover una acción cuyo conocimiento podría exceder la competencia material de la Justicia de Paz, no resulta suficiente para desplazar la atribución específica que la ley le confiere para intervenir en esta etapa preliminar. Ello, sin perjuicio de lo que corresponda decidir acerca de la competencia para conocer en el proceso principal, una vez promovido y en función de la pretensión que en su caso se deduzca.
+POR ELLO , corresponde que siga interviniendo el Juzgado de Paz Letrado de Carmen de Patagones (arts. 61, ap. 1, inc. 6 de la Ley 5827 y modif.; 11 del CPCC). Hágase saber al Sr. Juez a cargo del Juzgado Civil y Comercial nro. 4, y a la Receptoría General de Expedientes, a cuyos efectos líbrense oficios. Oportunamente, devuélvase.
+```
+
+---
+
+### 7. [RR-694-2026] PRESTE VIRGINIA NOEMI Y OTROS C/ CID ELIANA ELIZABETH Y OTROS S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170543`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-694-2026`
+- **Código de Acceso SCBA**: `4D615570`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 694-2026 - Código acceso: 4D615570 - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170543
+Carátula: " PRESTE VIRGINIA NOEMI Y OTROS C/ CID ELIANA ELIZABETH Y OTROS S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO) "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: Toda vez que las demandadas Eliana Elizabeth Cid y Luciana Florencia Soler constituyeron domicilio electrónico en la audiencia de mediación (v. acta del 13/5/2026, adjunta a la presentación electrónica del 10/8/2026), y no habiendo transcurrido el plazo previsto por el art. 7 del Ac. 3989 (texto ordenado) de la SCBA, el traslado de la demanda puede notificarse válidamente, durante dicho lapso, en las casillas de correo electrónico de los letrados que las asistieron, consignadas en el acta de cierre de la etapa prejudicial (v. causa n.º 165.950, sent. del 28/10/2025).
+POR ELLO , se revoca la resolución del 17/9/2026 en lo que fue materia de agravios.
+Devuélvase.
+```
+
+---
+
+### 8. [RR-695-2026] G. A. B. C/ S. L. H. S/ PROTECCION CONTRA LA VIOLENCIA
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170592`
+- **Fecha**: 21-10-2026
+- **Número de Registro**: `RR-695-2026`
+- **Código de Acceso SCBA**: `30758DFE`
+- **Firmantes**: Funcionario: LOMBARDI Patricio Javier JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 695-2026 - Código acceso: 30758DFE - PUBLICO | Registrado por: LEJARRAGA Ines - Fecha registración: 21/10/2026 08:21
+
+#### Texto Íntegro
+```text
+Expte. Nro. 170592
+Carátula: " G. A. B. C/ S. L. H. S/ PROTECCION CONTRA LA VIOLENCIA "
+Bahía Blanca, fecha resultante del último certificado de firma digital.
+AUTOS Y VISTOS: CONSIDERANDO: I.- Mediante resolución del 24 de septiembre de 2026, la Sra. Jueza de Paz Letrada dejó sin efecto lo dispuesto el 21 de septiembre de 2026, oportunidad en la que había ordenado el levantamiento de la prohibición de acercamiento y contacto respecto de la Sra. A. B. G., a pedido del Sr. C. S. A. Asimismo, a fin de garantizar el cumplimiento de la medida, dispuso la exclusión del nombrado, incluso con auxilio de la fuerza pública, y el reingreso de la denunciante al inmueble.
+Contra dicho pronunciamiento, el Sr. A. interpuso recurso de reposición con apelación en subsidio. Rechazado el primero en la instancia de origen, corresponde ahora entender en el segundo. II.- De las constancias de la causa surge que el pedido de levantamiento de la medida de protección formulado por el Sr. A. no fue debidamente sustanciado con la denunciante, toda vez que la notificación electrónica fue cursada a un letrado distinto de quien ejercía su representación (v. proveído del 7/9/2026).
+Tal omisión adquiere particular relevancia en el marco de la ley 12.569, cuyos arts. 11, 12 y 14 contemplan la intervención de las partes y la necesidad de evaluar la persistencia de las circunstancias de riesgo que justificaron la adopción de las medidas protectorias. En ese contexto, no correspondía disponer su levantamiento sin garantizar previamente a la denunciante la posibilidad de ser oída y valorar su situación actual.
+Los restantes agravios tampoco pueden prosperar, pues se dirigen a cuestionar la medida dispuesta en primera instancia que posteriormente fue dejada sin efecto. En consecuencia, permanece pendiente de resolución el pedido de levantamiento formulado por el Sr. A., respecto del cual la Sra. G. contestó el traslado el 1° de octubre de 2026, por lo que no corresponde emitir pronunciamiento sobre su procedencia en esta oportunidad.
+Por otra parte, dado que la Sra. Jueza de Paz Letrada ya ha emitido opinión sobre dicha cuestión, corresponde que remita las actuaciones al magistrado que le siga en orden de turno, a fin de que se pronuncie exclusivamente sobre el pedido de levantamiento pendiente (art. 17 inc. 7° del CPCC).
+POR ELLO, con los fundamentos expuestos, se confirma la resolución del 24 de septiembre de 2026. Con costas al apelante vencido (art. 69 del CPCC). Oportunamente el a quo deberá remitir los autos al Juez hábil.
+Devuélvase sin más trámite.
+```
+
+---
+
+## CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA (`idOrganismo: 41`)
+
+### ACT-22-10-2026. [RR-730-2026] G M C/ M H V F A S/ INCIDENTE DE EJECUCION DE ALIMENTOS
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170702`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-730-2026`
+- **Código de Acceso SCBA**: `FE9FE06B`
+- **Firmantes**: Funcionario: MERCADO Jorge Federico JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 730-2026 - Código acceso: FE9FE06B - PUBLICO | Registrado por: GUGLIELMI Ingrid Julieta - Fecha registración: 22/10/2026 15:31
+
+#### Texto Íntegro
+```text
+Carátula: G M C/ M H V F A S/ INCIDENTE DE EJECUCION DE ALIMENTOS
+Bahía Blanca, fecha resultante del último certificado de firma digital.-
+AUTOS Y VISTOS:
+CONSIDERANDO:
+I. Antecedentes .
+Intervienen en el recurso M G (M.G.), en carácter de parte actora, y V F A M H (V.F.A.M.H.), como demandado.
+En adelante, todos los actuantes serán mencionados por las iniciales que siguen a sus respectivos nombres completos.
+II. La cuestión suscitada .
+En fecha 4 de septiembre de 2026, la parte actora denunció el incumplimiento de las obligaciones asumidas por el demandado en el marco del acuerdo celebrado en la audiencia del 13 de julio de 2026 y homologado por resolución del 18 de julio de este año en el expediente principal. En particular, reclamó las cuotas alimentarias correspondientes a julio y agosto de 2026, por $260.284 y $272.841,50, respectivamente; la suma de $340.000 correspondiente a uno de los pagos convenidos para afrontar gastos extraordinarios vinculados con el embarazo; y $203.269,57 equivalentes al 50% de nuevos gastos médicos, de medicación y de traslado realizados durante julio y agosto. La liquidación ascendió a un total de $1.076.395,07, sin intereses.
+A fin de asegurar el cobro, solicitó el embargo de los activos digitales actuales y futuros que el demandado posee ante Mercado Libre S.R.L., así como de las sumas actuales y futuras existentes en el Banco de la Provincia de Buenos Aires, Banco Credicoop, Banco Macro, Banco de la Nación Argentina y Banco de La Pampa, sucursal Pigüé, y ante el Banco Central de la República Argentina, hasta cubrir el monto reclamado, con más los intereses, costos y costas que se determinen hasta el efectivo pago.
+III. Lo resuelto en primera instancia .
+Por resolución del 7 de septiembre de 2026, la jueza de grado anterior intimó al demandado a acreditar el pago de los alimentos reclamados y, en caso de no haberlos abonado, a satisfacer la suma de $1.076.395,07 dentro del plazo de cinco días de notificado, bajo apercibimiento de multa e inscripción en el Registro de Deudores Alimentarios Morosos, de conformidad con el art. 636 bis del Código Procesal Civil y Comercial.
+En el mismo pronunciamiento, y con fundamento en la petición formulada y en la caución juratoria prestada, decretó embargo preventivo sobre los activos digitales actuales y futuros que el demandado poseyera ante Mercado Libre S.R.L. y sobre fondos en el Banco de la Provincia de Buenos Aires, Banco Credicoop, Banco Macro, Banco de la Nación Argentina, Banco de La Pampa y Banco Central de la República Argentina, hasta cubrir el capital reclamado, más $350.000 presupuestados para intereses, gastos y costas. Dispuso, asimismo, que las sumas embargadas fueran depositadas en una cuenta judicial y que, de no existir fondos, las cuentas quedaran afectadas a futuro.
+IV. La articulación recursiva .
+IV. a) Contra tal resolución, el demandado interpuso recurso de apelación el 24/9/2026, el cual fue concedido en relación y con efecto devolutivo el 25/9/2026.
+IV. b) Al fundar el recurso (ver escrito del 1/10/2026), el demandado objeta que la jueza haya decretado el embargo preventivo en su contra.
+Cuestiona, en primer lugar, que el embargo haya sido decretado simultáneamente con la intimación a pagar o acreditar el pago dentro del plazo de cinco días, sin aguardar su vencimiento ni darle oportunidad de expedirse previamente sobre la procedencia de la medida. Considera que ello afecta su derecho de defensa.
+En segundo término, objeta la insuficiencia de la fundamentación del pronunciamiento, al señalar que no se han explicitado las circunstancias concretas que justifican la cautela ni acreditado el peligro en la demora, pues la decisión se limita a remitirse a lo solicitado por la ejecutante y a la caución juratoria prestada.
+Asimismo, califica de desproporcionada la extensión del embargo, decretado sobre activos digitales actuales y futuros en Mercado Libre S.R.L. y sobre fondos existentes en diversas entidades financieras. Sostiene que la multiplicidad de afectaciones puede inmovilizar sumas superiores a las necesarias para cubrir el reclamo, comprometer sus recursos económicos y entorpecer el desarrollo de su actividad laboral.
+Finalmente, solicita -en subsidio- la sustitución de la medida por otra menos gravosa, proponiendo limitarla a una cuenta bancaria determinada o disponer una retención proporcional sobre sus haberes.
+IV. c) Al contestar el memorial (escrito del 11/10/2026), la ejecutante solicita el rechazo del recurso.
+Expone que, en la audiencia celebrada el 13 de julio de 2026, las partes acordaron una cuota alimentaria equivalente al 50% del índice de crianza correspondiente al rango etario menor de un año, así como la contribución del demandado al 50% de determinados gastos extraordinarios vinculados con el embarazo y el nacimiento. Denuncia el incumplimiento de las cuotas de julio y agosto de 2026, de uno de los pagos convenidos por gastos extraordinarios y de nuevas erogaciones médicas y de traslado que individualizó en su presentación. Defiende la necesidad de preservar la efectividad del crédito alimentario y señala que el apelante no ha demostrado la existencia de retenciones acumuladas superiores al monto autorizado ni ofrecido una alternativa concreta que garantice suficientemente el cobro.
+Subsidiariamente, solicita que, si se verifica una afectación excesiva, se adecúe la medida en lo estrictamente necesario.
+V. La solución .
+El recurso prospera parcialmente.
+V. a) En primer término, el agravio referido a la falta de audiencia previa no resulta suficiente para dejar sin efecto la medida.
+La circunstancia de que, en el mismo pronunciamiento, se haya intimado al ejecutado a acreditar el pago o satisfacer la deuda dentro de cinco días no impide, por sí sola, el dictado de una medida cautelar destinada a asegurar la eficacia de la ejecución. Se trata de decisiones que responden a finalidades distintas: la intimación procura obtener el cumplimiento de la obligación, mientras que el embargo preventivo tiende a preservar la garantía patrimonial necesaria para hacer efectivo el crédito.
+Por otra parte, el régimen procesal admite que las medidas cautelares sean decretadas y cumplidas sin audiencia previa de la contraparte, sin perjuicio del derecho de esta a cuestionarlas por las vías pertinentes (art. 198, CPCC). En consecuencia, no existe una contradicción jurídicamente decisiva entre el otorgamiento del plazo para cumplir y el dictado simultáneo de la cautela. La procedencia de esta última debe examinarse atendiendo a sus presupuestos y a la razonabilidad de su extensión.
+V. b) Tampoco corresponde revocar íntegramente la medida por la sola ausencia de una referencia expresa al peligro en la demora en el punto III del pronunciamiento apelado. De la presentación que dio origen a la ejecución surge que la actora denunció el incumplimiento de obligaciones alimentarias que atribuye al demandado y reclamó una suma determinada, integrada por cuotas vencidas y gastos extraordinarios vinculados con el embarazo. Según expuso, las obligaciones relativas a la cuota alimentaria y a parte de aquellos gastos fueron acordadas en la audiencia del 13 de julio de 2026 y homologadas por resolución del 18 de julio de ese año. En concreto, la liquidación acompañada comprendió $260.284 correspondientes a la cuota de julio, $272.841,50 por la cuota de agosto, $340.000 por el pago convenido de gastos extraordinarios correspondiente a agosto y $203.269,57 por el 50% de nuevos gastos extraordinarios de julio y agosto. El total reclamado ascendió así a $1.076.395,07, con más los accesorios pertinentes.
+Tales circunstancias, en cuanto encuentran sustento en las constancias de la causa, proporcionan una base suficiente para reconocer la necesidad de preservar una garantía eficaz del crédito. La naturaleza alimentaria de la obligación y el incumplimiento denunciado justifican una tutela que procure evitar que la ejecución pierda eficacia mientras se sustancia el reclamo.
+Ello no supone tener por definitivamente comprobados todos los rubros de la liquidación ni relevar al juzgado de verificar su correspondencia con las obligaciones asumidas y la documentación acompañada. Sin embargo, el recurrente no funda su pretensión de levantamiento integral en la demostración de pagos concretos que permitan tener por cancelada la deuda, ni ofrece en esta instancia una garantía alternativa individualizada y suficientemente acreditada. En ese marco, no corresponde dejar sin efecto la cautela en su totalidad.
+En el caso, adquiere particular relevancia que el demandado no haya contestado la intimación dispuesta en el punto II de la resolución apelada, pese a habérsele otorgado un plazo de cinco días para acreditar el pago o satisfacer la suma reclamada. Esa circunstancia, en tanto se encuentra cumplida la notificación correspondiente y vencido el plazo concedido (ver informe de notificación adjuntado fecha 20/9/2026), refuerza la necesidad de preservar una garantía eficaz para la ejecución del crédito alimentario (art. 645, CPCC).
+V. c) Distinta consideración merece el agravio relativo a la extensión y modalidad del embargo. La resolución apelada dispuso afectar activos digitales actuales y futuros en Mercado Libre S.R.L. y fondos en distintas entidades financieras, con la previsión de que las cuentas queden alcanzadas también en el futuro si no se encuentran fondos al diligenciarse los oficios. Para justificar esa extensión, se limitó a expresar que la medida se decretó atento a lo solicitado y a la caución juratoria prestada.
+Si bien la naturaleza del crédito exige procurar una tutela efectiva, la amplitud de la medida requiere una justificación compatible con su finalidad asegurativa. La caución juratoria no reemplaza la necesidad de examinar la razonabilidad de la cautela, ni la sola invocación de la urgencia alimentaria habilita a prescindir de un control sobre las consecuencias de su instrumentación.
+En el caso, la afectación simultánea de distintas entidades financieras y de activos digitales, incluidos los futuros, puede resultar idónea para localizar y asegurar fondos suficientes. Pero esa modalidad también exige controlar que las distintas órdenes no produzcan, por su acumulación, una inmovilización superior a la necesaria para garantizar el crédito y sus accesorios.
+No surge de las constancias reseñadas que se encuentre acreditada una retención acumulada superior al monto fijado. Por ello, no corresponde tener por demostrado el exceso denunciado por el apelante ni concluir que la medida ha paralizado efectivamente su actividad económica. La invocación de una afectación de los ingresos o de la capacidad de trabajo, sin elementos concretos que permitan establecer su alcance, no basta para disponer el levantamiento general de la cautela.
+Sin embargo, esa circunstancia tampoco torna innecesario el control judicial de su instrumentación. La ausencia de prueba de un exceso ya consumado no impide adoptar recaudos para evitarlo, especialmente cuando se han librado órdenes a distintos destinatarios que pueden producir resultados concurrentes.
+En consecuencia, corresponde precisar que el monto de $1.426.395,07 -integrado por los $1.076.395,07 reclamados en concepto de capital y los $350.000 presupuestados para intereses, gastos y costas- constituye un límite global para el conjunto de las afectaciones dispuestas, y no un importe susceptible de ser inmovilizado separadamente en cada entidad o activo alcanzado por la medida.
+Por lo tanto, el juzgado de origen deberá controlar el resultado de los oficios y las sumas efectivamente inmovilizadas, adoptando las medidas necesarias para evitar que la afectación acumulada supere ese límite. Si se verificara un exceso, corresponderá adecuar o levantar las afectaciones en la medida pertinente, preservando una garantía suficiente para la satisfacción del crédito ejecutado.
+Esta solución permite mantener la eficacia de la tutela alimentaria sin desatender la necesidad de evitar restricciones patrimoniales que excedan su finalidad.
+V. d) Por último, el planteo dirigido a obtener la sustitución del embargo por una retención proporcional sobre los haberes del demandado, o su limitación a una única cuenta bancaria, no puede ser atendido en esta instancia.
+Ello es así, porque no surge que el recurrente hubiera sometido tales alternativas a consideración del juez de primera instancia, de modo que su introducción en esta etapa configura una cuestión novedosa, cuyo tratamiento se encuentra vedado por el art. 272 del CPCC. La competencia revisora de esta Alzada queda delimitada por las cuestiones oportunamente propuestas y resueltas en la instancia de origen, sin que corresponda expedirse originariamente sobre planteos que no integraron la materia sometida a decisión del juzgador. En consecuencia, corresponde desestimar el agravio, sin perjuicio del derecho del demandado a solicitar ante el juzgado de origen la sustitución o adecuación de la medida cautelar, en los términos del art. 203 del CPCC, mediante una propuesta concreta que permita evaluar su suficiencia para garantizar el crédito.
+V. e) Por las razones expuestas, corresponde admitir parcialmente el recurso de apelación, modificar la resolución recurrida en cuanto a la instrumentación y el control de la medida cautelar, y mantenerla en lo restante, con el alcance precisado precedentemente.
+En atención al resultado obtenido, las costas de alzada deben imponerse por su orden (arts. 68, segundo párrafo, del CPCC).
+POR ELLO , se resuelve:
+1°) Hacer lugar parcialmente al recurso de apelación interpuesto por el demandado y modificar la resolución del 7 de septiembre de 2026, estableciéndose que el embargo dispuesto hasta cubrir la suma de $1.426.395,07 constituye un límite global para el conjunto de las afectaciones, cuyo resultado deberá controlar el juzgado de origen a fin de evitar inmovilizaciones acumuladas que excedan dicho importe.
+2°) Imponer las costas de alzada por su orden.
+Devuélvase a primera instancia sin más trámite.
+```
+
+---
+
+### ACT-22-10-2026. [RR-729-2026] R, A A M C/ M L B S/ DETERMINACIÓN DE HONORARIOS POR TRABAJOS EXTRAJUDICIALES
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `157184`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-729-2026`
+- **Código de Acceso SCBA**: `37CDB236`
+- **Firmantes**: Funcionario: PERALTA MARISCAL Leopoldo Luis JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 729-2026 - Código acceso: 37CDB236 - PUBLICO | Registrado por: GUGLIELMI Ingrid Julieta - Fecha registración: 22/10/2026 15:25
+
+#### Texto Íntegro
+```text
+Carátula: R, A A M C/ M L B S/ DETERMINACIÓN DE HONORARIOS POR TRABAJOS EXTRAJUDICIALES
+Bahía Blanca, fecha resultante del último certificado de firma digital.-
+AUTOS Y VISTOS:
+CONSIDERANDO:
+I. Antecedentes .
+Intervienen en la causa la Dra. A A M R (A.A.M.R.), en carácter de parte ejecutante, L B M (L.B.M.), en calidad de ejecutada, y el Dr. G G (G.G.), en su condición de adquirente en subasta.
+En adelante, todos los actuantes serán mencionados por las iniciales que siguen a sus respectivos nombres completos.
+II. La cuestión suscitada .
+II. a) El día 6/3/2024 se llevó a cabo la subasta de los derechos y acciones que correspondían a la ejecutada L.B.M. en la liquidación de la comunidad de ganancias en el expediente número 50.361, en la cual el letrado Dr. G.G. resultó adquirente por la suma de $132.500.000.
+II. b) Posteriormente, el día 25/9/2025, el adquirente solicitó la nulidad del remate con fundamento en la venta de un inmueble rural que, según sostuvo, integraba los derechos y acciones subastados.
+En concreto, señaló que los derechos y acciones adquiridos comprendían, entre otros bienes, un inmueble rural y 250 cabezas de ganado vacuno, cuya posesión fue denunciada por la ejecutada. Expuso que adquirió dichos derechos el 6/3/2024 y abonó el saldo del precio el 11/3/2024, antes de que se aprobase el remate, mientras que el trámite relativo al eventual sobreseimiento de la subasta permanecía pendiente. La suma depositada por el adquirente le fue restituida antes de encontrarse firme la aprobación de la subasta (ver auto del 18/8/2025).
+Denunció que la demandada vendió el inmueble rural mediante escritura pública del 2/9/2024 y solicitó, en consecuencia, la nulidad de la subasta en lo que respecta a su adquisición, por considerar que la enajenación sustrajo uno de los principales bienes comprendidos en ella y vació de contenido la operación. Fundó su petición en la necesidad de quedar exento de las eventuales responsabilidades derivadas de una adquisición cuyo bien principal desapareció sin intervención de su parte.
+II. c) El planteo de nulidad fue rechazado mediante resolución del 12/3/2026, en la que también se aprobó la subasta. La apelación deducida por el adquirente G.G. contra ese pronunciamiento fue declarada desierta por esta Alzada (ver pronunciamiento del 7/05/2026), por lo que aquella decisión del 12/3/2026 adquirió firmeza.
+II. d) En ese marco, el día 26/6/2026 la jueza de primera instancia intimó al adquirente G.G. a depositar el precio de la subasta dentro del plazo de cinco días, bajo apercibimiento de lo dispuesto por el art. 585 del CPCC.
+Ante la falta de integración del importe, la ejecutante solicitó que se haga efectivo el apercibimiento y se tenga a G.G. por postor remiso.
+III. Lo resuelto en primera instancia .
+Por resolución del 15/9/2026, la magistrada difirió el tratamiento de esa petición de la ejecutante hasta conocer el resultado de la investigación penal iniciada a raíz de la denuncia formulada por el adquirente en subasta G.G. (IPP-02-00-016679-26/00 caratulada: "M. L. B. y otros sobre estelionato"), por considerar que la aplicación del art. 585 del CPCC requiere juzgar la responsabilidad del postor cuya oferta hubiese sido aceptada, cuando la venta no se formaliza.
+IV. La articulación recursiva .
+Lo así decidido fue apelado por la ejecutante en fecha 16/9/2026, recurso que fue concedido el 25/9/2026 y fundado el día 28/9/2026.
+La apelante sostiene, en primer lugar, que el diferimiento dispuesto resulta contradictorio con la resolución del 26/6/2026, mediante la cual se intimó al adquirente en subasta a integrar el precio de ésta dentro del plazo de cinco días, bajo apercibimiento de lo dispuesto por el art. 585 del CPCC. Afirma que, una vez firme aquella decisión y vencido el plazo concedido sin que se depositase el importe requerido, correspondía hacer efectivo el apercibimiento, sin supeditarlo a la conclusión de la investigación penal. Invoca la doctrina de los propios actos, con fundamento en que el órgano jurisdiccional no puede apartarse, sin justificación suficiente, de sus decisiones anteriores jurídicamente relevantes, generando incertidumbre sobre las consecuencias procesales que de ellas se derivan. En ese sentido, considera que la resolución apelada modifica injustificadamente el marco establecido por la intimación y posterga la aplicación de las consecuencias legales previstas para el incumplimiento.
+Alega que la circunstancia invocada por el comprador para solicitar la nulidad de la subasta -la venta posterior del inmueble rural que, según sostuvo, integraba los derechos y acciones rematados- ya era conocida al momento de dictarse la intimación del 26/6/2026. Destaca que aquel planteo de nulidad fue rechazado y que la aprobación de la subasta quedó firme tras declararse desierto el recurso interpuesto por el adquirente. Por ello, entiende que esa misma circunstancia no puede servir ahora, por una vía indirecta, para suspender las consecuencias derivadas del incumplimiento de la obligación de integrar el precio.
+Añade que la resolución que rechazó la nulidad dejó expresamente a salvo las acciones que el adquirente en subasta entendiera pertinentes, de modo que las eventuales consecuencias jurídicas de la disposición del inmueble deben discutirse por las vías correspondientes, sin afectar la eficacia de la subasta aprobada ni impedir la prosecución de la ejecución. Por otra parte, descarta que exista prejudicialidad penal que justifique el diferimiento. Con cita de los arts. 1774 y 1775 del Código Civil y Comercial, sostiene que la investigación en trámite no tiene por objeto resolver una cuestión que deba necesariamente preceder a la decisión sobre las consecuencias procesales de la falta de integración del precio, sino determinar la eventual existencia de un delito y las responsabilidades correspondientes. A su criterio, ello no impide examinar en este proceso si se encuentran reunidos los presupuestos para aplicar el art. 585 del CPCC.
+Finalmente, cuestiona que la magistrada haya supeditado su decisión a las resultas de la causa penal sin individualizar qué hechos, elementos probatorios o circunstancias concretas de esa investigación serían indispensables para resolver la petición.
+Por todo ello, solicita que se revoque la resolución apelada y se haga efectivo el apercibimiento dispuesto respecto del adquirente en subasta.
+V. La solución .
+El recurso fue erróneamente concedido.
+De conformidad con lo dispuesto por el art. 242 inc. 3 del Código Procesal, las providencias simples solo son apelables cuando causan un gravamen que no pueda ser reparado ulteriormente.
+En ese sentido, esta Sala ha señalado que, en principio, no resulta apelable la resolución que difiere el tratamiento de una cuestión para una oportunidad posterior, pues no contiene una decisión sobre lo peticionado y la eventual afectación derivada de la postergación puede encontrar remedio en el curso ulterior del proceso (esta Sala II, expediente n.º 166.906, sentencia del 26/8/2025, registrada bajo el n.º RR-447-2025, entre otros).
+En el caso, la resolución recurrida no rechazó la petición de la ejecutante de tener por remiso al adquirente en subasta ni resolvió definitivamente sobre la aplicación del apercibimiento previsto por el art. 585 del CPCC, sino que difirió su tratamiento hasta conocer el resultado de la investigación penal iniciada a raíz de la denuncia formulada por G.G. (IPP-02-00-016679-26/00, caratulada «M. L. B. y otros sobre estelionato»).
+Según lo expuesto en esa denuncia, la ejecutada habría vendido a un tercero el inmueble rural que, de acuerdo con el denunciante, integraba los derechos y acciones adquiridos en subasta, pese a encontrarse jurídicamente indisponible. Sobre esa base, el adquirente atribuyó a la conducta denunciada relevancia penal y sostuvo que la enajenación habría privado de contenido económico a su adquisición. Tales extremos constituyen, por el momento, el objeto de una investigación penal y no corresponde emitir aquí un juicio sobre su acreditación o calificación jurídica.
+Frente a ese contexto, la apelante cuestiona la procedencia de supeditar la decisión sobre el incumplimiento atribuido al adquirente a las resultas de aquella investigación. Sin embargo, más allá de la atendibilidad de sus argumentos respecto de la conveniencia o necesidad del diferimiento, lo cierto es que la resolución impugnada no clausura el tratamiento de su petición ni impide que esta sea resuelta posteriormente. La recurrente tampoco identifica un perjuicio concreto derivado de la postergación que, por su naturaleza, no pueda ser reparado mediante un pronunciamiento ulterior.
+La invocada contradicción con la intimación del 26/6/2026 tampoco permite, por sí sola, tener por configurado el gravamen irreparable exigido por el art. 242 inc. 3 del CPCC. En efecto, la decisión de intimar al adquirente bajo apercibimiento de lo dispuesto por el art. 585 del Código no equivale a resolver anticipadamente que, ante la falta de depósito, necesariamente deba tenerse por configurada la condición de postor remiso, cuestión cuyo tratamiento fue precisamente diferido por la magistrada.
+A ello se añade que, según las constancias examinadas, no surge acreditado que la intimación del 26/6/2026 haya sido debidamente notificada al adquirente, conforme a lo previsto por el art. 135 inc. 5 del CPCC. Esta circunstancia impide tener por demostrado, sin más, que el plazo concedido comenzó a correr y venció sin cumplimiento, lo que debilita la premisa en la que la apelante sustenta la necesidad de hacer efectivo el apercibimiento en esta instancia.
+En tales condiciones, los agravios se dirigen, en definitiva, a cuestionar la oportunidad y los fundamentos del diferimiento, pero no demuestran que este ocasione un perjuicio que no pueda ser reparado mediante una decisión posterior. La cuestión relativa a la eventual aplicación del art. 585 del CPCC permanece pendiente de resolución en primera instancia, ámbito en el que deberá recibir el tratamiento que corresponda.
+Por consiguiente, al no verificarse el supuesto excepcional previsto por el art. 242 inc. 3 del CPCC, corresponde declarar mal concedido el recurso de apelación interpuesto el 16/9/2026 contra la resolución del 15/9/2026, con costas de alzada en el orden causado, en atención a que la inadmisibilidad del recurso se advierte de oficio (arts. 68 y 69 del CPCC).
+POR ELLO , se resuelve:
+1°) Declarar mal concedido el recurso de apelación deducido el 16/9/2026 contra la resolución de fecha 15/9/2026 .
+2°) Imponer las costas de alzada en el orden causado.
+Devuélvase a primera instancia sin más trámite.
+```
+
+---
+
+### ACT-22-10-2026. [RR-728-2026] S, M I C/ D, C M S/ INCIDENTE DE ALIMENTOS
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170473`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-728-2026`
+- **Código de Acceso SCBA**: `42D4FEA4`
+- **Firmantes**: Funcionario: PERALTA MARISCAL Leopoldo Luis JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 728-2026 - Código acceso: 42D4FEA4 - PUBLICO | Registrado por: GUGLIELMI Ingrid Julieta - Fecha registración: 22/10/2026 13:58
+
+#### Texto Íntegro
+```text
+Carátula: S, M I C/ D, C M S/ INCIDENTE DE ALIMENTOS
+Bahía Blanca, fecha resultante del último certificado de firma digital.-
+AUTOS Y VISTOS:
+CONSIDERANDO:
+A- Antecedentes .
+Intervienen en el recurso M I S (M.I.S.), en carácter de incidentista, y C M D (C.M.D.), en calidad de progenitor. También intervienen en la causa los hijos menores de los nombrados, T E D (T.) y E B D (E.).
+En adelante, todos los actuantes serán mencionados por las iniciales que siguen a sus respectivos nombres completos.
+B- La cuestión suscitada .
+B- 1) El 17/6/2026 M.I.S. promovió incidente de modificación de alimentos contra C.M.D., en relación al acuerdo de parentalidad homologado el 3/11/2021 en la causa n°64.358 de trámite ante el Juzgado de Familia n°1 de Bahía Blanca.
+B- 2) El 19/6/2026 la jueza del Juzgado de Familia n°1 Departamental se inhibió de entender en la causa en razón del domicilio de los menores denunciado por la requirente en la localidad de Tornquist, en función del centro de vida de los niños, y ordenó la remisión al Juzgado de Paz.
+B- 3) El 25/6/2026 el Juez de Paz de Tornquist recibió la causa e hizo saber que ese Juzgado conocería en las actuaciones, y el 3/7/2026 dio traslado del incidente a la contraria por el término de cinco días.
+B- 4) El 4/8/2026 el letrado patrocinante de C.M.D. -sin acompañar copia digitalizada de la presentación- contestó el traslado conferido y planteó excepción de incompetencia en atención a que la presente acción no constituye una pretensión autónoma desvinculada de la causa n°64.358, de trámite ante el Juzgado de Familia n° 1 de Bahía Blanca, razón por la cual el juez del proceso principal debe entender en los incidentes.
+Agregó que Tornquist no constituye un centro de vida de sus hijos legítimamente establecido, que la progenitora se mudó a dicha localidad en enero del corriente año, y que se opuso expresamente a ello.
+B- 5) El 23/8/2026 la incidentista contestó el traslado conferido, oponiéndose a la excepción planteada, entre otras cuestiones.
+C- Lo resuelto en primera instancia .
+El 31/8/2026, el magistrado actuante resolvió declararse incompetente para entender en estas actuaciones y ordenó su remisión al Juzgado de Familia n°1 de Bahía Blanca. Citó antecedentes de ambas salas de esta Cámara en relación al centro de vida de los menores.
+D- El recurso .
+D- 1) Contra lo decidido el 31/8/2026 se alzó la incidentista interponiendo el 4/9/2026 recurso de reposición con apelación en subsidio. El primero fue rechazado en la misma fecha, concediéndose el recurso articulado subsidiariamente. El memorial no fue contestado.
+D- 2) La recurrente expresó que el acuerdo homologado en 2021 se fue modificando con el tiempo por acuerdo de ambas partes, nunca de forma unilateral, y que en enero de 2026 se mudó a Tornquist junto a sus hijos.
+Señaló que el progenitor planteó la supuesta ilegalidad del traslado de los niños sin fundar sus afirmaciones ni aportar documentación que acredite su oposición. Agregó que a la presentación del 4/8/2026, mediante la cual opuso excepción de incompetencia, no se acompañó el escrito firmado por el accionado, razón por la cual -afirmó- carece de valor procesal, no mereciendo su tratamiento y debiendo continuar el trámite ante el Juzgado de Paz.
+Se refirió a la opinión del Asesor de Incapaces, en la que señaló que el traslado de los niños a otra localidad fue una modificación unilateral como si fuera una circunstancia probada y dando por cierta la afirmación del progenitor.
+Manifestó que la cuestión de competencia fue resuelta por el Juzgado de Familia n°1 de Bahía Blanca mediante la resolución del 19/6/2026, no habiendo sido recurrida ni objetada por C.M.D., y volver sobre ella en base a una manifestación del demandado vulnera los principios de preclusión procesal, buena fe y prohibición de contrariar los actos propios.
+Expresó que la resolución recurrida omitió ponderar los principios de inmediatez y acceso a la justicia que habían sido valorados por el Juzgado de Familia n°1.
+D- 3) El 18/10/2026 el Asesor de Incapaces contestó la vista conferida.
+E- La solución .
+E- 1) Liminarmente, corresponde señalar que la resolución recurrida fue dictada durante el trámite del incidente.
+Es criterio de este tribunal que toda cuestión que se plantee en el curso de los incidentes, que no les ponga fin ni impida su continuación, resulta inapelable, sin perjuicio de que se replantee en oportunidad de atacarse la resolución que decide el incidente, porque en rigor, todas esas cuestiones deben decidirse en la sentencia que lo concluye (arts. 184 y 185 del C.P.C.C.), solución que se funda en el marco procesal abreviado que el legislador ha acordado a estas cuestiones, a la vez que permite resguardar el derecho de defensa de los litigantes (causa n°168920 "G...", res. 7/5/2026, entre muchas otras).
+Ahora bien, la resolución recurrida presenta una particularidad que justifica apartarse de dicha regla en el caso. En este sentido, si bien fue dictada durante el trámite del incidente, resuelve una cuestión de competencia que no puede quedar diferida hasta la sentencia que ponga fin a aquel, en tanto su decisión determina el órgano que habrá de continuar interviniendo en las actuaciones. Por ello, la cuestión planteada excede, en este caso puntual, la restricción a la inapelabilidad que rige respecto de las decisiones adoptadas en el curso de un incidente.
+E- 2) Tal como señaló el juez de paz, el planteo de incompetencia fue introducido por el incidentado en la causa n°10.371, actualmente radicada en esta Sala bajo el n°170.475, en la que tramita el incidente de comunicación con los hijos. En esas actuaciones opuso excepción de incompetencia, la que fue resuelta en el mismo sentido que en las presentes y posteriormente recurrida.
+En este punto, cabe destacar que el juez no decidió en función de la presentación realizada el 4/8/2026 que, tal como señala la recurrente, carece de firma del interesado al no haber sido acompañado el escrito firmado ológrafamente por este, sino por la efectuada en la misma fecha en aquella causa, que sí reunía las exigencias formales (art. 5 del Anexo I del Acuerdo 4013 -t.o. Acuerdo 4039-) de la SCBA.
+E- 3) Si bien la cuestión de la competencia ya había sido examinada por la jueza del Juzgado de Familia nº 1 de Bahía Blanca y el juez de Paz de Tornquist había asumido inicialmente la intervención en las actuaciones, cabe advertir que la primera decisión fue adoptada antes de que el demandado tuviera oportunidad de expedirse al respecto. En efecto, fue recién al contestar el traslado del incidente cuando C.M.D. planteó la incompetencia, con fundamento en la vinculación de la pretensión con el proceso en el que se homologó el acuerdo de parentalidad y en las circunstancias del traslado de los niños a Tornquist.
+En tales condiciones, corresponde el examen de los argumentos introducidos por el progenitor, pues no habían sido previamente sometidos a consideración, y analizar la competencia a la luz de las circunstancias invocadas y de las pautas que rigen la materia.
+E- 4) El art. 716 del CCyC establece: " En los procesos referidos a responsabilidad parental, guarda, cuidado, régimen de comunicación, alimentos, adopción y otros que deciden en forma principal o que modifican lo resuelto en otra jurisdicción del territorio nacional sobre derechos de niños, niñas y adolescentes, es competente el juez del lugar donde la persona menor de edad tiene su centro de vid a.".
+Por su parte, el art. 3 de la Ley 26.061 define centro de vida como "... el lugar donde las niñas, niños y adolescentes hubiesen transcurrido en condiciones legítimas la mayor parte de su existencia .".
+De tales disposiciones se desprende que la determinación del centro de vida no puede establecerse atendiendo exclusivamente al lugar de residencia actual de los niños, sino que requiere ponderar dónde transcurrieron en condiciones legítimas la mayor parte de su existencia y las condiciones en que se produjo y desarrolló el cambio de residencia.
+En el caso, ambos progenitores coinciden en el hecho de que los niños residen con su madre en Tornquist desde enero de 2026, cuando aquella trasladó allí su residencia (v. presentaciones del 24/4/2026 y 4/8/2026). Sin embargo, la circunstancia de que actualmente vivan en esa localidad no resulta suficiente para tener por modificado su centro de vida, máxime cuando el traslado es reciente y las circunstancias en que se produjo se encuentran controvertidas entre los progenitores.
+En efecto, conforme surge de la consulta realizada a través de la Mesa de Entradas Virtual, el acuerdo de parentalidad cuya modificación se pretende fue homologado el 3/11/2021 en el marco de la causa nº 64.358, de trámite ante el Juzgado de Familia nº1 de Bahía Blanca. Este antecedente adquiere relevancia en el contexto de autos, en el que el traslado de los niños a Tornquist tuvo lugar en enero de 2026 y las circunstancias en que se produjo se encuentran controvertidas, sin que se cuente con elementos suficientes para determinar que dicha mudanza haya consolidado un nuevo centro de vida.
+Cabe destacar, que tal como esta Sala ha expresado anteriormente, tanto los tribunales de la cabecera departamental, como los Juzgados de paz, son los "jueces del lugar", si se trata de personas que viven dentro del ámbito del departamento judicial, de modo que la jueza de familia de Bahía Blanca es "el juez del domicilio" de toda persona que viva en alguno de los partidos que conforman el Departamento Judicial de Bahía Blanca (v. causa n°167.178, res. del 16/10/2026).
+Por todo lo expuesto, no se advierten razones suficientes para desplazar la competencia del Juzgado de Familia n°1 de Bahía Blanca, por lo que corresponde confirmar la resolución del 31/8/2026.
+E- 5) En relación a las costas de Alzada, deben ser impuestas a la apelante en su condición de vencida (art. 68 y 69 del CPCC).
+POR ELLO , se resuelve:
+1°) Confirmar la resolución del 31/8/2026.
+2°) Costas de Alzada a la apelante vencida.
+Devuélvase a primera instancia sin más trámite.
+```
+
+---
+
+### ACT-22-10-2026. [RR-727-2026] S, M I C/ D, C M S/ INCIDENTE DE COMUNICACIÓN CON LOS HIJOS
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170475`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-727-2026`
+- **Código de Acceso SCBA**: `D9B2003E`
+- **Firmantes**: Funcionario: PERALTA MARISCAL Leopoldo Luis JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 727-2026 - Código acceso: D9B2003E - PUBLICO | Registrado por: GUGLIELMI Ingrid Julieta - Fecha registración: 22/10/2026 13:49
+
+#### Texto Íntegro
+```text
+Carátula: S, M I C/ D, C M S/ INCIDENTE DE COMUNICACIÓN CON LOS HIJOS
+Bahía Blanca, fecha resultante del último certificado de firma digital.-
+AUTOS Y VISTOS:
+CONSIDERANDO:
+A- Antecedentes .
+Intervienen en el recurso M I S (M.I.S.), en carácter de incidentista, y C M D (C.M.D.), en calidad de progenitor. También intervienen en la causa los hijos menores de los nombrados, T E D (T.) y E B D (E.).
+En adelante, todos los actuantes serán mencionados por las iniciales que siguen a sus respectivos nombres completos.
+B- La cuestión suscitada .
+B- 1) El 24/4/2026 M.I.S. promovió incidente de régimen de cuidado personal y comunicación contra C.M.D., con el objeto de modificar el acuerdo de parentalidad homologado en el año 2021 en la causa n°64.358 de trámite ante el Juzgado de Familia n°1 de Bahía Blanca.
+B- 2) El 5/5/2026 la jueza del Juzgado de Familia n°1 Departamental se inhibió de entender en la causa en razón del domicilio de los menores denunciado por la requirente en la localidad de Tornquist, en función del centro de vida de los niños, y ordenó la remisión al Juzgado de Paz.
+B- 3) El 15/5/2026 el Juez de Paz de Tornquist recibió la causa e hizo saber que ese Juzgado conocería en las actuaciones, y el 11/6/2026 dio traslado del incidente a la contraria por el término de cinco días.
+B- 4) El 4/8/2026 C.M.D. contestó el traslado conferido y planteó excepción de incompetencia en atención a que la presente acción no constituye una pretensión autónoma desvinculada de la causa n°64.358, de trámite ante el Juzgado de Familia n° 1 de Bahía Blanca, razón por la cual el juez del proceso principal debe entender en los incidentes.
+Agregó que Tornquist no constituye un centro de vida de sus hijos legítimamente establecido, que la progenitora se mudó a dicha localidad en enero del corriente año, y que se opuso expresamente a ello.
+B- 5) El 23/8/2026 la incidentista contestó el traslado conferido, oponiéndose a la excepción planteada, entre otras cuestiones.
+C- Lo resuelto en primera instancia .
+El 31/8/2026, el magistrado actuante resolvió declararse incompetente para entender en estas actuaciones y ordenó su remisión al Juzgado de Familia n°1 de Bahía Blanca. Citó antecedentes de ambas salas de esta Cámara en relación al centro de vida de los menores.
+D- El recurso .
+D- 1) Contra lo decidido el 31/8/2026 se alzó la incidentista interponiendo el 4/9/2026 recurso de reposición con apelación en subsidio. El primero fue rechazado en la misma fecha, concediéndose el recurso articulado subsidiariamente. El memorial no fue contestado.
+D- 2) La recurrente expresó que el acuerdo homologado en 2021 se fue modificando con el tiempo por acuerdo de ambas partes, nunca de forma unilateral, y que en enero de 2026 se mudó a Tornquist junto a sus hijos.
+Señaló que el progenitor planteó la supuesta ilegalidad del traslado de los niños sin fundar sus afirmaciones ni aportar documentación que acredite su oposición.
+Se refirió a la opinión del Asesor de Incapaces, en la que señaló que el traslado de los niños a otra localidad fue una modificación unilateral como si fuera una circunstancia probada y dando por cierta la afirmación del progenitor.
+Manifestó que la cuestión de competencia fue resuelta por el Juzgado de Familia n°1 de Bahía Blanca mediante la resolución del 5/5/2026, no habiendo sido recurrida ni objetada por C.M.D., y volver sobre ella en base a una manifestación del demandado vulnera los principios de preclusión procesal, buena fe y prohibición de contrariar los actos propios.
+Expresó que la resolución recurrida omitió ponderar los principios de inmediatez y acceso a la justicia que habían sido valorados por el Juzgado de Familia n°1.
+D- 3) El 18/10/2026 el Asesor de Incapaces contestó la vista conferida.
+E- La solución .
+E- 1) Liminarmente, corresponde señalar que la resolución recurrida fue dictada durante el trámite del incidente.
+Es criterio de este tribunal que toda cuestión que se plantee en el curso de los incidentes, que no les ponga fin ni impida su continuación, resulta inapelable, sin perjuicio de que se replantee en oportunidad de atacarse la resolución que decide el incidente, porque en rigor, todas esas cuestiones deben decidirse en la sentencia que lo concluye (arts. 184 y 185 del C.P.C.C.), solución que se funda en el marco procesal abreviado que el legislador ha acordado a estas cuestiones, a la vez que permite resguardar el derecho de defensa de los litigantes (v. causa n°168920, res. 7/5/2026, entre muchas otras).
+Ahora bien, la resolución recurrida presenta una particularidad que justifica apartarse de dicha regla en el caso. En este sentido, si bien fue dictada durante el trámite del incidente, resuelve una cuestión de competencia que no puede quedar diferida hasta la sentencia que ponga fin a aquel, en tanto su decisión determina el órgano que habrá de continuar interviniendo en las actuaciones. Por ello, la cuestión planteada excede, en este caso puntual, la restricción a la inapelabilidad que rige respecto de las decisiones adoptadas en el curso de un incidente.
+E- 2) Si bien la cuestión de la competencia ya había sido examinada por la jueza del Juzgado de Familia nº 1 de Bahía Blanca y el juez de Paz de Tornquist había asumido inicialmente la intervención en las actuaciones, cabe advertir que la primera decisión fue adoptada antes de que el demandado tuviera oportunidad de expedirse al respecto. En efecto, fue recién al contestar el traslado del incidente cuando C.M.D. planteó la incompetencia, con fundamento en la vinculación de la pretensión con el proceso en el que se homologó el acuerdo de parentalidad y en las circunstancias del traslado de los niños a Tornquist.
+En tales condiciones, corresponde el examen de los argumentos introducidos por el progenitor, pues no habían sido previamente sometidos a consideración, y analizar la competencia a la luz de las circunstancias invocadas y de las pautas que rigen la materia.
+E- 3) El art. 716 del CCyC establece: " En los procesos referidos a responsabilidad parental, guarda, cuidado, régimen de comunicación, alimentos, adopción y otros que deciden en forma principal o que modifican lo resuelto en otra jurisdicción del territorio nacional sobre derechos de niños, niñas y adolescentes, es competente el juez del lugar donde la persona menor de edad tiene su centro de vida .".
+Por su parte, el art. 3 de la Ley 26.061 define centro de vida como "... el lugar donde las niñas, niños y adolescentes hubiesen transcurrido en condiciones legítimas la mayor parte de su existencia. ".
+De tales disposiciones se desprende que la determinación del centro de vida no puede establecerse atendiendo exclusivamente al lugar de residencia actual de los niños, sino que requiere ponderar dónde transcurrieron en condiciones legítimas la mayor parte de su existencia y las condiciones en que se produjo y desarrolló el cambio de residencia.
+En el caso, ambos progenitores coinciden en el hecho de que los niños residen con su madre en Tornquist desde enero de 2026, cuando aquella trasladó allí su residencia (v. presentaciones del 24/4/2026 y 4/8/2026). Sin embargo, la circunstancia de que actualmente vivan en esa localidad no resulta suficiente para tener por modificado su centro de vida, máxime cuando el traslado es reciente y las circunstancias en que se produjo se encuentran controvertidas entre los progenitores.
+En efecto, conforme surge de la consulta realizada a través de la Mesa de Entradas Virtual, el acuerdo de parentalidad cuya modificación se pretende fue homologado el 3/11/2021 en el marco de la causa nº 64.358, de trámite ante el Juzgado de Familia nº 1 de Bahía Blanca. Este antecedente adquiere relevancia en el contexto de autos, en el que el traslado de los niños a Tornquist tuvo lugar en enero de 2026 y las circunstancia en que se produjo se encuentran controvertidas, sin que se cuente con elementos suficientes para determinar que dicha mudanza haya consolidado un nuevo centro de vida.
+Cabe destacar, que tal como esta Sala ha expresado anteriormente, tanto los tribunales de la cabecera departamental, como los Juzgados de paz, son los "jueces del lugar", si se trata de personas que viven dentro del ámbito del departamento judicial, de modo que la jueza de familia de Bahía Blanca es "el juez del domicilio" de toda persona que viva en alguno de los partidos que conforman el Departamento Judicial de Bahía Blanca (v. causa n°167.178, res. del 16/10/2026).
+Por todo lo expuesto, no se advierten razones suficientes para desplazar la competencia del Juzgado de Familia n°1 de Bahía Blanca, por lo que corresponde confirmar la resolución del 31/8/2026.
+E- 4) En relación a las costas de Alzada, deben ser impuestas a la apelante en su condición de vencida (art. 68 y 69 del CPCC).
+POR ELLO , se resuelve:
+1°) Confirmar la resolución del 31/8/2026.
+2°) Costas de Alzada a la apelante vencida.
+Devuélvase a primera instancia sin más trámite.
+```
+
+---
+
+### ACT-22-10-2026. [RR-726-2026] S F A C/ R F N Y OTROS S/ALIMENTOS
+- **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `170416`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-726-2026`
+- **Código de Acceso SCBA**: `AF8509B3`
+- **Firmantes**: Funcionario: PERALTA MARISCAL Leopoldo Luis JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 726-2026 - Código acceso: AF8509B3 - PUBLICO | Registrado por: GUGLIELMI Ingrid Julieta - Fecha registración: 22/10/2026 13:15
+
+#### Texto Íntegro
+```text
+Carátula: S F A C/ R F N Y OTROS S/ALIMENTOS
+Bahía Blanca, fecha resultante del último certificado de firma digital.-
+AUTOS Y VISTOS:
+CONSIDERANDO:
+A- Antecedentes .
+Intervienen en el recurso los señores F A S (FAS), en representación de sus hijos menores de edad E N (E) y T Á R (T), en carácter de parte actora, y J E R (JER), en calidad de codemandado.
+En adelante, todos los actuantes serán mencionados por las iniciales que siguen a sus respectivos nombres completos.
+B- La cuestión suscitada.
+La progenitora promovió demanda de alimentos en representación de sus hijos E. y T. contra su progenitor, y, subsidiariamente, contra los abuelos paternos. Expuso que los aportes efectuados por el progenitor, inicialmente de $15.000 y luego de $25.000, resultaban insuficientes para atender las necesidades de los niños. Solicitó la fijación de una cuota alimentaria provisoria y que, ante el incumplimiento del obligado principal, respondieran los abuelos paternos.
+C- La resolución apelada.
+El día 12/06/2026, la jueza fijó alimentos provisorios a cargo del progenitor en una suma equivalente al 50 % de la canasta de crianza del Indec correspondiente a la edad de los alimentados, a fin de atender sus gastos impostergables hasta el dictado de la sentencia definitiva.
+Dispuso que la cuota fuera depositada del 1 al 10 de cada mes en la cuenta judicial cuya apertura ordenó. Para el supuesto de falta de pago por el progenitor, estableció subsidiariamente una cuota a cargo de los abuelos paternos equivalente al 10 % de las remuneraciones que percibiera cada uno.
+D- La articulación recursiva .
+El día 26/06/2026, el abuelo paterno, J.E.R., apeló la resolución y expresó agravios. La actora contestó el memorial el día 5/07/2026.
+E- Los agravios.
+E-1) El recurrente se agravia de lo resuelto y solicita que se deje sin efecto la cuota fijada a su cargo, con costas. Sostiene que se desconoció el carácter subsidiario de su obligación, pues la actora no acreditó haber agotado las ejecuciones y medidas coercitivas contra el progenitor ni demostrado una imposibilidad absoluta de percibir de él los alimentos.
+Cuestiona, además, que no se ponderara la capacidad económica de la madre, quien cuenta con un empleo formal como agente de la Policía de la Provincia de Buenos Aires. Afirma que sus ingresos permiten cubrir las necesidades básicas de los niños y que, ante la falta de aportes paternos, corresponde a aquella asumir su sostenimiento antes de trasladar esa obligación a los abuelos.
+Por último, objeta la documentación acompañada para acreditar los gastos. Señala que los comprobantes de farmacia no cuentan con recetas a nombre de los niños; que las facturas de servicios están emitidas a nombre de terceros y no se acreditó su pago por la actora; y que otros tickets no individualizan los productos adquiridos. Destaca también que la progenitora no paga alquiler.
+E-2) La actora solicitó el rechazo del recurso, con costas. Aclara que el reclamo se fundó en la insuficiencia de los aportes paternos y que la obligación de los abuelos fue solicitada y establecida únicamente para el supuesto de incumplimiento del progenitor. Sostiene que el art. 668 del CCC permite demandarlos en el mismo proceso, sin exigir el previo agotamiento de todas las medidas de ejecución contra el obligado principal.
+Respecto de sus ingresos, señala que denunció su actividad laboral y acompañó sus recibos de haberes desde el inicio. Niega que esa circunstancia permita concluir que las necesidades de ambos niños se encuentran íntegramente cubiertas y destaca que también asume su cuidado cotidiano.
+En cuanto a la documental, responde que las objeciones desconocen el carácter provisorio de la medida. Explica que reside con sus hijos en el domicilio de sus progenitores y contribuye a los gastos del hogar, lo que justifica que los servicios estén registrados a nombre de terceros. Añade que la ausencia de un gasto de alquiler no elimina las restantes necesidades de los alimentados.
+E-3) La Asesora Ad Hoc respondió la vista conferida, dictaminando por la confirmación de lo resuelto.
+F- La solución .
+El recurso no debe prosperar.
+Los alimentos provisorios constituyen una medida de tutela urgente destinada a asegurar la satisfacción inmediata de las necesidades básicas de los niños durante la sustanciación del proceso principal, fundada en un juicio de cognición necesariamente limitado y apoyado en criterios de verosimilitud (arts. 544, 658, 659, 668 y cctes. CCC).
+Por su parte, el art. 668 del CCC permite reclamar alimentos a los ascendientes en el mismo proceso en que se demanda a los progenitores o en uno distinto. Exige acreditar verosímilmente las dificultades para percibirlos del obligado principal, pero no impone demostrar una imposibilidad absoluta de cobro ni agotar previamente todas las medidas de ejecución. Por ello, la promoción conjunta de ambas pretensiones no desconoce, por sí misma, la subsidiariedad de la obligación de los abuelos.
+El carácter provisorio de la medida no autoriza a prescindir del régimen sustantivo que regula la obligación alimentaria ni a alterar la estructura legal de responsabilidades familiares prevista por el Código Civil y Comercial.
+Sobre esas bases, los agravios del abuelo paterno no pueden prosperar. En el caso, el progenitor fue notificado de los alimentos provisorios y omitió apelarlos, consintiendo tácitamente la cuota fijada a su cargo (v. notif. agr. el 24/06/2026). Sin embargo, al contestar la demanda manifestó que no cuenta con un empleo ni realiza una actividad formal, que hace trabajos esporádicos como cuidador de enfermos y que percibe aproximadamente $240.000 mensuales. Reconoció que no puede afrontar el aporte requerido y solicitó que se establezca uno acorde con su capacidad económica (v. escr. del 16/07/2026).
+Estas manifestaciones, aunque no resultan concluyentes acerca de su capacidad contributiva definitiva, permiten presumir que no podrá cumplir con la prestación que consintió. A ello se añade que, hasta el momento, no surge acreditado que haya efectuado pagos en cumplimiento de la cuota provisoria. Ambos extremos corroboran las dificultades para obtener del obligado principal la satisfacción de los alimentos, cuya insuficiencia había sido denunciada por la actora al promover la demanda.
+Se encuentra así configurado, con el grado de verosimilitud propio de esta etapa, el supuesto previsto por el art. 668 del CCC. La falta de acreditación del pago, unida al reconocimiento del propio progenitor acerca de su imposibilidad de afrontar la cuota, justifica la previsión subsidiaria adoptada para asegurar la atención inmediata de las necesidades de los niños. No corresponde exigir, a ese fin, el previo agotamiento de ejecuciones y medidas coercitivas contra el padre.
+Además, la resolución respetó el carácter subsidiario de la obligación de los ascendientes. Fijó, en primer término, una cuota provisoria a cargo del progenitor y estableció el aporte de los abuelos únicamente "en defecto de pago de la misma por el progenitor" (sic). Por tanto, no sustituyó al obligado principal ni convirtió la obligación de los abuelos en una responsabilidad conjunta o automática. Su exigibilidad quedó expresamente condicionada al incumplimiento paterno.
+Tampoco resulta atendible el agravio fundado en el empleo de la progenitora. La percepción de un salario no demuestra que las necesidades de ambos niños se encuentren íntegramente satisfechas ni permite atribuirle en forma exclusiva su sostenimiento ante la falta de aportes del padre. A su contribución económica se suma el valor de las tareas de cuidado cotidiano que refiere asumir, las cuales también constituyen un aporte a la manutención de sus hijos (art. 660 del CCC).
+Las objeciones a la documental acompañada tampoco justifican dejar sin efecto la medida. La fijación de alimentos provisorios no requiere la acreditación exhaustiva de cada erogación ordinaria, sino una apreciación prudencial de los elementos disponibles para asegurar la cobertura inmediata de las necesidades de los alimentados. Además, la cuota establecida en cabeza del apelante no fue fijada según los gastos invocados por la progenitora, sino en proporción a los ingresos del recurrente.
+Por todo lo expuesto, corresponde rechazar el recurso de apelación.
+POR ELLO , se resuelve:
+1°) C onfirmar la resolución del 12/06/2026, en cuanto fue materia de agravio (art. 544, 668 y cctes. del CCC).
+2°) Costas de alzada al alimentante vencido (arts. 68 y 69 del CPCC).
+Devuélvase a primera instancia sin más trámite.
+```
+
+---
 
 ### ACT-22-10-2026. [RR-725-2026] G W SA C/ B C C. L S/ DAÑOS Y PERJ. INCUMP. CONTRACTUAL (EXC. ESTADO)
 - **Organismo**: CAMARA PRIMERA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - BAHIA BLANCA
@@ -1550,6 +2896,93 @@ Regístrese y notifíquese.
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - DOLORES (`idOrganismo: 118`)
 
+### ACT-22-10-2026. [RR-760-2026] A. M. B. C/ M. J. C. S/ ACCIONES DE RECLAMACION DE FILIACION
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - DOLORES
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `108170`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-760-2026`
+- **Código de Acceso SCBA**: `5353390C`
+- **Firmantes**: Funcionario: CREMONTE Santiago Francisco JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 760-2026 - Código acceso: 5353390C - PUBLICO | Registrado por: FERNANDEZ Gaston Cesar - Fecha registración: 22/10/2026 13:01
+
+#### Texto Íntegro
+```text
+Expte N° 108170: A. M. B. C/ M. J. C. S/ ACCIONES DE RECLAMACION DE FILIACION
+AUTOS Y VISTOS:
+I. Téngase por interpuesto recurso extraordinario de nulidad contra la resolución de este Tribunal de fecha 18/6/2026.
+II. Del examen de las condiciones de admisibilidad del remedio intentado se verifica que la sentencia interlocutoria del 18/6/2026 le fue notificada en forma automatizada ese mismo día a la parte actora en su domicilio electrónico constituido (arts. 40, 42, 135 CPCC, art. 10 Ac. 4039/21 SCBA).
+Dicha comunicación se perfeccionó el día viernes 19/6/2026 con vencimiento el lunes 6/7/2026 a las 12 horas; y, por lo tanto, la interposición del recurso con fecha 5/10/2026 resulta extemporánea (arts. 124, 156, 279, 281 y 297 CPCC; art. 10 y 13 Ac. 4039/21).
+Por lo que se RESUELVE: Declarar extemporáneo el recurso extraordinario de nulidad interpuesto el 5/10/2026 contra la decisión de este tribunal del 18/6/2026 (arts. 278, 281 y 296 del CPCC).
+Notifíquese al recurrente. Regístrese. Devuélvase por la vía que corresponda.
+```
+
+---
+
+### ACT-22-10-2026. [RR-759-2026] CONSORCIO DE PROPIETARIOS BC MAR IV C/ CHIARELLI CARLOS ARMANDO Y OTROS S/ COBRO EJECUTIVO DE EXPENSAS
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - DOLORES
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `107482`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-759-2026`
+- **Código de Acceso SCBA**: `29457ACC`
+- **Firmantes**: Funcionario: CREMONTE Santiago Francisco JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 759-2026 - Código acceso: 29457ACC - PUBLICO | Registrado por: FERNANDEZ Gaston Cesar - Fecha registración: 22/10/2026 13:01
+
+#### Texto Íntegro
+```text
+Expte. Nro. 107482 : " CONSORCIO DE PROPIETARIOS BC MAR IV C/ CHIARELLI CARLOS ARMANDO Y OTROS S/ COBRO EJECUTIVO DE EXPENSAS "
+AUTOS Y VISTOS:
+I . Contra la sentencia de remate del 13-10-2025, dedujo recurso de apelación la parte ejecutada el 21-10-2025, exponiendo los agravios en la misma pieza de interposición -forzando el rito-, el que fue concedido en relación el 24-10-2025 y recibió réplica el 28-10-2025 por parte de la actora.
+II . La sentencia apelada.
+El juez resolvió no hacer lugar al planteo de caducidad de instancia, desestimar las excepciones de defecto legal, de falta de legitimación manifiesta para obrar, de nulidad de la ejecución y de falsedad e inhabilidad del título; y en consecuencia, mandó continuar con la ejecución por $ 53.997,42 por los períodos comprendidos entre los meses de octubre 2019 al mes de octubre de 2020 y $ 392.183,14 entre diciembre 2023 y diciembre 2024; por un total de $ 446.182,56, con más $ 223.090,28 presupuestados para cubrir costos, costas e intereses a devengar a futuro; con costas al ejecutado (13-10-2025).
+III . Agravios y réplica.
+Reclama la apelante que el juez desestimó la caducidad de la instancia sin ponderar que, entre el auto que ordenó librar el mandamiento y su efectivo diligenciamiento, transcurrió un plazo superior al previsto por el art. 310 inc. 2 del CPCC, sin impulso válido por parte de la actora .
+Luego, en cuanto a la defensa de falta de legitimación, expresa que el juez omitió exigirle a la actora la acreditación fehaciente de su carácter de administradora del consorcio, conforme lo exige el art. 2067 CCCN y la jurisprudencia consolidada.
+Asegura que no se ha acompañado acta válida, ni mandato vigente.
+Agrega que tampoco se verifica la legitimación pasiva de las ejecutadas -recurrentes-, en tanto no se ha probado la condición de titulares registrales, ni la vinculación directa con la deuda reclamada. En cambio -señalan-, la ejecución se dirige contra personas físicas sin precisión, ni claridad, violando el principio de determinación del sujeto pasivo (arts. 330 y 337 CPCC).
+En lo atinente a la inhabilidad de título, exponen que el certificado de deuda acompañado no reúne los requisitos del art. 518 CPCC, y concluyen que no es un título que traiga aparejada ejecución: no contiene firma certificada, ni reconocimiento judicial y presenta inconsistencias en fechas, montos y períodos; sin respaldo contable. Lo que lo tornaría inhábil. Citan jurisprudencia de la SCBA, en particular la Ac. 89.345 [ que corresponde a una sentencia en proceso de daños y perjuicios del 12/4/2006 y no a los autos que se citan sobre cobro de expensas ].
+Aseguran además, que el juez omitió ponderar la excepción de pago total, articulada con base en los comprobantes de pago bancario que acreditan la cancelación total de la deuda reclamada, incluso con saldo a favor. Entienden que la resolución apelada configura una sentencia incongruente y arbitraria. Apuntan que el art. 545 inc. 4 del rito, habilita expresamente tal defensa y su rechazo sin análisis vulnera el derecho de defensa.
+Cuestionan asimismo la procedencia de los intereses reclamados, pese a no haberse cumplido con el procedimiento de notificación previsto en el reglamento de copropiedad, ni constancia de recepción de la carta documento, ni acuse de recibo. Menciona jurisprudencia de la SCBA [que tampoco es posible identificar con los datos que aporta, en tanto el número de registro Ac. 94.112, respondería a otros autos, distinto al mencionado, y a diferente materia] y sostiene que la falta de notificación fehaciente impide la exigibilidad de intereses moratorios. Que, en cambio, el juez omitió efectuar ese análisis admitiendo intereses sobre una deuda discutida, impugnada y presuntamente cancelada.
+Ensayan luego una crítica general al sostener que la decisión apelada desestimó todas las excepciones en bloque, sin análisis individualizado ni valoración de la prueba ofrecida; lo que configuraría una sentencia arbitraria, violatoria del art. 18 CN y del principio de congruencia que carece de motivación suficiente (v. 21-10-2025).
+Al responder, la parte ejecutante replicó que la apelante acusa de manera genérica y errónea la caducidad de la instancia, haciendo referencia a que las ampliaciones de demanda y/o los actos procesales impulsados por la actora no habrían sido válidos ni eficaces, pero no indica los por qué . Explica, en cambio, que es contundente la resolución en crisis al expresar no se ha verificado el transcurso del plazo legal sin actividad impulsoria válida por parte del actor que justifique la declaración de perención.
+Por eso, entiende que debe rechazarse esa parcela del agravio.
+Aduna que la legitimación del consorcio proviene del libro de actas, folios 87 y 8 agregados al incoarse la demanda, resultando innecesario que se encuentre protocolizado, que se puso a disposición de la parte y del magistrado, y queda en custodia de la administración. Y afirma que cumplió con toda la documentación que debe acompañarse junto con la interposición de demanda en todo proceso ejecutivo de cobro de expensas.
+Señala que la acreditación de la designación de administrador se efectúa mediante la exhibición de distintos documentos o instrumentos, según el caso. Si la designación surge del libro de actas de asamblea de consorcistas que lo nombró, se debe acompañar copia autenticada o acta protocolizada del acta de designación, siendo suficiente para probar la representación del administrador designado.
+Luego, respecto del certificado de deuda de expensas, asegura que es hábil porque contiene todos los elementos que configuran su habilidad y procedencia como título ejecutivo. Destaca su autonomía respecto de la relación sustancial que ha generado el crédito y su suficiencia, en cuanto a que de la sola lectura del título documentado deben surgir no sólo los sujetos legitimados sino también el monto del crédito o su fácil liquidación y su exigibilidad. Y agrega que el art. 2048 del CCyCN contempla que el certificado de deuda expedido por el administrador y aprobado por el consejo de propietarios, si éste existe, es título ejecutivo para el cobro a los propietarios de las expensas y demás contribuciones .
+Resalta que no se trata aquí de un título de los del art. 521 del CPCC, sino del art. 522 y señala que no ha sido negada la deuda.
+Además, replica que del reglamento surge la determinación de la mora de pleno derecho y los intereses sobre las deudas. Y que el propietario moroso que incurriese en el incumplimiento, previa notificación que le hará el administrador, en el caso de marras carta documento que luce en la demanda, podrá ser demandado por vía ejecutiva; confiriéndole la facultad de certificar las deudas por cargas comunes.
+Insiste con que la mora es automática y los intereses se encuentran fijados en el reglamento de copropiedad y administración, que es ley para las partes, luciendo ese agravio insustentable.
+Por último, refiere que del trámite emerge que la contraparte ha sido notificada e intimada, y que se han puesto a su consideración la totalidad de los elementos documentales y motivos de los reclamos en los títulos base de esta ejecución, ha contestado demanda y opuesto excepciones; y se ha notificado a los demandados y sus herederos, protegiéndose el derecho de defensa y no vulnerándose derechos. Por lo que no existe cercenamiento de derechos como intenta presentarse (v, 28-10-2025).
+IV . Esta Alzada.
+Así planteadas las cuestiones que intentan debatirse, en relación a la desestimación del pedido de caducidad de la instancia, se impone precisar que, más allá de los argumentos de la decisión apelada y el planteo del recurrente, de acuerdo con los términos del art. 317 CPCC que rige en la materia, la resolución sobre la caducidad de instancia sólo será apelable cuando ésta fuere declarada procedente .
+Por tanto, la que desestima el pedido de caducidad, como ocurre en esta parcela del agravio, deviene inapelable, lo que sella sin más la suerte adversa del intento (conf. art. 317 del rito).
+En cuanto a la falta de legitimación [manifiesta] planteada, también desestimada, surge que el jueza al resolver pronunció que debía ser rechazada (junto con la defensa de defecto legal opuesta), por no encontrarse prevista para el juicio ejecutivo, con base en lo taxativo del art. 542 del rito.
+No obstante, señaló en su pronunciamiento que la demanda había sido acompañada por el certificado de deuda por expensas comunes expedido por la administradora del consorcio de propietarios del edificio "BC MAR IV", el acta de designación del administrador, el poder judicial y demás documentación respaldatoria (v. consid. VI. 2).
+Y concluyó que el consorcio, así representado por su administrador, contaba con plena legitimación activa para reclamar judicialmente las expensas comunes adeudadas, de conformidad con lo dispuesto en los arts. 2044 a 2069 CCyCN; a diferencia de lo que sostiene el apelante, aunque con base en una crítica que resulta genérica (arts. 260, 261 del rito).
+Vale destacar que -en efecto- es posible corroborar en las constancias adjuntas a la presentación del 3-12-2020, la designación de Nélida Arrechea como nueva administradora del consorcio actor, quien suscribió el certificado de deuda que es base de la presente ejecución (v. pág 32 in fine y ss. del archivo en PDF; conf. art. 116 del rito).
+Surgiendo asimismo del certificado de deuda referido, como del informe de dominio acompañados al demandar, verificada la legitimación pasiva; sin perjuicio que no constituya una de las defensas opuestas en ocasión de contestar demanda -que sólo refiere a la indeterminación del sujeto pasivo, noción que resulta impropia a este tipo de procesos- (v, 3-11-2021 y 4-11-2021), y por ello es que tampoco compone una parcela de la decisión en crisis. Aspecto que a su vez se ve desvirtuado por la propia postura asumida por la apelante cuando acude a la defensa de pago total en la contestación el 3-11-2021, ap. XII.
+En definitiva esta parcela del recurso tampoco prospera.
+En lo atinente a la inhabilidad de título intentada, más allá de lo que pronunció el juez, y el planteo de las recurrentes, que ciertamente luce genérico cuando refieren a inconsistencias en fechas, montos y períodos , en concreto el certificado acompañado satisface los términos que el reglamento de copropiedad establece en el art. 9: será título ejecutivo suficiente el certificado de deuda expedido por el administrador con la constancia de la cantidad líquida exigible (v. del PDF adjunto el 3-12-2020: págs. 15 y 16 -certif. deuda-; 84 -parte pertinente del reglam.-); por lo que su rechazo debe mantenerse.
+En cuanto reclaman que el juez omitió ponderar la excepción de pago total antes mencionada, si bien la sentencia no hace referencia a tal defensa, es lo cierto que lo expuesto en el responde (v. present. del 3-11-2021 y 4-11-2021, ap. XII) y las constancias acompañadas en sustento, carecen de eficacia para su viabilidad (art. 542, inc. 6 del rito). Ello por cuanto se trata de comprobantes de transferencias bancarias (tres) que ninguna referencia hacen a la unidad funcional en cuestión, como tampoco la fecha de la operación se corresponde a los períodos adeudados que se reclaman. Sin que concurran elementos que permitan concluir de forma inequívoca, que los montos de tales operaciones fueron destinados a cancelar aquellos períodos de expensas comunes adeudados, cuyo cobro compulsivo aquí se persigue.
+Pero además, debe recordarse que para que opere la excepción de pago total documentado debe existir cancelación de la obligación, sin que resulte eficaz la consignación efectuada en la propia ejecución. En cambio, la excepción deberá ser fundada en la existencia de un pago correctamente acreditado, emergente de recibo otorgado por el acreedor y de fecha anterior a la intimación, ya que de lo contrario, antes que constituir una excepción, se presenta como un allanamiento a la pretensión; que en todo caso se tendrá en cuenta en la etapa de liquidación (conf. fund. art. 542, inc. 6 CPCC).
+Al contrario de lo que pretende presentarse, de modo forzado, no lucen acreditados en el trámite aquellos presupuestos que habiliten a considerar procedente la defensa pretendida (art. 375 y ccdtes. del rito).
+Por último, resta abordar la crítica relativa a los intereses, que consiste en alegar que no se cumplió con el procedimiento de notificación previsto en el reglamento de copropiedad, ni acompañar constancia de recepción de la carta documento, ni acuse de recibo. Sin embargo, se advierte que del art. 9 del reglamento surge la mora de pleno derecho para el supuesto de incumplimiento en el pago de la cuota mensual para gastos ordinarios, o con el aporte que le corresponda para formar el fondo de reserva y o con los gastos extraordinarios fijados por la asamblea, o con toda otra suma, y que por cualquier concepto corresponda abonar (v. pág. 84 del PDF adjunto el 3-12-2020).
+Es decir, a diferencia de lo que propugna la parte apelante, no ha sido prevista notificación alguna para la procedencia de los intereses que han sido pactados.
+Es posible, que el planteo parta de un error en la interpretación de los términos del reglamento, que sí menciona la notificación previa para el inicio del reclamo ejecutivo, extremo que luce cumplimentado con la constancia acompañada que da cuenta de la remisión de la CD en fecha 5-3-2020.
+En definitiva, el agravio encaminado a la procedencia de intereses no prospera.
+Ahora bien, sobre el punto el juez al resolver dispuso ".con más la suma de PESOS DOSCIENTOS VEINTITRES MIL NOVENTA CON 20/100 ($223.090,28) que se presupuesta a los fines de cubrir costos, costas e intereses a devengar a futuro (art 538 del CPCC)." -v. punto 3 in fine del resolutorio-.
+Sin duda, ello se trata de un error material que habrá de ser enmendado, por cuanto no sólo se ha pronunciado haciendo pie en una norma que no se corresponde con la fase en que se encuentra el trámite -etapa de sentencia de remate-, sino que además, omitió determinar cuáles intereses corresponde admitir en el caso para la oportunidad de practicarse la liquidación de autos (arts. 34 incs. "c" y "e", 36 inc. 3°, 549 y ss. del CPCC).
+A propósito de la circunstancia descripta, corresponde hacer hincapié en que, no obstante desprenderse de lo resuelto la procedencia de intereses, por causa del error que ha sido puesto en evidencia, no se han determinado cuáles de ellos deberán contemplarse en definitiva, provocando un estado de incertidumbre intolerable que alcanza a todos los involucrados en el pleito, por no haberse previsto al sentenciar parámetro alguno para la ocasión de la liquidación (arts. 18 CN; 15 Const. Prov.).
+A tal fin, deberá tenerse en consideración que al demandar, el propio actor solicitó que se apliquen los intereses del 36 % anual sobre el capital original de expensas, desde la fecha de la mora de cada uno de los períodos adeudados, sin perjuicio de lo que reza en su artículo noveno [el reglamento de copropiedad] que los intereses establecidos en el mismo resultan ser del 10% mensual y/o el doble del interés que cobre el Banco de la Nación Argentina por depósitos a plazo fijo a treinta días ; con expresa mención a lo resuelto por este Tribunal de alzada en autos "Consorcio calle 28 nº 195 c/ Olmedo de Aguirre Nilda s/ Ejecución de Expensas", en causa n° 86.109, RSD-461-7, I, del 28-9-2007.
+Y siendo que tal pretensión no importa una afectación a la posición de la contraria, conforme el criterio actual de esta Cámara de Apelación en la materia, en este caso deviene aplicable.
+En concreto, deberán calcularse los intereses en la etapa procesal pertinente (arg. art. 501 CPCC) a partir de cada uno de los vencimientos de acuerdo a los previstos en el Reglamento de Copropiedad y teniendo como tope el 36% anual por todo concepto, comprensivos de moratorios y punitorios.
+Por los fundamentos dados, este Tribunal RESUELVE : Rechazar el recurso deducido por la parte ejecutada el 21-10-2025, con costas al recurrente en su condición de vencido. Establecer que para la etapa de la liquidación los intereses deberán calcularse a partir de cada uno de los vencimientos de acuerdo a lo previsto en el Reglamento de Copropiedad, teniendo como tope el 36% anual por todo concepto comprensivo de moratorios, compensatorios y punitorios (arts. 34 incs. "c" y "e", 36 inc. 3°, 68, 242, 246, 317, 522, 542, 549; 18 CN; 15 Const. Prov.).
+Notifíquese. Regístrese. Devuélvase por la vía que corresponda.
+```
+
+---
+
 ### ACT-22-10-2026. [RR-758-2026] RECURSO DE QUEJA EN AUTOS "LUGO SIXTO EMANUEL C/ SOSA MARTIN ALEJANDRO Y OTRO/A S/ DAÑOS Y PERJ. AUTOM. S/LESIONES (EXC. ESTADO)" EXPTE. N° 74748
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - DOLORES
 - **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
@@ -2387,6 +3820,79 @@ Notifíquese. Regístrese. Comuníquese al Juzgado de Familia mediante presentac
 ---
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - JUNIN (`idOrganismo: 170`)
+
+### ACT-22-10-2026. [RR-852-2026] PEDEMONTE GUSTAVO SEBASTIAN C/ MASTERCARD MERCOSUR INC. Y OTROS S/ DAÑOS Y PERJUICIOS POR ENRIQUECIMIENTO S/CAUSA
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - JUNIN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `JU-8636-2015`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-852-2026`
+- **Código de Acceso SCBA**: `602037B4`
+- **Firmantes**: Funcionario: VOLTA Gaston Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 852-2026 - Código acceso: 602037B4 - PUBLICO | Registrado por: DI PIETRO Natalia Paola - Fecha registración: 22/10/2026 10:31
+
+#### Texto Íntegro
+```text
+%7*è1è(75i.S
+231000170008232173
+Expte. n°: JU-8636-2015 PEDEMONTE GUSTAVO SEBASTIAN C/ MASTERCARD MERCOSUR INC. Y OTROS S/ DAÑOS Y PERJUICIOS POR ENRIQUECIMIENTO S/CAUSA
+AUTOS Y VISTO:
+E recurso de apelación deducido el 1/4/2026
+Y CONSIDERANDO :
+I- El 27/3/2026, el Dr. Fernando Castro Mitarotonda. desestima el planteo de la demandada respecto a la integridad del pago; hace lugar a lo solicitado por el letrado de la parte acora en cuanto a la diferencia de honorarios por valor del Jus.
+Contra la imposición en costas por su orden , apela la actora.
+Concedido el recurso y corrido traslado a la contraria, esta guarda silencio.
+Llegados los autos a esta Alzada, quedan en condiciones de ser resueltos.
+II- En esta tarea, sabido es que el principio general del art. 68 del CPCC dice que la parte vencida paga las costas.
+Siguiendo este norte, como expone el sentenciante, habiendo arribado firme a esta alzada lo decidido por el magistrado en cuanto a la incidencia planteada, no encontramos motivos para apartarnos de la aplicación de la pauta objetiva de imposición de costas basada en la derrota.
+Siendo por lo expuesto que el Tribunal RESUELVE:
+1) HACER LUGAR a lo que ha sido materia de recurso y, en consecuencia, REVOCAR el pto. III de la resolución del 27/3/2026, imponiéndose las costas de primera instancia a la demandada vencida (art. 68 del CPCC)
+2) SIN COSTAS DE ALZADA, habida cuenta no haberse generado incidencia (art. 68 del CPCC).
+Regístrese, notifíquese automáticamente conforme lo dispuesto por el art. 10 del Ac. 4013 SCBA y oportunamente remítanse al juzgado de origen.-
+```
+
+---
+
+### ACT-22-10-2026. [RR-851-2026] C. M. V. C/ C. F. S/ ALIMENTOS
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - JUNIN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `JU-8733-2022`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-851-2026`
+- **Código de Acceso SCBA**: `46345425`
+- **Firmantes**: Funcionario: VOLTA Gaston Mario JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 851-2026 - Código acceso: 46345425 - PUBLICO | Registrado por: DI PIETRO Natalia Paola - Fecha registración: 22/10/2026 10:24
+
+#### Texto Íntegro
+```text
+%7jè1è(7)D6S
+237400170008230936
+Expte. n°: JU-8733-2022 C. M. V. C/ C. F. S/ ALIMENTOS
+AUTOS Y VISTO:
+El recurso de apelación deducido en fecha 24-08-26 por el Sr. F. C., con el patrocinio letrado del Dr. Hernán Sibiglia, contra la resolución de fecha 20-08-26;
+Y CONSIDERANDO:
+I.- Mediante la aludida resolución, la Sra. Jueza Dra. Guillermina Venini aprobó la liquidación practicada por la actora en fecha 23-04-26 en concepto de alimentos adeudados y, seguidamente, ordenó: *la inscripción del Sr. C. en el Registro de Deudores Alimentarios Morosos y en el Registro de Morosos por Incumplimiento de los Deberes de Asistencia de Familia, *la prohibición de salir del país por el término de 90 días, *trabar embargo sobre los fondos de las firmas Mercado Pago y Cuenta DNI, ello hasta cubrir la suma adeudada de $ 21.894.040; con costas.-
+II.- Contra lo así resuelto se agravió el demandado, exponiendo en primer lugar, que la liquidación practicada por la Sra. C. fue oportunamente impugnada por su parte el día 04-05-26. Que en dicha oportunidad, señaló que se trataba de dos períodos distintos habida cuenta de que el 09-11-22 se habían fijado alimentos provisorios equivalentes al 25% de sus ingresos, y que el 18-03-24 se modificó dicho parámetro estableciéndose el equivalente al 80% del SMVM; por lo que no correspondía aplicar este último porcentaje a toda la liquidación.-
+Continuó argumentando que sin perjuicio de ello, la magistrada resolvió aprobar dicha liquidación, aplicando retroactivamente el porcentaje fijado el 18-03-24, con basamento en que su parte no contestó la intimación del 16-06-26, a los fines de que acredite sus reales ingresos durante el primer período, es decir, desde noviembre 2022 a marzo 2024.-
+Por otra parte, se agravió de la errónea valoración de la prueba al no considerarse los pagos que realizó directamente en la cuenta personal de su hija.-
+Por último, se agravió de las medidas cautelares ordenadas, así como de la imposición de las costas a su cargo.-
+En resumen, solicitó se revoque la resolución en crisis dejando sin efecto las medidas tomadas, y subsidiariamente se ordene practicar nueva liquidación, con la imposición de costas correspondiente.-
+III.- Corrido el traslado a la actora, fue contestado en fecha 01-09-26; luego de lo cual se elevaron los autos a este Tribunal, quedando los mismos en condiciones de resolver.-
+IV.- En dicha tarea, adelantamos que el recurso no ha de prosperar.-
+Ello así, toda vez que como bien señalara la magistrada de grado, mediante resolución del 16-06-26 se intimó al demandado a allegar documentación a los fines de acreditar sus ingresos en el período comprendido entre el 09-11-22 y 18-03-24, bajo apercibimiento de tomar como parámetro el 80% del SMVM también para dicho período.-
+Dicha resolución, conforme lo surgente del historial de notificaciones del Sistema Augusta, ha sido debidamente notificada al demandado en fecha 19-06-2026, sin haber mediado contestación ni presentación alguna a su respecto; por lo que bien ha hecho la sentenciante en aprobar la liquidación.-
+Lo reseñado lleva al inexorable rechazo del agravio, en virtud de la firmeza alcanzada por la resolución que se pretende modificar, en cuanto a la pauta objetivamente establecida.-
+Esto por cuanto se tiene dicho "...Que el derecho reconocido por una decisión pasada en autoridad de cosa juzgada constituye un bien que se incorpora al patrimonio del beneficiario del pronunciamiento y del cual no puede ser privado sin mengua del precepto constitucional que asegura la inviolabilidad de la propiedad. Es que la estabilidad de las decisiones jurisdiccionales, en la medida que constituye un presupuesto ineludible de la seguridad jurídica, es exigencia de orden público y posee también jerarquía constitucional..." (SCBA LP C 116924 S 07/08/2013; 100864 S 22/12/2010; 96831 S 14/04/2010- JUBA-C0002 QL 25639 RR 68/2023 I 14/03/2023 Carátula: PILMAN S.A.C/ REYNOSO LILIANA NOEMI S/COBRO EJECUTIVO PAGO)
+En cuanto al planteo de la multiplicidad de medidas cautelares dispuestas, tampoco habrá de prosperar el agravio en ese sentido, pues sabido es que el art. 553 CCyC se constituye en "una norma abierta que faculta al juez para disponer ´medidas razonables´ para asegurar el cumplimiento de lo fijado en la sentencia. está abierta a la creatividad de los operadores jurídicos en proponerlas y a la razonabilidad del juez al aplicarlas. el acreedor alimentario cuenta con todas las vías de ejecución que reconocen los sistemas procesales para lograr la satisfacción de su derecho" ("Código Civil y Comercial de la Nación comentado: Marisa Herrera, Gustavo Caramelo y Sebastián Picasso - Tomo II Libro Segundo - comentario a los arts. 550 y 553 del CCyC, págs. 260 y 264)
+En virtud de lo expuesto, siendo la liquidación practicada en autos ajustada a derecho, los argumentos recursivos no alcanzan a conmover lo decidido, máxime teniendo en cuenta que, analizado el cuadro fáctico, ello no es ni mas ni menos que consecuencia de su incumplimiento en tiempo y forma.-
+Finalmente, en lo que respecta a la pretensión de imputar los pagos realizados mediante transferencias bancarias en la cuenta personal de su hija, deberá acudir por la vía correspondiente.-
+V.- Es por lo expuesto, que el Tribunal RESUELVE :
+I.- Desestimar el recurso en tratamiento y, en consecuencia, confirmar la resolución apelada (arts. 553 y ccdtes. 542, 544, 706 y ccdtes. del CCyC )
+II.- Costas de Alzada al apelante (art. 68 CPCC).
+Regístrese, notifíquese automáticamente conforme lo dispuesto por el art. 10 del Ac. 4013 SCBA y oportunamente remítanse al juzgado de origen.-
+```
+
+---
 
 ### ACT-22-10-2026. [RR-850-2026] TILLARD IGNACIO C/ GRUPO G S.R.L Y OTRO/A S/ COBRO EJECUTIVO
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - JUNIN
@@ -3420,6 +4926,94 @@ ARTÍCULO 54: Las providencias que regulen honorarios deberán ser notificadas p
 ---
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - CAMPANA (`idOrganismo: 1947`)
+
+### ACT-22-10-2026. [RR-643-2026] G., A. C. C/ G., J. M. F. S/ VIOLENCIA DE GENERO ( LEY 26485)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - CAMPANA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `16490-E F`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-643-2026`
+- **Código de Acceso SCBA**: `7B51C559`
+- **Firmantes**: Funcionario: BARTOLOME ALEMAN Edgardo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 643-2026 - Código acceso: 7B51C559 - PUBLICO | Registrado por: DELLI QUADRI Priscila - Fecha registración: 22/10/2026 13:36
+
+#### Texto Íntegro
+```text
+Campana,
+Vistos:
+Para resolver en la causa N° 16490-E F , "G., A. C. c/ G., J. M. F. s/ Violencia de Género (Ley 26485)" , proveniente del Juzgado de Paz de Exaltación de La Cruz .
+Y Considerando:
+I- Contra la resolución que ordenó: " 1º).- Disponer por el término de ciento cincuenta (150) días corridos el cese de los actos de perturbación o intimidación (art. 26, inc. a. 2 Ley Nac. 26.485), por cualquier medio -telefónico, servicios de mensajería instantáneos, redes sociales; Facebook, Messenger, Twitter, Instagram, etc., personal, social, laboral, familiar, escolar y cualquier otro ámbito común- por parte del Sr. G., J. M. F. hacía la denunciante de autos, G., A. C.- .- " (23/09/2026), apela el denunciado (28/09/2026).
+II- Para así decidir, la Judicatura ponderó la denuncia formulada por la Sra. G. ante la Oficina de Atención a las Víctimas de Violencia de Género de Exaltación de la Cruz el 22/09/2026, en la que manifestó que se desempeña como docente en el Establecimiento Educativo Primario N° 5 de Parada La Lata y que tomó conocimiento, a través de un compañero, de publicaciones realizadas por el Sr. G. en la red social Facebook, desde el perfil denominado "Sigan Viendo", referidas a su persona y a la institución escolar. Señaló que en ellas se afirmaba que habría sido denunciada en dos oportunidades y se exhibía una fotografía suya extraída de su perfil personal, con identificación de su nombre y apellido. Asimismo, refirió sentirse hostigada y afectada en sus derechos, pues, pese a ser ajena al conflicto entre los progenitores del niño, el denunciado la responsabilizaba, junto con la institución educativa, por el cumplimiento del oficio judicial vigente que establecía una prohibición de acercamiento respecto de su hijo. También manifestó preocupación por la exposición pública de su persona, su reputación y la del niño.
+III- El apelante sostiene en sus agravios que no incurrió en conductas de hostigamiento, intimidación o perturbación dirigidas contra la denunciante, y que de las actuaciones no surgen amenazas, mensajes privados, persecuciones ni acercamientos personales de su parte. Afirma que las publicaciones en redes sociales que motivaron la denuncia deben valorarse en el contexto del conflicto familiar suscitado en torno a las dificultades que refiere atravesar para mantener el vínculo con su hijo, y niega haber tenido la intención de convertir a la Sra. G. en destinataria de una persecución personal.
+Asimismo, invoca la ausencia de antecedentes registrados y cuestiona la extensión temporal y el alcance de la medida dispuesta, por considerar que no se han individualizado circunstancias objetivas que justifiquen una restricción por ciento cincuenta días y comprensiva de diversos medios y ámbitos de interacción.
+Por otra parte, manifiesta que la amplitud de la prohibición podría obstaculizar su participación en cuestiones vinculadas con la vida escolar de su hijo y dificultar una eventual recomposición del vínculo paterno-filial. En ese sentido, sostiene que la protección de la denunciante no debería generar consecuencias indirectas sobre los derechos del niño ni impedir el ejercicio de su rol paterno.
+Finalmente, cuestiona la proporcionalidad de la medida y, subsidiariamente, solicita que se morigere su alcance, limitándola a la prohibición de contacto directo con la denunciante y excluyendo aquellas situaciones estrictamente vinculadas con el ámbito educativo de su hijo que resulten necesarias para el ejercicio de su función parental, bajo las condiciones que judicialmente se establezcan (06/10/2026).
+IV- Contesta la denunciante exponiendo que el objeto de estas actuaciones es la protección de su persona frente a las publicaciones efectuadas por el denunciado en la red social Facebook, en las que habría utilizado su imagen, consignado sus datos personales y atribuido responsabilidades vinculadas con el conflicto familiar que aquel mantiene respecto de su hijo. Sostiene que la ausencia de amenazas directas, contactos privados o acercamientos personales no descarta la entidad perturbadora de tales conductas, ni justifica la exposición pública de una persona ajena a esa problemática.
+Asimismo, señala que los informes preliminares producidos en autos consideran adecuadas las medidas adoptadas para prevenir una eventual escalada del conflicto, y que la falta de antecedentes registrados no resulta suficiente para desvirtuar su procedencia. Considera, además, que la medida resulta razonable y proporcional a la modalidad de los hechos denunciados, pues su limitación a una prohibición de contacto directo dejaría sin protección frente al medio a través del cual se habría exteriorizado la conducta cuestionada.
+Por otra parte, niega que la cautelar afecte el vínculo paterno-filial, al señalar que no resuelve cuestiones relativas a este, las cuales corresponden a otros procesos judiciales. Finalmente, refiere que, con posterioridad al dictado de la resolución, denunció nuevas publicaciones y acompañó capturas de pantalla, lo que habría motivado la remisión de copias a la UFDIyJ de Exaltación de la Cruz ante la posible comisión del delito de desobediencia. Por todo ello, solicita el rechazo del recurso y la confirmación de la resolución apelada (18/10/2026).
+V- Del análisis del expediente surge que, con fecha 24/09/2026, la perito psicóloga del Juzgado elaboró un informe en el que consignó la existencia de antecedentes de conflicto vinculados con una medida judicial y señaló que, a partir de esa situación, la denunciante refería haber sido objeto de acoso y exposición a través de redes sociales. Asimismo, consideró que, teniendo en cuenta el nivel de riesgo observado de manera preliminar, las medidas dispuestas resultaban adecuadas para prevenir una escalada del conflicto.
+En igual fecha, la perito asistente social informó que, de acuerdo con lo expuesto en la denuncia, la Sra. G. habría sido víctima de hostigamiento y agresiones a través de redes sociales por parte del denunciado, quien la responsabilizaba por medidas judiciales relacionadas con su hijo, alumno del establecimiento educativo en el que aquella se desempeña. Añadió que dicha situación habría afectado públicamente su imagen y le habría ocasionado malestar. Finalmente, estimó que las medidas dictadas resultaban apropiadas para prevenir el conflicto, en función del nivel de riesgo apreciado preliminarmente.
+VI- En virtud de lo normado por la Ley 26.485, las medidas preventivas allí previstas tienen por finalidad brindar protección oportuna frente a situaciones de violencia, procurando evitar su reiteración o agravamiento. En ese marco, su procedencia no exige necesariamente la existencia de agresiones físicas, amenazas expresas o contactos personales, sino que debe evaluarse a partir de las circunstancias particulares del caso y del riesgo que se procura prevenir.
+Desde esa perspectiva, los agravios del recurrente, sustentados principalmente en la ausencia de contacto directo con la denunciante y en la falta de antecedentes registrados, no resultan suficientes, por sí solos, para desvirtuar la procedencia de la protección dispuesta, pues la necesidad de protección debe evaluarse atendiendo a las circunstancias concretas denunciadas. En efecto, la situación se vincula con publicaciones efectuadas en una red social en las que se habría identificado a la docente mediante su nombre, apellido e imagen, atribuyéndole responsabilidad por circunstancias relacionadas con un conflicto familiar ajeno a su persona. Tal modalidad de exposición pública no puede ser desestimada únicamente porque no hubiera mediado un acercamiento físico o una comunicación privada.
+A ello se añaden los informes psicológico y social elaborados el 24/09/2026, en los que las profesionales intervinientes consideraron que las medidas adoptadas resultaban adecuadas para prevenir una escalada del conflicto, de acuerdo con la evaluación preliminar del riesgo. Si bien dichos informes fueron confeccionados con posterioridad al dictado de la resolución apelada, aportan elementos relevantes para ponderar la situación puesta de manifiesto en las actuaciones, sin perder de vista el carácter preliminar de sus apreciaciones y que estas se sustentan, en lo sustancial, en los antecedentes relatados en la denuncia.
+En cuanto a la extensión temporal de la medida, el recurrente no aporta elementos concretos que permitan concluir que el plazo fijado resulte irrazonable frente a la situación denunciada y a la finalidad preventiva perseguida. Ello debe ponderarse, asimismo, a la luz del carácter cautelar de la protección dispuesta, sin perjuicio de la posibilidad de revisar su alcance ante una eventual modificación de las circunstancias que le dieron origen.
+Tampoco se advierte que la medida, en los términos en que fue dispuesta, implique necesariamente la prohibición de concurrir al establecimiento educativo o de intervenir en cuestiones relativas a la escolaridad del niño. Su objeto consiste en hacer cesar los actos de perturbación o intimidación respecto de la denunciante, por los distintos medios y ámbitos indicados, sin que ello equivalga, por sí solo, a una restricción general del ejercicio de la responsabilidad parental. En consecuencia, la eventual necesidad de mantener comunicaciones o realizar gestiones vinculadas con la vida escolar deberá canalizarse de manera compatible con la protección ordenada y con las restantes decisiones judiciales vigentes.
+En tales condiciones, el planteo relativo a una eventual afectación del vínculo paterno-filial no demuestra que la medida resulte improcedente o desproporcionada, toda vez que las cuestiones atinentes a la comunicación y al restablecimiento del vínculo con el niño exceden el objeto de estas actuaciones y deben abordarse en el ámbito judicial correspondiente. Del mismo modo, la limitación pretendida por el recurrente a una prohibición de contacto directo no contempla suficientemente la modalidad de los hechos denunciados, que habría consistido precisamente en publicaciones realizadas a través de redes sociales. Por lo que entiendo el recurso no puede prosperar.
+VII- En atención al resultado del recurso, las costas de Alzada se imponen al apelante vencido (art. 68, primer párrafo, del CPCC).
+VIII- Por ello, el Tribunal resuelve: Rechazar el recurso interpuesto por el denunciado y en consecuencia confirmar la resolución de primera instancia, con costas.
+NOTIFÍQUESE. REGÍSTRESE. DEVUÉLVASE.
+```
+
+---
+
+### ACT-22-10-2026. [RR-642-2026] G., V. C. C/ V., A. M. D. S/ ALIMENTOS
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - CAMPANA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `16466-E F`
+- **Fecha**: 22-10-2026
+- **Número de Registro**: `RR-642-2026`
+- **Código de Acceso SCBA**: `D8E59A07`
+- **Firmantes**: Funcionario: BARTOLOME ALEMAN Edgardo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 642-2026 - Código acceso: D8E59A07 - PUBLICO | Registrado por: DELLI QUADRI Priscila - Fecha registración: 22/10/2026 13:36
+
+#### Texto Íntegro
+```text
+Campana,
+Vistos :
+Para resolver en la causa n° 16466-E F , "G., V. C. c/ V., A. M. D. s/ Alimentos " , proveniente del Juzgado de Familia N° 2 de Zárate .
+Y Considerando:
+I- Contra la resolución que rechazó el pedido de intimación al requerido para que cancelara la totalidad de la deuda por aranceles escolares de sus tres hijos, y omitió pronunciarse sobre el pedido de utilizar la Canasta de Crianza del INDEC como parámetro de referencia para la fijación de la cuota alimentaria (01/10/2026), la requirente interpone recurso de revocatoria con apelación en subsidio (07/10/2026).
+II- Para así decidir, la juez de grado señaló que del convenio homologado en los autos principales no surgía que las partes hubieran acordado poner a cargo del Sr. V. el pago de las cuotas escolares, por lo que consideró que nada correspondía disponer al respecto. En su lugar, requirió a la progenitora que denunciara los datos de contacto pertinentes, con el objeto de posibilitar la intervención del Consejero de Familia.
+III- Al rechazar la revocatoria intentada, el juzgado mantuvo el criterio adoptado y concedió el recurso de apelación interpuesto en subsidio, en relación y con efecto devolutivo. En esa oportunidad, reiteró la conveniencia de la intervención del Consejero de Familia a los fines de abordar lo atinente a la deuda escolar (13/10/2026).
+IV- Entre los argumentos de la revocatoria -que hacen las veces de memorial- la requirente cuestiona que se haya desestimado la tutela cautelar solicitada por la sola circunstancia de que el convenio homologado no atribuyera expresamente al requerido el pago de las cuotas escolares. A su entender, ese razonamiento incurre en un excesivo rigorismo formal y prescinde de las circunstancias concretas del caso.
+Expone que la elección y matriculación de los niños en el Instituto Juan Ramón Jiménez para el ciclo lectivo en curso, habrían sido realizadas personalmente por el requerido, quien se habría contactado con el establecimiento, solicitado información sobre los aranceles, abonado la matrícula y asumido el pago de las cuotas mensuales. Sobre esa base, sostiene que desconocer dicha conducta resulta contrario a la doctrina de los propios actos.
+Por otra parte, denuncia que, durante una audiencia celebrada el 30/06/2026, el requerido le habría exigido que abandonara la vivienda familiar junto con los tres niños, ofreciéndole afrontar el pago de un alquiler. Afirma que, ante su negativa, aquel habría interrumpido deliberadamente el pago de los aranceles escolares como medio de presión para obtener el desalojo. En ese marco, invoca una situación de violencia económica, patrimonial y de género, por la cual se encuentra vigente una medida cautelar dictada el 03/07/2026, que dispuso contra el requerido la prohibición de acercamiento y el cese de todo tipo de contacto por el plazo de 120 días corridos (v. trámite del 13/10/2026).
+Finalmente, sostiene que carece de recursos suficientes para afrontar la deuda y advierte que la falta de regularización de los aranceles pone en riesgo la continuidad de la escolaridad de los niños.
+V- Cabe señalar que, llegados los autos ante este Tribunal, se remitieron las causas existentes entre las partes "ad effectum videndi et probandi" , recibiéndose las siguientes:
+"G., V. C. c/ V., A. M. D. s/ Alimentos", acumulada a autos (29/09/2026).
+"G., V. C. c/ V., A. M. D. s/ Cuidado Personal de Hijos (Electrónico)".
+De la compulsa de las actuaciones se desprende, con interés para la presente causa, en prieta síntesis, lo siguiente:
+Del expediente sobre cuidado personal de hijos surge que la requirente y el requerido iniciaron su relación en agosto de 2012, cuando ella tenía dieciséis años y él veintiocho. De esa unión nacieron M. A. el 15/10/2013 y L. el 05/10/2020.
+El 03/05/2022 la requirente promovió demanda relativa al cuidado personal de los niños, en la que puso de manifiesto la desigualdad de recursos existente entre ambos progenitores y destacó el valor económico de las tareas de cuidado como contribución alimentaria en especie.
+Posteriormente, el 08/09/2022, las partes arribaron a un acuerdo en audiencia ante el Consejero de Familia, que fue homologado judicialmente el 15/11/2022. En lo sustancial, convinieron el ejercicio compartido de la responsabilidad parental, con centro de vida de los niños en el domicilio materno; una cuota alimentaria a cargo del requerido equivalente al 30% de la totalidad de los ingresos que percibiera como empleado de TASA LOGÍSTICA S.A.; la adjudicación exclusiva y excluyente a la requirente de la vivienda y del local comercial de propiedad del requerido hasta que L. alcanzara la mayoría de edad; la continuidad de la inscripción de los niños en la obra social paterna; y un régimen amplio de comunicación, con encuentros en días alternos durante la semana y fines de semana por medio.
+Con posterioridad a ese acuerdo nació I., que actualmente tiene tres años, sin ser contemplada en la prestación alimentaria convenida respecto de sus hermanos.
+Por otra parte, la requirente invoca en estas actuaciones que la relación habría estado atravesada por episodios de violencia física y psicológica que motivaron denuncias penales y civiles contra el requerido (PP 18-01-2163/2022 ante la UFI N.º 4 de Escobar y Expte. N.º 75445 ante el Juzgado de Paz de Escobar). Según lo relatado, luego de la exclusión del requerido del hogar, la requirente y los niños habrían atravesado un período sin vivienda, hasta que, con la intervención de la Dirección de Políticas de Género y Niñez, lograron regresar al domicilio familiar.
+VI- Ingresando al análisis del recurso, corresponde determinar si resulta procedente intimar al requerido a regularizar la deuda escolar y, por otro lado, establecer como parámetro objetivo de referencia para la determinación de la cuota alimentaria la Canasta de Crianza del INDEC.
+En su presentación, la requirente solicitó, entre otras medidas, el incremento de la cuota alimentaria, la incorporación de los niños a la obra social, la cancelación de la deuda escolar existente y la utilización de la Canasta de Crianza del INDEC como parámetro objetivo de referencia. Fundó sus pretensiones en la insuficiencia de la cuota fijada en el convenio homologado, el nacimiento de la tercera hija, las necesidades dietarias particulares de M. A., el contexto de violencia de género invocado y el riesgo que la deuda escolar representa para la continuidad educativa de sus hijos (28/09/2026).
+El 01/10/2026 el juzgado rechazó el pedido de intimación relativo a la deuda escolar. Sin embargo, el 02/10/2026 hizo lugar parcialmente a las restantes pretensiones, elevando la cuota alimentaria al 37% de los ingresos del alimentante e intimándolo a incorporar a los niños a la obra social. Para así decidir, tuvo en cuenta la situación de salud de M. A., la falta de cobertura médica y la necesidad de adecuar la prestación a las circunstancias actuales del grupo familiar.
+Dicha decisión constituye un antecedente relevante para el presente análisis, en tanto el a quo entendió que las condiciones contempladas al celebrarse el convenio en 2022 habían variado considerablemente y que la prestación convenida ya no resultaba suficiente para atender adecuadamente las necesidades actuales de los hijos. Ese reconocimiento no puede soslayarse al examinar la deuda escolar, pues las razones que justificaron el aumento de la cuota alimentaria también comprenden la continuidad educativa de los niños.
+En efecto, de la comunicación emitida por el Instituto Juan Ramón Jiménez el 02/09/2026 surge que la deuda por los aranceles escolares de M. A., L. e I., correspondiente a los meses de junio, julio, agosto y septiembre del ciclo lectivo en curso, ascendía a $2.065.000, más los intereses por mora. Allí mismo, el establecimiento advirtió que la falta de regularización podría impedir la matriculación de los niños para el ciclo lectivo 2027 (v. trámite del 28/09/2026).
+La educación constituye un derecho fundamental de niños, niñas y adolescentes, expresamente reconocido por los arts. 28 y 29 de la CDN, cuya protección debe atender primordialmente a su interés superior (art. 3 del mismo instrumento). En consonancia con ello, el art. 659 del CCCN incluye la educación entre las necesidades comprendidas en la obligación alimentaria derivada de la responsabilidad parental. En tales condiciones, la deuda informada y la advertencia del establecimiento configuran un riesgo concreto para la continuidad educativa de los niños que exige una respuesta oportuna.
+Por otra parte, si bien la intervención del Consejero de Familia puede contribuir a abordar las cuestiones pendientes entre las partes, no neutraliza por sí misma el riesgo derivado de la deuda ni el de una eventual pérdida de las vacantes escolares. Supeditar la adopción de una medida a esa instancia podría demorar una respuesta necesaria para resguardar el derecho a la educación. Por ello, corresponde revocar en este aspecto la resolución apelada e intimar al requerido a cancelar la totalidad de los aranceles escolares adeudados.
+Por último, la requirente cuestionó la falta de pronunciamiento sobre la utilización de la Canasta de Crianza del INDEC como parámetro objetivo para la determinación de la cuota alimentaria. Dicho indicador contempla, para cada franja etaria, tanto el costo de los bienes y servicios esenciales como el valor económico del tiempo destinado a las tareas de cuidado. Su consideración permite contar con una referencia objetiva de los recursos necesarios para atender las necesidades de los niños.
+En ese marco, y teniendo en cuenta que el juzgado elevó la cuota alimentaria al 37% de los ingresos del requerido mediante resolución del 02/10/2026, corresponde mantener dicho porcentaje y establecer que la prestación no podrá ser inferior al importe que resulte de aplicar la Canasta de Crianza del INDEC correspondiente a la franja etaria de cada uno de los niños, conforme a los valores vigentes al momento de su determinación. De este modo, se procura que la prestación guarde una relación efectiva con las necesidades de los tres hijos y que su cuantía no quede desvinculada de los costos de crianza que el indicador refleja.
+VII- Las costas se imponen al requerido, en su carácter de alimentante (art. 68 del CPCC).
+VIII- Por todo lo expuesto, el Tribunal resuelve : 1) Hacer lugar al recurso de apelación interpuesto por la requirente y, en consecuencia, revocar la resolución del 01/10/2026 en cuanto desestimó la pretensión cautelar relativa al pago de las cuotas escolares y a la regularización de la deuda existente con el Instituto Juan Ramón Jiménez. Por lo que deberá el requerido proceder al pago y regularización de la deuda existente. 2) Mantener la cuota alimentaria fijada en el 37% de los ingresos del requerido, estableciendo que la misma no podrá ser inferior al importe que resulte de aplicar la Canasta de Crianza del INDEC correspondiente a la franja etaria de cada uno de los niños, conforme a los valores vigentes al momento de su determinación, con costas.
+REGÍSTRESE. NOTIFÍQUESE. DEVUÉLVASE.
+```
+
+---
 
 ### ACT-22-10-2026. [RR-641-2026] V., B. M. C/ F. P. G. I. S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR. LEY 12569. MOD. LEY 14509.-
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - CAMPANA
@@ -5412,6 +7006,92 @@ Notifíquese mediante el depósito del presente en el domicilio electrónico con
 ---
 
 ## CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - TRENQUE LAUQUEN (`idOrganismo: 774`)
+
+### ACT-23-10-2026. [RR-911-2026] P., R. A. S/BENEFICIO DE LITIGAR SIN GASTOS (FAMILIA)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - TRENQUE LAUQUEN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `96981`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-911-2026`
+- **Código de Acceso SCBA**: `4BA68809`
+- **Firmantes**: Funcionario: SOTO Andrés Antonio JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 911-2026 - Código acceso: 4BA68809 - PUBLICO | Registrado por: QUINTANA Maria Del Valle - Fecha registración: 23/10/2026 13:39
+
+#### Texto Íntegro
+```text
+Cámara de Apelación Civil y Comercial Trenque Lauquen
+Juzgado de origen: Juzgado de Paz de Daireaux
+Autos : " PAGANO, RUBEN ALBERTO S/BENEFICIO DE LITIGAR SIN GASTOS (FAMILIA) "
+Expte. 96981
+TRENQUE LAUQUEN, fecha según art. 7 Anexo Único AC 3975 de la SCBA
+AUTOS Y VISTOS : el recurso de apelación del 1/9/26 contra la regulación de honorarios del 28/8/26.
+CONSIDERANDO .
+Dentro del marco del presente proceso sobre beneficio de litigar sin gastos, la letrada V. Cardoso, se desempeñó como Defensora ad hoc, de la parte actora, a quien con fecha 28/8/26, el juzgado -valuando la labor llevada a cabo- le fijó como honorario la suma de 5 jus.
+La letrada cuestiona dicha resolución regulatoria por estimar exigua su retribución; en el mismo acto de interposición del recurso expone los motivos de su agravio, fundamenta sobre la labor desarrollada y la desproporción con la retribución fijada y cita jurisprudencia (puntos a) y b) de la presentación del 1/9/26; art. 57 de la ley 14967).
+Ahora bien; de la compulsa de las actuaciones se desprende que la Defensora designada hasta la sentencia que hizo lugar al beneficio de pobreza (28/8/26), contabilizó las tareas que se traducen a través de los trámites de fechas 20/5/26 -demanda-, 8/7/26 -presenta prueba- además de los trámites de iniciación (arts. 15.c. y 16 de la ley 14967).
+De modo que en concordancia con lo edictado por los ACS. 2341/89 y 3912/18 de la Suprema Corte de la Provincia de Buenos Aires, que fijan para la retribución a percibir por los abogados intervinientes como defensores y/o asesores oficiales (art. 91 de la ley 5827 -texto según ley 11593)- una escala de entre dos (2) y ocho (8) Jus ley 14.967, dentro de ese marco resulta más adecuado, elevar los estipendios y fijarlos en la suma de 7 jus ley 14967 (arg. art. 16 de la ley 14967; ACS. 2341 y 3912 de la SCBA). Con más las adiciones y/o retenciones que por ley correspondieren (arts. 12.a, 14 y 21 ley 6716).
+Por todo lo expuesto, la Cámara RESUELVE :
+Estimar el recurso del 1/9/26 y fijar los honorarios de la abog. V. Cardoso, como Defensora ad hoc, en la suma de 7 jus; con más las adiciones y/o retenciones que por ley correspondieren.
+Regístrese. Notifíquese automatizadamente (art. 10 AC 4013 t.o. por AC 4039), con transcripción del art. 54 de la ley 14967. Hecho devuélvase.
+ARTÍCULO 54 ley 14967 .-
+Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-23-10-2026. [RR-910-2026] RECURSO DE QUEJA EN AUTOS: BERGUES, MARCELO JUAN C/ ENTE AUTARQUICO DE DESARROLLO TERRITORIAL PEHUAJO S/QUEJA POR APELACION DENEGADA
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - TRENQUE LAUQUEN
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `96713`
+- **Fecha**: 23-10-2026
+- **Número de Registro**: `RR-910-2026`
+- **Código de Acceso SCBA**: `E12D24E4`
+- **Firmantes**: Funcionario: SOTO Andrés Antonio JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 910-2026 - Código acceso: E12D24E4 - PUBLICO | Registrado por: QUINTANA Maria Del Valle - Fecha registración: 23/10/2026 13:38
+
+#### Texto Íntegro
+```text
+Cámara de Apelación Civil y Comercial Trenque Lauquen
+Juzgado de origen: Juzgado de Paz de Pehuajó
+Autos: " RECURSO DE QUEJA EN AUTOS: BERGUES, MARCELO JUAN C/ ENTE AUTARQUICO DE DESARROLLO TERRITORIAL PEHUAJO S/QUEJA POR APELACION DENEGADA "
+Expte.: -96713-
+En la ciudad de Trenque Lauquen, provincia de Buenos Aires, en la fecha según art. 7 del Anexo Único del AC 3975, celebran telemáticamente Acuerdo los jueces de la Cámara de Apelación en lo Civil y Comercial Andrés Antonio Soto y Sebastián A. Martiarena, para dictar sentencia en los autos " RECURSO DE QUEJA EN AUTOS: BERGUES, MARCELO JUAN C/ ENTE AUTARQUICO DE DESARROLLO TERRITORIAL PEHUAJO S/QUEJA POR APELACION DENEGADA " (expte. nro. -96713- ), de acuerdo al orden de voto que surge del sorteo de fecha 22/10/2026 planteándose las siguientes cuestiones:
+PRIMERA : ¿Es procedente la queja traída?
+SEGUNDA : ¿Qué pronunciamiento corresponde emitir?.
+A LA PRIMERA CUESTION EL JUEZ SOTO DIJO :
+Por resolución del 8/6/2026 la magistrada señaló que la cuestión respecto de la base regulatoria propuesta y su impugnación, fue resuelta el 16/4/2026, habiéndose allí dispuesto la designación de un perito tasador requerido por el Ente Autárquico conforme lo dispone el art. 27 inc. a) de la ley 14.967, con lo cual debía estarse al estado procesal de autos.
+Frente a ello, la demandada se alzó con recurso de revocatoria con apelación en subsidio y nulidad (escrito del 15/6/2026), que fueron denegados; básicamente porque la resolución recurrida remite a otra que fue consentida, la del 16/4/2026 (res. del 17/6/2026).
+Y es ante esa denegatoria, que se interpone la presente queja.
+Esgrime el quejoso que el gravamen actual nació de un hecho procesal nuevo configurado en el mes de junio, ya que no podía apelar en abril una resolución que ordenaba un sorteo cuando la etapa de responder de la actora aún estaba corriendo.
+Pero no le asiste razón en su argumento, por lo que sigue:
+El 10/4/2026 se ordenó sustanciar la impugnación de la base regulatoria por él formulada; con fecha 15/4/2026 la actora sobre la base de esa impugnación y oposición, solicitó se designe perito tasador, y ello fue la antesala de la resolución del 16/4/2026 donde -bien que mal- expresa y claramente la magistrada de grado determinó el mecanismo por el cual se iba a resolver la incidencia de base regulatoria.
+Fue notificada automatizadamente a los interesados, como se aprecia en el sistema Augusta.
+De modo que la apelación interpuesta resultó inadmisible, ya que por efecto del principio de preclusión procesal, se impone en la jurisprudencia el criterio de considerar inapelable la decisión que es reiteración o remite a lo dispuesto en una anterior que se encuentra firme (arg. art. 244 del cód. proc.).
+Así tiene dicho este tribunal, en numerosos casos (v. esta cámara, sent. 21/9/2022 en la causa 93267, sent. del 21/9/2022, 'G., G. E. Y A. E. D. s/ divorcio por presentación conjunta (Inforec 927)'; causa 93267 sent. del 31/10/00, 'Okner, Marcelo Adrián y ot. s/ Quiebra", L. 29, Reg. 246; causa 90544, sent. del 7/2/2018, 'Fabert S.A. c/ El Corralon S.H. s/ Cobro Ejecutivo', L 47 Reg. 1, e/o).
+ASI LO VOTO.
+A LA MISMA CUESTION EL JUEZ MARTIARENA DIJO:
+Adhiero al voto del juez Soto (art. 266 del cód. proc.).
+A LA SEGUNDA CUESTION EL JUEZ SOTO DIJO:
+Corresponde desestimar la queja traída.
+TAL MI VOTO .
+A LA MISMA CUESTION EL JUEZ MARTIARENA DIJO:
+Que adhiere al voto emitido en primer término al ser votada esta cuestión.
+CON LO QUE TERMINO EL ACUERDO, DICTANDOSE LA SIGUIENTE:
+S E N T E N C I A
+Por lo que resulta del precedente Acuerdo, la Cámara RESUELVE :
+Desestimar la queja traída.
+Regístrese. Notifíquese de acuerdo al art. 10 AC 4013 t.o. AC 4039. Hecho, archívese.
+```
+
+---
 
 ### ACT-23-10-2026. [RR-908-2026] IBAÑEZ ELSA ESTER S/ SUCESION AB-INTESTATO
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - TRENQUE LAUQUEN

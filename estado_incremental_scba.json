@@ -1,5 +1,5 @@
 {
-  "ultimaEjecucion": "2026-10-24T22:50:24.188Z",
+  "ultimaEjecucion": "2026-10-24T22:51:03.448Z",
   "juzgado7": {
     "nuevasSentencias": 0,
     "nuevasResoluciones": 0,
@@ -11,8 +11,8 @@
     "totalRegistrados": 465
   },
   "camarasPBA": {
-    "nuevosFallos": 44,
-    "totalRegistrados": 556
+    "nuevosFallos": 33,
+    "totalRegistrados": 589
   },
   "arquitecturaCognitivaArxiv": {
     "nuevosPapers": 0,
@@ -56,27 +56,27 @@
     "03_Camaras_PBA_Parte": [
       {
         "archivo": "03_Camaras_PBA_Parte1.md",
-        "palabras": 366701,
-        "palabrasEstricto": 377005,
-        "fallos": 142
+        "palabras": 368477,
+        "palabrasEstricto": 378695,
+        "fallos": 144
       },
       {
         "archivo": "03_Camaras_PBA_Parte2.md",
-        "palabras": 368109,
-        "palabrasEstricto": 378277,
-        "fallos": 118
+        "palabras": 369000,
+        "palabrasEstricto": 379116,
+        "fallos": 115
       },
       {
         "archivo": "03_Camaras_PBA_Parte3.md",
-        "palabras": 369532,
-        "palabrasEstricto": 378200,
-        "fallos": 187
+        "palabras": 369173,
+        "palabrasEstricto": 378208,
+        "fallos": 182
       },
       {
         "archivo": "03_Camaras_PBA_Parte4.md",
-        "palabras": 202229,
-        "palabrasEstricto": 206308,
-        "fallos": 109
+        "palabras": 256246,
+        "palabrasEstricto": 261374,
+        "fallos": 148
       }
     ]
   }
