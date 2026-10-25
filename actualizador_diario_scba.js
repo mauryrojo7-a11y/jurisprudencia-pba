@@ -37,6 +37,9 @@ const {
 const {
   generarTodasLasParticiones
 } = require("./particionador_corpus_scba");
+const {
+  main: sellarBovedaCifrada
+} = require("./boveda_cifrada_aes256");
 
 const ROOT_DIR = __dirname;
 const LOGS_DIR = path.join(ROOT_DIR, "logs");
@@ -737,6 +740,13 @@ async function main() {
       palabrasEstricto: p.strictWords,
       fallos: p.fallosCount
     }));
+  }
+
+  try {
+    log("Actualizando sellado SHA-256 y bóveda cifrada AES-256-GCM...");
+    sellarBovedaCifrada();
+  } catch (e) {
+    log(`[Aviso Bóveda AES-256-GCM] ${e.message}`);
   }
 
   const estadoGlobal = {

@@ -1,3 +1,5 @@
 node_modules/
 logs/
 *.log
+boveda_seguridad/*.key
+boveda_seguridad/*.aes256gcm
