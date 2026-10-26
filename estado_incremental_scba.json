@@ -1,5 +1,5 @@
 {
-  "ultimaEjecucion": "2026-10-24T22:51:03.448Z",
+  "ultimaEjecucion": "2026-10-26T18:18:31.189Z",
   "juzgado7": {
     "nuevasSentencias": 0,
     "nuevasResoluciones": 0,
@@ -11,12 +11,17 @@
     "totalRegistrados": 465
   },
   "camarasPBA": {
-    "nuevosFallos": 33,
-    "totalRegistrados": 589
+    "nuevosFallos": 47,
+    "totalRegistrados": 636
   },
   "arquitecturaCognitivaArxiv": {
-    "nuevosPapers": 0,
-    "totalRegistrados": 60
+    "nuevosPapers": 15,
+    "totalRegistrados": 75
+  },
+  "supremaCorteSCBA": {
+    "nuevasSentencias": 0,
+    "nuevasResoluciones": 18,
+    "totalRegistrados": 487
   },
   "particionesNotebookLM": {
     "01_Juzgado_Parte": [
@@ -56,37 +61,54 @@
     "03_Camaras_PBA_Parte": [
       {
         "archivo": "03_Camaras_PBA_Parte1.md",
-        "palabras": 368477,
-        "palabrasEstricto": 378695,
-        "fallos": 144
+        "palabras": 366716,
+        "palabrasEstricto": 376835,
+        "fallos": 151
       },
       {
         "archivo": "03_Camaras_PBA_Parte2.md",
-        "palabras": 369000,
-        "palabrasEstricto": 379116,
-        "fallos": 115
+        "palabras": 362786,
+        "palabrasEstricto": 373705,
+        "fallos": 124
       },
       {
         "archivo": "03_Camaras_PBA_Parte3.md",
-        "palabras": 369173,
-        "palabrasEstricto": 378208,
-        "fallos": 182
+        "palabras": 370625,
+        "palabrasEstricto": 378568,
+        "fallos": 161
       },
       {
         "archivo": "03_Camaras_PBA_Parte4.md",
-        "palabras": 256246,
-        "palabrasEstricto": 261374,
-        "fallos": 148
+        "palabras": 370529,
+        "palabrasEstricto": 379493,
+        "fallos": 194
+      },
+      {
+        "archivo": "03_Camaras_PBA_Parte5.md",
+        "palabras": 3639,
+        "palabrasEstricto": 3659,
+        "fallos": 6
+      }
+    ],
+    "05_SCBA_Parte": [
+      {
+        "archivo": "05_SCBA_Parte1.md",
+        "palabras": 367083,
+        "palabrasEstricto": 378402,
+        "fallos": 70
+      },
+      {
+        "archivo": "05_SCBA_Parte2.md",
+        "palabras": 362118,
+        "palabrasEstricto": 378091,
+        "fallos": 140
+      },
+      {
+        "archivo": "05_SCBA_Parte3.md",
+        "palabras": 329804,
+        "palabrasEstricto": 345376,
+        "fallos": 277
       }
     ]
-  },
-  "sincronizacionNube": {
-    "googleDriveLocal": null,
-    "rclone": null,
-    "githubPush": {
-      "ok": true,
-      "remote": "https://github.com/mauryrojo7-a11y/jurisprudencia-pba.git",
-      "changesCommitted": true
-    }
   }
 }

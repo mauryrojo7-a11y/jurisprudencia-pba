@@ -1,6 +1,6 @@
 # CORPUS VIVO: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 DE AVELLANEDA Y CÁMARA DE APELACIÓN DE AVELLANEDA-LANÚS (SCBA)
 
-- **Actualización Automática**: 2026-10-24T22:51:01.459Z
+- **Actualización Automática**: 2026-10-26T18:18:28.812Z
 - **Juzgado de Primera Instancia**: Juzgado en lo Civil y Comercial N° 7 de Avellaneda (`idOrganismo: 3659` - Dr. Martín Alfredo Botassi)
 - **Alzada Departamental Directa**: Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (`idOrganismo: 4157`)
 - **Fuente Oficial en Tiempo Real**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
@@ -12,7 +12,7 @@
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA (`idOrganismo: 3659`)
 - **Juez Titular**: Dr. Martín Alfredo Botassi
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` (Suprema Corte de Justicia de la Provincia de Buenos Aires)
-- **Fecha de Extracción**: 2026-10-24
+- **Fecha de Extracción**: 2026-10-26
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`: 129) y Resoluciones Interlocutorias recientes (`RR`) con Carátula, N° de Causa, Fecha, N° de Registro, Código de Acceso y Texto Íntegro.
 
 ---
@@ -25472,7 +25472,7 @@ b) reclamar los honorarios regulados convertidos al momento de la mora en moneda
 - **Organismo Principal**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - AVELLANEDA / LANUS (`idOrganismo: 4157`)
 - **Alzada Residual en causas `AL-...` preexistentes**: Cámara de Apelación en lo Civil y Comercial de Lomas de Zamora - Salas I (`312`), II (`313`) y III (`2063`)
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
-- **Fecha de Extracción**: 2026-10-24
+- **Fecha de Extracción**: 2026-10-26
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`) y Resoluciones Interlocutorias (`RR`) de la Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (`ID 4157`), más Sentencias Definitivas recientes dictadas en causas del Departamento Judicial Avellaneda-Lanús (`AL-...`) por su Alzada histórica.
 
 ---

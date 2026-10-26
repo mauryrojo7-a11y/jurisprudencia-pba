@@ -17,7 +17,7 @@
 <ul>
 <li><strong>Repositorio</strong>: <code>mauryrojo7-a11y/jurisprudencia-pba</code></li>
 <li><strong>Fuente Científica en Tiempo Real</strong>: API Oficial de arXiv (<code>https://export.arxiv.org/api/query</code> — Categorías <code>cs.AI</code>, <code>cs.CL</code>, <code>cs.LG</code>)</li>
-<li><strong>Última Actualización Automática</strong>: 2026-10-24</li>
+<li><strong>Última Actualización Automática</strong>: 2026-10-26</li>
 <li><strong>Ejes Monitoreados Diariamente</strong>:</li>
 </ul>
 <p>  1. <strong>Test-Time Compute &amp; Inference-Time Scaling</strong></p>
@@ -38,6 +38,73 @@
 <p>   - Separar cognitivamente la fase de <strong>Recuperación</strong> (búsqueda exhaustiva de precedentes aplicables), la fase de <strong>Deliberación</strong> (comparación entre el criterio propio del Juzgado N° 7 y el de la Alzada de Avellaneda-Lanús) y la fase de <strong>Proyección y Crítica</strong> (redacción bajo Ac. 3975/20 SCBA seguida de revisión formal de congruencia conforme arts. 34 inc. 4 y 163 CPCCBA).</p>
 <hr>
 <h2>EJE: TEST-TIME COMPUTE &amp; INFERENCE-TIME SCALING</h2>
+<h3>[arXiv:2610.32679] When is more search useful? An Empirical Study of Search Utility in Quality-Aware Decoding for Machine Translation</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32679</code> (2610.32679v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.CL</code></li>
+<li><strong>Eje Cognitivo</strong>: Test-Time Compute &amp; Inference-Time Scaling</li>
+<li><strong>Autores</strong>: Javier Garcia Gilabert, Rico Sennrich, André F. T. Martins</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32679)](https://arxiv.org/abs/2610.32679) | [PDF (https://arxiv.org/pdf/2610.32679.pdf)](https://arxiv.org/pdf/2610.32679.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Quality-Aware Decoding (QAD) improves machine translation through test-time scaling, generating multiple candidate translations and selecting the final output with a quality-aware decoder. Usually the same candidate budget N is spent on every source sentence, assuming that all inputs require the same amount of search. We show that this assumption does not hold and that the quality gain obtained from additional candidates varies across sentences. We study search utility through three quantities: total scaling gain, how much quality a sentence can gain from a much larger candidate pool; marginal scaling gain, the expected gain from generating one additional batch of candidates; and the sampling saturation point, the candidate budget required to realize most of the total scaling gain. We investigate two sources of information for predicting these quantities: signals available before candidate-set expansion, and statistics computed from the candidate pool accumulated during search. We find that sentence-level signals correlate with total scaling gain but are less informative about the sampling saturation point. In contrast, properties of the current candidate pool provide useful signals of marginal scaling gain. Finally, we show that these signals can identify sentences that obtain larger gains when additional search is selectively applied.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Test-Time Compute &amp; Inference-Time Scaling]</strong>: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.</p>
+<p>  2. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  3. <strong>[Búsqueda Deliberativa y Consenso Interno]</strong>: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.</p>
+<hr>
+<h3>[arXiv:2610.32235] Correct but Unselectable: The Hidden Interface Tax in Multi-Candidate Reasoning</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32235</code> (2610.32235v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.LG</code></li>
+<li><strong>Eje Cognitivo</strong>: Test-Time Compute &amp; Inference-Time Scaling</li>
+<li><strong>Autores</strong>: Qianli Ma, Zhiqing Tang, Fanshuai Meng, Zhi Yao, Hanshuai Cui, Weijia Jia</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32235)](https://arxiv.org/abs/2610.32235) | [PDF (https://arxiv.org/pdf/2610.32235.pdf)](https://arxiv.org/pdf/2610.32235.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Small language models deployed under cost, latency, or privacy constraints cannot simply switch to larger models when reasoning fails. Multi-candidate generate-then-rerank offers a natural test-time scaling route. However, more candidates do not always yield higher accuracy. We identify a previously overlooked bottleneck between generation and selection: a correct answer may appear in the candidate pool yet fail to be selected because it is incomplete, unparseable, or misaligned with the answer mode the fixed selector expects. We term this loss the hidden interface tax and formalize a coverage-conversion decomposition that distinguishes raw oracle coverage from selectable coverage, the subset of problems where a correct candidate can actually be consumed by the selector. We propose Compatibility-Aware Candidate Construction (CACC), an interface layer between the candidate source and the fixed selector that repairs fragments, aligns answer modes, and removes selector-confusing noise without retraining either component. On numeric reasoning (GSM8K, competition_math), CACC raises both oracle coverage and final accuracy. On GPQA Diamond, CACC alone improves final accuracy from 5.6% to 19.2% (+13.6 pp); combined with proposer-side strengthening it reaches 25.8% (+20.2 pp). On MMLU-Pro, CACC exposes a coverage-conversion gap: answer-mode-compatible construction raises oracle coverage, but final accuracy decreases by 0.85 pp under the original selector; adding proposer-side strengthening improves final accuracy.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Test-Time Compute &amp; Inference-Time Scaling]</strong>: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.</p>
+<p>  2. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  3. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  4. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<hr>
+<h3>[arXiv:2610.32013] MAGIC: Margin-gated Contrastive Debiasing with Evidence Restoration for VLM Test-time Robustness Scaling</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32013</code> (2610.32013v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.CV</code>, <code>cs.LG</code></li>
+<li><strong>Eje Cognitivo</strong>: Test-Time Compute &amp; Inference-Time Scaling</li>
+<li><strong>Autores</strong>: Shunshun Gu, Enze Zhang, Ming Pei, Hang Zhou, Xiao Luo</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32013)](https://arxiv.org/abs/2610.32013) | [PDF (https://arxiv.org/pdf/2610.32013.pdf)](https://arxiv.org/pdf/2610.32013.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; This paper studies the problem of test-time robustness scaling for large vision-language models (LVLMs), which aims to mitigate language bias during inference. Existing approaches typically adopt test-time scaling techniques such as contrastive decoding to improve inference performance. Despite the progress, the performance of these approaches is far from satisfactory due to intentional evidence removal during perturbations and redundant inference cost. Towards this end, we propose a novel approach named Margin-gated Contrastive Debiasing with Evidence Restoration (MAGIC). The core of our MAGIC is to evaluate the decision margins of LVLMs to selectively activate textual and visual perturbation branches for efficient debiased inference. In particular, our MAGIC first measures the prediction margins of crucial tokens, and applies a gating function to identify low-confidence responses that are susceptible to language biases. For selected samples, we integrate the token logits from multiple textual and image perturbation branches with the original ones for debiased decision. More importantly, we selectively restore the most informative corrupted views with sharp prediction distributions for ambiguous samples after debiasing, enabling evidence recovery for discriminative decision-making. We further utilize a calibration dataset to actively identify and prune ineffective branches during contrastive debiasing for cost reduction. Extensive experiments on benchmark datasets validate the effectiveness of the proposed MAGIC in comparison with extensive baselines.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Test-Time Compute &amp; Inference-Time Scaling]</strong>: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.</p>
+<p>  2. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  3. <strong>[Trazabilidad y Explicabilidad Técnica]</strong>: Explicitar los fundamentos y pasos de derivación desde los datos de entrada hasta la conclusión dispositiva, garantizando auditabilidad completa del razonamiento.</p>
+<hr>
+<h3>[arXiv:2610.31889] Scaling Transformer Energy-based Models For High Quality Image Synthesis</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.31889</code> (2610.31889v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-22</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.LG</code>, <code>cs.CV</code></li>
+<li><strong>Eje Cognitivo</strong>: Test-Time Compute &amp; Inference-Time Scaling</li>
+<li><strong>Autores</strong>: Jungsoo Lee, Alexi Gladstone, Yilun Du</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.31889)](https://arxiv.org/abs/2610.31889) | [PDF (https://arxiv.org/pdf/2610.31889.pdf)](https://arxiv.org/pdf/2610.31889.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Energy-Based Models (EBMs) are a flexible class of generative models that decouple probabilistic modeling from the generation process. This decoupling directly enables compositional generation and inference-time scaling, where sample quality can be refined simply by increasing sampling steps. However, severe challenges in high-dimensional sampling and training instabilities with deep architectures have restricted EBMs to low-dimensional regimes. To resolve these bottlenecks, we introduce the Transformer Energy-Based Model (TEM), a scalable transformer energy function operating entirely within a latent space. On top of this backbone, we extract energies at multiple layers and sum them, composing complementary constraints from local texture to global semantics. Furthermore, two components make this high-quality at scale: Positive Representation Alignment (PRA), which supervises TEM's intermediate representations with a vision foundation model, and advanced sampling strategies that improve sample quality at inference. TEM-XL achieves an FID-50K of 3.82 on class-conditional ImageNet 256$\times$256 without classifier-free guidance, showing that a contrastive EBM can generate high-fidelity images. On ImageNet 512$\times$512, TEM achieves an FID-50K of 8.24, demonstrating that the approach scales to higher resolution. We further validate the core promises of EBMs: compositional generation, zero-shot inpainting, and out-of-distribution detection.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Test-Time Compute &amp; Inference-Time Scaling]</strong>: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.</p>
+<p>  2. <strong>[Supervisión Granular por Pasos (Step-Level PRM)]</strong>: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.</p>
+<p>  3. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  4. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<p>  5. <strong>[Búsqueda Deliberativa y Consenso Interno]</strong>: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.</p>
+<hr>
 <h3>[arXiv:2610.31667] Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning</h3>
 <ul>
 <li><strong>arXiv ID</strong>: <code>2610.31667</code> (2610.31667v1)</li>
@@ -444,6 +511,89 @@
 <p>  5. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
 <hr>
 <h2>EJE: REASONING IN LLMS (DELIBERATIVE, CHAIN-OF-THOUGHT &amp; SELF-VERIFICATION)</h2>
+<h3>[arXiv:2610.32627] LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32627</code> (2610.32627v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.AI</code></li>
+<li><strong>Eje Cognitivo</strong>: Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)</li>
+<li><strong>Autores</strong>: Zenghui Zhou, Xiaoke Fang, Zheng Zheng</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32627)](https://arxiv.org/abs/2610.32627) | [PDF (https://arxiv.org/pdf/2610.32627.pdf)](https://arxiv.org/pdf/2610.32627.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Large Language Models (LLMs) increasingly serve as reasoning components in modern software systems, yet a model that answers a logical query correctly can contradict itself when the same problem is restated in an equivalent form. Static benchmarks evaluate queries in isolation and therefore fail to expose such inconsistencies. To address this limitation, we present LGMT, an open-source tool that detects reasoning inconsistencies through metamorphic relations grounded in first-order logic. Given a source test case in premise-conclusion form, LGMT generates logically equivalent follow-up cases and checks whether the model's entailment predictions agree across the pair, without ground-truth labels. The tool provides 20 built-in metamorphic relations, supports custom ones verified by the Z3 theorem prover, and runs from a CLI or a web studio, including an offline mock mode requiring no API key. Across six widely used LLMs on a bundled benchmark of 3,091 metamorphic groups, LGMT reveals inconsistency rates ranging from 20.84% to 29.44%. LGMT is publicly available on GitHub at https://github.com/MaxwelsDonc/lgmt-tool, with a demonstration video at https://youtu.be/gou4opptu1U.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)]</strong>: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.</p>
+<p>  2. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  3. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<hr>
+<h3>[arXiv:2610.32474] Beyond Post-Hoc Rewards: Privileged Reasoning Exploration for Multimodal Embeddings</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32474</code> (2610.32474v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.AI</code>, <code>cs.CL</code></li>
+<li><strong>Eje Cognitivo</strong>: Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)</li>
+<li><strong>Autores</strong>: Tianyu Yang, Yijun Tian, Lars Benedikt Kaesberg, Jan Philip Wahle, Bela Gipp, Terry Ruas et al.</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32474)](https://arxiv.org/abs/2610.32474) | [PDF (https://arxiv.org/pdf/2610.32474.pdf)](https://arxiv.org/pdf/2610.32474.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Advances in Multimodal Large Language Models (MLLMs) have driven substantial progress in multimodal embeddings. Recent methods exploit generative capabilities by augmenting embedded inputs with self-generated reasoning to produce more informative embeddings. However, conventional retrieval supervision for training embedding models specifies pairwise relevance relations without explicitly guiding the reasoning used for input augmentation. Such reasoning is neither directly observed nor uniquely determined by the input, allowing multiple plausible traces to introduce semantic cues of varying retrieval utility. Existing approaches largely optimize reasoning conditioned on the input alone, limiting the exploration of retrieval-relevant traces. We introduce PILOT, a framework that models reasoning as a latent variable and instantiates its prior and posterior distributions as distinct reasoning modes of a shared MLLM. The prior conditions only on the input, whereas the posterior uses additional training-time relational evidence to guide reasoning exploration. To translate the posterior's broader exploration into inference-time improvements, we derive an importance-weighted variational objective and instantiate it as a prior-posterior co-evolution framework that improves both modes under a shared inference-compatible reward while selectively transferring posterior trajectories to the prior according to their utility and prior reachability. On the 78-task MMEB-V2 benchmark, PILOT outperforms the primary baseline across all 12 task groups at both 2B and 7B parameters, improving overall scores by 3.2 and 3.3 points, respectively, with the largest gains in visual-document retrieval (+6.1 and +6.4 points). Our results show that relational supervision is most valuable not as a post-hoc reward but as a signal for shaping how reasoning is explored in training reasoning-enhanced embedding models.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)]</strong>: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.</p>
+<p>  2. <strong>[Trazabilidad y Explicabilidad Técnica]</strong>: Explicitar los fundamentos y pasos de derivación desde los datos de entrada hasta la conclusión dispositiva, garantizando auditabilidad completa del razonamiento.</p>
+<hr>
+<h3>[arXiv:2610.32308] Solvent: Long-Horizon Reasoning for Multi-Step Retrosynthesis</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32308</code> (2610.32308v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.AI</code></li>
+<li><strong>Eje Cognitivo</strong>: Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)</li>
+<li><strong>Autores</strong>: Yifei Wang, Botian Wang, YiFei Wang, Jiangtao Feng, Xinbo Zhang, Yawen Ouyang et al.</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32308)](https://arxiv.org/abs/2610.32308) | [PDF (https://arxiv.org/pdf/2610.32308.pdf)](https://arxiv.org/pdf/2610.32308.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Multi-step retrosynthesis requires recursively transforming a target molecule through successive reaction steps into purchasable building blocks, and recent work has begun to draw on large language model (LLM) reasoning to tackle the task. In its latest evolution, LLM reasoning has entered the long-horizon regime: models pursue objectives across interdependent steps, interact with environments, and adapt to feedback. This shift has markedly advanced LLM capabilities, as illustrated by breakthroughs in AI-driven mathematical research. At this frontier, we introduce Solvent, an 8B LLM that successfully extends long-horizon reasoning to multi-step retrosynthesis. Through a two-round post-training curriculum, Solvent learns to interleave iterative synthesis planning, external availability verification, and adaptive route revision. Experiments show that, following a $2.1\times$ performance boost from RL, Solvent scores 61.86% across four benchmarks, surpassing mid-scale language models and prior search-based retrosynthesis systems, and rivaling frontier trillion-parameter LLMs.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)]</strong>: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.</p>
+<p>  2. <strong>[Protocolo de Verificación Intrínseca]</strong>: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.</p>
+<p>  3. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  4. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  5. <strong>[Búsqueda Deliberativa y Consenso Interno]</strong>: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.</p>
+<hr>
+<h3>[arXiv:2610.32055] How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32055</code> (2610.32055v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.CL</code>, <code>cs.LG</code></li>
+<li><strong>Eje Cognitivo</strong>: Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)</li>
+<li><strong>Autores</strong>: Anxin Guo, Chirag Pabbaraju, Sara Ahmadian, Kamesh Munagala, Aravindan Vijayaraghavan</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32055)](https://arxiv.org/abs/2610.32055) | [PDF (https://arxiv.org/pdf/2610.32055.pdf)](https://arxiv.org/pdf/2610.32055.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Large language models (LLMs) often exhibit sycophancy, altering their answers to align with user suggestions even on objective factual and reasoning tasks. Yet the quantitative form of this influence--- and whether it is calibrated to source reliability--- remains poorly understood. In this work, we investigate this behavior through hint-induced answer shifts on MMLU questions, evaluating prompts of the form ``[Source] thinks the answer is (X)''. We systematically vary the source to which the hint is attributed (a professor, a friend, or a dog) across three open-source model families, Qwen, Gemma, and SmolLM. We show that the change induced by the hint follows a predictable structure well-characterized by an exponential tilt: the hint induces an approximately constant mean shift in the hinted answer's log-odds, with question--target susceptibility largely shared across sources. To explore how this pattern can arise, we introduce a formal decomposition of the hint response and illustrate in controlled synthetic experiments how KL-regularized reward-based training reshapes both hinted and unhinted answer distributions. Finally, we evaluate whether this shift is calibrated to source reliability, finding that the log-odds shift persists even when the hint-giver is declared inaccurate or accompanied by explicit warnings not to trust the source, highlighting the vulnerability of LLMs to adversarial steering.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)]</strong>: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.</p>
+<p>  2. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  3. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<hr>
+<h3>[arXiv:2610.32022] CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32022</code> (2610.32022v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.AI</code>, <code>cs.RO</code></li>
+<li><strong>Eje Cognitivo</strong>: Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)</li>
+<li><strong>Autores</strong>: Ziya Hosseynzadeh, Farjad Fallah, Farnoosh Fallah, Soroush Gooran, Mohammad Amanloo, Hossein Sameti</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32022)](https://arxiv.org/abs/2610.32022) | [PDF (https://arxiv.org/pdf/2610.32022.pdf)](https://arxiv.org/pdf/2610.32022.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals. Research has increasingly focused on two notable paradigms for addressing this task: structured symbolic reasoning and multimodal input enrichment. However, it remains unclear whether enrichment-based methods provide benefit in settings where the ambiguity concerns unstated human intent rather than missing observable scene information. In this paper, we present a comparative and diagnostic study benchmarking FISER - a framework utilizing structured social and embodied reasoning - against CEMIR (Context-Enriched Multimodal Intent Recognition), a method that performs multimodal enrichment by synthesizing narratives and photorealistic images from textual prompts. By evaluating both approaches across four Large Language Models (LLMs), ranging from Qwen2.5-Omni-3B to GPT-5, on the HandMeThat v2 benchmark, we analyze their capability to resolve pragmatic ambiguities. Our statistical analysis, employing multiple-comparison correction, reveals no statistically significant difference in performance between FISER and CEMIR across any model or difficulty level. This pattern holds across all sixteen model-by-difficulty comparisons, as well as in a targeted ablation isolating CEMIR's narrative and visual components. Instead, performance is primarily associated with backbone capability and the inherent difficulty of the ambiguity. These findings suggest a boundary condition for text-derived multimodal enrichment: when the relevant task constraints are already available in the textual instruction, synthetic multimodal augmentation may not provide measurable benefit over structured reasoning on the same text.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought &amp; Self-Verification)]</strong>: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.</p>
+<p>  2. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  3. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  4. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<p>  5. <strong>[Búsqueda Deliberativa y Consenso Interno]</strong>: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.</p>
+<hr>
 <h3>[arXiv:2610.31376] Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action</h3>
 <ul>
 <li><strong>arXiv ID</strong>: <code>2610.31376</code> (2610.31376v1)</li>
@@ -642,6 +792,55 @@
 <p>  4. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
 <hr>
 <h2>EJE: PROMPT ENGINEERING, META-PROMPTING &amp; IN-CONTEXT OPTIMIZATION</h2>
+<h3>[arXiv:2610.32443] Decoupling Patient Personas and Clinical Workflows: A Dual-Agent Approach to Realistic Medical Dialogue Generation</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32443</code> (2610.32443v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.CL</code>, <code>cs.AI</code>, <code>cs.LG</code></li>
+<li><strong>Eje Cognitivo</strong>: Prompt Engineering, Meta-Prompting &amp; In-Context Optimization</li>
+<li><strong>Autores</strong>: Qiyuan Li, Xiaomei Guo, Chao Gao, Haijiang Liu, Deyu Chen, Caicai Guo et al.</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32443)](https://arxiv.org/abs/2610.32443) | [PDF (https://arxiv.org/pdf/2610.32443.pdf)](https://arxiv.org/pdf/2610.32443.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Pre-consultation medical dialogues are essential for collecting comprehensive patient information, but are costly to obtain at scale due to privacy and ethical constraints. Existing LLM-based synthesis methods often rely on prompt engineering or rigid rules, limiting their ability to balance clinical relevance with realistic patient diversity. We propose CoRPS-Dial, a controllable dual-agent framework for pre-consultation medical dialogue synthesis that integrates patient personas with guideline-aligned clinical workflow rules. CoRPS-Dial generates dialogues through interactions between a persona-driven patient agent and a process-guided doctor agent, followed by post-hoc quality control for role consistency, workflow completeness, and textual consistency. Experiments on coronary heart disease demonstrate that CoRPS-Dial improves alignment between synthetic and real dialogues in information coverage, clinical compliance, and dialogue naturalness. Downstream fine-tuning experiments further confirm the utility of the generated synthetic data for medical dialogue tasks. These results highlight the effectiveness of CoRPS-Dial for clinically grounded and controllable medical dialogue synthesis.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Prompt Engineering, Meta-Prompting &amp; In-Context Optimization]</strong>: Anclar el contexto mediante restricciones explícitas de formato, ejemplos verificados en contexto (few-shot grounding), delimitación estricta de fuentes autorizadas y descomposición modular de instrucciones.</p>
+<p>  2. <strong>[Supervisión Granular por Pasos (Step-Level PRM)]</strong>: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.</p>
+<p>  3. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  4. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<hr>
+<h3>[arXiv:2610.32073] Guided Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring: Context, Categorization, and Spatial Localization</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.32073</code> (2610.32073v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-23</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.CV</code>, <code>cs.AI</code></li>
+<li><strong>Eje Cognitivo</strong>: Prompt Engineering, Meta-Prompting &amp; In-Context Optimization</li>
+<li><strong>Autores</strong>: Mulugeta Weldezgina Asres, Lei Jiao, Christian Walter Omlin</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.32073)](https://arxiv.org/abs/2610.32073) | [PDF (https://arxiv.org/pdf/2610.32073.pdf)](https://arxiv.org/pdf/2610.32073.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Despite the promising development of deep learning for video anomaly detection (VAD), explainability (XAI) of these models remains a challenge. Explainable and privacy-protecting VAD builds transparency and trust that facilitates adoption of computer vision systems, including safety and security monitoring. However, anomaly explainability in privacy-preserving VAD systems is underexplored. In this study, we present the XAVAD approach, a unified descriptive anomaly XAI for an anonymized VAD, that integrates flexible zero-shot anonymization, anomaly type categorization, visual localization, and scene context description. We provide empirical and qualitative assessments of multifaceted explanations integrated with full-body visual anonymization for privacy protection. We adopt a multimodal CLIP embedding for videos, using improved LLM-assisted prompting and pool-scoring mechanisms for anomaly-type identification. We enhance Grad-ECLIP for spatial anomaly heatmap localization, leveraging computation and accuracy through our novel prompt-guided patching autofocus mechanism. We employ VLMs to generate context and reasoning descriptions of detected anomalies through curated prompt engineering. We have evaluated the accuracy and computational cost of XAVAD on several publicly available CCTV and video datasets. Our experiments demonstrate substantial gains of our XAVAD over state-of-the-art benchmark approaches and provide insights into privacy protection trade-offs in XAI for VAD. We further present ablation studies and assessments across diverse configurations and modeling alternatives to demonstrate the efficacy of our proposed methods. Code: https://github.com/muleina/XAVAD}{https://github.com/muleina/XAVAD .</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Prompt Engineering, Meta-Prompting &amp; In-Context Optimization]</strong>: Anclar el contexto mediante restricciones explícitas de formato, ejemplos verificados en contexto (few-shot grounding), delimitación estricta de fuentes autorizadas y descomposición modular de instrucciones.</p>
+<p>  2. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  3. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<hr>
+<h3>[arXiv:2610.31972] Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.31972</code> (2610.31972v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-22</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.AI</code></li>
+<li><strong>Eje Cognitivo</strong>: Prompt Engineering, Meta-Prompting &amp; In-Context Optimization</li>
+<li><strong>Autores</strong>: Prabal Vashisht, Zheng Hu, Ying Yang</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.31972)](https://arxiv.org/abs/2610.31972) | [PDF (https://arxiv.org/pdf/2610.31972.pdf)](https://arxiv.org/pdf/2610.31972.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it describes moves on. We present an offline evaluation harness for a production conversational agent that stays reproducible despite the live data it operates on changing, and that can be regenerated on demand once it goes stale. We then use this harness as the fitness function for GEPA-based prompt optimization under a correctness gate that guards against reward hacking. Applied to a production merchant-facing agent, correctness-gated compression shrinks the agent's full prompt surface by 3.5-7.6% without regressing held-out task correctness, consistently across three independent subject-model families, and for one, correctness measurably improves.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Prompt Engineering, Meta-Prompting &amp; In-Context Optimization]</strong>: Anclar el contexto mediante restricciones explícitas de formato, ejemplos verificados en contexto (few-shot grounding), delimitación estricta de fuentes autorizadas y descomposición modular de instrucciones.</p>
+<p>  2. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  3. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<hr>
 <h3>[arXiv:2610.31062] SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs</h3>
 <ul>
 <li><strong>arXiv ID</strong>: <code>2610.31062</code> (2610.31062v1)</li>
@@ -843,6 +1042,58 @@
 <p>  4. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
 <hr>
 <h2>EJE: AGENTIC WORKFLOWS, MULTI-AGENT SYSTEMS &amp; TOOL-AUGMENTED REASONING</h2>
+<h3>[arXiv:2610.31974] Agentic AI Defense: Decode-Time Provenance Binding for MCP</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.31974</code> (2610.31974v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-22</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.CR</code>, <code>cs.AI</code>, <code>cs.MA</code></li>
+<li><strong>Eje Cognitivo</strong>: Agentic Workflows, Multi-Agent Systems &amp; Tool-Augmented Reasoning</li>
+<li><strong>Autores</strong>: Eric Yocam, Varghese Vaidyan, Paris Kalathas, Patrick Tague, Bruce DeBruhl, Yong Wang</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.31974)](https://arxiv.org/abs/2610.31974) | [PDF (https://arxiv.org/pdf/2610.31974.pdf)](https://arxiv.org/pdf/2610.31974.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Agentic AI systems using the Model Context Protocol (MCP) are vulnerable to indirect prompt injection through untrusted tool outputs. We demonstrate cross-modal trust laundering, in which instructions concealed in an email-signature image using least-significant-bit (LSB), discrete cosine transform (DCT), or metadata steganography bypass text scanners and enter a multi-agent workflow when decoded by a tool. To counter this threat, we propose decode-time provenance binding, which combines HMAC-authenticated trust labels with an MCP-maintained provenance ledger and context-taint tracking. The mechanism labels decoded content as untrusted and blocks critical tool calls influenced by that content, even when a compromised agent substitutes a valid trusted label. We evaluate the approach using a real MCP testbed with three steganographic carriers and 24 adaptive payloads. The undefended pipeline exhibits 100% attack success, while keyword and regex defenses each permit 62.5% of attacks. Our mechanism blocks all attacks (0% success), including adversarial label substitution across mediated agent boundaries. A four-component ablation validates the roles of decode marking, cryptographic authentication, lineage tracking, and sink enforcement. An audited trusted-promotion mechanism increases legitimate-task completion from 67% to 100% without compromising protection. The approach provides carrier-independent containment within fully mediated MCP execution environments. Code and data are publicly available.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Agentic Workflows, Multi-Agent Systems &amp; Tool-Augmented Reasoning]</strong>: Orquestar flujos agénticos en etapas especializadas: (1) Agente Investigador/Recuperador (búsqueda documental exacta), (2) Agente Analista/Verificador (contraste de precedentes y normas), y (3) Agente Redactor/Crítico (proyección formal y auditoría de consistencia).</p>
+<p>  2. <strong>[Protocolo de Verificación Intrínseca]</strong>: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.</p>
+<p>  3. <strong>[Asignación Dinámica de Cómputo de Inferencia]</strong>: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.</p>
+<p>  4. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  5. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<hr>
+<h3>[arXiv:2610.31916] Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.31916</code> (2610.31916v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-22</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.AI</code>, <code>cs.SE</code></li>
+<li><strong>Eje Cognitivo</strong>: Agentic Workflows, Multi-Agent Systems &amp; Tool-Augmented Reasoning</li>
+<li><strong>Autores</strong>: Deekshith Marla, Kushagra Bhatnagar</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.31916)](https://arxiv.org/abs/2610.31916) | [PDF (https://arxiv.org/pdf/2610.31916.pdf)](https://arxiv.org/pdf/2610.31916.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission to dispatch, evidence of an external effect and permission to reconcile are distinct obligations. We present a finite conformance study that checks these obligations through histories scored against a provider effect ledger hidden from the recovering application. A prospectively frozen campaign executes 336 histories on native LangGraph and Temporal hosts, crossing 14 schedules, three provider contracts and four matched application policies. All 168 paired host cells have identical checked outcomes. Per host, retained-ledger reconciliation passes all 42 histories: 21 checked completions, 15 denials and six unknown outcomes with reservations retained. Cached retry, revalidation before retry and stable-key retry pass 30, 36 and 31 histories respectively. A separate 16-case component study of InfinityOS, an enterprise AI platform developed by Arya.ai, exercises exported authority, worker, recovery and settlement code over repository fakes. The results isolate the roles of current authority, provider contracts and retained observations in recovery, with safety, completion and unresolved obligations reported separately for the declared application profile.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Agentic Workflows, Multi-Agent Systems &amp; Tool-Augmented Reasoning]</strong>: Orquestar flujos agénticos en etapas especializadas: (1) Agente Investigador/Recuperador (búsqueda documental exacta), (2) Agente Analista/Verificador (contraste de precedentes y normas), y (3) Agente Redactor/Crítico (proyección formal y auditoría de consistencia).</p>
+<p>  2. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  3. <strong>[Trazabilidad y Explicabilidad Técnica]</strong>: Explicitar los fundamentos y pasos de derivación desde los datos de entrada hasta la conclusión dispositiva, garantizando auditabilidad completa del razonamiento.</p>
+<hr>
+<h3>[arXiv:2610.31709] Mining the Design Space of Multi-Agent Workflows</h3>
+<ul>
+<li><strong>arXiv ID</strong>: <code>2610.31709</code> (2610.31709v1)</li>
+<li><strong>Fecha de Publicación</strong>: 2026-10-22</li>
+<li><strong>Categorías arXiv</strong>: <code>cs.SE</code>, <code>cs.AI</code></li>
+<li><strong>Eje Cognitivo</strong>: Agentic Workflows, Multi-Agent Systems &amp; Tool-Augmented Reasoning</li>
+<li><strong>Autores</strong>: Xavier Cadet, Junyan Cheng, Peter Chin, Kyle Richardson</li>
+<li><strong>Enlaces Oficiales</strong>: [Abstract (https://arxiv.org/abs/2610.31709)](https://arxiv.org/abs/2610.31709) | [PDF (https://arxiv.org/pdf/2610.31709.pdf)](https://arxiv.org/pdf/2610.31709.pdf)</li>
+</ul>
+<h4>Resumen Técnico (Technical Abstract &amp; Mechanism)</h4>
+<p>&gt; Designing large language model (LLM) multi-agent systems (MAS) still relies on trial and error and informal &quot;folk wisdom.&quot; Manual studies test only a few communication structures or topologies (e.g., sequential, parallel, shared-memory, or debate), while automated optimizers discard search trajectories after selecting a task-specific workflow. We present a two-phase pipeline for mining reproducible design principles from workflow code and execution traces. We repurpose AFlow's MCTS optimizer across six composable operators and 26 deterministically verified Enigmata tasks, retaining all intermediate rounds to build a corpus of 28,568 executable workflows. A sandboxed AutoResearch loop then mines orchestration code and prompt templates under an $L_0$-penalized validation objective and tests candidate principles on held-out searches. Across 300 feature-mining trials, we identify effects that persist on held-out searches across three levels of workflow design: workflows beginning with independent solvers and one-shot aggregation (Star-first) perform worse ($Δ= -0.045$); persistent shared documents (SharedMemory) outperform debate ($Δ= +0.135$); and prompt specificity and placeholder-based context routing yield gains comparable to communication-structure selection ($Δ= +0.118$). More broadly, our pipeline and results show the feasibility of turning discarded search trajectories into a statistical testbed for discovering and validating multi-agent workflow design principles.</p>
+<h4>Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)</h4>
+<p>  1. <strong>[Directiva de Agentic Workflows, Multi-Agent Systems &amp; Tool-Augmented Reasoning]</strong>: Orquestar flujos agénticos en etapas especializadas: (1) Agente Investigador/Recuperador (búsqueda documental exacta), (2) Agente Analista/Verificador (contraste de precedentes y normas), y (3) Agente Redactor/Crítico (proyección formal y auditoría de consistencia).</p>
+<p>  2. <strong>[Supervisión Granular por Pasos (Step-Level PRM)]</strong>: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.</p>
+<p>  3. <strong>[Descomposición Agéntica y Uso de Herramientas]</strong>: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -&gt; búsqueda de precedentes -&gt; encuadre legal -&gt; redacción -&gt; control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.</p>
+<p>  4. <strong>[Estructuración de Contexto y Restricciones Explícitas]</strong>: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.</p>
+<p>  5. <strong>[Búsqueda Deliberativa y Consenso Interno]</strong>: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.</p>
+<hr>
 <h3>[arXiv:2610.31148] Prompt Sensitivity in Tool-Augmented Model Comparisons</h3>
 <ul>
 <li><strong>arXiv ID</strong>: <code>2610.31148</code> (2610.31148v1)</li>
