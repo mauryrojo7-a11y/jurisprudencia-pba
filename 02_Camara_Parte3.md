@@ -1,0 +1,314 @@
+# Corpus Jurisprudencial: Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (Alzada Directa)
+
+- **Organismo Principal**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - AVELLANEDA / LANUS (`idOrganismo: 4157`)
+- **Alzada Residual en causas `AL-...` preexistentes**: Cámara de Apelación en lo Civil y Comercial de Lomas de Zamora - Salas I (`312`), II (`313`) y III (`2063`)
+- **Fuente Oficial**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
+- **Fecha de Extracción**: 2026-11-03
+- **Contenido**: Totalidad de las Sentencias Definitivas (`RS`) y Resoluciones Interlocutorias (`RR`) de la Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (`ID 4157`), más Sentencias Definitivas recientes dictadas en causas del Departamento Judicial Avellaneda-Lanús (`AL-...`) por su Alzada histórica.
+
+---
+- **Fragmento para NotebookLM / Gemini**: Parte 3 de 3 (`02_Camara_Parte3.md`)
+- **Archivo Fuente Completo**: `02_Camara_Avellaneda_Lanus.md`
+- **Fallos incluidos en esta parte**: 5
+
+---
+
+## SECCIÓN III: SENTENCIAS EN CAUSAS DE AVELLANEDA-LANÚS (`AL-...`) DICTADAS POR LA ALZADA RESIDUAL (CÁMARA DE LOMAS DE ZAMORA - SALAS I, II Y III) (Continuación - Parte 3/3)
+
+### 56. [RS-79-2026] BANCO CREDICOOP COOPERATIVO LIMITADO C/ TRILLO GUADALUPE PATRICIA S/ COBRO EJECUTIVO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - LOMAS DE ZAMORA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `AL-58435-2021`
+- **Fecha**: 31-03-2026
+- **Número de Registro**: `RS-79-2026`
+- **Código de Acceso SCBA**: `A1784A96`
+- **Firmantes**: Funcionario: ALTIERI Sergio Hernan JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 79-2026 - Código acceso: A1784A96 - PUBLICO | Registrado por: MEANA Arturo Guillermo - Fecha registración: 31/03/2026 14:01
+
+#### Texto Íntegro
+```text
+27256693998@NOTIFICACIONES.SCBA.GOV.AR
+" BANCO CREDICOOP COOPERATIVO LIMITADO C/ TRILLO GUADALUPE PATRICIA S/ COBRO EJECUTIVO "
+J. 3 SALA III
+CAUSA N° 58435
+JUZCIV3-AV@JUSBUENOSAIRES.GOV.AR
+Lomas de Zamora, en la fecha indicada en la referencia de la firma digital, reunidos en Acuerdo Ordinario los Jueces de la Cámara Primera de Apelación en lo Civil y Comercial, Sala Tercera, de este Departamento Judicial, Doctora Rosa María Caram y Doctor Sergio Hernán Altieri, con la presencia del Secretario del Tribunal se trajo a despacho para dictar sentencia la causa número: AL-58435-2021 , caratulada: " BANCO CREDICOOP COOPERATIVO LIMITADO C/ TRILLO GUADALUPE PATRICIA S/ COBRO EJECUTIVO " . De conformidad con lo dispuesto por los artículos 168 y 171 de la Constitución de la Provincia de Buenos Aires y 266 del Código Procesal Civil y Comercial del mismo Estado, la Cámara resolvió votar las siguientes:
+C U E S T I O N E S :
+1º) ¿Es justa la sentencia apelada?
+2º) ¿Qué pronunciamiento corresponde dictar?
+Practicado el sorteo de ley (art. 263, "in fine" del C.P.C. y C.); dio el siguiente orden de votación: Dra. Rosa María Caram y Dr. Sergio Hernán Altieri.
+V O T A C I O N
+A la primera cuestión, la Dra. Rosa María Caram dijo :
+I. Antecedentes - Sentencia - Agravios
+a) El magistrado titular del Juzgado de Primera Instancia en lo Civil y Comercial N°3 de Avellaneda del Departamento Judicial Avellaneda-Lanús dictó sentencia en fecha 21/11/2025 decretando la caducidad de instancia de las presentes actuaciones. Impuso costas a la actora y difirió la regulación de los honorarios para la oportunidad en que el decisorio se encuentre firme y consentido.
+b) En fecha 3/12/2025 la actora interpone recurso de revocatoria con apelación en subsidio, siéndole concedido en relación el día 16/12/2025.
+c) La disconforme manifestó que, con anterioridad al dictado de la sentencia cuestionada, impulsó el proceso al solicitar el libramiento de un oficio dirigido a la oficina de Mandamientos y Notificaciones interviniente, a fin de que informara el estado del mandamiento librado en autos el día 19/03/2025. Señala que dicho acto impulsorio fue realizado con anterioridad al auto que decretó la caducidad de la instancia.
+Sostiene que el juez de grado dictó la resolución impugnada sin atender a la condición prevista en el art. 316 del CPCC, conforme la cuál la caducidad de oficio solo procede en ausencia de todo acto impulsorio de las partes.
+Por otra parte, indica que la caducidad de la instancia constituye un modo anormal de terminación del proceso y que su aplicación debe ser de carácter restrictiva, debiendo estarse, en caso de duda, a favor de la subsistencia del proceso.
+d) Encontrándose firme y consentido el llamamiento de autos para sentencia (art. 263 del CPCC), corresponde el análisis de los agravios descriptos, cuestión que abordaré a continuación.
+II. La solución
+a) En principio, es oportuno señalar que la caducidad de instancia es una institución destinada a contrarrestar todo alongamiento innecesario del proceso, ésto es, está llamada a dinamizar el proceso, pero sin llegar a constituir una finalidad en sí misma, ni de convertirse en aparato sancionador o represor del incumplimiento en los tiempos del proceso (GOZAINI, Osvaldo A., "La suspensión del plazo de caducidad de la instancia en la doctrina de la Corte S3 - 88903382 - GALEANO , MELISA DANIELA C/ ALLIANZ COMPAÑÍA DE SEGUROS S.A. S/ DAÑOS Y PERJUICIOS Suprema de Justicia de la Nación", en LA LEY, 1996-D-800).
+Su finalidad atiende tanto a la necesidad de sancionar al litigante moroso, como a la conveniencia pública de facilitar el dinámico y eficaz desarrollo de la actividad judicial (conf. SCBA, 1998/09/15, "Vallejo, Roberto A. y otra c. Escuela Centro de Formación Profesional Nª 53 y/u otro", DJBA, 155-7332, cit. en SOSA, Toribio Enrique, en "Caducidad de instancia" Editorial La Ley, Buenos Aires 2010, pág. 5).
+En efecto; en el espíritu del legislador, al introducir este instituto, no está -obviamente- la intención de perjudicar derecho sustancial alguno, sino el de procurar disciplina en el trámite de las causas (conf. doctr. y arg. art. 315 -Texto según Ley 13986-; ver asimismo: KOZAC, Verónica en "La doctrina del exceso ritual manifiesto en relación a la declaración de la perención de instancia", en JA,2003-II-89).
+En este sentido, se ha señalado que una vez cumplido el plazo legal y ante la única intimación previa a pedido de parte, la que deberá formularse antes de consentir cualquier actuación del tribunal posterior al vencimiento del plazo legal; todavía por única vez será posible purgar la situación de caducidad a través del impulso tardío, lo que en el caso se cumplió con la intimación de fecha 7/03/2024.
+Pero cuando ya hubo una intimación previa por cédula e impulso de parte, ante el nuevo transcurso del plazo legal la perención se produce por el solo peso de la ley -"ope legis"-, siendo imposible ninguna actuación impulsora ni del Tribunal ni de la parte, de manera que la caducidad de la instancia ya no podrá ser evitada mediante la realización -tardía- de actividad procesal útil (S3 - 88903382 - "GALEANO , MELISA DANIELA C/ ALLIANZ COMPAÑÍA DE SEGUROS S.A. S/ DAÑOS Y PERJUICIOS". VIEL TEMPERLEY, Facundo; "El regreso de la caducidad de la instancia en la Provincia de Buenos Aires", en "Anales de la Legislación Argentina", año LXIX, nº 13, 18/5/2009, tomo LXIX-C, pág. VIII, citado por Sosa, Toribio, en op. Cit. págs. 234/35).
+Por otra parte, he de señalar que la interpretación restrictiva de la caducidad de instancia sólo resulta aplicable cuando existe duda razonable y fundada en torno a su procedencia. Pero, en el caso en que surge manifiesto el abandono del trámite de la causa durante el plazo legal, no corresponde sujetarse a la postura restrictiva (conf. CNCiv., Sala H, 1997/06/06, La Ley, 1998-B, 740 DJ, 1998-2-497; CS, 27/2/2007, "Walmart Argentina S.A. c. Provincia de Entre Ríos", en La Ley Online).
+b) Sentado cuanto precede e ingresando en el análisis de las constancias de autos, se advierte que en un primer término, con fecha 7/03/2024 el magistrado de origen intimó por primera vez de oficio a la actora a impulsar el trámite, bajo apercibimiento de decretar la caducidad de instancia (art. 315 CPCC). En respuesta, con fecha 7/03/2024 la actora cumplió con la carga procesal, manifestando su interés de continuar con el trámite e impulsando el proceso. (ver tramites de fecha 7 y 18 de marzo de 2024).
+No obstante ello, con posterioridad, dejó nuevamente transcurrir nuevamente el plazo establecido por el art. 310 Inc. 3° del CPCC, sin instar el procedimiento y sin cumplir con los recaudos indicados por el magistrado de origen. Verificándose que, desde la fecha en que se libró el mandamiento -19/03/2025-, hasta el pedido de oficio referido por la recurrente el 25/11/2025, transcurrieron más de tres meses sin diligencia alguna, lo que torna acertada a decisión adoptada en la instancia de origen (conf. esta Sala, causa n° 2134 S del 17/2/2011).
+Si bien la recurrente ha expresado en sustento de su embate, la realización de un acto impulsorio con anterioridad a la notificación del auto apelado, lo cierto es que tal pedimento carece de efectos interruptivos con relación al plazo de caducidad de la instancia en tato debió haberse realizado con anterioridad al dictado de la mentada resolución.
+Esta sala se ha expedido en otras oportunidades, aludiendo que aquella petición o actividad procesal que se realice con posterioridad al segundo acuse de caducidad de instancia, carece se virtualidad, ya que opera lo dispuesto por el art. 316 del CPCCPBA (conf. esta sala, causa N° 53830, Rs - 376 - SI, de fecha 30/12/2024). En el mismo sentido, la doctrina ha expresado ".para que el acto interruptivo tenga eficacia, es menester que sea realizado con anterioridad a que la otra parte solicite la declaración de caducidad." (Códigos Procesales en lo Civil y Comercial de la Provincia de Buenos Aires, Morello - Sosa - Berizonce, Ed. Abeledo Perrot, 1989, pág. 223).
+Cabe agregar que, la parte actora, por ser quien abre el proceso con la presentación de la demanda y que indudablemente tiene el interés de que el juicio avance hasta llegar a la sentencia definitiva, posee primordialmente la carga de formular peticiones que resulten útiles para hacer avanzar el proceso de una etapa hacia otra, evitando su paralización y los efectos de la caducidad.
+Por lo tanto, conforme los lineamientos señalados y lo que emerge de las constancias de autos, se concluye que desde la última actividad procesal útil indicada - momento en que quedó en cabeza de las partes la carga de impulsar el proceso -,hasta el dictado de la resolución que declaró la caducidad de la instancia, transcurrió nuevamente un plazo de tres meses dispuesto por el art. 310 inc. 3° del CPCC para este tipo de procesos sin que la parte actora haya desplegado actividad procesal alguna que interrumpa su curso, ni acreditada causal idónea que justifique dicha inactividad, la cual le resulta imputable a los efectos de declarar la perención de la instancia (arts. 310 inc. 3°, 311, 315 y concordantes del CPCC).
+Por lo expuesto, propongo al Acuerdo confirmar la resolución de fecha 25/11/2025 que decreta la caducidad de la instancia.
+En consecuencia, VOTO POR LA AFIRMATIVA.
+A la primera cuestión , por compartir los mismos fundamentos, el Doctor Altieri dijo que: VOTA EN IGUAL SENTIDO .
+A la segunda cuestión, la Dra. Rosa María Caram expresó :
+Visto el acuerdo logrado al tratar la cuestión anterior, corresponde confirmar la sentencia de fecha 25/11/2025 que decreta la caducidad de instancia. Imponer las costas de Alzada a la actora por conservar la condición de vencida (art. 68 del CPCCPBA). Propiciar diferir la consideración de los honorarios profesionales, hasta tanto se practiquen las correspondientes determinaciones en la instancia de origen
+ASI LO VOTO
+A la segunda cuestión , por compartir idénticos fundamentos, el Doctor Altieri expresó que: VOTA EN IGUAL SENTIDO .
+Con lo que terminó el Acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Que en el Acuerdo celebrado quedó establecido:
+1º) Que la apelada sentencia de fecha 25/11/2025 debe confirmarse. 2º) Que las costas deberán ser soportadas por la actora.
+POR ELLO : Y fundamentos consignados en el Acuerdo, Confirmase la sentencia de fecha 25/11/2025 que decreta la caducidad de instancia. Impónense las costas de Alzada a la actora vencida (art. 68 del CPCCPBA). Difiérese la consideración de los honorarios profesionales, hasta la oportunidad señalada al tratar la segunda cuestión. Regístrese. Oportunamente, devuélvanse las actuaciones al juzgado de origen.
+```
+
+---
+
+### 57. [RS-58-2026] PORTILLO NORA ALEJANDRA C/ ACOSTA CRISTIAN ARIEL Y OTROS S/ DESALOJO FALTA DE PAGO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA II - LOMAS DE ZAMORA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `AL-20020-2025`
+- **Fecha**: 30-03-2026
+- **Número de Registro**: `RS-58-2026`
+- **Código de Acceso SCBA**: `884340EC`
+- **Firmantes**: Funcionario: CONTI Luis Adalberto JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 58-2026 - Código acceso: 884340EC - PUBLICO | Registrado por: LITTLE Maria De Las Mercedes - Fecha registración: 30/03/2026 13:43
+
+#### Texto Íntegro
+```text
+" PNA C/ ACA Y OTS S/ DESALOJO "
+J.CYC N°1 AL -SALA II-CAUSA AL-20020-2025 REG.DEF .............
+FOLIO .........
+En la ciudad de Lomas de Zamora, en la fecha de referencia indicada en la firma digital., reunidos en Acuerdo Ordinario los Jueces de la Cámara Primera de Apelación en lo Civil y Comercial, Sala Segunda, de este Departamento Judicial, doctores Luis Adalberto Conti y Pablo Saúl Moreda; con la presencia del Secretario del Tribunal, se trajo a despacho para dictar sentencia la causa número: AL-20020-2025 caratulada " PNA C/ ACA Y OTS S/ DESALOJO ". De conformidad con lo dispuesto por los artículos 168 y 171 de la Constitución de la Provincia de Buenos Aires y 266 del Código Procesal Civil y Comercial del mismo Estado, la Cámara resolvió plantear las siguientes:
+C U E S T I O N E S :
+1°) ¿Han expresado agravios los apelantes de fecha 11 de diciembe de 2025 ?
+2°) ¿Que pronunciamiento corresponde dictar?
+Practicado el sorteo de ley (art. 263, in fine del C.P.C.C.); dio el siguiente orden de votación: Dr. Luis Adalberto Conti y Dr. Pablo Saúl Moreda.-
+VOTACION:
+A la primera cuestión el Dr. Luis Adalberto Conti dijo:
+Que por el auto de fecha 23 de febrero de 2026 fue puesto el expediente en Secretaría, a fin de que los apelantes de fecha 11 de diciembre de 2025 expresaran agravios, de conformidad con lo dispuesto por el artículo 254 del Código Procesal . Que por auto de fecha 05 de marzo de 2026 se intimó a la parte demandada para que en el plazo de veinticuatro (24) horas dé estricto cumplimiento con lo dispuesto por la Acordada N° 3886, debiendo acompañar el escrito presentado en fecha 02 de marzo de 2026 con firma de los demandados, bajo apercibimiento de ley y pese a encontrarse debidamente notificada dicha providencia (ver constancia de notificación electrónica de fecha 06 de marzo de 2026 ) , la parte interesada no dio debido cumplimiento a ello. Consecuentemente, estimo debe declararse desierto el recurso.-
+VOTO POR LA NEGATIVA.-
+A la primera cuestión, el Dr. Pablo Saúl Moreda dijo que VOTA EN IGUAL SENTIDO .-
+A la segunda cuestión, el Dr. Luis Adalberto Conti dijo :
+Visto el acuerdo formulado al tratar la cuestión anterior, corresponde declarar desierto el recurso interpuesto en fecha 11 de diciembre de 2025 y concedido en fecha 12 de diciembre de 2025 (art. 261 del C.P.C.C.).-
+ASI LO VOTO .-
+A la segunda cuestión, el Dr. Pablo Saúl Moreda expresó que VOTA EN IGUAL SENTIDO .-
+SENTENCIA .-
+Y VISTOS:
+CONSIDERANDO:
+Que en el Acuerdo celebrado se dejó establecido que los apelantes de fecha 11 de diciembre de 2025 no expresaron agravios como lo dispone el art. 254 del C.P.C.C..-
+POR ELLO: Declárese desierto el recurso interpuesto en fecha 11 de diciembre de 2025 y concedido en fecha 12 de diciembre de 2025. Regístrese.- Notifíquese y, devuélvanse las actuaciones al juzgado de origen.-
+Luis Adalberto Conti Pablo Saúl Moreda
+Juez de Cámara Juez de Cámara
+María de las Mercedes Little
+Secretaria
+27204814959@notificaciones.scba.gov.ar
+27255600287@notificaciones.scba.gov.ar
+```
+
+---
+
+### 58. [RS-83-2026] LOPEZ ISABEL GRACIELA Y OTRO/A C/ HERRERO NESTOR DANIEL S/ ALIMENTOS
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA I - LOMAS DE ZAMORA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `AL-70038-2021`
+- **Fecha**: 26-03-2026
+- **Número de Registro**: `RS-83-2026`
+- **Código de Acceso SCBA**: `B181F716`
+- **Firmantes**: Funcionario: RODIÑO Javier Alejandro JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 83-2026 - Código acceso: B181F716 - PUBLICO | Registrado por: DE CESARE German Pedro - Fecha registración: 26/03/2026 08:57
+
+#### Texto Íntegro
+```text
+L., I. G. Y OTRO/A C/ H., N. D. S/ ALIMENTOS
+Exp: AL-70038-2021
+Jz Flia. N° 5 Avellaneda Lanús
+(a.s.*)
+En la ciudad de Lomas de Zamora, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20 y 3975/20), reunidos en Acuerdo ordinario los señores jueces que integran esta Excma. Cámara de Apelación en lo Civil, Comercial y de Familia, Sala I, del Departamento Judicial Lomas de Zamora, doctores Javier Alejandro Rodiño y Carlos Ricardo Igoldi con la presencia del Secretario actuante, se trajo a despacho para dictar sentencia la causa AL-70038-2021 , caratulada: "L., I. G. Y OTRO/A C/ H., N. D. S/ ALIMENTOS" ; y de conformidad con lo dispuesto por los artículos 168 de la Constitución de la Provincia de Buenos Aires y 266 del Código Procesal Civil y Comercial, del mismo Estado, la Excma. Cámara resolvió plantear las siguientes:
+-C U E S T I O N E S-
+1º.- ¿Debe aclararse la sentencia dictada el 13/03/26?
+2º.- ¿Qué corresponde decidir?
+Dada la índole de la resolución a efectuarse (art. 263, últ. parte, Cód. Proc.), el orden de votación es el siguiente: Dres. Javier Alejandro Rodiño y Carlos Ricardo Igoldi
+-V O T A C I O N-
+A la primera cuestión, el Dr. Javier Alejandro Rodiño dice:
+I. Mediante presentación electrónica deducida en fecha 19/03/26 la parte actora interpuso recurso de aclaratoria contra la sentencia dictada por este Tribunal con fecha 13/03/26.
+II. Dando respuesta al punto, cabe recordar que la aclaratoria procede a los fines de suplir cualquier omisión en que se hubiere incurrido sobre alguna de las pretensiones deducidas y discutidas en el litigio y asimismo para aclarar conceptos que pudieran dar lugar a una interpretación distinta de lo decidido (art. 166 inc. 2 y 267 del CPCC). E
+Es decir, la aclaratoria es el medio por el cual se intenta depurar a la sentencia de errores materiales, oscuridades y omisiones, teniendo como límite la prohibición de alterar en lo sustancial lo decidido. (cfr. SCBA, DJBA, v. 122, p. 157).
+Así, póngase de relieve que la Cámara no puede, por vía de aclaratoria, alterar sustancialmente la decisión en cuestión, sin violar los límites del artículo 36 inciso 3º y 166 inciso 2º del rito (en tal sentido SCBA, Ac 47714 S 13-10-1992, in re "Zavaleta de Fahey, Dominga Saturnina s/ Sucesión", Pub. AyS 1992 III, 684).
+Atento a lo expuesto, y siendo que la sentencia dictada por este Tribunal en fecha 13/03/26 luce suficientemente clara, corresponde rechazar la aclaratoria interpuesta.(art. 166 inc. 2 y 267 ult. párr. CPCC).
+Por ello, propongo al Acuerdo desestimar el recurso de aclaratoria traído a decisión.
+VOTO POR LA NEGATIVA.
+A la misma primera cuestión, el Dr. Carlos Ricardo Igoldi , por consideraciones análogas adhiere y TAMBIEN VOTA POR LA NEGATIVA.
+A la segunda cuestión, el Dr. Javier Alejandro Rodiño dice:
+Visto el Acuerdo logrado al tratar la cuestión que antecede, desestimar el recurso de aclaratoria traído a decisión.
+ASI LO VOTO.
+A la misma segunda cuestión, el Dr. Carlos Ricardo Igoldi , por compartir fundamentos, adhiere y VOTA EN IGUAL SENTIDO.
+Con lo que terminó el Acuerdo dictándose la siguiente,
+-S E N T E N C I A-
+En el Acuerdo quedó establecido que la sentencia debe ser aclarada. POR ELLO, CONSIDERACIONES del Acuerdo que antecede y CITAS LEGALES : 1) Desestimase el recurso de aclaratoria interpuesto en fecha 19/03/26 contra la sentencia de fecha 13/03/26. 2) Vuelvan los presentes al Tribunal a los fines de dar tratamiento al recurso interpuesto con relación a los honorarios regulados. REGISTRESE. NOTIFIQUESE (art. 10 Ac. SCBA. 4013 y modif.) . Oportunamente, DEVUELVASE. (Ac. 3975/20 SCBA).
+JAVIER ALEJANDRO RODIÑO CARLOS RICARDO IGOLDI
+JUEZ DE CAMARA JUEZ DE CAMARA
+GERMAN PEDRO DE CESARE
+SECRETARIO DE CÁMARA
+Domicilios electrónicos:
+(Domicilio - Dra. L.)
+27215890959@NOTIFICACIONES.SCBA.GOV.AR
+(Domicilio Dr. M.)
+20203840439@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
+
+### 59. [RS-74-2026] FCA COMPAÑIA FINANCIERA S.A. C/ CACERES ANTONIO JAVIER S/ ACCION DE SECUESTRO (ART.39 LEY 12962)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - LOMAS DE ZAMORA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `AL-20548-2025`
+- **Fecha**: 26-03-2026
+- **Número de Registro**: `RS-74-2026`
+- **Código de Acceso SCBA**: `CC4000F9`
+- **Firmantes**: Funcionario: CARAM Rosa Maria JUEZA --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 74-2026 - Código acceso: CC4000F9 - PUBLICO | Registrado por: RUIZ Marcelo Hugo - Fecha registración: 26/03/2026 13:56
+
+#### Texto Íntegro
+```text
+20180110373@notificaciones.scba.gov.ar
+" FCA COMPAÑIA FINANCIERA S.A. C/ CACERES ANTONIO JAVIER S/ ACCION DE SECUESTRO (ART.39 LEY 12962) "
+J. 2 SALA III
+CAUSA N° AL-20548-2025
+En Lomas de Zamora, en la fecha indicada en la referencia de la firma digital, reunidos en Acuerdo Ordinario los Jueces de la Cámara Primera de Apelación en lo Civil y Comercial, Sala Tercera, de este Departamento Judicial, Doctora Rosa María Caram y Doctor Sergio Hernán Altieri, con la presencia del Secretario del Tribunal se trajo a despacho para dictar sentencia la causa número: AL-20548-2025 , caratulada: " FCA COMPAÑIA FINANCIERA S.A. C/ CACERES ANTONIO JAVIER S/ ACCION DE SECUESTRO (ART.39 LEY 12962) ". De conformidad con lo dispuesto por los artículos 168 y 171 de la Constitución de la Provincia de Buenos Aires y 266 del Código Procesal Civil y Comercial del mismo Estado, la Cámara resolvió votar las siguientes:
+C U E S T I O N E S :
+1º) ¿Es justa la sentencia apelada?
+2º) ¿Qué pronunciamiento corresponde dictar?
+Practicado el sorteo de ley (art. 263, "in fine" del C.P.C. y C.); dio el siguiente orden de votación: Dra. Rosa María Caram y Dr. Sergio Hernán Altieri.
+V O T A C I O N
+A la primera cuestión, la Dra. Rosa María Caram dijo :
+I.- Antecedentes - Sentencia - Agravios.
+a) La magistrada titular del Juzgado de Primera Instancia en lo Civil y Comercial N° 2 de Avellaneda, con fecha 7/07/2025 desestimó la acción de secuestro deducida, porque consideró que resulta aplicable la normativa dispuesta por la ley 24240.
+b) El ejecutante apeló dicho pronunciamiento el día 10/07/2025, el cual fue concedido en relación el día 6/08/2025. Fundó su recurso con fecha 18/08/2025, c) En su expresión de agravios, la parte actora cuestiona la resolución que rechazó la acción de secuestro prendario prevista en el art. 39 de la Ley 12.962, sosteniendo que el juez de grado desestimó indebidamente la vía elegida al considerar aplicable la normativa de defensa del consumidor. Argumenta que la prenda con registro se rige por una ley especial vigente, cuya primacía se ve reafirmada por el art. 2220 del Código Civil y Comercial de la Nación, y que no ha sido derogada por la Ley 24.240. Asimismo, señala que el secuestro prendario no vulnera el derecho de defensa ni el trato digno del consumidor, en tanto constituye un procedimiento legalmente previsto y voluntariamente aceptado por el deudor al suscribir el contrato, quien conserva la posibilidad de ejercer plenamente sus defensas en las instancias posteriores previstas por la ley.
+d) Encontrándose firme y consentido el llamamiento de autos para sentencia de fecha 11/02/2026 (art. 270 del CPCC), corresponde el análisis de los planteos realizados, cuestión que abordaré a continuación.
+II.- Solución.
+La apelante sostuvo que no es de aplicación la ley 24240 al amparo de las particulares características que hacen el secuestro prendario del artículo 39 de la Ley 12962.
+Entiendo pertinente señalar que la presente acción fue entablada por una entidad financiera contra una persona humana, con el objeto de obtener el secuestro de un automotor prendado. Lo medular a efectos de establecer o no una relación de consumo es analizar por un lado, el concepto de consumidor, persona humana o jurídica que adquiere o utiliza en forma gratuita u onerosa, bienes o servicios como destinatario final, en beneficio propio o de su grupo familiar o social (art. 1092 del Código Civil y Comercial; art. 1° de la ley 24.240, Hernández, Carlos A. "Tratado de derecho del consumidor", Gabriel Stiglitz y Carlos A. Hernández (Dir.), Ed. La Ley, Bs. As., 2015, pág. 416).
+Consumidor final es quien adquiere bienes o servicios sin intención de obtener una ganancia por su posterior enajenación, ni de emplearlos en un proceso de producción o comercialización de bienes o servicios destinados al mercado." (Farina, Juan M. "Defensa del consumidor y del usuario", Ed. Astrea, 2004, pág. 45 y ss). En el otro sitio de la relación de consumo se ubica el proveedor, de noción amplia en el ordenamiento legal (arts. 2 de la LDC, art. 1093 del Cód. Civ. y Com.; Hernández, Carlos A. "Relación de consumo" en "Tratado de derecho del consumidor" Gabriel Stiglitz y Carlos A. Hernández (Directores), Tomo I, Ed. La Ley 2015, págs. 425 y sgtes.), que sindica no sólo a las personas físicas o jurídicas que actúen profesionalmente o empresas productoras de bienes o prestadoras de servicios, de naturaleza pública o privada, sino también se señala a todo aquél que obre aun 'ocasionalmente', siempre que tengan por objeto la adquisición, uso o goce de los bienes o servicios por parte de consumidores o usuarios, para su uso privado, familiar o social. (Wajntraub, Javier "Código Civil y Comercial de la Nación", Ricardo Luis Lorenzetti (Dir.), Tomo VI, Ed. Rubinzal-Culzoni 2015, pág. 236) .
+Bajo esta télesis, del contrato base de esta acción surge el otorgamiento de un préstamo de dinero garantizado con una prenda con registro sobre un automotor para uso particular, lo que permite presumir la calidad de consumidor del demandado; por otro lado el acreedor es una entidad financiera quien hace las veces de proveedor de un servicio financiero.
+Dentro de la noción de crédito o financiamiento al consumo se encuentran subsumidas todas aquellas operaciones en las cuales su finalidad es financiar al consumidor en la adquisición de bienes y servicios para su consumo final, y no obstante cuenten con normativas específicas se aplica y prevalece la LDC (art. 1094 del Cód. Civ. y Com.)
+Tengo para mi la convicción de que se ha entablado una relación de consumo. No se editan elementos adicionales que permitan desvirtuar la calificación realizada en la instancia que precede (arts. 1, 2, 3, 4, 36, 53 ss. y cdtes. de la LDC; arts 1092 a 1095 art. 384 y concs. CPCC arts. 1, 2, 3 ss y concds., Ley 24240).
+Sobre este panorama conceptual es que encuentro pertinente distinguir el proceso de ejecución prendaria que prevé la participación del deudor, del trámite judicial especial de secuestro prendario que facilita el desapoderamiento del bien y su posterior venta extrajudicial, sin ninguna participación de aquél. Precisamente, la falta de actuación del deudor en el secuestro del bien y el entorno de una relación de consumo, son las circunstancias que obstan la aplicabilidad del artículo 39 de la Ley de Prenda con Registro.
+Se ha señalado al respecto que para resolver el problema de interpretación cuando los derechos de usuarios y consumidores colisionan con otras normas que regulan diversas situaciones específicas, es importante tener en cuenta un doble orden de consideraciones.
+Por un lado, que en los casos que presentan colisión de normas no es la ley sino la Constitución Nacional la fuente principal de los derechos de los consumidores. Por otro lado, en el derecho argentino rige la interpretación mas favorable al consumidor, la precedencia normativa constitucional y la integración con otras normas en el supuesto de ausencia de regulación específica. La referencia a los principios resulta útil para salvaguardar la preeminencia del derecho del consumidor frente a un ordenamiento sustantivo que, por diversas razones, colisiona con este derecho protectorio (Lorenzetti, Ricardo; su voto CSJN, B. 721, XLIV; "Banco de la Provincia de Buenos Aires c/DNCI - Disp. 622/05, 19/03/2014).
+Estimo oportuno recordar que la Suprema Corte de Justicia de la Provincia de Buenos Aires ha decidido la procedencia de la aplicación del régimen protectorio instaurado por la ley 24.240 en el marco de las acciones de secuestro prendario. En efecto, frente a un planteo de conflicto de competencia, determinó la aplicación de la regla contenida en el art. 36 de la Ley 24240, (SCBA Ac. 120.068 "Fiat Crédito Cía. Financiera SA" del 28/09/2016).
+En sentido concordante, el Máximo Tribunal Federal, en el fallo: "HSBC Bank Argentina SA", consideró - por mayoría - que se trataba de una desprotección frente al mandato del art. 42 de la Carta Magna. Al respecto, sostuvo que "...privar al deudor -en la relación de consumo- de todo ejercicio de derecho de defensa, en forma previa al secuestro del bien prendado, podría colocarlo en una situación que no se condice con la especial protección que le confiere el art. 42 de la CN" (CSJN, 11/06/2019). Al respecto, estimó que debió haberse integrado las disposiciones de la ley 24.240 con las normas prendarias, debiendo primar las más favorables al consumidor, como consecuencia de la aplicación del principio "favor debilis".
+En consecuencia, concluyó que lo resuelto por "el ad quem" debía ser descalificado por arbitrario, toda vez que afectaba de modo directo e inmediato el derecho al debido proceso adjetivo establecido en el artículo 18 de la Constitución Nacional.
+No cabe duda, - a mi modo de ver - que la normativa que se analiza pone en tensión el orden público que ostentan los derechos de consumidores y usuarios, como así también, el debido proceso legal que garantizan nuestra Constitución Nacional y los Tratados Internacionales de Derechos Humanos que integran el bloque de constitucionalidad Federal (art. 75 inc. 22 C.N.).
+Preciso que no dar intervención al deudor es incompatible con el derecho de defensa en juicio, y con mayor razón en la relación de consumo donde el juez de oficio debe verificar los requisitos de la venta a crédito, la competencia, los términos abusivos y cláusulas ineficaces, adoptando la interpretación mas favorable al consumidor. Interpretar el texto legal para encontrarle un significado compatible con el bloque de constitucionalidad no es una opción para el juez sino un imperativo constitucional y convencional, y no se advierte la utilidad social que pueda tener la liquidación del bien del deudor sin que sea oído en el proceso. Asimismo, el endeudamiento del consumidor es también un problema social, donde el trato digno, equitativo y no discriminatorio no concluye con la oferta, sino que se extiende a la etapa contractual y post contractual, de modo que aun en la ejecución de la deuda es impostergable escuchar al deudor.
+El artículo 39 de la ley de Prenda con Registro no se puede integrar en el diálogo de fuentes por vulnerar los derechos de igualdad, propiedad y defensa en juicio de los deudores en general y de los consumidores en particular.-
+Bajo tal óptica, ninguna duda cabe que el secuestro prendario previsto en el artículo 39 de la ley 12.962 colisiona con el derecho de defensa en juicio. El derecho del consumidor debe traducirse en "garantías procedimentales" que el ordenamiento ofrece a los consumidores para asegurarles una tutela judicial efectiva y oportuna. Se trata de una "tutela procesal diferenciada" que se traduce en la "necesidad de tornar flexibles las tutelas jurisdiccionales con la finalidad de adaptarlas a la realidad, tutelando de forma más adecuada cada derecho sustancial". La defensa de los derechos sustanciales "deviene merecedora no sólo del derecho a acceder a un órgano jurisdiccional que ampare contra actos que violen sus derechos, sino además a la remoción de obstáculos formales que obstruyan cualquier etapa del curso procedimental", entre los cuales se encuentra "la expansión de ciertos medios defensivos en procesos como los ejecutivos o monitorios" (cfr. Sahián, José H. "Tutela diferenciada de los consumidores", Revista de Derecho del Consumidor, nro. 4, abril 2018, cita: IJ-DXXXIII-664).
+Resulta entonces que el artículo 39 de la Ley de Prenda se evidencia contrario al derecho de los consumidores y su finalidad protectoria, ya que no puede desconocerse que desde el reconocimiento de éstos en la reforma de 1994 de la Constitución Nacional, en el art. 42 y de la ley 24.240 y su reforma por la ley 26.361, el legislador ha pretendido hacer cesar la prevalencia y con ello los abusos de quienes resultan la parte más fortalecida en la relación jurídica de consumo (ver Junyent Bas, Francisco - Garzino, María Constanza "Secuestro prendario y Ley de Defensa del Consumidor" RDCO 278, 08/06/2016, 705, Cita Online: AR/DOC/4372/2016).
+Lo expuesto lleva a no recibir el argumento traído por la parte apelante conforme el cual el procedimiento de secuestro que excluye toda participación del deudor impide que se considere a la cuestión abarcada por el plexo normativo protectorio del consumidor. Ello así, puesto que el art. 39 del decreto-ley 15.348/1946 -ratificado por la ley 12.962- que habilita a determinados acreedores a desposeer al deudor mediante el secuestro del bien prendado y realizar posteriormente su venta extrajudicial sin su intervención no puede aplicarse, en tanto impide el ejercicio del derecho constitucional de defensa en juicio del consumidor, parte débil en el contrato principal, al cual accede la prenda como garantía de cumplimiento.
+La conclusión que se impone conduce a postular que el sistema protectorio del derecho del consumo no puede ser enervado por la existencia de un proceso monitorio sostenido en aras de la protección del crédito prendario, cuando la defensa del consumidor y el interés del acreedor pueden canalizarse por medios menos gravosos, como el proceso de ejecución prendaria (art. 598 y sgtes. del CPCC).
+Siguiendo entonces el sendero que nuestro Superior Tribunal provincial ha comenzado a marcar en materia de aplicación de la ley de protección al consumidor en las operaciones de crédito para consumo con garantía prendaria, considero que la resolución adoptada en la instancia que precede debe confirmarse. El trámite normado por el artículo 39 no puede ser aplicado a las relaciones de consumo en tanto impide el ejercicio del derecho constitucional de defensa en juicio del consumidor, parte débil en el contrato principal, al cual accede la prenda como garantía de cumplimiento (conf. esta sala, causa N°46146, SD, de fecha 14/2/2023).
+La solución propuesta encuentra su respaldo legal en el art . 42 CN y lo dispuesto por el art . 1094 Cód. Civ. y Com. de la Nación el cual dispone que en caso de duda sobre la interpretación del Cód. Civ. y Com. de la Nación o las leyes especiales, prevalece la más favorable al consumidor.
+El artículo 3º de la ley 24240 zanja este tipo de conflictos, que no son de interpretación sino de jerarquía, ya que establece expresamente que las relaciones de consumo se rigen por la mencionada ley y sus reglamentaciones, sin perjuicio de que el proveedor esté alcanzado por otras normas específicas" (CS, Fallos 337:205, voto del señor juez Lorenzetti).
+En suma, el desplazamiento o la inaplicabilidad del art 39 Ley de Prenda con relación al microsistema de consumo constituye una solución de armonización, integración y complementariedad normativa en el marco del diálogo de fuentes plurales (cfr. arts. 42 de la CN, 15 de la Constitución provincial, art. 39 de la Ley de Prenda con Registro; arts. 1, 2, 3, 4, 36, 37, 65 ss. y cdtes. de la ley 24.240 -texto según leyes 26.361 y 26.994-; art. 598 ss. y cdtes. del Código Procesal, arts. 1, 2, 3, 7, 9, 10, 11, 12, 1092 a 1098, 1120, 1121 y concs. del Código Civil y Comercial, Conf esta Sala, causa A N° LN-11873-2019; S del 29/12/2020, RSD 210-2020; causa N° LZ-39738-2019, S 29-07-2020, RSD 85/2020; e.o).
+Por todo lo expuesto, propongo al Acuerdo confirmar la resolución adoptada sin perjuicio del derecho de la entidad acreedora de adecuar su pretensión al trámite de la ejecución prendaria (arts. 598 y ccdtes. Cód. Proc. Civ. y Comercial). De esta manera se tutela el interés del acreedor, y se habilita al deudor el ejercicio del derecho de defensa en juicio conforme el ámbito del proceso de ejecución prendaria.
+En consecuencia, y con este alcance VOTO POR LA AFIRMATIVA.
+A la primera cuestión , por compartir los mismos fundamentos, el Doctor Sergio Hernán Altieri dijo que: VOTA EN IGUAL SENTIDO .
+A la segunda cuestión, la Dra. Rosa María Caram expresó :
+Visto el Acuerdo logrado al tratar la cuestión anterior, corresponde confirmar la apelada resolución de fecha 7/07/2025, dejando a salvo el derecho de la entidad acreedora de adecuar su pretensión al trámite de la ejecución prendaria. Las costas de Alzada deben imponerse en el orden causado, habida cuenta la ausencia de contradicción (art. 68 del CPCC). Propicio diferir la consideración de los honorarios profesionales, hasta tanto se practique en la instancia de origen las pertinentes regulaciones de los honorarios profesionales.
+ASI LO VOTO
+A la segunda cuestión , por compartir idénticos fundamentos, el Doctor Sergio Hernán Altieri expresó que: VOTA EN IGUAL SENTIDO .
+Con lo que terminó el Acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Que en el Acuerdo celebrado quedó establecido:
+1º) Que la apelada sentencia de fecha 7/07/2025 debe confirmarse, con el alcance que aquí se decide.
+2º) Que las costas de Alzada deben ser impuestas en el orden causado.
+POR ELLO : Y fundamentos consignados en el Acuerdo, confirmase la apelada resolución de fecha 7/07/2025, en cuanto ha sido materia de recurso y agravios, con el alcance que aquí se dispone, sin perjuicio del derecho de la entidad acreedora de adecuar su pretensión al trámite de la ejecución prendaria. Costas de Alzada en el orden causado. Difiérase la consideración de los honorarios profesionales hasta la oportunidad señalada al tratar la segunda cuestión. Regístrese. Oportunamente, devuélvanse las actuaciones al juzgado de origen.
+```
+
+---
+
+### 60. [RS-75-2026] FCA COMPAÑIA FINANCIERA S.A. C/ CONTE PATRICIA VIVIANA S/ EJECUCIÓN PRENDARIA
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - LOMAS DE ZAMORA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `AL-20955-2025`
+- **Fecha**: 26-03-2026
+- **Número de Registro**: `RS-75-2026`
+- **Código de Acceso SCBA**: `F954B4EC`
+- **Firmantes**: Funcionario: CARAM Rosa Maria JUEZA --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 75-2026 - Código acceso: F954B4EC - PUBLICO | Registrado por: RUIZ Marcelo Hugo - Fecha registración: 26/03/2026 13:56
+
+#### Texto Íntegro
+```text
+27148561155@NOTIFICACIONES.SCBA.GOV.AR
+FISGEN.AL@MPBA.GOV.AR
+" FCA COMPAÑIA FINANCIERA S.A. C/ CONTE PATRICIA VIVIANA S/ EJECUCIÓN PRENDARIA "
+J. 5 SALA III CAUSA N° AL-20955-2025
+JUZGADO EN LO CIVIL Y COMERCIAL N° 4 (EX JCC N°1) - LANUS (JUZCIV4-LA@JUSBUENOSAIRES.GOV.AR)
+En Lomas de Zamora, en la fecha indicada en la referencia de la firma digital, reunidos en Acuerdo Ordinario los Jueces de la Cámara Primera de Apelación en lo Civil y Comercial, Sala Tercera, de este Departamento Judicial, Doctor Sergio Hernán Altieri y Doctora Rosa María Caram, con la presencia del Secretario del Tribunal se trajo a despacho para dictar sentencia la causa número: AL-20955-2025 caratulada: " FCA COMPAÑIA FINANCIERA S.A. C/ CONTE PATRICIA VIVIANA S/ EJECUCIÓN PRENDARIA " . De conformidad con lo dispuesto por los artículos 168 y 171 de la Constitución de la Provincia de Buenos Aires y 266 del Código Procesal Civil y Comercial del mismo Estado, la Cámara resolvió votar las siguientes:
+C U E S T I O N E S :
+1º) ¿Es justa la sentencia apelada?
+2º) ¿Qué pronunciamiento corresponde dictar?
+Practicado el sorteo de ley (art. 263, "in fine" del C.P.C. y C.); dio el siguiente orden de votación: Dres. Rosa María Caram y Sergio Hernán Altieri.
+V O T A C I O N
+A la primera cuestión, la Dra. Rosa María Caram dijo :
+I.- Antecedentes - Sentencia - Agravios.
+a) El magistrado titular del Juzgado de Primera Instancia en lo Civil y Comercial N° 4 del Departamento Judicial de Avellaneda - Lanús, con fecha 20/08/2025 desestimó la acción de secuestro deducida, remitió al acreedor a la vía de la ejecución prendaria e impuso las costas por su orden.
+b) La ejecutante apeló dicho pronunciamiento el día 21/08/2025, fundando su recurso en el mismo acto, el cual fue concedido en relación el día 27/08/2025.
+c) La apelante recordó que el secuestro del artículo 39, frente al incumplimiento del deudor, opera simplemente para recomponer la relación prendaria y ello explica la no intervención del deudor en este trámite; tratándose en el caso de una actividad jurisdiccional limitada a la mera comprobación de los recaudos de admisibilidad de la medida y su diligenciamiento.
+Se preguntó cuál es el sentido de analizar si la relación jurídica que dio origen al otorgamiento del contrato prendario constituye o no, una relación de consumo a los efectos de la ley de defensa de consumidor, si el único objeto de este proceso es brindar apoyo jurisdiccional al acreedor prendario para apoderarse del bien prendado sin que se halle previsto en su trámite intervención alguna del deudor.
+Cita jurisprudencia y al respecto explicó que el máximo tribunal nunca rechazó la validez del procedimiento de secuestro en el caso de relaciones de consumo, con la salvedad que deberá estar notificado previamente el deudor.
+Hizo referencia a la no aplicación del artículo 36 de la ley 24240 puesto que el presente no es un proceso en el que se plantee un contradictorio y en donde no se admite recurso alguno del deudor; concluyendo que la ley 24240 no resulta de aplicación al presente, solicitando se revoque la resolución apelada y continúe la causa según su estado, ordenándose el libramiento de mandamiento de secuestro.
+Por otro lado, señaló que se ha celebrado un acuerdo homologado en los autos caratulados "Protegiendo al Consumidor P.A.C. c/ Fca S.A. de Ahorro Para Fines Determinados s/ Nulidad de Contrato" Expte Nº 39183 en trámite por ante el Juzgado Civil y Comercial 12 de Mar del Plata.
+d) Encontrándose firme y consentido el llamamiento de autos para sentencia de fecha 03/02/2026 (art. 270 del CPCC), corresponde el análisis de los planteos realizados, cuestión que abordaré a continuación.
+II.- Solución.
+I.- En primer lugar, en atención a lo señalado en el punto II del escrito de apelación presentado por el recurrente, cabe precisar que, conforme lo establece el artículo 54, primer párrafo, de la Ley 24.240, y ante la falta de acreditación de la oponibilidad del acuerdo invocado al demandando en estas actuaciones, corresponde desestimar las manifestaciones vertidas al respecto.
+II.- La apelante sostuvo que no es de aplicación la ley 24240 al amparo de las particulares características que hacen el secuestro prendario del artículo 39 de la Ley 12962.
+Entiendo pertinente señalar que la presente acción fue entablada por una entidad financiera contra una persona humana, con el objeto de obtener el secuestro de un automotor prendado. Lo medular a efectos de establecer o no una relación de consumo es analizar por un lado, el concepto de consumidor, persona humana o jurídica que adquiere o utiliza en forma gratuita u onerosa, bienes o servicios como destinatario final, en beneficio propio o de su grupo familiar o social (art. 1092 del Código Civil y Comercial; art. 1° de la ley 24.240, Hernández, Carlos A. "Tratado de derecho del consumidor", Gabriel Stiglitz y Carlos A. Hernández (Dir.), Ed. La Ley, Bs. As., 2015, pág. 416).
+Consumidor final es quien adquiere bienes o servicios sin intención de obtener una ganancia por su posterior enajenación, ni de emplearlos en un proceso de producción o comercialización de bienes o servicios destinados al mercado." (Farina, Juan M. "Defensa del consumidor y del usuario", Ed. Astrea, 2004, pág. 45 y ss). En el otro sitio de la relación de consumo se ubica el proveedor, de noción amplia en el ordenamiento legal (arts. 2 de la LDC, art. 1093 del Cód. Civ. y Com.; Hernández, Carlos A. "Relación de consumo" en "Tratado de derecho del consumidor" Gabriel Stiglitz y Carlos A. Hernández (Directores), Tomo I, Ed. La Ley 2015, págs. 425 y sgtes.), que sindica no sólo a las personas físicas o jurídicas que actúen profesionalmente o empresas productoras de bienes o prestadoras de servicios, de naturaleza pública o privada, sino también se señala a todo aquél que obre aun 'ocasionalmente', siempre que tengan por objeto la adquisición, uso o goce de los bienes o servicios por parte de consumidores o usuarios, para su uso privado, familiar o social. (Wajntraub, Javier "Código Civil y Comercial de la Nación", Ricardo Luis Lorenzetti (Dir.), Tomo VI, Ed. Rubinzal-Culzoni 2015, pág. 236) .
+Bajo esta télesis, del contrato base de esta acción surge el otorgamiento de un préstamo de dinero garantizado con una prenda con registro sobre un automotor para uso particular, lo que permite presumir la calidad de consumidor del demandado; por otro lado el acreedor es una entidad financiera quien hace las veces de proveedor de un servicio financiero.
+Dentro de la noción de crédito o financiamiento al consumo se encuentran subsumidas todas aquellas operaciones en las cuales su finalidad es financiar al consumidor en la adquisición de bienes y servicios para su consumo final, y no obstante cuenten con normativas específicas se aplica y prevalece la LDC (art. 1094 del Cód. Civ. y Com.)
+Tengo para mí la convicción de que se ha entablado una relación de consumo. No se editan elementos adicionales que permitan desvirtuar la calificación realizada en la instancia que precede (arts. 1, 2, 3, 4, 36, 53 ss. y cdtes. de la LDC; arts 1092 a 1095 art. 384 y concs. CPCC arts. 1, 2, 3 ss y concds., Ley 24240).
+Sobre este panorama conceptual es que encuentro pertinente distinguir el proceso de ejecución prendaria, que prevé la participación del deudor, del trámite judicial especial de secuestro prendario que facilita el desapoderamiento del bien y su posterior venta extrajudicial, sin ninguna participación de aquél. Precisamente, la falta de actuación del deudor en el secuestro del bien y el entorno de una relación de consumo, son las circunstancias que obstan la aplicabilidad del artículo 39 de la Ley de Prenda con Registro.
+Se ha señalado al respecto que para resolver el problema de interpretación cuando los derechos de usuarios y consumidores colisionan con otras normas que regulan diversas situaciones específicas, es importante tener en cuenta un doble orden de consideraciones.
+Por un lado, que en los casos que presentan colisión de normas no es la ley sino la Constitución Nacional la fuente principal de los derechos de los consumidores. Por otro lado, en el derecho argentino rige la interpretación mas favorable al consumidor, la precedencia normativa constitucional y la integración con otras normas en el supuesto de ausencia de regulación específica. La referencia a los principios resulta útil para salvaguardar la preeminencia del derecho del consumidor frente a un ordenamiento sustantivo que, por diversas razones, colisiona con este derecho protectorio (Lorenzetti, Ricardo; su voto CSJN, B. 721, XLIV; "Banco de la Provincia de Buenos Aires c/DNCI - Disp. 622/05, 19/03/2014).
+Estimo oportuno recordar que la Suprema Corte de Justicia de la Provincia de Buenos Aires ha decidido la procedencia de la aplicación del régimen protectorio instaurado por la ley 24.240 en el marco de las acciones de secuestro prendario. En efecto, frente a un planteo de conflicto de competencia, determinó la aplicación de la regla contenida en el art. 36 de la Ley 24240, (SCBA Ac. 120.068 "Fiat Crédito Cía. Financiera SA" del 28/09/2016).
+En sentido concordante, el Máximo Tribunal Federal, en el fallo: "HSBC Bank Argentina SA", consideró - por mayoría - que se trataba de una desprotección frente al mandato del art. 42 de la Carta Magna. Al respecto, sostuvo que "...privar al deudor -en la relación de consumo- de todo ejercicio de derecho de defensa, en forma previa al secuestro del bien prendado, podría colocarlo en una situación que no se condice con la especial protección que le confiere el art. 42 de la CN" (CSJN, 11/06/2019). Al respecto, estimó que debió haberse integrado las disposiciones de la ley 24.240 con las normas prendarias, debiendo primar las más favorables al consumidor, como consecuencia de la aplicación del principio "favor debilis".
+En consecuencia, concluyó que lo resuelto por "el ad quem" debía ser descalificado por arbitrario, toda vez que afectaba de modo directo e inmediato el derecho al debido proceso adjetivo establecido en el artículo 18 de la Constitución Nacional.
+No cabe duda, - a mi modo de ver - que la normativa que se analiza pone en tensión el orden público que ostentan los derechos de consumidores y usuarios, como así también, el debido proceso legal que garantizan nuestra Constitución Nacional y los Tratados Internacionales de Derechos Humanos que integran el bloque de constitucionalidad Federal (art. 75 inc. 22 C.N.).
+Preciso que no dar intervención al deudor es incompatible con el derecho de defensa en juicio, y con mayor razón en la relación de consumo donde el juez de oficio debe verificar los requisitos de la venta a crédito, la competencia, los términos abusivos y cláusulas ineficaces, adoptando la interpretación mas favorable al consumidor. Interpretar el texto legal para encontrarle un significado compatible con el bloque de constitucionalidad no es una opción para el juez sino un imperativo constitucional y convencional, y no se advierte la utilidad social que pueda tener la liquidación del bien del deudor sin que sea oído en el proceso. Asimismo, el endeudamiento del consumidor es también un problema social, donde el trato digno, equitativo y no discriminatorio no concluye con la oferta, sino que se extiende a la etapa contractual y post contractual, de modo que aun en la ejecución de la deuda es impostergable escuchar al deudor.
+El artículo 39 de la ley de Prenda con Registro no se puede integrar en el diálogo de fuentes por vulnerar los derechos de igualdad, propiedad y defensa en juicio de los deudores en general y de los consumidores en particular.-
+Bajo tal óptica, ninguna duda cabe que el secuestro prendario previsto en el artículo 39 de la ley 12.962 colisiona con el derecho de defensa en juicio. El derecho del consumidor debe traducirse en "garantías procedimentales" que el ordenamiento ofrece a los consumidores para asegurarles una tutela judicial efectiva y oportuna. Se trata de una "tutela procesal diferenciada" que se traduce en la "necesidad de tornar flexibles las tutelas jurisdiccionales con la finalidad de adaptarlas a la realidad, tutelando de forma más adecuada cada derecho sustancial". La defensa de los derechos sustanciales "deviene merecedora no sólo del derecho a acceder a un órgano jurisdiccional que ampare contra actos que violen sus derechos, sino además a la remoción de obstáculos formales que obstruyan cualquier etapa del curso procedimental", entre los cuales se encuentra "la expansión de ciertos medios defensivos en procesos como los ejecutivos o monitorios" (cfr. Sahián, José H. "Tutela diferenciada de los consumidores", Revista de Derecho del Consumidor, nro. 4, abril 2018, cita: IJ-DXXXIII-664).
+Resulta entonces que el artículo 39 de la Ley de Prenda se evidencia contrario al derecho de los consumidores y su finalidad protectoria, ya que no puede desconocerse que desde el reconocimiento de éstos en la reforma de 1994 de la Constitución Nacional, en el art. 42 y de la ley 24.240 y su reforma por la ley 26.361, el legislador ha pretendido hacer cesar la prevalencia y con ello los abusos de quienes resultan la parte más fortalecida en la relación jurídica de consumo (ver Junyent Bas, Francisco - Garzino, María Constanza "Secuestro prendario y Ley de Defensa del Consumidor" RDCO 278, 08/06/2016, 705, Cita Online: AR/DOC/4372/2016).
+Lo expuesto lleva a no recibir el argumento traído por la parte apelante conforme el cual el procedimiento de secuestro que excluye toda participación del deudor impide que se considere a la cuestión abarcada por el plexo normativo protectorio del consumidor. Ello así, puesto que el art. 39 del decreto-ley 15.348/1946 -ratificado por la ley 12.962- que habilita a determinados acreedores a desposeer al deudor mediante el secuestro del bien prendado y realizar posteriormente su venta extrajudicial sin su intervención no puede aplicarse, en tanto impide el ejercicio del derecho constitucional de defensa en juicio del consumidor, parte débil en el contrato principal, al cual accede la prenda como garantía de cumplimiento.
+La conclusión que se impone conduce a postular que el sistema protectorio del derecho del consumo no puede ser enervado por la existencia de un proceso monitorio sostenido en aras de la protección del crédito prendario, cuando la defensa del consumidor y el interés del acreedor pueden canalizarse por medios menos gravosos, como el proceso de ejecución prendaria (art. 598 y sgtes. del CPCC).
+Siguiendo entonces el sendero que nuestro Superior Tribunal provincial ha comenzado a marcar en materia de aplicación de la ley de protección al consumidor en las operaciones de crédito para consumo con garantía prendaria, considero que la resolución adoptada en la instancia que precede debe confirmarse. El trámite normado por el artículo 39 no puede ser aplicado a las relaciones de consumo en tanto impide el ejercicio del derecho constitucional de defensa en juicio del consumidor, parte débil en el contrato principal, al cual accede la prenda como garantía de cumplimiento (conf. esta sala, causa N°46146, SD, de fecha 14/2/2023).
+La solución propuesta encuentra su respaldo legal en el art . 42 CN y lo dispuesto por el art . 1094 Cód. Civ. y Com. de la Nación el cual dispone que en caso de duda sobre la interpretación del Cód. Civ. y Com. de la Nación o las leyes especiales, prevalece la más favorable al consumidor.
+El artículo 3º de la ley 24240 zanja este tipo de conflictos, que no son de interpretación sino de jerarquía, ya que establece expresamente que las relaciones de consumo se rigen por la mencionada ley y sus reglamentaciones, sin perjuicio de que el proveedor esté alcanzado por otras normas específicas" (CS, Fallos 337:205, voto del señor juez Lorenzetti).
+En suma, el desplazamiento o la inaplicabilidad del art 39 Ley de Prenda con relación al microsistema de consumo constituye una solución de armonización, integración y complementariedad normativa en el marco del diálogo de fuentes plurales (cfr. arts. 42 de la CN, 15 de la Constitución provincial, art. 39 de la Ley de Prenda con Registro; arts. 1, 2, 3, 4, 36, 37, 65 ss. y cdtes. de la ley 24.240 -texto según leyes 26.361 y 26.994-; art. 598 ss. y cdtes. del Código Procesal, arts. 1, 2, 3, 7, 9, 10, 11, 12, 1092 a 1098, 1120, 1121 y concs. del Código Civil y Comercial, Conf esta Sala, causa A N° LN-11873-2019; S del 29/12/2020, RSD 210-2020; causa N° LZ-39738-2019, S 29-07-2020, RSD 85/2020; e.o).
+Por todo lo expuesto, propongo al Acuerdo confirmar la resolución adoptada.
+En consecuencia, y con este alcance VOTO POR LA AFIRMATIVA.
+A la primera cuestión , por compartir los mismos fundamentos, el Doctor Sergio Hernán Altieri dijo que: VOTA EN IGUAL SENTIDO .
+A la segunda cuestión, la Dra. Rosa María Caram expresó :
+Visto el Acuerdo logrado al tratar la cuestión anterior, corresponde confirmar la apelada resolución de fecha 20/08/2025. Las costas de Alzada deben imponerse en el orden causado, habida cuenta la ausencia de contradicción (art. 68 del CPCC). Propicio diferir la consideración de los honorarios profesionales, hasta tanto se practique en la instancia de origen las pertinentes regulaciones de los honorarios profesionales.
+ASI LO VOTO
+A la segunda cuestión , por compartir idénticos fundamentos, el Doctor Sergio Hernán Altieri expresó que: VOTA EN IGUAL SENTIDO .
+Con lo que terminó el Acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Que en el Acuerdo celebrado quedó establecido:
+1º) Que la apelada sentencia de fecha 20/08/2025 debe confirmarse, con el alcance que aquí se decide.
+2º) Que las costas deben ser impuestas en el orden causado.
+POR ELLO : Y fundamentos consignados en el Acuerdo, confirmase la apelada resolución de fecha 20/08/2025. Costas de Alzada en el orden causado. Difiérase la consideración de los honorarios profesionales hasta la oportunidad señalada al tratar la segunda cuestión. Regístrese. Oportunamente, devuélvanse las actuaciones al juzgado de origen.
+```
+
+---

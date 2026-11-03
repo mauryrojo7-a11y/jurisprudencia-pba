@@ -1,93 +1,111 @@
 {
-  "ultimaEjecucion": "2026-10-26T18:18:31.189Z",
+  "ultimaEjecucion": "2026-11-03T17:59:15.800Z",
   "juzgado7": {
     "nuevasSentencias": 0,
-    "nuevasResoluciones": 0,
-    "totalRegistrados": 438
+    "nuevasResoluciones": 18,
+    "totalRegistrados": 506
   },
   "camaraAvellanedaLanus": {
     "nuevasSentencias": 0,
     "nuevasResoluciones": 0,
-    "totalRegistrados": 465
+    "totalRegistrados": 487
   },
   "camarasPBA": {
-    "nuevosFallos": 47,
-    "totalRegistrados": 636
+    "nuevosFallos": 169,
+    "totalRegistrados": 961
   },
   "arquitecturaCognitivaArxiv": {
-    "nuevosPapers": 15,
-    "totalRegistrados": 75
+    "nuevosPapers": 52,
+    "totalRegistrados": 127
   },
   "supremaCorteSCBA": {
     "nuevasSentencias": 0,
-    "nuevasResoluciones": 18,
+    "nuevasResoluciones": 0,
     "totalRegistrados": 487
   },
   "particionesNotebookLM": {
     "01_Juzgado_Parte": [
       {
         "archivo": "01_Juzgado_Parte1.md",
-        "palabras": 369395,
-        "palabrasEstricto": 376938,
-        "fallos": 86
+        "palabras": 370585,
+        "palabrasEstricto": 378074,
+        "fallos": 84
       },
       {
         "archivo": "01_Juzgado_Parte2.md",
-        "palabras": 369691,
-        "palabrasEstricto": 379206,
-        "fallos": 219
+        "palabras": 369197,
+        "palabrasEstricto": 378552,
+        "fallos": 210
       },
       {
         "archivo": "01_Juzgado_Parte3.md",
-        "palabras": 148608,
-        "palabrasEstricto": 152709,
-        "fallos": 133
+        "palabras": 241008,
+        "palabrasEstricto": 247814,
+        "fallos": 212
       }
     ],
     "02_Camara_Parte": [
       {
         "archivo": "02_Camara_Parte1.md",
-        "palabras": 370165,
-        "palabrasEstricto": 379389,
-        "fallos": 238
+        "palabras": 370007,
+        "palabrasEstricto": 379079,
+        "fallos": 213
       },
       {
         "archivo": "02_Camara_Parte2.md",
-        "palabras": 331849,
-        "palabrasEstricto": 340194,
-        "fallos": 227
+        "palabras": 369895,
+        "palabrasEstricto": 379310,
+        "fallos": 269
+      },
+      {
+        "archivo": "02_Camara_Parte3.md",
+        "palabras": 9363,
+        "palabrasEstricto": 9520,
+        "fallos": 5
       }
     ],
     "03_Camaras_PBA_Parte": [
       {
         "archivo": "03_Camaras_PBA_Parte1.md",
-        "palabras": 366716,
-        "palabrasEstricto": 376835,
-        "fallos": 151
+        "palabras": 367257,
+        "palabrasEstricto": 376230,
+        "fallos": 157
       },
       {
         "archivo": "03_Camaras_PBA_Parte2.md",
-        "palabras": 362786,
-        "palabrasEstricto": 373705,
+        "palabras": 367163,
+        "palabrasEstricto": 377625,
         "fallos": 124
       },
       {
         "archivo": "03_Camaras_PBA_Parte3.md",
-        "palabras": 370625,
-        "palabrasEstricto": 378568,
-        "fallos": 161
+        "palabras": 362202,
+        "palabrasEstricto": 373731,
+        "fallos": 158
       },
       {
         "archivo": "03_Camaras_PBA_Parte4.md",
-        "palabras": 370529,
-        "palabrasEstricto": 379493,
-        "fallos": 194
+        "palabras": 371530,
+        "palabrasEstricto": 379031,
+        "fallos": 101
       },
       {
         "archivo": "03_Camaras_PBA_Parte5.md",
-        "palabras": 3639,
-        "palabrasEstricto": 3659,
-        "fallos": 6
+        "palabras": 368299,
+        "palabrasEstricto": 377324,
+        "fallos": 172
+      },
+      {
+        "archivo": "03_Camaras_PBA_Parte6.md",
+        "palabras": 370899,
+        "palabrasEstricto": 379448,
+        "fallos": 189
+      },
+      {
+        "archivo": "03_Camaras_PBA_Parte7.md",
+        "palabras": 101463,
+        "palabrasEstricto": 103681,
+        "fallos": 60
       }
     ],
     "05_SCBA_Parte": [
