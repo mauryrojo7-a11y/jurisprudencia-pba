@@ -4,11 +4,11 @@
 - **Secretaría Actuante**: Secretaría Civil, Comercial y de Familia SCBA (Causas `C.` / `Ac.`)
 - **Carácter Normativo y Procesal**: Doctrina Legal obligatoria de Casación Provincial (arts. 161 inc. 3 ap. "a" Constitución PBA y arts. 278, 279, 289 y concs. CPCCBA)
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
-- **Fecha de Extracción**: 2026-11-03
+- **Fecha de Extracción**: 2026-11-05
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`: 119) y Resoluciones Interlocutorias recientes (`RR`: 350) dictadas por la Suprema Corte de Justicia de la Provincia de Buenos Aires en materia Civil, Comercial y de Familia, incluyendo Metadatos Verificados, Tribunal de Origen, Magistrados Votantes, Sumarios JUBA / Doctrina Legal Aplicable, Precedentes Citados y Texto Íntegro.
 
 ---
-- **Fragmento para NotebookLM / Gemini**: Parte 1 de 3 (`05_SCBA_Parte1.md`)
+- **Fragmento para NotebookLM / Gemini**: Parte 1 de 4 (`05_SCBA_Parte1.md`)
 - **Archivo Fuente Completo**: `05_Suprema_Corte_SCBA_Civil_Comercial.md`
 - **Fallos incluidos en esta parte**: 70
 

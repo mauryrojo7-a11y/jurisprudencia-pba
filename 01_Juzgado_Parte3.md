@@ -3,17 +3,501 @@
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA (`idOrganismo: 3659`)
 - **Juez Titular**: Dr. Martín Alfredo Botassi
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` (Suprema Corte de Justicia de la Provincia de Buenos Aires)
-- **Fecha de Extracción**: 2026-11-03
+- **Fecha de Extracción**: 2026-11-05
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`: 129) y Resoluciones Interlocutorias recientes (`RR`) con Carátula, N° de Causa, Fecha, N° de Registro, Código de Acceso y Texto Íntegro.
 
 ---
 - **Fragmento para NotebookLM / Gemini**: Parte 3 de 3 (`01_Juzgado_Parte3.md`)
 - **Archivo Fuente Completo**: `01_Juzgado_Civ_Com_7_Avellaneda.md`
-- **Fallos incluidos en esta parte**: 212
+- **Fallos incluidos en esta parte**: 222
 
 ---
 
 ## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS RECIENTES (`REGISTRO DE RESOLUCIONES - RR`) (Continuación - Parte 3/3)
+
+### 79. [RR-1180-2026] TORO RAMON ANGEL S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `18023`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1180-2026`
+- **Código de Acceso SCBA**: `A729919D`
+- **Firmantes**: Fecha: 9/10/2026 10:58:37 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1180-2026 - Código acceso: A729919D - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 10:58
+
+#### Texto Íntegro
+```text
+TORO RAMON ANGEL S/ SUCESION AB-INTESTATO
+Expte. N° 18023
+MB
+Avellaneda, en el día de la firma digital.-
+Agréguese y téngase presente.
+Se deja constancia que, efectuada la consulta del saldo bancario de la cuenta de autos, el mismo asciende a la suma de $1.206.260,10 . AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la transferencia de las sumas de dinero a favor de los herederos declarados de la declaratoria de herederos de fs. 46/48, con relación a las sumas de dinero depositadas en la cuenta de autos N° 537.781/0, la cual asciende a un millón doscientos seis mil doscientos sesenta pesos con diez centavos ($1.206.260,10) , con relación al cincuenta por ciento (50%) , que transmite el causante de autos, Ramon Angel Toro , atento el carácter ganancial de las mismas y del porcentaje restante que le corresponden a la cónyuge, Sara Feliciana Gomez.
+A esos fines la señora Secretaria librará por Secretaría el correspondiente oficio de transferencia al Banco de la Pcia. de Bs. As., Suc. Avellaneda N°5026, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+II.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+II.b.-) Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la sumas depositadas ($1.206.260,10) y teniendo en cuenta el porcentaje transmitido por el causante (50%), la base imponible a los fines regulatorios es de $603.130,05 (art. 15, ley 14.967).
+Que una vez aplicada la escala supra mencionada sobre la base regulatoria establecida, considerando la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, reparando también en el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, se obtiene una suma que resulta menor a la que establece el artículo 22 de la ley arancelaria.
+El último precepto mencionado dispone que, con prescindencia del contenido económico del asunto, la regulación del profesional de cada parte, no podrá ser inferior a siete (7) Jus, cualquiera fuese su actividad y el órgano jurisdiccional de que se trate.
+El problema reside entonces en definir parámetros judiciales para ponderar, por un lado, normas que disponen el máximo de la regulación en el 25% del monto del asunto, con una disposición que establece un piso de 7 JUS, que, como fuera dicho, en el caso de autos, excede desproporcionadamente aquéllas limitaciones.
+Sobre el tópico, la Suprema Corte de Provincia de Buenos Aires ha sostenido que, en tanto resulte aplicable el texto del art. 1255 del Código Civil y Comercial, cuando el precio de los servicios deba ser establecido judicialmente sobre la base de la aplicación de leyes arancelarias, su determinación debe adecuarse a la labor cumplida por el prestador y que si la aplicación estricta de los aranceles locales conduce a una evidente e injustificada desproporción entre la retribución resultante y la importancia de la labor cumplida, el juez puede fijar equitativamente la retribución (SCBA, causa n° 73.015, sent. de 28-III-2023).
+En el mismo sentido, sentenció el máximo órgano judicial local que, de advertirse esa desproporción, el juez debe adecuar los honorarios a las pautas de justicia y razonabilidad que se deprenden del art. 28 de la Constitución Nacional (Doctr. SCBA causa C. 81.319, sent. de 24-V-2006, causa 86.346, sent. 26-IX-2007, causa n° 61.659, sent. de 19-X-2016).
+Bajo tales premisas, avizorando que la aplicación del mínimo de 7 JUS arrojaría emolumentos desproporcionados con la índole y extensión de la concreta labor cumplida y con el índice objetivo del monto del asunto, corresponde acudir a las facultades conferidas por el art. 1255 del Código Civil y Comercial de la Nación y, en consecuencia, regular los honorarios los honorarios del doctor Juan Pablo Alegre (Tº II, Fº 442 del C.A.A.L) , en su carácter de letrado patrocinante, por las tres etapas cumplidas y a cargo de la masa en 2 jus arancelarios (RP 873/26, SCBA); con más el porcentaje de ley respectivo (ley 6.716) y el 21% de I.V.A. en caso de ser responsable inscripto (arts.1, 10, 14, 15, 16, 21, 22, 35 y 54 y cte., ley 14.967).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberá abonarse los aportes previsionales y encontrarse garantizado la percepción de los emolumentos regulados, o bien, manifestar el letrado si los ha percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526).
+III.-Tasa y sobretasa de justicia.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art. 337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma de $603.130,05 . De acuerdo con el informe que en este acto formula la Actuaria (art.116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $13.268,86 con más la de $663,44 . Consecuentemente, téngase por cumplido su pago con lo abonado a fs. 134 (arts. 865 y 895, CCCN).
+IV.- Agréguese y téngase presente la declaración jurada acompañada en la presentación electrónica de fs. 66/79 y, en virtud de ello, dese por cumplido con el impuesto a la transmisión gratuita de bienes, conforme lo dispuesto por las leyes 14.044 (arts.90 a 118), 14.200 (art.78) y Resolución normativa N° 022/13. REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### 80. [RR-1181-2026] BRIGANTI LILIANA DOMINGA VIRGINIA C/ KRAKOVIAK JUAN ALBERTO Y OTRO/S S/ COBRO EJECUTIVO DE ALQUILERES
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `19200`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1181-2026`
+- **Código de Acceso SCBA**: `C052A780`
+- **Firmantes**: Fecha: 9/10/2026 10:58:48 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1181-2026 - Código acceso: C052A780 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 10:58
+
+#### Texto Íntegro
+```text
+BRIGANTI LILIANA DOMINGA VIRGINIA C/ KRAKOVIAK JUAN ALBERTO Y OTRO/S S/ COBRO EJECUTIVO DE ALQUILERES
+Expte. N° 19200
+MDM
+Avellaneda, en el día de la firma digital.-
+AUTOS Y VISTOS:
+Téngase presente lo manifestado.
+En virtud de ello, corresponde precisar que quien invoca la franquicia prevista por el artículo 48 del Código Procesal asume la carga de acreditar, dentro del plazo legal, la representación invocada, mediante la presentación de los instrumentos pertinentes o la ratificación de lo actuado. En consecuencia, el incumplimiento de dicha carga determina la nulidad de las actuaciones cumplidas por el gestor, una vez transcurrido el plazo legal sin que se hubiere producido la correspondiente ratificación.
+En el caso de autos, la Dra. Analía Verónica Sileo invocó el carácter de gestora en los términos de la norma citada, en favor del demandado Juan Alberto Krakoviac, al contestar demanda mediante presentación de fecha 22/06/2026. Sin embargo, no obra en autos ratificación de lo actuado dentro del plazo legal, encontrándose holgadamente cumplido el término de 60 días hábiles previsto por el artículo 48 del CPCC.
+En consecuencia, corresponde declarar la nulidad de la presentación efectuada por la Dra. Analía Verónica Sileo en fecha 22/06/2026, con costas a su cargo, en tanto su actuación como gestora no fue oportunamente ratificada, lo que así RESUELVO (art. 48 del CPCC).
+Siguiendo tales lineamientos, de conformidad con lo solicitado, e informando la Actuaria en este acto que se encuentra vencido el término acordado a la parte demandada, Juan Alberto Krakoviac y Diego Alejandro Pietro Bonarelli, para contestar demanda y comparecer a estar a derecho sin que lo hubiera efectuado, habiendo sido citados, el primero, en el domicilio de la calle Sebastian Gaboto N° 3623, de la localidad de Lanús, según cédula adjunta al trámite de fs. 218/219, notificada en fecha 12/06/2026, y el segundo en el domicilio de la calle La Rioja N° 1994 de la localidad de Avellaneda, según cédula adjunta al trámite de fs. 189/194, notificada en fecha 20/10/2025, en orden a lo dispuesto por el art. 59 del Código Procesal, decláraselos rebeldes haciéndoles saber que las sucesivas providencias les serán notificadas en la forma que determina el art. 133 del mismo cuerpo legal. REGISTRESE. NOTIFÍQUESE (arts. 59, 116 y 135 inc. 14 CPCC) .-
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### 81. [RR-1182-2026] MANES GASTON ALAN Y OTROS C/ RUIZ DÍAZ ANTONIO ISIDRO S/ PRESCRIPCION ADQUISITIVA BREVE
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `20002`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1182-2026`
+- **Código de Acceso SCBA**: `0D1D94C0`
+- **Firmantes**: Fecha: 9/10/2026 10:58:59 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1182-2026 - Código acceso: 0D1D94C0 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 10:59
+
+#### Texto Íntegro
+```text
+MANES GASTON ALAN Y OTROS C/ RUIZ DÍAZ ANTONIO ISIDRO S/ PRESCRIPCION ADQUISITIVA BREVE
+Expte. Nº 20002
+IA
+Avellaneda, en el día de la firma digital.
+Proveyendo la presentación electrónica de fs. 189:
+En cuanto al pedido de caducidad de la prueba testimonial de la parte demandada, Antonio Isidro Ruiz Diaz, formulado por la parte actora, he de indicar que la misma se configura como un modo de sancionar el incumplimiento de las partes en el impulso y desarrollo de las cargas procesales que el Código de Forma les asigna en lo relativo a la producción oportuna de la prueba ofrecida y acarrea como consecuencia la pérdida de ésta, incluso aunque todavía no hubiere fenecido el plazo probatorio.
+En el caso de la prueba testimonial, el artículo 430 del Código Procesal dispone que se tendrá por desistido del testigo a la parte que lo propuso si: 1) No hubiere activado la citación del testigo y éste no hubiese comparecido por esa razón; 2) No habiendo comparecido aquel a la primera audiencia, sin invocar causa justificada, no requiriere oportunamente las medidas de compulsión necesarias; 3) Fracasada la segunda audiencia por motivos no imputables a la parte, esta no solicitare nueva audiencia dentro del quinto día.
+Confrontadas tales disposiciones con el caso de autos, se puede observar que a fojas 171 se fijó audiencia testimonial para que los testigos de la parte actora, Facundo Fabian Corrado y Rocio Daniela Cotugno y de la parte demandada Carlos Rufino, Guillermo Fernández y Walter Edgardo Motillo , comparecieran a la audiencia fijada para el día 25 de septiembre de 2026 a las 09:00 hs. En dicho proveído también se dejo constancia que, en relación a la fijación de audiencia supletoria, en aras de disponer medidas tendientes a lograr la plena eficacia de los actos procesales a desarrollarse en autos, la misma será considerada a pedido de parte y en razón del resultado obtenido en la audiencia fijada en los párrafos que anteceden, para cuyo fin deberá requerir las medidas de compulsión pertinentes a fin de efectivizar la comparecencia de los testigos propuestos (arts. 34, 36, 429 y 430, CPCC).
+Que a la audiencia referida solo compareció la parte actora y sus testigos propuestos, no así la demandada ni sus testigos, conforme acta labrada en fecha 25/09/2026.
+Ahora, analizada la conducta de la legitimada activa, se puede apreciar que el demandado no solo no arbitró los medios necesarios para hacer comparecer a los testigos por el ofrecidos a la audiencia fijada, sino que tampoco solicitó las medidas de compulsión que el Código de Rito indica activar en casos de incomparecencia injustificada para la citación de los testigos (art. 430 inc. 1 y 2, CPCC).
+En consecuencia, por los fundamentos precedentemente vertidos, corresponde declarar el desistimiento de la prueba testimonial ofrecida por la parte demandada en relación a los testigos Carlos Rufino, Guillermo Fernández y Walter Edgardo Motillo, lo que así RESUELVO (arts. 430 del C.P.C.C.). REGÍSTRESE. Notifiquese de forma automatizada (Ac.4013/21, modif. por Ac.4039/21, SCBA).
+Proveyendo la presentación electrónica de fs. 190:
+Al punto I: Siendo exacto lo manifestado, líbrese el oficio reiteratorio solicitado a EDESUR a los mismos fines y efectos que el ordenado a fs. 171 (arts.396 y 397, CPCC).
+Al punto II: En atención a lo solicitado, líbrese nuevo oficio a ARBA a los mismos fines y efectos que el ordenado a fs. 171, debiendo ser diligenciado al domicilio informado por el organismo a fs. 185 (arts.396 y 397, CPCC).
+Proveyendo la presentación electrónica de fs. 191: En atención, hágase saber al letrado que el oficio debe ser presentado como un escrito electrónico, no como archivo adjunto , ello conforme Acuerdo 4013/21 de la SCBA, el cual será confrontado y, de corresponder, librado. -
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### 82. [RR-1183-2026] MOLINA OMAR ALEJANDRO C/ TRIUNFO COOPERATIVA DE SEGUROS LIMITADA S/ DAÑOS Y PERJ. INCUMP. CONTRACTUAL (EXC. ESTADO)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `21519`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1183-2026`
+- **Código de Acceso SCBA**: `0D797EAC`
+- **Firmantes**: Fecha: 9/10/2026 10:59:14 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1183-2026 - Código acceso: 0D797EAC - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 10:59
+
+#### Texto Íntegro
+```text
+MOLINA OMAR ALEJANDRO C/ TRIUNFO COOPERATIVA DE SEGUROS LIMITADA S/ DAÑOS Y PERJ. INCUMP. CONTRACTUAL (EXC. ESTADO)
+Expt. n . 21519
+IA
+Avellaneda, en el día de la firma digital.
+Proveyendo la prestación electrónica de fs. 380:
+AUTOS Y VISTOS: Las presentes actuaciones, a mi cargo, traídas a despacho para resolver el acuse de negligencia impetrado por la citada en garantía a fs. 369 y 370, y;
+CONSIDERANDO: I. Que mediante los escritos de fs. 369 y 370, la citada en garantía solicitó se declare negligente a la parte actora, respecto de la prueba informativa oportunamente ofrecida a INFOAUTOS , toda vez que la parte no ha urgido el procedimiento conforme a lo que dispone el art. 384 del Código Procesal Civil y Comercial.
+II.- Que, conferido el traslado de ley a fs. 372, la parte actora no respondió el mismo (arts. 150 y 155, CPCC).
+III. Que en aras de dar adecuado tratamiento a la incidencia articulada, y habiéndose verificado el vencimiento del período probatorio abierto en autos, cabe comenzar señalando que el artículo 382 del Código Procesal ordena como principio general que las partes no sólo tienen la carga de ofrecer las medidas de prueba dentro del término que ordena la ley, sino que también deben los interesados instar la producción de las mismas en tiempo oportuno.
+Se ha sostenido al respecto que, del principio de que a la parte oferente incumbe urgir las medidas para que la prueba se produzca dentro del término oportuno, resulta que incurre en negligencia quien no ha efectuado las diligencias correspondientes a los fines de su producción en el plazo concedido al efecto (Cfr. SCBA, causa n° 61.625, sent. de 11-XI-2021).
+IV.- Sub examine.
+En el caso de análisis, se aprecia que a fs. 230/238 se admitió la producción de las prueba ofrecida por la parte actora sujeta al presente análisis (informativa dirigida INFOAUTO), a cuyo fin se ordenó el oficio pertinente.
+Asimismo, de la certificación efectuada a fs. 371, se puede contemplar de las constancias de autos que la parte demandada no cuenta con prueba pendiente de producción a su cargo y que el término probatorio se encuentra vencido.
+V. Así las cosas, de un estudio pormenorizado de las presentes actuaciones, se puede constatar que desde que fuera ordenada su producción (04/11/2025) a la fecha, la actora presentó dos oficios a la requerida, uno que fue observado (303/306) y otro que fue librado y notificado a su domicilio electrónico constituido para ser diligenciado de la manera que estime corresponder (fs. 319/322). Posteriormente y no habiéndose recibido respuesta de la entidad oficiada, la parte no volvió a impulsar la prueba en análisis.
+VI . En consecuencia habiendo transcurrido el plazo otorgado para la producción de la prueba sin haber urgido su realización, corresponde declarar la negligencia respecto a la prueba informativa ofrecida por la parte actora a INFOAUTO , lo que así RESUELVO. REGÍSTRESE (art. 382, CPCC). Costas a la parte actora en atención al modo en que ha sido resuelto el presente incidente (art. 69, CPCC). Notifiquese de forma automatizada (Ac.4013/21, modif. por Ac.4039/21, SCBA).
+Proveyendo la prestación electrónica de fs. 381:
+Del pedido de explicaciones requeridas respecto del dictamen emitido por el perito ingeniero mecánico Osvaldo Adolfo Gonzalez , dese traslado al mismo por el plazo de cinco días. Notifíquese por Secretaría en los términos de la Ac. 4039/21, SCBA (cfr. art. 135, CPCC).
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### 83. [RR-1184-2026] BANCO COMAFI SA C/ CALLIGUARI JAQUELINA DE LOS ANGELES S/ COBRO EJECUTIVO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `22745`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1184-2026`
+- **Código de Acceso SCBA**: `41D18A31`
+- **Firmantes**: Fecha: 9/10/2026 10:59:30 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1184-2026 - Código acceso: 41D18A31 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 10:59
+
+#### Texto Íntegro
+```text
+BANCO COMAFI SA C/ CALLIGUARI JAQUELINA DE LOS ANGELES S/ COBRO EJECUTIVO
+Expte. N° 22745
+JM
+Avellaneda, en el día de la firma digital.-
+AUTOS Y VISTOS:
+1. No habiendo la ejecutada opuesto excepciones legítimas dentro del plazo legal que se encuentra vencido, según informa el Actuario en este acto, se le da por perdido el derecho que ha dejado de usar (art.540,último párrafo, CPCC).
+Se deja constancia que la ejecutada, Jaquelina de los Ángeles Calliguari f ue debidamente intimada de pago en fecha 15 de septiembre de 2026 a través del mandamiento librado bajo responsabilidad de la parte actora e n el domicilio de calle Av. Manuel Belgrano, 5392, Piso: 3, Dpto: B, Villa Dominico, Partido de Avellaneda ( ver constancia de fs. 73 ) .
+2. Que la parte actora acompañó en su presentación de fs.1/30 el contrato de tarjeta de crédito, con los resúmenes de cuenta adeudados y la certificación en carácter de declaración jurada de no haber recibido impugnaciones o denuncia alguna en relación a la deuda cuya ejecución se persigue, ello en cumplimiento de los arts. 27, 28 y 29 de la Ley 25.065 y 36 de la Ley de Defensa de los Consumidores y Usuarios.
+Realizando un análisis de la documentación señalada, entonces, surge que, con fecha 28/08/2017, la señora Jaquelina de los Ángeles Calliguari suscribió una solicitud de productos y servicios con el Banco Comafi SA, mediante la cual se emitió a su favor la tarjeta de crédito VISA. La tarjeta de crédito VISA mencionada operó su cierre definitivo el día 3 de octubre de 2025, arrojando un saldo deudor de tres millones setecientos catorce mil doscientos cuatro pesos, con treinta y cinco centavos ($3.714.204,35), con más sus intereses, costos y costas.
+3. D e las constancias de estos autos, surge que a fs. 33/35 se ordenó la citación de la ejecutada a efectos de reconocer las firmas insertas en los instrumentos acompañados a la demanda (conf. art. 523 inc. 1 y 524, CPCC) desprendiéndose -asimismo- que encontrándose notificado bajo responsabilidad de la parte actora, aquélla no concurrió a levantar la carga impuesta, por lo que se tuvieron por reconocidos los documentos base de la acción y por preparada la vía ejecutiva, ordenándose el mandamiento de intimación de pago correspondiente -ver fs. 48-.
+4. Que en fecha 22/02/2026 pudiendo considerarse que la presente deriva de una relación de consumo, se otorga vista al Ministerio Público Fiscal a efectos de que se expida en resguardo y defensa de la ley (arts.1, 2, 7 y cc. C.C.y C. - ley nacional 26.994-; arts.1, 36, 52, 65 y cc. ley nacional 24.240 - Ley de Defensa del Consumidor-; ley provincial 13.133 - Código provincial del Consumidor-; art.42 CN, art.38 CPBA).
+5. Que a fojas 36/37 , el Agente Fiscal manifestó: " (.) De manera que no abrigo dudas de que en el caso, se configura una relación de consumo entre el actor y el accionado, resultando aplicables todas las normas específicas sobre la materia, también resultando aplicables todas las normas más protectorias para el consumidor o usuario previstas en los artículos 1117 a 1122 del C.C.C.N., en particular aquellas sobre la existencia de cláusulas abusivas de conformidad con lo señalado en el artículo 37 de la Ley de Defensa del Consumidor y sus concordantes." .
+CONSIDERANDO:
+I. a.- Relación de consumo.
+Que en primer término cabe establecer, atento las constancias de autos, si nos encontramos ante una relación de consumo entre las partes en los términos de la ley 24.240.
+Con fecha 12 de marzo de 2008 fue dictada la ley N° 26361, modificatoria de la ley N° 24240 de Defensa del Consumidor. Este conjunto de normas son las que, juntamente con el Código Civil y Comercial, regula todas aquellas relaciones que son consideradas como "relaciones de consumo". La misma es de orden público y raigambre constitucional, según surge del Art.42 de la Constitución Nacional y se dirige a proteger los derechos del consumidor y el usuario (art.65 ley 24240).
+Por "relación de consumo" se entiende a toda vinculación jurídica en la cual el proveedor ostenta, sobre la base de diversos factores, una posición nítida e innegable de superioridad respecto de los sujetos que adquieren los bienes y servicios que aquel comercializa (Ley de defensa del consumidor/Pinese - Corbalán - 2ª ed. Cathedra Jurídica, 2018.).
+Para determinar si una relación jurídica debe ser abarcada por el derecho consumeril, tanto la más destacada doctrina como la jurisprudencia, establecieron diferentes pautas. En tal sentido, cabe destacar lo expresado por la Cámara 4° de Apelaciones Civil y Comercial de Córdoba, en tanto estimó que puede determinarse: de las propias manifestaciones del ejecutante, de la calidad de este último o también por su actividad (banco, entidad de crédito). En otros casos será inferible por vía de prueba ("Cetti, Aldo Anibal C/ Marchisio, Mariela Verónica - Presentación Múltiple - Ejecutivos Particulares - Recursos De Casación E Inconstitucionalidad" Expte.N° 6246300. | 15/12/2016. Cámara 4ta de apelaciones en lo civil y comercial. Córdoba. Magistrados: Fernández - González de la Vega).
+En el caso de autos, teniendo en cuenta: 1) la documentación acompañada por el accionante; 2) que el mismo es un reconocido prestador de servicios; 3) la constancia de CUIT acompañada y 4) que el demandado es un usuario o consumidor, resulta posible encuadrar la presente acción como una operación financiera para consumo (arts.1, 2, 3 y 36 de la ley N° 24.240).
+En consonancia con lo establecido, resulta ser labor de los magistrados hacer un examen respecto de la demanda instaurada y la documentación acompañada, a los efectos de hacer cumplir dicha norma de orden público (S.C.B.A., RC, 109.193, 11-8-2010, carátula: "Cuevas Eduardo Alberto c/ Caceres Claudio Maximiliano s/ Cobro Ejecutivo), es por ello que corresponde poner de manifiesto que de la compulsa de autos surge que se ha dado efectivo cumplimiento con el deber de información normado por el art.36 de la Ley 24240.
+I.b.- Tratándose entonces la presente de la ejecución de saldo impago respecto de la tarjeta de crédito VISA, siendo emisora de la misma una entidad bancaria que presta servicios financieros corresponde la aplicación de las disposiciones del Código Civil y Comercial de la Nación (ley nacional 26.994), de la Ley de Defensa del Consumidor (ley 24.240) y del régimen legal especial para los documentos de crédito denominados pagaré (decreto ley 5965/63). Normativa que debe compatibilizarse con los postulados protectorios de los consumidores receptados por la Constitución Nacional en su artículo 42 y la Constitución Bonaerense en su artículo 38.
+I. c.- Lo expresado hasta aquí no debe entenderse como un desconocimiento del derecho del acreedor al cobro por la vía expedita del juicio ejecutivo, en tanto cumpla con los requisitos legales.
+En ese sentido, el derecho de defensa en juicio que se materializa mediante el principio de bilateralidad o contradicción (arts.15, Constitución Provincial; 18, 75 inc.22, CN; 8 C.A.D.H.; 14 P.I.D.C.y P.), admite postergaciones de su ejercicio para un útil y efectivo servicio de justicia. Tal es el caso del proceso ejecutivo, caracterizado por un estrecho marco cognoscitivo donde se obtiene una verdad meramente formal, habida cuenta el acotado margen defensivo para el legitimado pasivo, resguardado en la posibilidad de entablar un juicio de conocimiento posterior, oportunidad en la que se podrá acudir a todas aquellas defensas que se le privó de ejercer en esta expedita vía judicial.
+Mediante este tipo de procesos, el legislador ha privilegiado conceder al acreedor una vía rápida y efectiva para la satisfacción del crédito. Sin embargo y, aunque el artículo 542 del C.P.C.C. prescriba que "las únicas excepciones admisibles en juicio ejecutivo" son las que allí se enumeran, en reiteradas oportunidades se han acogido -por vía de jurisprudencia- otras defensas, destinadas sustancialmente a resguardar el derecho de defensa del ejecutado y evitando excesos de rigor formal. Precisamente, en este esquema se enmarcan los procesos incoados en base a títulos valores emitidos en virtud de relaciones de crédito para consumo, pues la constatación del cumplimiento de los recaudos que exige el artículo 36 de la Ley de Defensa del Consumidor (ley 24.240) se erige, actualmente, como integrante de la tutela judicial efectiva. La exigencia de esa especificación, en este tipo de operaciones, tiene por finalidad posibilitar el control de las cláusulas contractuales, de acuerdo a las pautas brindadas por el artículo 37 de la ley 24.240, norma en virtud de la cual puede declararse la ineficacia de aquellas que sean abusivas.
+En este contexto, la Suprema Corte de Justicia de la Provincia de Buenos Aires, en la causa C. 121.684 "Asociación Mutual Asís c/ Cubilla, María Ester s/ cobro ejecutivo" (sent. del 14/8/2019) fijó parámetros que son dables de aplicar a este tipo de procesos. Allí estableció que: "... en el ejercicio de las atribuciones que le confiere el ordenamiento procesal (arg. arts.34, inc.5, apdo."c" y 36, inc.2 y concs., C.P.P.C.), el juez puede encuadrar el asunto como una relación de consumo a fin de subsumirlo en el art.36 de la LDC". Si el título en cuestión, integrado de tal modo o bien autónomamente, satisface las exigencias legales prescriptas en el estatuto del consumidor, podrá dar curso a la ejecución. Ello, claro está, sin desmedro del derecho del ejecutado de articular defensas, incluso centradas en el mencionado art.36, tendientes a neutralizar la procedencia de la acción" (v. punto IV.5.d, fallo cit.).
+Consecuencia de ello, la habilitación en el marco del juicio ejecutivo de una indagación causal -que flexibiliza el alcance del art.542, inc.4 del código adjetivo- afirma y delinea nuevos contornos en el proceso ejecutivo: sea para declarar la habilidad del título, sea para considerarlo inhábil, en tanto se acredite o no la observancia del art.36 de la LDC.
+En conclusión, está claro que las atribuciones que tienen los jueces cuando llega a su conocimiento una pretensión ejecutiva que enmascara una relación de crédito para consumo, o financiación para consumo, han quedado ampliadas. Y las defensas que en carácter de excepción podrá oponer el consumidor ejecutado ante la notificación del pertinente mandamiento de intimación de pago y embargo también son mayores a las limitadas -a su tiempo- por el artículo 542 del C.P.C.C.
+II.- Intereses.
+En las presentes actuaciones, la parte ejecutante solicitó -respecto del saldo deudor referenciado- la aplicación al capital, de los intereses compensatorios y punitorios, desde las fechas de mora denunciadas respecto de las tarjetas de crédito emitidas.
+En el sub examine , los resúmenes acompañados por el banco accionante contienen información detallada sobre los intereses aplicados, cumpliendo así con las prescripciones del sistema de tarjeta de crédito (arts. 3, 16, 18, 19, 20 y 23, Ley 25.065), por lo que corresponde analizar cada uno de ellos:
+Intereses compensatorios : En el caso de autos, conforme surge de las peticiones efectuadas en el escrito de inicio, a las que debo atenerme por razones de congruencia, la actora reclama intereses compensatorios a ser devengados desde la fecha de mora.
+Es por esta razón que deben esbozarse algunas aclaraciones particulares en relación a los intereses reclamados ya que más allá del "nombre" que se les dé, la distinción de los accesorios responde a la propia naturaleza de los mismos. Así, los "compensatorios" son los pactados para el caso de cumplimiento y corren durante el término del préstamo, mientras que por el contrario los "moratorios" y los "punitorios" son los que de deben en caso de mora. Por otra parte los "compensatorios" proceden a condición de haber sido pactados, en tanto que los moratorios resultan aplicables por disposición legal (art. 768 CCCN) y como consecuencia del incumplimiento.
+La confusión común resulta de suponer que a partir de la mora corren, por andariveles distintos, dos clases de interés: compensatorios y moratorios. En rigor de verdad, reitero, los intereses que corren son debidos a la situación de mora, al incumplimiento del obligado, y de allí que han de llamarse "moratorios" o "punitorios", pero, por el contrario, a partir de la mora no es posible adicionar intereses compensatorios ya que los mismos han sido previstos para el supuesto de cumplimiento y por ende cesan con el estado de morosidad (Cfr. Cám. 2a. Civ. y Com. Sala I, La Plata, causa n° 119.535, sent. de 22-II-2022).
+En definitiva, toda vez que, conforme surge de los términos de la pretensión ingresada, la parte actora ha reclamado intereses "compensatorios" a devengarse desde la fecha de mora, los mismos deben ser desestimados en tanto proceder de tal modo implicaría atentar contra la propia naturaleza de los accesorios reclamados. No obstante ello corresponde remarcar que en caso de que se hayan pactado intereses compensatorios puesto que estos se devengan solamente hasta la mora, se ha sostenido que, a partir de allí, aquéllos se convierten en moratorios, por lo que corresponde proceder a su análisis.
+Intereses moratorios : Éstos constituyen una forma de indemnización por el atraso del deudor en el pago de su obligación y se devengan desde el momento de constitución en mora de quien los debe (Cám. Civ. y Com. 2a, Sala III, La Plata, B 774365 RSD-285-92, Juez Pera Ocampo).
+Son la sanción resarcitoria que debe pagar el deudor por el retardo en el cumplimiento de su obligación de dar una suma de dinero (arts. 768 y 1748, CCCN.; 622, Cód. Civ.). A partir de la mora el deudor debe intereses, los que corresponden -a diferencia de los compensatorios- aún en ausencia de pacto. Si no hay tasa pactada, la tasa se determinará por lo que dispongan las leyes especiales. Y en ausencia de ello, por las tasas que fijen los jueces conforme la reglamentación del BCRA (art. 768, CCCN.).
+El interés moratorio no constituye un modo de actualización del capital, sino que busca resarcir el daño que al actor ocasiona el incumplimiento del deudor y posee como causa la privación al dueño del capital que el deudor no tiene derecho a retener (conf. Llambías, Jorge J.; Tratado de Derecho Civil, Obligaciones, t. II-A, Ed. Perrot, Bs. As., 1994, pág. 205).
+Se ha dicho que, en caso de que las partes no lo hubieran pactado, y siempre que se reclamen intereses por razones de congruencia, los intereses moratorios, en tanto tienen origen legal, proceden automáticamente a partir de la mora en el cumplimiento del deudor. Asimismo, en caso de que se hayan pactado intereses compensatorios puesto que estos se devengan solamente hasta la mora, se ha sostenido que, a partir de allí, aquéllos se convierten en moratorios.
+En el presente puede apreciarse que la tasa de interés pretendida por el acreedor resulta ajustada a las circunstancias económicas actuales, por lo que los mismos deben ser admitidos, desde la fecha de mora operada respecto del saldo deudor de la cuenta n° 0704897955, desde el día 3/10/2025 y hasta el efectivo y total pago (Art. 768 y 886, CCCN).
+Intereses punitorios : En linea con los argumentos supra expuestos, habiendo sido expresamente pactado por las partes, resultando razonables en atención al estado actual de la economía, cabe hacer lugar a los mismos en los términos pactados, es decir, equivalentes al 50% (cincuenta por ciento) de la tasa de interés admitida precedentemente para los intereses moratorios, a computarse desde la fecha de mora hasta el efectivo y total pago.
+Ahora bien, en uso y ejercicio de las facultades morigeradoras que en la materia confiere el ordenamiento civil, corresponde hacer lugar a los intereses en los términos indicados supra siempre y cuando su cálculo no supere - en su conjunto - la suma que resulte de aplicar sobre el capital de condena una vez y media la tasa que cobra el BAPRO para las operaciones de descuento promedio a treinta días en los distintos períodos vigentes en el mismo lapso -tasa activa promedio-) .
+III.- IVA sobre intereses.
+Que conforme surge del escrito de inicio de fs. 1/40, la parte actora solicitó la incorporación del impuesto al valor agregado (Ley 23.349), por lo que corresponde analizar si ello resulta procedente.
+El primer punto a tener en cuenta es si la actividad desarrollada resulta alcanzada por el tributo. El art.1° de la mencionada ley dispone: "Establécese en todo el territorio de la Nación un impuesto que se aplicará sobre:.. b) Las obras, locaciones y prestaciones de servicios incluidas en el artículo 3°, realizadas en el territorio de la Nación". Por lo cual, entiendo que a la relación que subyace en el presente reclamo le aplica el supuesto citado.
+En segundo lugar, corresponde examinar qué sujetos resultan ser pasivos de la percepción, siendo alcanzados, conforme surge del Art.4, inc.e, aquellos que presten servicios gravados. Encontrándose entonces, incluida la parte actora.
+Asimismo, corresponde tener en cuenta conforme dispone el Art.10, que la base imponible para el pago del gravamen resulta ser además del precio neto por servicios prestados, los intereses, actualizaciones, comisiones, recuperos de gastos y similares percibidos o devengados con motivo de pagos diferidos o fuera de término (arts.1°, inc. b, Art.3°, inc.21, Art.5 inc."b", último punto y Art.10 apartado 2 de la ley 23.349, incorporado por el art.1, inc.1º, letra "d" del decreto del Poder Ejecutivo Nacional nº 2.633/92; CC0002 QL 24514 RS-75-2022 S 02/06/2022 Juez Reidel (Sd)Carátula: Banco Macro S.A. C/ Avila Jorge Luis S/ Cobro Ejecutivo Magistrados Votantes: Manzi-Reidel).
+Por ello, en virtud de lo expuesto y, probada que ha sido la causa de la obligación en las presentes actuaciones, corresponde que la parte demanda abone, asimismo el IVA sobre los intereses (Arts.1, 3 10 y ccs. de la Ley 23.349 y 549 del C.P.C.C.).
+IV.- Gastos.
+Que en relación a los gastos del juicio corresponde hacer lugar a la procedencia de los mismos, con más el interés establecido en el considerando II, los que correrán desde la fecha de su realización (arts.7, 896, 957, 959 y 961, C.C.C.; CC0103 LP 244371 RSD-245-4 S 16/09/2004).
+V.- Costas.
+Como principio general, la norma del art. 68 del ordenamiento procesal dispone que la parte vencida en el pleito habrá de afrontar el pago de los gastos causídicos. Consecuentemente, corresponde imponerlas a la parte demandada en su calidad de vencida (Art. 68 del CPCC).
+POR ELLO, conforme lo dispuesto por el artículo 42 de la Constitución Nacional, artículo 38 de la Constitución de la Provincia de Buenos Aires, artículos 1, 2, 7, 1.100, 1.834 inc. a y cc. del Código Civil y Comercial de la Nación, artículos 1, 3, 4, 36, 52, 53, 64 y cc. de la ley 24.240, artículos 68, 332 y cc. del Código Procesal Civil y Comercial; artículo 101 y cc. del decreto ley 5964/63; art. 27 y ss. cc. de la ley 26.065:
+RESUELVO:
+1.-) Mandar a llevar adelante la ejecución hasta tanto la ejecutada Jaquelina de los Ángeles Calliguari, haga al acreedor Banco COMAFI SA íntegro pago del capital reclamado de pesos tres millones setecientos catorce mil doscientos cuatro, con treinta y cinco centavos ($3.714.204,35) , con más los intereses establecidos en el considerando II, por los periodos y con el límite allí indicados, con más los gastos e I.V.A. sobre los intereses y hasta su efectivo pago, desde las fechas de mora operadas respecto de los saldos deudores y hasta su efectivo y total pago.
+2.-) Imponer las costas a la demandada vencida (arts.68 y 556 CPCC).
+3.-) Diferir la regulación de honorarios hasta que quede firme la liquidación respectiva (arts. 23 y 51 de la ley 14967/17).
+4.-) Tener por constituido el domicilio de la parte demandada en los estrados del Juzgado (Art. 41 CPCC).
+REGISTRESE. NOTIFIQUESE (Ac.4013/21 y Ac.4039/21 de la S.C.B.A.).
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### 84. [RR-1185-2026] LOPEZ RAMIRO C/ PIEDADES SILVIO ORLANDO Y OTRO/A S/ DESALOJO (EXCEPTO POR FALTA DE PAGO)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `23170`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1185-2026`
+- **Código de Acceso SCBA**: `9E903630`
+- **Firmantes**: Fecha: 9/10/2026 10:59:43 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1185-2026 - Código acceso: 9E903630 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 10:59
+
+#### Texto Íntegro
+```text
+LOPEZ RAMIRO C/ PIEDADES SILVIO ORLANDO Y OTRO/A S/ DESALOJO (EXCEPTO POR FALTA DE PAGO)
+Expte. N° 23170
+MDM
+Avellaneda, en el día de la firma digital.-
+VISTOS Y CONSIDERANDO:
+Respecto de la solicitud de desalojo anticipado basado en el art. 676 bis d el Código Procesal y toda vez que la causal de las presentes actuaciones es desalojo por vencimiento de contrato, es del caso destacar que para conceder dicha medida cautelar se requiere el imprescindible concurso de ciertos presupuestos o requisitos, a saber: a) la acción se dirija contra el tenedor precario o intruso; b) la litis se encuentre trabada; c) el derecho del actor sea verosímil; d) se preste caución real y e) exista peligro en la demora (conf. esta Sala II, causa nro. 39.423 del 26-03-2009).
+Sentado lo expuesto, cabe a su vez subrayar que la cautelar inserta en la normativa recién citada reviste la particularidad de que su admisión importa un verdadero anticipo jurisdiccional, por lo que dicha preceptiva debe ser interpretada muy criteriosamente, exigiéndose una mayor verosimilitud del derecho como adecuado peligro en la demora (cfr. CC 0100 SN, causa n°940.053, RSD-40-94, s. 22-3-94).
+Es que la precaución conservatoria requerida por la actora en esta oportunidad y que dicta el art. 676 bis del Código Procesal, tiende a lograr la restitución anticipada de inmuebles por lo que tiene que ser utilizada con carácter restrictivo, siendo necesario para su procedencia que el perjuicio surja claramente.
+Entonces, el perjuicio no solo debe ser grave sino actual e inminente, no evitable sino mediante la aplicación de la referida medida cautelar. Es decir, debe tratarse de la potencialidad inmediata de la producción de graves perjuicios para el actor. De allí, entonces, que el peligro en la demora no puede presumirse, ni basta la mera manifestación de la actora de la posibilidad de un daño para que se acepte como real.
+La medida debe apreciarse con criterio riguroso a fin de evitar que, a través de la misma se dirima el objeto litigioso, prescindiéndose de elementos de juicio de carácter indubitable (Cfr. Cám. 2a. Civ. y Com. Sala III, La Plata, causa n°105.735, sent. de 3-XI-2005). En el caso de autos, si bien el accionante ha acompañado profusa documentación para sustentar el derecho que invoca, no aparece demostrada, con la contundencia exigida en nuestro ordenamiento legal, la entidad del perjuicio que se pretende evitar, no resultando suficiente a tales fines la mera manifestación que efectúa la actora en torno a la posibilidad de un daño actual e inminente.
+En consecuencia, toda vez que no se encuentran acreditados los extremos mencionados -verosimilitud del derecho y peligro en la demora- corresponde desestimar por el momento lo solicitado, lo que así RESUELVO (art. 676 ter y ccs. d el CPCC). REGÍSTRESE . NOTIFÍQUESE de forma automatizada (Ac.4013/21, modif. por Ac.4039/21, SCBA).-
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### 85. [RR-1186-2026] PLAN ROMBO S A DE AHORRO PARA FINES DETERMINADOS C/ PUGLIESE ELIAS FABIAN Y OTRO/A S/ EJECUCION PRENDARIA
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `23570`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1186-2026`
+- **Código de Acceso SCBA**: `DDD4B349`
+- **Firmantes**: Fecha: 9/10/2026 11:00:01 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1186-2026 - Código acceso: DDD4B349 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 11:00
+
+#### Texto Íntegro
+```text
+PLAN ROMBO S A DE AHORRO PARA FINES DETERMINADOS C/ PUGLIESE ELIAS FABIAN Y OTRO/A S/ EJECUCION PRENDARIA
+Expte. N° 23570
+MDM
+Avellaneda, en el día de la firma digital.-
+AUTOS Y VISTOS:
+Las presentes actuaciones, en trámite ante el Juzgado de Primera Instancia en lo Civil y Comercial n° 7 del departamento judicial Avellaneda-Lanús a mi cargo, traídas a despacho a fin de proveer el pedido de sentencia efectuado por la parte actora y;
+CONSIDERANDO:
+I. Antecedentes.
+I.a.- Que a fs. 1 se presentó el doctor Enrique Sayús en carácter de apoderado de Plan Rombo S.A. de Ahorro para Fines Determinados, y promovió formal demanda de cobro ejecutivo prendario contra Elias Fabian Pugliese en carácter de deudor principal y contra Rebecca Ornella Pugliese, en carácter de garante solidaria, por la suma de veinticinco millones seiscientos setenta y cinco mil doscientos dos pesos con cincuenta y cinco centavos ($ 25.675.202,55 ) , reajustable según las cláusulas del contrato, con más intereses punitorios y costas. Ello, en función del supuesto incumplimiento por parte del deudor de las obligaciones emanadas del contrato de mutuo prendario celebrado entre las partes el día 22/06/2021.
+I.b.- A fojas 2, pudiendo considerarse que la presente deriva de una relación de consumo, se otorgó vista al Ministerio Público Fiscal a efectos de que se expida en resguardo y defensa de la ley (arts.1, 2, 7 y cc. CCyC - ley nacional 26.994-; arts. 1, 36, 52, 65 y cc. ley nacional 24.240 - Ley de Defensa del Consumidor-; ley provincial 13.133 - Código provincial del Consumidor-; art. 42 CN, art. 38 CPBA).
+Como consecuencia de ello, a fojas 8 el Agente Fiscal manifestó: "(.) Que de lo expuesto en la demanda promovida, la documentación acompañada y la calidad de la parte actora se desprende una relación de consumo financiera en los términos del artículo 36 de la Ley 24240".
+II. Intimaciones de pago.
+Que intimados de pago, Elias Fabian Pugliese y Rebecca Ornella Pugliese, ambos en el domicilio sito en la calle Salcedo N° 760 de la localidad de Wilde, partido de Avellaneda, conforme surge de los informes de fs. 27 y 28 respectivamente, certificado por la Actuaria que se encuentran vencidos los términos concedidos para ejercer sus derechos en autos los mismos no se han presentado, razón por la cual corresponde tener por decaídos aquéllos dejados de usar y tener por constituidos sus domicilios en los estrados del juzgado (arts. 116 y 155, CPCC).
+III. a. Relación de consumo.
+Que en primer término cabe establecer, atento las constancias de autos, si nos encontramos ante una relación de consumo entre las partes en los términos de la ley 24.240.
+Con fecha 12 de marzo de 2008 fue dictada la ley N° 26361, modificatoria de la ley N° 24240 de Defensa del Consumidor. Este conjunto de normas son las que, juntamente con el Código Civil y Comercial, regula todas aquellas relaciones que son consideradas como "relaciones de consumo". La misma es de orden público y raigambre constitucional, según surge del Art. 42 de la Constitución Nacional y se dirige a proteger los derechos del consumidor y el usuario (art. 65 ley 24240).
+Por "relación de consumo" se entiende a toda vinculación jurídica en la cual el proveedor ostenta, sobre la base de diversos factores, una posición nítida e innegable de superioridad respecto de los sujetos que adquieren los bienes y servicios que aquel comercializa (Ley de defensa del consumidor/Pinese - Corbalán - 2ª ed. Cathedra Jurídica, 2018.).
+Para determinar si una relación jurídica debe ser abarcada por el derecho consumeril, tanto la más destacada doctrina como la jurisprudencia, establecieron diferentes pautas. En tal sentido, cabe destacar lo expresado por la Cámara 4° de Apelaciones Civil y Comercial de Córdoba, en tanto estimó que puede determinarse: de las propias manifestaciones del ejecutante, de la calidad de este último o también por su actividad (banco, entidad de crédito). En otros casos será inferible por vía de prueba ("Cetti, Aldo Anibal C/ Marchisio, Mariela Verónica - Presentación Múltiple - Ejecutivos Particulares - Recursos De Casación E Inconstitucionalidad" Expte.N° 6246300. 15/12/2016. Cámara 4ta de apelaciones en lo civil y comercial. Córdoba. Magistrados: Fernández - González de la Vega).
+En el caso de autos, teniendo en cuenta: 1) la documentación acompañada por el accionante; 2) que el mismo es un reconocido prestador de servicios; 3) la constancia de CUIT acompañada y 4) que el demandado es un usuario o consumidor, resulta posible encuadrar la presente acción como una operación financiera para consumo (arts.1, 2, 3 y 36 de la ley N° 24.240).
+En consonancia con lo establecido, resulta ser labor de los magistrados hacer un examen respecto de la demanda instaurada y la documentación acompañada, a los efectos de hacer cumplir dicha norma de orden público (S.C.B.A., RC, 109.193, 11-8-2010, carátula: "Cuevas Eduardo Alberto c/ Caceres Claudio Maximiliano s/ Cobro Ejecutivo), es por ello que corresponde poner de manifiesto que de la compulsa de autos surge que se ha dado efectivo cumplimiento con el deber de información normado por el art. 36 de la Ley 24240.
+III. b. Lo expresado hasta aquí no debe entenderse como un desconocimiento del derecho del acreedor al cobro por la vía expedita del juicio ejecutivo, en tanto cumpla con los requisitos legales.
+En ese sentido, el derecho de defensa en juicio que se materializa mediante el principio de bilateralidad o contradicción (arts.15, Constitución Provincial; 18, 75 inc.22, CN; 8 C.A.D.H.; 14 P.I.D.C.y P.), admite postergaciones de su ejercicio para un útil y efectivo servicio de justicia. Tal es el caso del proceso ejecutivo, caracterizado por un estrecho marco cognoscitivo donde se obtiene una verdad meramente formal, habida cuenta el acotado margen defensivo para el legitimado pasivo, resguardado en la posibilidad de entablar un juicio de conocimiento posterior, oportunidad en la que se podrá acudir a todas aquellas defensas que se le privó de ejercer en esta expedita vía judicial.
+Mediante este tipo de procesos, el legislador ha privilegiado conceder al acreedor una vía rápida y efectiva para la satisfacción del crédito. Sin embargo y, aunque el artículo 542 del C.P.C.C. prescriba que "las únicas excepciones admisibles en juicio ejecutivo" son las que allí se enumeran, en reiteradas oportunidades se han acogido -por vía de jurisprudencia- otras defensas, destinadas sustancialmente a resguardar el derecho de defensa del ejecutado y evitando excesos de rigor formal. Precisamente, en este esquema se enmarcan los procesos incoados en base a títulos valores emitidos en virtud de relaciones de crédito para consumo, pues la constatación del cumplimiento de los recaudos que exige el artículo 36 de la Ley de Defensa del Consumidor (ley 24.240) se erige, actualmente, como integrante de la tutela judicial efectiva.
+La exigencia de esa especificación, en este tipo de operaciones, tiene por finalidad posibilitar el control de las cláusulas contractuales, de acuerdo a las pautas brindadas por el artículo 37 de la ley 24.240, norma en virtud de la cual puede declararse la ineficacia de aquellas que sean abusivas.
+En este contexto, la Suprema Corte de Justicia de la Provincia de Buenos Aires, en la causa C. 121.684 "Asociación Mutual Asís c/ Cubilla, María Ester s/ cobro ejecutivo" (sent. del 14/8/2019) fijó parámetros que son dables de aplicar a este tipo de procesos.
+Allí estableció que: "(...) en el ejercicio de las atribuciones que le confiere el ordenamiento procesal (arg. arts.34, inc.5, apdo."c" y 36, inc.2 y concs., C.P.P.C.), el juez puede encuadrar el asunto como una relación de consumo a fin de subsumirlo en el art.36 de la LDC". Si el título en cuestión, integrado de tal modo o bien autónomamente, satisface las exigencias legales prescriptas en el estatuto del consumidor, podrá dar curso a la ejecución. Ello, claro está, sin desmedro del derecho del ejecutado de articular defensas, incluso centradas en el mencionado art.36, tendientes a neutralizar la procedencia de la acción" (v. punto IV.5.d, fallo cit.). Consecuencia de ello, la habilitación en el marco del juicio ejecutivo de una indagación causal -que flexibiliza el alcance del art.542, inc.4 del código adjetivo- afirma y delinea nuevos contornos en el proceso ejecutivo: sea para declarar la habilidad del título, sea para considerarlo inhábil, en tanto se acredite o no la observancia del art.36 de la Ley de Defensa de los Consumidores y Usuarios.
+En conclusión, está claro que las atribuciones que tienen los jueces cuando llega a su conocimiento una pretensión ejecutiva que enmascara una relación de crédito para consumo, o financiación para consumo, han quedado ampliadas. Y las defensas que en carácter de excepción podrá oponer el consumidor ejecutado ante la notificación del pertinente mandamiento de intimación de pago y embargo también son mayores a las limitadas -a su tiempo- por el artículo 542 del Código Procesal.
+IV. Ley aplicable.
+Tratándose entonces el título ejecutado de un Contrato de Prenda con Registro celebrado en fecha 22/06/2021, corresponde la aplicación en autos de las disposiciones del Código Civil y Comercial de la Nación (ley nacional 26.994), de la Ley de Defensa del Consumidor (ley 24.240) y del régimen legal especial para los documentos prendarios (Decreto-Ley Nº15.348/46 ratificado por la Ley Nº12.962). Normativa que debe compatibilizarse con los postulados protectorios de los consumidores receptados por la Constitución Nacional en su artículo 42 y la Constitución Bonaerense en su artículo 38.
+V. Reajuste de capital.
+Sobre el asunto, se ha sostenido jurisprudencialmente que, en casos como en el de autos en que se ejecuta un contrato de prenda con registro, la cláusula de reajuste no importa la aplicación de un mecanismo de indexación expresamente prohibido por ley, sino que encuentra justificación en la necesidad de determinar el valor de la cosa al momento de su pago, en tanto la deuda se origina y tiene su causa en un sistema de ahorro previo para fines determinados y que funciona bajo la modalidad de "grupos cerrados"(Cfr. Cám. Civ. y Com. Sala III, San Martín, causa n° 67.945, sent. de 3-VII-2014; Cám. Civ. y Com. Sala I, San Martín, causa n° 67.513, sent. de 27-XII-2013).
+En estos casos, el reajuste de las cuotas o del monto al que alude el contrato de prenda con registro se encuentra directamente relacionado con el incremento del precio de lista del bien de que se trata, toda vez que resulta una característica propia del sistema el aporte mensual actualizado que realiza un grupo limitado de personas con el objeto de constituir un fondo común destinado a la adquisición de una unidad tipo que será entregada a lo largo del periodo establecido en el contrato.
+Es de señalar que cualquier decisión contraria al reajuste solicitado puede afectar las características intrínsecas del plan de ahorro en virtud del cual fuera otorgado el contrato traído a ejecución en autos y, junto con ello, los derechos de terceros ajenos a esta litis, puesto que tal decisión podría propagar sus efectos y afectar el carácter solidario del sistema de autoahorro.
+Asimismo, y a mayor abundamiento, es de recordar que tal operatoria se encuentra expresamente prevista por el artículo 1121 del Código Civil y Comercial de la Nación en tanto prescribe que no pueden ser declaradas abusivas las clausulas relativas a la relación entre el precio y el bien.
+En definitiva, los integrantes del grupo se comprometen a abonar lo necesario para el cumplimiento de una obligación que implica una deuda de valor consistente en entregar un rodado de cierta marca y modelo, por lo que es justo que estén constreñidos a satisfacer el valor actual del bien en tanto la prestación recibida debe permitir al acreedor la adquisición de ciertos bienes. El deudor debe el valor correspondiente y el acreedor tiene derecho a estar, cuando recibe el dinero que lo representa, en situación de adquirir los bienes a los que corresponde dicho valor.
+En el caso de autos, según surge de la documentación acompañada, las cuotas debidas se actualizan mediante una operación que divide en cincuenta y nueve partes el precio de lista de venta al público establecido por la fábrica para la venta del modelo adquirido, por lo cual, en base a lo expuesto, corresponde hacer lugar al pedido de reajuste de capital pactado en el contrato que a las partes vincula en base al valor móvil del automotor prendado.
+Ahora bien, corresponde dejar sentado que las modificaciones del importe adeudado podrán sucederse por todo el tiempo que establezca el contrato y hasta la finalización del plan, con reajustes periódicos y de acuerdo a la variación del precio del rodado. A estos fines deberá la parte actora acreeditar al momento de practicar liquidación la vigencia del plan en virtud del cual reclama en autos.
+VI. Intereses.
+En relación a los intereses solicitados en la demanda y los pactados en el contrato de prenda con registro base de la acción, cabe puntualizar que, toda determinación convencional de intereses -compensatorios, moratorios y/o punitorios - resulta válida por regla general, de conformidad con lo dispuesto por los artículos 767, 768, 769, 958 y 959 del Código Civil y Comercial de la Nación, con la única limitación de no transponer las fronteras éticas impuestas por las reglas de la moral y las buenas costumbres; lo que constituye una cuestión absolutamente fáctica, subjetiva y cambiante, dependiente de las distintas variables económicas que influyen en el mercado de capitales; motivo por el cual, si los intereses pactados resultaran excesivos, debe establecerse un interés que posibilite seguir -razonablemente-, las fluctuaciones del cambiante mercado financiero.
+En este sentido, importa señalar que estamos en el caso de autos frente a una ejecución prendaria, con motivo de un crédito tomado mediante plan de autoahorro para la adquisición de un vehículo, esto es, una típica operación para consumo regida por la ley 24.240.
+Así, pese a que en este tipo de contratos las partes pueden establecer cuál es la tasa de interés aplicable, lo cierto es que se trata de una de las alícuotas de accesorios más elevadas, sobre todo si se considera que en el plan de autoahorro ya media un mecanismo de reajuste del valor de la cuota del capital adeudado, sobre cuyo resultado se aplica la mentada tasa de interés. En definitiva no solo existe un método para mantener actualizado el importe de la cuota, sino que a ello se le adicionaría, de otorgar lo solicitado, una tasa de interés elevada que persigue mantener la indemnidad económica de la acreencia, misma finalidad que se garantiza con la cláusula de reajuste pactada y que redunda en una penalización excesiva del consumidor (Cfr, Cám. Civ. y Com. Sala III, Lomas de Zamora, causa n°AL- 9.731-2022, sent. de 19-V-2023).
+En consecuencia, resultando en principio excesivos los intereses pactados en el título traído para ejecutar, considerando las pautas contenidas en el art. 36 de la ley 24.240 para el caso en que se omitiera consignar la tasa de interés efectiva anual y en uso de la facultad conferida por el art. 771 del Código Civil y Comercial de la Nación, corresponde establecer que sobre el crédito reclamado se añadan intereses a calcular -por todo concepto- según la tasa pasiva del Banco de la Provincia de Buenos Aires para plazo fijo digital, siempre y cuando los mismos no superen, claro está, los pactados por las partes, desde la fecha de mora acaecida el día 11/10/2023 y hasta el efectivo pago (Conf. Cám. Civ. y Com. Sala I, Lomas de Zamora, causa n° AL-9.736-2022, sent. de 11-X-2022; Arts.52 y 103 Decreto Ley 5965/63 y 767, 768, 769, 771, 958 y 959 del Código Civil y Comercial de la Nación).
+VII. Costas.
+Como principio general, la norma del art.68 del ordenamiento procesal dispone que la parte vencida en el pleito habrá de afrontar el pago de los gastos causídicos. Consecuentemente, corresponde imponerlas a la parte demandada en su calidad de vencida (Art.68 del C.P.C.C.).
+POR ELLO , conforme lo dispuesto por el artículo 42 de la Constitución Nacional, artículo 38 de la Constitución de la Provincia de Buenos Aires, artículos 1, 2, 7, 1.100, 1.834 inc. a y cc. del Código Civil y Comercial de la Nación, artículos 1, 3, 4, 36, 52, 53, 64 y cc. de la ley 24.240, artículos 68, 332 y cc. del Código Procesal Civil y Comercial y Decreto-Ley Nº15.348/46 ratificado por la Ley Nº12.962 y sus modificatorias, T.O. Decreto Nº897/95 y el Digesto de Normas Técnico-Registrales del Registro Nacional de Créditos Prendarios.
+RESUELVO:
+1. Mandar a llevar adelante la ejecución hasta tanto la parte ejecutada, Elias Fabian Pugliese y Rebecca Ornella Pugliese hagan al acreedor Plan Rombo S.A. de Ahorro para Fines Determinados íntegro pago del capital reclamado de veinticinco millones seiscientos setenta y cinco mil doscientos dos pesos con cincuenta y cinco centavos ($ 25.675.202,55 ), reajustable según lo dispuesto en el considerando V, con más los intereses establecidos en el considerando VI, que se calcularán desde la mora operada el día 11 de octubre de 2023 y hasta su efectivo pago, respecto del contrato de prenda con registro obrante en autos (Art.26 del Decreto-Ley Nº15.348/46 y Art.598 del C.P.C.C.).
+2. Tener por constituido el domicilio de la parte demandada en los estrados del juzgado (arts. 40 y 41 del CPCC).
+3. Imponer las costas a la demandada vencida (arts.68 y 556 del CPCC).
+4. Diferir la regulación de honorarios hasta que quede firme la liquidación respectiva (arts. 23 y 51, ley 14967/17).
+5. Ordenar el desglose de la documentación original reservada y en consecuencia, póngase la misma a disposición de la parte actora, debiendo comparecer ante la mesa de entradas del juzgado para su retiro.
+REGISTRESE. NOTIFIQUESE (Ac. 4013/21 y 4039/21 SCBA).-
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### 86. [RR-1187-2026] MONTEMURRO ROSA Y OTRO/A S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24066`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1187-2026`
+- **Código de Acceso SCBA**: `10533CAC`
+- **Firmantes**: Fecha: 9/10/2026 11:00:22 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1187-2026 - Código acceso: 10533CAC - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 11:00
+
+#### Texto Íntegro
+```text
+MONTEMURRO ROSA Y OTRO/A S/ SUCESION AB-INTESTATO
+Expte. N° 24066
+OAC
+Avellaneda, en el día de la firma digital.
+Agréguese, téngase presente. AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la inscripción de la declaratoria de herederos dictada en autos a fs. 29, con relación al 1/1 del bien inmueble que transmiten la señora Rosa Montemurro y el señor Luis Eduardo Moises , atento el carácter ganancial del mismo y al que se refiere el informe de dominio obrante a fs. 30 (Nomenclatura Catastral: Cir.: VI, Sec.: G, Mza.: 37, Par.: 14, Subpar.: 3, Matrícula: 37.407/3, Polig.: 00-03 y 01-03, Pdo.: 117 - Tres de Febrero) .
+A esos fines el señor Secretario expedirá la documentación pertinente, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+II.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+II.b.-) Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la "valuación fiscal-impuesto al acto" adjunta a la presentación electrónica de fs. 30, que asciende a la suma de $7.279.635 y teniendo en cuenta el porcentaje transmitido por los causantes (100%), la base imponible a los fines regulatorios es la supra indicada (art.15, ley 14.967).
+Por todo lo expuesto, teniendo en consideración lo solicitado en el punto VIII respecto de la regulación en el mínimo de la escala legal y lo dispuesto por el art.16 de la ley 14.967, regulase los honorarios de la doctora Andrea Laura Beitia (T°V F°100 CAAL), abogada patrocinante, por las tres etapas cumplidas y a cargo de la masa en 8 jus arancelarios (RP 873/2026 SCBA) con más el porcentaje de ley respectivo (ley 6.716) y el 21% de IVA. si correspondiera (arts.1, 2, 10, 13, 14, 15, 16, 21, 22, 27, 28, 35 y 54 y cte., ley 14.967).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberán abonarse los aportes previsionales y encontrarse garantizada la percepción de los emolumentos regulados, o bien, manifestar la letrada si los ha percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526).
+III.- Tasa y sobretasa.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art.337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma de $322.405,60. De acuerdo con el informe que en este acto formula el Actuario (art. 116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $7.092,90 con más la de $355. Consecuentemente téngase por cumplido su pago con lo abonado a fs. 30 (art.337 y 338, Código Fiscal de la Pcia. de Bs. As.; arts.865 y 895, CCCN).
+IV.- Tiénese presente y por cumplido con la declaración jurada en relación al impuesto a la transmisión gratuita de bienes (art.320, Código Fiscal; arts.90 a 118 ley 14.044; art.78, ley 14.200 y resolución normativa 022/13). REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+27231236118@NOTIFICACIONES.SCBA.GOV.AR . -
+```
+
+---
+
+### 87. [RR-1188-2026] FCA COMPAÑIA FINANCIERA SA C/ CANDIA JESICA PAOLA S/ ACCION DE SECUESTRO (ART.39 LEY 12962)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24133`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1188-2026`
+- **Código de Acceso SCBA**: `E8055795`
+- **Firmantes**: Fecha: 9/10/2026 11:00:45 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1188-2026 - Código acceso: E8055795 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 11:00
+
+#### Texto Íntegro
+```text
+FCA COMPAÑIA FINANCIERA SA C/ CANDIA JESICA PAOLA S/ ACCION DE SECUESTRO (ART.39 LEY 12962)
+Expte. N° 24133
+MB
+Avellaneda, en el día de la firma digital.-
+Téngase presente y por contestada la vista conferida al señor Agente Fiscal (art.29, inc.4, ley 14.442).
+VISTOS Y CONSIDERANDO:
+I.-) Que, en el caso de autos, el accionante, Fca Compañia Financiera S.A. , promueve acción de secuestro del automotor dominio AG920YD contra la señora Jesica Paola Candia , en virtud del procedimiento previsto en el art.39 de la ley de prenda (Decreto Ley N° 15.348/46, ratificado por ley n° 12.962 y sus modificatorias, t.o. Decreto n° 897/95).
+Dicho artículo, prevé una vía de cobro calificada a favor del acreedor para el secuestro del bien prendado y de su venta extrajudicial sin que el deudor pueda oponer recurso alguno. Sin perjuicio de que el deudor pueda ejercitar en juicio ordinario posterior los derechos que tenga para reclamar.
+La imposibilidad de interponer recursos apunta a que las actuaciones concluyan con el secuestro, persigue rapidez y la disminución de la judicialización de los conflictos. Es una facultad otorgada sólo a entidades de reconocida solvencia con la expectativa de que ante un eventual daño pueda ser reparado.
+La norma también establece que la venta extrajudicial no se suspenderá por embargo de bienes ni por concurso, incapacidad o muerte del deudor.
+Los fundamentos de la misma tienen que ver con afianzar el comercio, el trabajo y ejercer industria lícita. Proporcionar mayor acceso al crédito, y de esa forma al acceso a los bienes de capital, asegurar la libertad de comercio por parte de productores y consumidores, y persiguió también la reducción de costos de intermediación (Decreto 897/95). II.-) Que a fs. 9 se ha corrido vista de las actuaciones al Sr. Agente Fiscal, quien ha calificado a la relación que une a las partes como de consumo en los términos de la Ley 24.240. La accionante ha incorporado a la causa el contrato de prenda con registro (obrante a fs. 1/34), del cual surge como un contrato de adhesión y de consumo.
+III.-) La normativa aplicable:
+1.-). En primer lugar y sin perjuicio de los beneficios que a la postre puede presentar el mecanismo de cobro expeditivo del Decreto ley N° 15.348/46, considero que debe compatibilizarse con la protección especial que detentan los consumidores en nuestro ordenamiento jurídico. Ya sea desde el mirador de nuestra Constitución Nacional y provincial (art.42 CN y art.38 CPBA), el Código Civil y Comercial, la ley de defensa al consumidor (ley 24.240), así como de la jurisprudencia de los Tribunales que se han venido expidiendo en la materia, en especial lo expresado por la Corte Suprema de Justicia nacional.
+En efecto, el máximo Tribunal ha dicho que las disposiciones de la ley de defensa del consumidor (Ley 24.240) deben ser articuladas con las normas prendarias. Primando en caso de duda aquella más favorable para el consumidor. De no adoptarse esa tesitura, se estaría afectando el debido proceso, en tanto el art.37, inciso b, de la ley 24.240, permite tener por no convenidas las cláusulas del contrato "...que importen renuncia o restricción de los derechos del consumidor o amplíen los derechos de la otra parte" (CS, 11/06/2019, "HSBC Bank Argentina S.A. c/ Martínez, Ramón Vicente s/ secuestro prendario", causa 25194/15).
+Por otro lado, la ley 24.240 de defensa al consumidor resulta de orden público, y por ende, inderogable por los particulares, y reglamenta un derecho expresamente receptado en la Constitución Nacional (arts. 65 LDC y 42 CN; Excma. Cámara Departamental de Junín in re "Fiat Crédito Cía. Financiera S.A. c/ De Natale César Leandro s/ Acción de Secuestro", del 2/2/2017).
+En éste entendimiento, adelanto que no puede aplicarse en plenitud el art. 39 del Dec. Ley N° 15.348/46 al caso de marras, ya que de lo contrario se estaría afectando lo prescripto en el art. 42 de la carta magna y disposiciones de orden público citadas. Pero ello tampoco implica que ambos institutos sean incompatibles entre sí, y que, por ende, deba descalificarse por completo el método de cobro.
+2.-) Sin perjuicio de lo expuesto en el numeral anterior, entiendo que no es facultad de los jueces obviar un instrumento como el de la acción de la ley de prenda, en tanto su inconstitucionalidad no ha sido decretada ni por la Corte nacional o local, ni por el resto de la jurisprudencia mayoritaria, ni tampoco ha recibido modificación por parte del Legislador en tantos años de vigencia.
+El rechazar ésta vía para el recupero de créditos implicaría a mi juicio, afectar la seguridad en las transacciones, limitar la libertad de contratar y de ejercer el comercio (arts.14, 16 y 17 CN; 10, 11, 26 y 31 CPBA), y en consecuencia intervenir negativamente en el acceso al crédito, aumento de las tasas de interés, los gastos administrativos y de intermediación. Por otra parte, la protección al consumidor no puede tornarse un premio al incumplidor que no paga.
+En cambio, entiendo posible adecuar aquella vía, teniendo en cuenta la manda constitucional del art.42 y los preceptos de la ley 24.240, en la inteligencia del fallo del máximo Tribunal nacional "HSBC Bank argentina S.A." -citado ut supra- , salvaguardando la protección especial que detentan los consumidores (arts.2, 1092, 1094, 1097, 1100 y 1122 inc. B) del Cód. Civil y Comercial y arts.1, 2, 8 bis, 36, 37 y 65 de la ley 24.240).
+Para ello basta remitirse a lo expresado por la Suprema Corte local en cuanto: "debe intentarse una congruencia entre el sistema de protección establecido en la ley de defensa del consumidor y las disposiciones adjetivas que impiden en el ámbito de los procesos de ejecución la discusión de aspectos causales de la obligación" (SCBA, 1°/09/2010 "Cuevas, Eduardo Alberto c/ Salcedo, Alejandro René s/ cobro ejecutivo", C. 109.305).
+Así puntualmente agregó: "Si bien impera en el ámbito de las relaciones de financiación para consumo, las limitaciones cognoscitivas propias de los procesos de ejecución, que impiden debatir aspectos ajenos al título (conf. art.542, C.P.C.C.), es posible una interpretación de la regla aludida acorde con los principios derivados de la legislación de protección de usuarios (arts.1, 2, 36 y 37, ley 24.240)" (Del voto del doctor Hitters que la Corte hace suyo).
+De la doctrina que surge de dicho pronunciamiento se desprende que la aplicabilidad de la Ley de Defensa al Consumidor flexibiliza el andamiaje por el que discurre la pretensión ejecutiva respetando los principios de bilateralidad y defensa en juicio (arts.18, Const. Nac.; art.15 Const. Prov.; art.34 inc.5 apdo. "c" y 36 inc.2 y concs. del CPCC). En aquel caso se trataba del alcance del art. 542 inc.4 del Código Procesal Civil y Comercial. En el de marras, se circunscribe al del art.39 de la Ley de Prenda (12.962).
+En esa línea argumental, la facultad del actor de solicitar judicialmente el secuestro de los bienes gravados y su venta extrajudicial, no podría ser ejercitada sin el debido control de los recaudos de la ley 24.240. Esto es la revisión del contrato en función de lo prescripto en el art.4 de la citada norma, y por otro lado haber tenido el demandado la posibilidad de ser oído antes de la subasta del bien (art.18 CN). Para ello, corresponde considerar aplicable al caso de marras el proceso ejecutivo del art.26, 28, 29, 30, y 31 de la ley de prenda con registro (Dec. Ley N° 15.348/46). En suma, el consumidor podrá contar con: a) la evaluación judicial de oficio de los requisitos legales desde la perspectiva consumeril. Es decir, la evaluación del contrato en lo relativo al cumplimiento con el deber de informar, verificándose que no existan cláusulas abusivas en ejercicio de la posición del proveedor (art.36 de la LDC); b) la defensa -acotada- en la acción de secuestro previa a la subasta, resguardando el derecho a ser oído (art.4 de la ley 24.240); c) por último, el juicio posterior con un marco más extenso de debate.
+En conclusión, por medio de una interpretación armonizante de las normas bajo examen, se arriba a la inaplicabilidad por incompatibilidad con el artículo 42 de la Constitución Nacional del procedimiento previsto en el art. 39 del decreto ley 15.348 a las relaciones de consumo. En cambio, corresponde conceder al acreedor la posibilidad de readecuar la presente demanda a un proceso de ejecución prendaria, donde se mantiene la vía ejecutiva y el accionante cuenta con la posibilidad de solicitar la medida cautelar de secuestro del bien, pero, a su vez, el consumidor se encuentra habilitado a presentar las defensas- aunque limitadas- que estime menester.
+IV.-) Del contrato de prenda con registro:
+Se advierte del texto del contrato de prenda con registro base de la cautelar solicitada, surge que el proveedor ha cumplido debidamente con el deber de informar al consumidor en que consiste el procedimiento de secuestro prendario al que lo autoriza el art.39 de la ley 15.348, cuya opción pretende ejercer (véase "Continuación Del Contrato De Prenda").
+Se ha detallado en términos claros y sencillos, comprensibles para el consumidor, que mediante el contrato al cual estaba adhiriendo, se sometía a la posibilidad de que le secuestren el vehículo prendado ante su incumplimiento (arts. 4 de la Ley 24.240).
+V.-) Secuestro y venta extrajudicial :
+1.-) El secuestro como medida precautoria, implica la aprehensión material y jurídica de determinados bienes, y tiene por objeto asegurar la ejecución de la sentencia (arts.216, 217, 221 y 535 del CPCC).
+El secuestro autónomo o directo es aquel que tiende en forma directa e inmediata a la tutela objeto de la Litis cuando el embargo no aparece como suficiente garantía. Así la tenencia es desplazada del titular del bien a un depositario, bajo el control jurisdiccional.
+De esa forma se persigue desarticular medidas provenientes del deudor de mala fe, que pudieran impedir la satisfacción del derecho del acreedor respecto de su garantía. En éste sentido, no es necesario el embargo previo, en la medida que precisamente podría aparejar la frustración de la función cautelar una vez advertido el tenedor.
+2.-) En relación a la venta privada que prevé el art.39 de la ley de prenda no se advierte compatible con los preceptos de orden público que venimos reseñando. En tanto el art.37 de la ley 24.240 es claro en cuanto a que las cláusulas abusivas se tendrán por no convenidas.
+Ciertamente, la venta extrajudicial puede generar un perjuicio en cabeza del deudor en tanto quedaría sumido en lo que resulte del modo de comercializar el bien por parte del acreedor. Impidiéndole con la realización particular, o bien cubrir el saldo de deuda que pudiera arrojar, o acceder al remanente de la misma. Así, la Cámara de Apelaciones de la Matanza dispuso: "El bajo precio obtenido dificulta saldar su deuda, considerándose los ingentes gastos que el secuestro provoca. Más grave aún, si repasamos el texto de las condiciones generales del contrato de prenda, hasta podría el acreedor en caso de resultar insuficiente el resultado de la subasta para saldar la deuda, ir contra el patrimonio del consumidor" (Véase fallo cit. ut supra autos "Aguirre").
+En cuanto a la inaplicabilidad de las leyes ha dicho la Corte Nacional que "los jueces, en el específico marco de una controversia y según el orden constitucional adoptado, fueron dotados del poder para dirimir la aplicación o no de una ley al caso que le llega a sus estrados. Bajo normas que aseguran pleno debate y prueba donde las partes pueden presentar y defender sus posiciones ante un tercero imparcial, el Poder Judicial ofrece el ámbito propicio, donde una ley que en principio habría de regir el caso, finalmente es desplazada al ser inaplicable o al declarársela inconstitucional. Y esta actividad ha sido reiteradamente reivindicada por la Corte Suprema de Justicia de la Nación como evidencia de una de las atribuciones primordiales del Poder Judicial" (Fallos 269:243, 298:511 y otros).
+Por ello, es que se dispone que la subasta del bien se realizará en la forma establecida en el art.31 y cc. de la ley de prenda, una vez oído al demandado en el marco del carril de la ejecución prendaria, juicio especial previsto en la ley y que resguarda en forma equitativa los intereses en conflicto, declarándose así la inaplicabilidad al caso del procedimiento de venta particular del art.39 del Decreto Ley N° 15.348/46.
+Por ello, RESUELVO:
+1.-) Hacer lugar al secuestro del automotor objeto de la prenda dominio AG920YD , solicitado por FCA Compañia Financiera S.A. designándolo como depositario del mismo, a cuyo efecto líbrese mandamiento de secuestro. Concédase a los autorizados facultades para identificar los bienes a secuestrar, si fuera necesario. Se deja constancia que el señor Oficial de Justicia se encuentra facultado a secuestrar en la vía publica dentro del radio de la oficina de mandamientos, a requerir el auxilio de la fuerza pública, allanar domicilio y utilizar los servicios de cerrajero, en caso de ser estrictamente necesario (arts.36 inc.2, 216, 217, 221, 535 del CPCC; art.39 del Decreto Ley N° 15.348/46 y Arts.217, 221 y 229 Ac.3397/08 de la S.C.B.A.).
+2.-) Declarar la inaplicabilidad al presente del procedimiento de venta extrajudicial del art.39 del Decreto Ley N° 15.348/46, ratificado por ley n° 12.962 y sus modificatorias (t.o. Decreto n° 897/95).
+3.-) Disponer que la parte actora readecue su pretensión al trámite de la ejecución prendaria conforme arts. 598 y cdtes. del Código Procesal y 29 y ss. del decreto ley 15.348/46. A tales fines deberá presentar una nueva demanda que satisfaga los recaudos pertinentes y donde consten con precisión sus pretensiones y acompañar los títulos ejecutivos previstos por la ley especial.
+4.-) Una vez ello líbrese mandamiento, dejando expresa constancia de que la citación ordenada lo es a los fines de que el ejecutado:
+- Oponga excepciones dentro del plazo de 3 días, bajo apercibimiento de llevar adelante la ejecución y ordenar la venta de la prenda (arts. 26 y 29 del decreto/ley N° 15.348, ratificado por la ley N° 12.962).
+- Constituya en ese plazo, domicilio procesal dentro del radio de la ciudad asiento del Juzgado, bajo apercibimiento de que las sucesivas providencias se le tengan por notificadas en la forma y oportunidad fijadas por el art. 133 del código citado (arts. 40 y 41 del CPCC) y;
+- Manifieste si los bienes se encuentran ya embargados o afectados por prenda u otro gravamen; y, en su caso, el Juzgado, Secretaría y carátula del expediente donde se ordenó; y en los otros, nombre y domicilio de los acreedores y el monto del crédito, bajo el apercibimiento previsto por los arts. 44 y 45, inc. g) del decreto ley N° 15.348/46 (ratificado por ley N° 12.962). REGÍSTRESE. NOTIFIQUESE en forma automática (Ac. 4013/21 y 4039/21 de la SCBA).
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### 88. [RR-1189-2026] AGUADO MARTA Y OTRO/A S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24650`
+- **Fecha**: 09-10-2026
+- **Número de Registro**: `RR-1189-2026`
+- **Código de Acceso SCBA**: `C05AD334`
+- **Firmantes**: Fecha: 9/10/2026 11:01:03 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1189-2026 - Código acceso: C05AD334 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 09/10/2026 11:01
+
+#### Texto Íntegro
+```text
+AGUADO MARTA Y OTRO/A S/ SUCESION AB-INTESTATO
+Expte. N° 24650
+MDM
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con los certificados de defunción acompañados a fs. 11 y 1, se justificó en legal forma el fallecimiento de las señoras ROSA ANA CAMPANA , ocurrido el día 3 de octubre de 2024 y MARTA AGUADO , ocurrido el día 13 de mayo de 2026.
+II.-) Que la señora ROSA ANA CAMPANA contrajo matrimonio con el señor JUAN AGUADO el día 25 de septiembre de 1947 (ver fs. 9).
+III.-) Que fruto de dicha unión nacieron sus hijas: NORMA BEATRIZ el día 27 de febrero de 1949 y MARTA el día 4 de enero de 1954, lo que se acreditó con la documentación de fs. 1 y 9.
+IV.-) Que la señora MARTA AGUADO contrajo matrimonio con el señor OMAR DARIO GIANNI el día 15 de noviembre de 1974 (ver fs. 1).
+V.-) Que fruto de dicha unión nacieron sus hijos: MARTIN DARIO el día 2 de marzo de 1976, FABIAN GABRIEL el día 20 de enero de 1979 e IVANNA MARISOL el día 30 de octubre de 1982, lo que se acreditó con la documentación de fs. 1.
+VI.-) Que con el certificado de defunción acompañado a fs. 12 y 25 se justificó en legal forma el fallecimiento del señor JUAN AGUADO, ocurrido el día 30 de mayo de 1977.
+VII.-) Que, con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2426, 2433, 2431 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que:
+I.-) Por el fallecimiento de la señora ROSA ANA CAMPANA le suceden en carácter de universales herederas sus hijas, NORMA BEATRIZ y MARTA AGUADO .
+II.-) Por el fallecimiento de la señora MARTA AGUADO le suceden en carácter de universales herederos sus hijos, MARTIN DARIO , FABIAN GABRIEL e IVANNA MARISOL GIANNI , y su cónyuge, OMAR DARIO GIANNI , a quien se le declara heredar con respecto a los bienes propios - si los hubiere - sin perjuicio de los derechos que la ley le acuerda con respecto a los gananciales.
+REGISTRESE .
+Cese la intervención del señor Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34, inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decreto ley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
 
 ### 89. [RR-1190-2026] FCA COMPAÑIA FINANCIERA SA C/ ACUÑA NAHUEL S/ ACCION DE SECUESTRO (ART.39 LEY 12962)
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
