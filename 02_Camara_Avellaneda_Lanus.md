@@ -3,7 +3,7 @@
 - **Organismo Principal**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - AVELLANEDA / LANUS (`idOrganismo: 4157`)
 - **Alzada Residual en causas `AL-...` preexistentes**: Cámara de Apelación en lo Civil y Comercial de Lomas de Zamora - Salas I (`312`), II (`313`) y III (`2063`)
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
-- **Fecha de Extracción**: 2026-11-05
+- **Fecha de Extracción**: 2026-11-06
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`) y Resoluciones Interlocutorias (`RR`) de la Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (`ID 4157`), más Sentencias Definitivas recientes dictadas en causas del Departamento Judicial Avellaneda-Lanús (`AL-...`) por su Alzada histórica.
 
 ---
@@ -3665,6 +3665,49 @@ JUZFAM1-AV@JUSBUENOSAIRES.GOV.AR
 
 
 ## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS - CÁMARA CIVIL Y COMERCIAL DE AVELLANEDA-LANÚS (`ID 4157 - RR`)
+
+### ACT-06-11-2026. [RR-415-2026] SANABRIA DIEGO NICOLAS C/ SANABRIA MENDIETA DIONICIO ROBERTO S/ ALIMENTOS
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - AVELLANEDA / LANUS
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `AL-32519-2026`
+- **Fecha**: 06-11-2026
+- **Número de Registro**: `RR-415-2026`
+- **Código de Acceso SCBA**: `413BFBC0`
+- **Firmantes**: Funcionario: CUNTO Andres Lucio JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 415-2026 - Código acceso: 413BFBC0 - PUBLICO | Registrado por: MAZZOLENI Maria Alejandra - Fecha registración: 06/11/2026 14:07
+
+#### Texto Íntegro
+```text
+SANABRIA DIEGO NICOLAS C/ SANABRIA MENDIETA DIONICIO ROBERTO S/ ALIMENTOS -
+JUZGADO DE FAMILIA N° 6 - AVELLANEDA
+CAUSA N° AL-32519-2026
+Avellaneda, en la fecha de referencia indicada en la firma digital.
+AUTOS Y VISTOS:
+CONSIDERANDO:
+I. Se reciben los autos en esta Alzada a fin de resolver la contienda negativa de competencia planteada entre las Sras. Juezas a cargo de los Juzgados de Familia N° 2 y N° 6 Deptal.
+II. Con fecha 13/10/2026 la titular del referido Juzgado n° 2 Departamental rechazó la radicación directa de estos autos ante la dependencia a su cargo y dispuso su remisión a la Receptoría General de Expedientes para la realización de un nuevo sorteo. Ello, por entender que los expedientes conexos " Perez Pereyra Lorena Alicia C/ Sanabria Mendieta Roberto Dionisio S/ Divorcio por Presentación Unilateral ", Expte. N° 16237 AV-2599/2017, y "S anabria Mendieta Dionicio Roberto C/ Perez Pereyra Lorena Alicia S/ Protección Contra La Violencia Familiar (LEY 12569)", Expte. N° 15885 AV-1120/2017, trataban una conflictiva familiar distinta que no guardaba relación con la presente causa.
+Efectuado el sorteo correspondiente, las actuaciones fueron asignadas al Juzgado de Familia N° 6 Departamental La magistrada a cargo señaló que de las constancias de inicio surgía que Diego Nicolás Sanabria refería y acreditaba ser hijo del Sr. Dionisio Roberto Sanabria Mendieta y de la Sra. Lorena Alicia Pérez Pereyra, y que la certificación actuarial daba cuenta de la intervención del Juzgado de Familia N° 2 Deptal. en múltiples expedientes vinculados al mismo grupo familiar.
+Concluyó, luego de efectuar el detalle de las caratulas, nros. de expediente y fecha de inicio de dichas causas, del que surge la tramitación del expediente " Perez Pereyra Lorena Alicia C/ Sanabria Mendieta Roberto Dionisio S/ Alimentos ", Expte. N° AV-13630/2017, que las mismas no versaban sobre una conflictiva familiar distinta sino que comprometían a idéntico grupo familiar y revestían el carácter de antecedentes de estos obrados, guardando estrecha relación con su objeto.
+En consecuencia, por considerar que una interpretación contraria importaría que dos Juzgados distintos se expidan en relación a la fijación de una cuota alimentaria para el joven Diego Nicolás Sanabria a cargo de su progenitor Dionisio Roberto Sanabria Mendieta, rechazó la competencia atribuida y, trabada la contienda negativa, elevó los autos a esta Alzada (arts. 11 y 13 del C.P.C.C.).
+III. Analizada la cuestión de competencia traída a decisión, hemos de anticipar que compartimos la postura adoptada por la magistrada titular del Juzgado de Familia N° 6 Departamental.
+Sabido es el criterio establecido en cuanto a la conveniencia de que la temática familiar sea entendida por un solo Juez, y en este sentido debe ser el que previno en la problemática.
+En el específico ámbito de procesos como el que nos ocupa, el Superior Tribunal Provincial ha decidido que "a los fines del mejor tratamiento familiar, la sustanciación de todas las pretensiones conexas referentes a la misma familia debe llevarse a cabo ante el Tribunal que previno (art. 41 inc. "b" del Reglamento sobre el Régimen de Receptorías de Expedientes, Archivos del Poder Judicial, Mandamientos y Notificaciones, aprobado por la Acordada 3397/2008; arg. art. 830 del Código Procesal Civil y Comercial -texto según ley 13.634-; conf. doctr. Ac. 92.821, resol. del 1-XII-2004), no distinguiendo la normativa cuál sea la cuestión planteada en primer término, ni importando el estado en el que ellas se encuentren" (conf. S.C.B.A., Ac. 114344 I 4-05-2011, Ac. 116877 I 13-06-2012).
+En esencia, la conexidad se configura en supuestos en que la materia litigiosa, introducida con posterioridad a la radicación de la causa originaria, constituye una prolongación de la misma controversia, de suerte tal que sea menester someterla al tribunal que previno para permitir la continuidad del criterio en la valoración de los hechos y derecho invocados. (KIELMANOVICH, Jorge L., Derecho Procesal de Familia, Abeledo-Perrot, Buenos Aires, 2007, p. 57; en igual sentido, CNCiv., Sala I, "González, Maximiliano Ezequiel c/ Chiodin Ugarte, Yasmin s/ art. 250 C.P.C. - incidente familia", 3/4/2025, TR LALEY AR/JUR/37016/2025).
+Planteado de tal modo un conflicto negativo de competencia entre dos magistradas del fuero de familia departamental, frente a la existencia de peticiones anteriores de las partes debe intervenir el juzgado que hubiere prevenido (art. 830, C.P.C.C.). Tal principio de prevención no permite distinguir cuál fue la cuestión planteada en primer término, ni el estado en que los procesos se encuentren (CC0201 LP 140459 440 I 21/08/2025).
+Cabe añadir que, conforme surge de la consulta efectuada en la Mesa de Entradas Virtual, en el expediente " Perez Pereyra Lorena Alicia C/ Sanabria Mendieta Roberto Dionisio S/ Alimentos ", con fecha 2 de marzo de 2018 se homologó el acuerdo sobre prestación alimentaria al que arribaron las partes, previa intervención de la Asesoría de Incapaces.
+Si bien los presentes autos fueron iniciados por Diego Nicolás Sanabria por derecho propio, ello no modifica la solución que se propicia, en tanto la pretensión se dirige contra el mismo alimentante.
+IV. En resumen, la progenitora Lorena Alicia Pérez Pereyra actuó en el expediente precedentemente referido en representación de su hijo menor edad quién ahora se presenta por derecho propio, por lo que no cabe duda alguna que las presentes actuaciones son una prolongación de la misma controversia, siendo las partes las mismas, esto es, el alimentado y el alimentante así como el objeto de la pretensión .
+Por ello corresponderá declarar hábil para intervenir al órgano que haya conocido al grupo familiar con anterioridad, pues será éste el que se encuentra en mejores condiciones para abordar la problemática con mayor celeridad y precisión (LÓPEZ MESA, Marcelo J., Código Procesal Civil y Comercial de Provincia de Buenos Aires, con leyes complementarias. Comentado y anotado con jurisprudencia, T. VI, arts. 774 a 853, leyes complementarias, pág. 775).
+Al respecto, el art. 647 del C.P.C.C. dispone que toda petición de aumento, disminución, cesación o coparticipación en los alimentos se sustanciará por las normas de los incidentes, en el proceso en que fueron solicitados. En tal sentido, se ha señalado que la competencia corresponde al mismo juez de familia que dictó el pronunciamiento que se pretende revisar, salvo que se haya modificado el centro de vida de la persona menor de edad en los términos del art. 716 del CCCN (Arazi, Roland y otros, Código Procesal Civil y Comercial de la Provincia de Buenos Aires. Anotado y comentado, 3.ª ed. ampliada y actualizada, Rubinzal-Culzoni, Santa Fe, 2024, t. I, pág. 208, comentario al art. 647, y jurisprudencia allí citada).
+Sentado ello, por razones de prevención y conexidad entendemos que deberá ser la titular del Juzgado de Familia N° 2 Deptal. quien continúe entendiendo en este proceso.
+Por ello, SE RESUELVE : Dirimiéndose la cuestión de competencia suscitada, ha de ser el Juzgado de Familia N° 2 del Departamento Judicial de Avellaneda - Lanús el que entenderá en el presente proceso. En consecuencia, practíquese la comunicación correspondiente a la Receptoría General de Expedientes y comuníquese lo resuelto a la titular del Juzgado de igual clase N° 6 Deptal. a sus efectos. REGÍSTRESE (Res. SCBA 921/21 y Res. SP 7/21). NOTIFÍQUESE (art. 135 del CPCC y Ac. 4013 y modificatorios, según texto ordenado por Ac. 4039/21 de la SCBA). Oportunamente, DEVUÉLVASE (Ac. 3975/20 SCBA).
+ANDRES LUCIO CUNTO GABRIELA PAOLA DELCORCHO JUEZ DE CAMARA JUEZA DE CAMARA
+MARIA ALEJANDRA MAZZOLENI
+SECRETARIA DE CAMARA
+23377605144@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
 
 ### ACT-05-11-2026. [RR-414-2026] S. M. S. S/ ABRIGO
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - AVELLANEDA / LANUS
