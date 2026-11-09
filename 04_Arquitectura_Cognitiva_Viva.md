@@ -2,7 +2,7 @@
 
 - **Repositorio**: `mauryrojo7-a11y/jurisprudencia-pba`
 - **Fuente Científica en Tiempo Real**: API Oficial de arXiv (`https://export.arxiv.org/api/query` — Categorías `cs.AI`, `cs.CL`, `cs.LG`)
-- **Última Actualización Automática**: 2026-11-06
+- **Última Actualización Automática**: 2026-11-09
 - **Ejes Monitoreados Diariamente**:
   1. **Test-Time Compute & Inference-Time Scaling**
   2. **Process Reward Models (PRM) & Step-Level Verification**
@@ -28,6 +28,65 @@ Las siguientes reglas operativas sintetizan los hallazgos de frontera extraídos
 ---
 
 ## EJE: TEST-TIME COMPUTE & INFERENCE-TIME SCALING
+
+### [arXiv:2611.09798] Test-Time Compute Scales Better with Parallel Agent Teams
+- **arXiv ID**: `2611.09798` (2611.09798v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Test-Time Compute & Inference-Time Scaling
+- **Autores**: Junlin Wang, Haozhe Chen, Ang Li, Rahul Chalamala, Zhuang Liu
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.09798)](https://arxiv.org/abs/2611.09798) | [PDF (https://arxiv.org/pdf/2611.09798.pdf)](https://arxiv.org/pdf/2611.09798.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common ways to spend it on agents when a verifier can score every attempt. Best-of-N sampling runs many independent agents and keeps the best result but saturates quickly. One large team of collaborating agents can score higher but stops improving as it grows. Can we get the best of both? Our method, parallel agent teams, does so by sampling many small teams in parallel and keeping the best team's result. We test it on 12 long-horizon tasks from GPU kernels and formal proofs to exploit development. With a 27B model and a budget of 100 agents, parallel teams of ten beat parallel agents on 10 of 12 tasks and beat one team of 100 on all four tasks where we ran such large teams. At equal dollar cost the same parallel teams beat a frontier model on half the tasks. A simple statistical model shows that individual agents lose because their many samples have a low mean and that one large team loses because a single sample gets no gain from variance. Sampling many small teams in parallel balances a high mean with the gain from variance. Parallel agent teams thus offer a more effective way to scale test-time compute.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Test-Time Compute & Inference-Time Scaling]**: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  5. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
+
+### [arXiv:2611.08640] Aspect-wise Pairwise Tournaments for Test-Time Selection
+- **arXiv ID**: `2611.08640` (2611.08640v1)
+- **Fecha de Publicación**: 2026-11-05
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Test-Time Compute & Inference-Time Scaling
+- **Autores**: Hannah Guan, Yilun Du
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.08640)](https://arxiv.org/abs/2611.08640) | [PDF (https://arxiv.org/pdf/2611.08640.pdf)](https://arxiv.org/pdf/2611.08640.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Scaling test-time compute has proven highly effective at improving LLM reasoning. A popular method is best-of-n sampling, where a model generates many candidate solutions and one is selected. This motivates the question: how can we select the best candidate? When humans make choices, we find it more natural to compare two options than judge each in isolation. Additionally, when the options become complex, we like to judge the options one aspect at a time, such as comparing two job candidates on experience, communication, etc. In the test-time setting, candidate solutions should be judged in the same way. Here we introduce Aspect-wise Pairwise Tournaments (APT), which verifies by comparison and compares by aspect. Each matchup of a single elimination tournament is decided by a vote over multiple off-the-shelf aspect verifiers, each expressing a pairwise preference along its own aspect. Across five domains and three generator LLMs, APT improves over binary multi-aspect approval, self-consistency and reward model verification, with the largest gains on open-ended tasks. We find that both components matter; neither binary approval over the same aspects nor a generic pairwise judge at a matched budget matches APT. Because aspects are specified in natural language, APT also lets users steer selection toward properties they care about, better aligning with user preferences without needing to regenerate solutions. No component is trained, so APT transfers to new domains by simply rewriting prompts.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Test-Time Compute & Inference-Time Scaling]**: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  5. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
+
+### [arXiv:2611.08566] CascadeRec: Deployed Adaptive LLM Compute Allocation for Multi-Tenant Content Recommendation
+- **arXiv ID**: `2611.08566` (2611.08566v1)
+- **Fecha de Publicación**: 2026-11-05
+- **Categorías arXiv**: `cs.IR`, `cs.AI`, `cs.LG`
+- **Eje Cognitivo**: Test-Time Compute & Inference-Time Scaling
+- **Autores**: Kai Zhao, Guilin Zhang, Xiang Cheng, Xiquan Cui, Henry Heng, Xu Chu et al.
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.08566)](https://arxiv.org/abs/2611.08566) | [PDF (https://arxiv.org/pdf/2611.08566.pdf)](https://arxiv.org/pdf/2611.08566.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Large language models (LLMs) are attractive rerankers for recommendation. Running an expensive model on every request is costly, and for users with sparse interaction histories it often lowers quality. We present CascadeRec, a two-tier LLM reranking cascade deployed in production at a large financial planning and analysis (FP&A) SaaS provider. It serves content recommendations to enterprise tenants on AWS EKS and GKE. A lightweight Tier-1 model reranks every request. A router escalates only the requests where extra inference-time compute is likely to help, and sends them to a more expensive Tier-2 procedure (self-consistency sampling, multi-path reasoning, or a larger model). The system has run in a production A/B experiment for over a month. Compared with uniform use of the expensive tier, CascadeRec has reduced inference cost by about 10%, with minimal latency impact and no quality regression observed to date. Tenant data cannot be released, so we also evaluate the pipeline on public benchmarks (MovieLens-1M and Amazon-Electronics). Segment-level analysis with paired-bootstrap confidence intervals shows that uniform LLM reranking lowers NDCG@10 for sparse-history users by up to 30%, and its only statistically significant gain appears on the segment with the longest histories. Escalating cold users can make the loss larger instead of repairing it. Which segments benefit from escalation depends on the domain, and this motivates the segment-gated rollout we use in production. We describe the deployment architecture, the measured benefits, and lessons learned, including inter-tenant load imbalance as a driver for cascading and the handling of LLM output-parsing failures at the serving layer.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Test-Time Compute & Inference-Time Scaling]**: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.
+  2. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  3. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  4. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
 
 ### [arXiv:2611.08236] Beyond Quadratic Attention: Separable Gaussian Operators for ODE Vision Transformers
 - **arXiv ID**: `2611.08236` (2611.08236v1)
@@ -1142,6 +1201,116 @@ Las siguientes reglas operativas sintetizan los hallazgos de frontera extraídos
 
 ## EJE: REASONING IN LLMS (DELIBERATIVE, CHAIN-OF-THOUGHT & SELF-VERIFICATION)
 
+### [arXiv:2611.09891] CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse
+- **arXiv ID**: `2611.09891` (2611.09891v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Peter Belcak, Greg Heinrich, Saurav Muralidharan, Shizhe Diao, Pavlo Molchanov
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.09891)](https://arxiv.org/abs/2611.09891) | [PDF (https://arxiv.org/pdf/2611.09891.pdf)](https://arxiv.org/pdf/2611.09891.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem instance can be done very efficiently and with little involvement from language models. We introduce agentic reasoning caching, a method for constructing robust CPU-executable agentic reasoning caches (ARCs) from LLM reasoning traces. ARCs show on-par performance with frontier LLMs across a range of difficult mathematical and scientific tasks, are fully explainable, continually trainable, robust to input perturbations, and 16-291x cheaper to invoke than the source model.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  3. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+
+---
+
+### [arXiv:2611.09511] V-STORM: A Structure-Aware Grounded Chain of Thought Dataset for Faithful and Fine-Grained Spatio-Temporal Video Reasoning
+- **arXiv ID**: `2611.09511` (2611.09511v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.CV`, `cs.AI`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Dian Jiao, Yuqian Yuan, Jiaqi Zhu, Mingjian Gao, Siwen Tan, Yunqi Cao et al.
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.09511)](https://arxiv.org/abs/2611.09511) | [PDF (https://arxiv.org/pdf/2611.09511.pdf)](https://arxiv.org/pdf/2611.09511.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> While MLLMs can often identify what happens in a video, they still struggle with fine-grained spatio-temporal reasoning, which requires precise grounding when and where the supporting evidence appears and composing such evidence into a coherent reasoning chain. This challenge is exacerbated by the lack of scalable data construction and evaluation pipelines that provide granular, verifiable supervision linking reasoning steps to explicit spatio-temporal evidence.To address this gap, we present V-STORM, a structure-aware framework that transforms videos into Spatio-Temporal Scene Graphs (STSGs) and derives Grounded Chain of Thought (GCoT) from validated evidence paths, making each reasoning step traceable to structured and verifiable spatio-temporal evidence.Under this framework, we construct a 260K-sample training set and a 3K-sample human-verified benchmark, both featuring GCoT annotations that link reasoning to explicit spatio-temporal evidence.Experiments reveal a clear separation between evidence localization and evidence composition: current MLLMs can often identify relevant spatio-temporal cues, yet still fail to integrate them into correct multi-step reasoning, exposing a bottleneck that answer-only evaluation largely obscures. Moreover, fine-tuning with V-STORM substantially improves both answer accuracy and grounding faithfulness, validating its effectiveness as supervision for faithful and evidence-grounded video reasoning. Our dataset, benchmark, and source code will be publicly released.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Supervisión Granular por Pasos (Step-Level PRM)]**: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.09414] Typed-Centrality Grounding for Agentic GraphRAG: A Symbolic Approach for Agentic Reasoning
+- **arXiv ID**: `2611.09414` (2611.09414v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Rosario Napoli, Antonio Celesti, Massimo Villari, Maria Fazio
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.09414)](https://arxiv.org/abs/2611.09414) | [PDF (https://arxiv.org/pdf/2611.09414.pdf)](https://arxiv.org/pdf/2611.09414.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Knowledge Graphs (KGs) and Large Language Models (LLMs) represent two approaches for knowledge representation and reasoning over heterogeneous data. Recent research has explored their integration through Graph Retrieval-Augmented Generation (GraphRAG) systems, which use KGs to provide structured context to LLMs. However, existing GraphRAG approaches treat KGs as homogeneous graphs and rely on textual similarity between the input prompt and the context, rather than using it as a source of deterministic knowledge. This work proposes an agent-based GraphRAG system that introduces a symbolic layer to integrate deterministic reasoning alongside text similarities. This approach is based on the definition of typed centralities for KGs, where centrality measures are computed separately for each specific KG's class. This information is used to construct a symbolic representation that is provided to the LLM as a deterministic source. The proposed system was mathematically validated and evaluated on a real-world POLE (Person, Object, Location, Event) dataset, comparing reasoning and information retrieval with and without the symbolic layer. The results indicate that the our approach leads to responses that are more consistent with the context, improving the generated outputs.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  3. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  4. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  5. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
+
+### [arXiv:2611.09082] BrainCoT: A Multi-Task Zero-Shot Brain Signal Foundation Model with Neurometric-Anchored Chain-of-Thought Reasoning
+- **arXiv ID**: `2611.09082` (2611.09082v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.LG`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Yiyu Gui, Mingzhi Chen, Guibo Luo, Yuchao Yang
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.09082)](https://arxiv.org/abs/2611.09082) | [PDF (https://arxiv.org/pdf/2611.09082.pdf)](https://arxiv.org/pdf/2611.09082.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Brain signals exhibit substantial multi-center heterogeneity, strong inter-subject variability, and highly diverse task settings, which makes it difficult to build models that generalize beyond a single task. While recent brain signal foundation models leverage large-scale pretraining to learn generalizable representations, they often fall short in practice because they still require target-data-specific supervised adaptation, lack multi-task zero-shot capability, and rarely provide verifiable evidence to support their predictions. In this work, we present BrainCoT, a multi-task zero-shot Brain signal foundation model with neurometric-anchored Chain-of-Thought (CoT) reasoning. BrainCoT unifies heterogeneous tasks into an instruction-driven framework so that, after pretraining, a single model can be directly applied to multiple tasks in zero-shot settings without additional adaptation. It further introduces neurometric-anchored chain-of-thought grounded in neurometric evidence for verifiable reasoning, and adopts Decision-Consistent Rationale Training to keep process learning aligned with correct predictions. Across extensive evaluations, BrainCoT achieves an average ACC of 67.41% and AUC of 74.33% in zero-shot classification without downstream training data, outperforming the strongest linear-probing baseline trained with 1% labeled downstream data by 3.85% in ACC and 5.97% in AUC.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Supervisión Granular por Pasos (Step-Level PRM)]**: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.09061] Does Reasoning Improve Psychological Depth in Large Language Models?
+- **arXiv ID**: `2611.09061` (2611.09061v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.CL`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Ruichen Zheng, Yihe Wang, Fabrice Harel-Canada, Sara Khosravi, Zeynep Senahan Yildiz, Amit Sahai et al.
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.09061)](https://arxiv.org/abs/2611.09061) | [PDF (https://arxiv.org/pdf/2611.09061.pdf)](https://arxiv.org/pdf/2611.09061.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of reader experience. We tested this assumption through the lens of psychological depth in short stories. We compared DeepSeek-R1 vs. DeepSeek-V3, our closest available contrast for reasoning-oriented post-training, and GPT-5 vs. GPT-4o, through 60 blinded pairwise evaluations in which seven human annotators and an ensemble LLM-as-a-Judge rated prompt-matched story outputs. Human evaluations showed no universal reasoning advantage: GPT-5 was slightly preferred over GPT-4o (60.0-62.9% across two reasoning-effort settings), whereas DeepSeek-R1 fell behind DeepSeek-V3 (42.9%). Although this pattern was marked by low inter-annotator agreement (Krippendorff's $α= 0.070$), our annotation-quality checks suggested genuine evaluative subjectivity, plausibly reflecting distinct annotator decision schemes rather than annotation failure. In contrast, the LLM-as-a-Judge showed a strong pro-reasoning bias (98.3% of pairs vs. 55.2% of human votes), consistent across its five configurations and partly tracking sentence length. These findings suggest that, at the frontier, reasoning-related quality differences are small enough to be dominated by reader subjectivity, and that LLM-as-a-Judge evaluators can obscure this subjectivity in nuanced creative-generation tasks.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  3. **[Trazabilidad y Explicabilidad Técnica]**: Explicitar los fundamentos y pasos de derivación desde los datos de entrada hasta la conclusión dispositiva, garantizando auditabilidad completa del razonamiento.
+
+---
+
+### [arXiv:2611.08811] I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents
+- **arXiv ID**: `2611.08811` (2611.08811v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.AI`, `cs.CR`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Parth Illendula, Garik Livingston, Zain Shamsi, Ravi Srinivasan, Alex Liu
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.08811)](https://arxiv.org/abs/2611.08811) | [PDF (https://arxiv.org/pdf/2611.08811.pdf)](https://arxiv.org/pdf/2611.08811.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Large Reasoning Models (LRMs) are one of the key components of current agentic systems. LRMs augment their output with an explicit chain-of-thought reasoning stage, introducing a new attack surface for thought injection, in which untrusted text resembling the model's own deliberation is fed back to the model. We present a two-part study of this attack, performed against the prevailing large, production class open-weight models (e.g., GLM-5.3, MiniMax-M2.5, Qwen3.8-Flash-Next). We first evaluate the effectiveness of static thought-injection prompts under different styles as well as tagged and untagged conditions and find that the effects of thinking tags and payload styles are all properties of the specific target model. In the second study, we exploit this model-specificity in a containerized agentic cyber range, using indirect injection prompts styled in the form of the target model's own reasoning traces to achieve attack success rates (ASR) up to 50% on operational objectives such as reverse-shell exfiltration and repository backdooring. We also find that the same malicious objective in standard prompt injection user voice never succeeds, and thinking tags suppress the agent's tendency to disclose the injection. Our results show that imitating a reasoning model's own thought style is effective for this style of attack, and that tag stripping is an unreliable defense.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
 ### [arXiv:2611.08403] StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning
 - **arXiv ID**: `2611.08403` (2611.08403v1)
 - **Fecha de Publicación**: 2026-11-05
@@ -1988,6 +2157,45 @@ Las siguientes reglas operativas sintetizan los hallazgos de frontera extraídos
 ---
 
 ## EJE: PROMPT ENGINEERING, META-PROMPTING & IN-CONTEXT OPTIMIZATION
+
+### [arXiv:2611.09699] Verifier Noise Is a Temperature: Testing Tilt Predictions in Finite-Budget LLM-Guided Search
+- **arXiv ID**: `2611.09699` (2611.09699v1)
+- **Fecha de Publicación**: 2026-11-06
+- **Categorías arXiv**: `cs.LG`, `cs.AI`
+- **Eje Cognitivo**: Prompt Engineering, Meta-Prompting & In-Context Optimization
+- **Autores**: Xiaomeng Li
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.09699)](https://arxiv.org/abs/2611.09699) | [PDF (https://arxiv.org/pdf/2611.09699.pdf)](https://arxiv.org/pdf/2611.09699.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> LLM-guided search loops propose a modified candidate, score it, and keep it if it scores better. When both candidates are re-scored at every comparison, as in the minibatch acceptance gates of prompt optimizers, keep-if-better is a reversible Markov chain if the score difference is logistic and the mutation operator is reversible, and its stationary law is the mutation equilibrium tilted by exp(beta f). For any continuous symmetric noise difference the same tilt is the stationary law of a small-step diffusion limit, with beta = 4F'(0); for a minibatch gate beta grows with the square root of the minibatch size. Caching the incumbent's score instead inflates the recorded score. We test the tilt as a prediction for LLM-guided program search, committing each prediction from calibration data before the search runs. The level after 150 steps rises with the minibatch size in six of seven settings, but its predicted value fails: on bin packing, search attains 62-88% of the predicted gain when the proposer edits the parent and 109-119% when it writes new heuristics. The attained fraction falls with the parent-child quality correlation of unselected mutation; a registered test on two new settings confirmed the direction, but not the quantitative agreement after a correction. Further registered tests found that runs started from a good program kept losing quality over 300 steps, more so from starts that search had selected, by a margin that passed its registered rule narrowly. Runs from different starts had not reached a common level, so whether the tilt describes the stationary law of LLM editing remains open. A registered test in prompt optimisation on frozen task-model scores failed: search exceeded the tilt, and the bin-packing relation did not transfer.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Prompt Engineering, Meta-Prompting & In-Context Optimization]**: Anclar el contexto mediante restricciones explícitas de formato, ejemplos verificados en contexto (few-shot grounding), delimitación estricta de fuentes autorizadas y descomposición modular de instrucciones.
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  5. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
+
+### [arXiv:2611.08643] FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction
+- **arXiv ID**: `2611.08643` (2611.08643v1)
+- **Fecha de Publicación**: 2026-11-05
+- **Categorías arXiv**: `cs.CL`, `cs.AI`
+- **Eje Cognitivo**: Prompt Engineering, Meta-Prompting & In-Context Optimization
+- **Autores**: Abhinav Arun, Jayita Bhattacharyya, Fabrizio Dimino, Bhaskarjit Sarmah, Stefano Pasquali
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.08643)](https://arxiv.org/abs/2611.08643) | [PDF (https://arxiv.org/pdf/2611.08643.pdf)](https://arxiv.org/pdf/2611.08643.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Financial institutions construct knowledge graphs (KGs) from shared SEC 10-Ks to serve risk analysis, portfolio management, and investment research, whose analytical needs differ. Extraction must adapt without fragmenting shared grounding, typing, and temporal rules. Hand-authored persona prompts and fine-tuning add cost. Weight-free prompt optimization offers an alternative, but unconstrained evolution of a monolithic prompt can rewrite shared rules alongside persona guidance, obscuring changes and complicating review. We introduce FinEvolveKG, a KG-construction harness separating reusable general and persona-policy blocks and mechanically confining GEPA, a reflective prompt optimizer, to the designated block. During persona adaptation, the approved general block remains byte-stable and every optimizer edit is localized to a separately versioned persona policy. A dual objective balances generic temporal-KG quality with persona-relevant facts, motifs, and multi-hop connectivity. We evaluate five mutation scopes on ticker-disjoint 10-K splits, with three seeds for the persona-conditioned arms (v3-v5) across three personas. On the three-seed mean, the complete two-stage block-constrained workflow (v4) improves over the frozen prompt baseline (v1) by 19.4-30.9% and over the tested unconstrained full-prompt workflow (v5) by 2.2-6.4%, leading v5 on both objective components and winning all nine paired-seed comparisons with the lowest seed variance in every persona. Without further optimization, v4 also exceeds v5 across all evaluated out-of-distribution (OOD) shifts. An SME audit supports using the generated triplets as ground truth; a blinded two-SME audit favors v4 over v5 in 70.1% of contrast-enriched judgments. These results show that mechanically attributable evolution can coexist with strong empirical performance, without attributing the gains causally to the boundary.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Prompt Engineering, Meta-Prompting & In-Context Optimization]**: Anclar el contexto mediante restricciones explícitas de formato, ejemplos verificados en contexto (few-shot grounding), delimitación estricta de fuentes autorizadas y descomposición modular de instrucciones.
+  2. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  4. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
 
 ### [arXiv:2611.08226] "Blind Compliance": Coercive Control in AI Jailbreaking
 - **arXiv ID**: `2611.08226` (2611.08226v1)
