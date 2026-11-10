@@ -3,7 +3,7 @@
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA (`idOrganismo: 3659`)
 - **Juez Titular**: Dr. Martín Alfredo Botassi
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` (Suprema Corte de Justicia de la Provincia de Buenos Aires)
-- **Fecha de Extracción**: 2026-11-09
+- **Fecha de Extracción**: 2026-11-10
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`: 129) y Resoluciones Interlocutorias recientes (`RR`) con Carátula, N° de Causa, Fecha, N° de Registro, Código de Acceso y Texto Íntegro.
 
 ---
@@ -11750,6 +11750,648 @@ JUEZ
 
 
 ## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS RECIENTES (`REGISTRO DE RESOLUCIONES - RR`)
+
+### ACT-10-11-2026. [RR-1363-2026] BANCO CREDICOOP COOPERATIVO LTDO. C/ P. N. A. S/ COBRO EJECUTIVO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `18139`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1363-2026`
+- **Código de Acceso SCBA**: `CF011696`
+- **Firmantes**: Fecha: 10/11/2026 08:14:35 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1363-2026 - Código acceso: CF011696 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 08:14
+
+#### Texto Íntegro
+```text
+BANCO CREDICOOP COOPERATIVO LTDO. C/ PESCO NESTOR ADRIAN S/ COBRO EJECUTIVO
+Expte. N° 18139
+MB
+Avellaneda, en el día de la firma digital.-
+AUTOS Y VISTOS :
+1) Liquidación .
+No habiendo sido observada la liquidación practicada a fs. 100 apruébasela en cuanto ha lugar por derecho, hasta el día 6 de octubre de 2026 en la suma total de cuatro millones ciento cincuenta y un mil setecientos veinticuatro pesos con once centavos ($4.151.724,11) en concepto de capital: $2.466.416,36; intereses: $1.072.921,71; iva s/ intereses: $595.372,44 y gastos: $17.013,60 (arts. 155 y 500, CPCC).
+2) Honorarios abogados . Base regulatoria.
+A fin de proceder a su cuantificación corresponde en un primer lugar determinar la base regulatoria sobre la cual efectuar su cómputo. En este sentido el artículo 23 de la ley 14.967 es claro al señalar que en los juicios por cobro de sumas de dinero, la cuantía o monto del asunto a los fines de la regulación de honorarios será el total reclamado en la demanda o reconvención pero que si la liquidación final por todo concepto fuere mayor, ésta será considerada como base regulatoria.
+En el caso de autos, conforme liquidación aprobada supra corresponde determinar como base la suma de $ 4.151.724,11 , la que, en razón de las previsiones del artículo 34 de la ley 14.967 para el tipo de proceso de que trata el caso de autos, debe ser reducida en 30% en tanto no ha habido contradicción.
+Una vez ello y aplicada la escala del artículo 21 del mismo cuerpo normativo sobre su resultado, considerando la importancia de cada una de las tareas realizadas por los profesionales beneficiarios de la regulación, reparando también en el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, atento el estado de autos y por las etapas cumplidas hasta la sentencia , regúlanse los honorarios del doctor Claudio Javier Nudelman ( Tº 31 - Fº 75, CASI) , en su carácter de letrado apoderado de la parte actora, en la suma de 8,5 jus arancelarios (RP 1517/26, SCBA); con más el aporte legal correspondiente (arts. 1, 9, 10, 13, 14, 15, 16, 21, 22, 24, 26, 28, 34, 54 y 57, ley 14.967). REGÍSTRESE. Notifíquese con transcripción del art. 54 de la ley 14.967.
+3) IVA . A los honorarios regulados precedentemente se le adicionará el I.V.A. -si correspondiera-, previa acreditación de la condición que reviste el interesado ante la A.F.I.P. (art. 3, inc. e, ap.21 inc. f, ley 23.349, con sus modif., t.o. decreto 280/97; CSJN, Fallos, 316:1533, 322:523, 325:742; SCBA, C. 94.532, resol. del 6-V-2009).
+MARTIN ALFREDO BOTASSI
+JUEZ
+Ley 14.967 - ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-10-11-2026. [RR-1364-2026] ENRIQUEZ SILVIO HÉCTOR Y OTRO/A C/ MINOTTI SARA Y OTRO/A S/ PRESCRIPCION ADQUISITIVA LARGA
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `23443`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1364-2026`
+- **Código de Acceso SCBA**: `15296ECB`
+- **Firmantes**: Fecha: 10/11/2026 09:12:16 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1364-2026 - Código acceso: 15296ECB - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 09:12
+
+#### Texto Íntegro
+```text
+ENRIQUEZ SILVIO HÉCTOR Y OTRO/A C/ MINOTTI SARA Y OTRO/A S/ PRESCRIPCION ADQUISITIVA LARGA
+Expte. N° 23443
+MB
+Avellaneda, en el día de la firma digital.-
+Tiénese a la parte actora por contestados, en legal tiempo y forma, los traslados conferidos a fs. 21 (art. 150 del CPCC).
+VISTOS Y CONSIDERANDO:
+I.- Que con fecha 8 de octubre de 2026 se presentó la señora Defensora Oficial, doctora Mariana Plaza, a cargo de la Unidad Funcional de Defensa Civil N° 6 departamental, y articuló planteo de nulidad respecto de su designación en los términos del art. 341 del Código Procesal, oponiendo asimismo excepciones de falta de legitimación activa y falta de acción, y contestando la demanda en subsidio.
+En sustento de su planteo, señaló que del propio relato del escrito de inicio se desprende que el inmueble objeto de autos se encuentra inscripto a nombre de los cónyuges Héctor Tronchet y Sara Minotti, abuelos maternos del coactor Silvio Héctor Enríquez e integrante de un grupo familiar compuesto por varios hijos que, según expusieron los propios accionantes, se casaron y se mudaron junto a sus nuevas familias.
+Destacó que, pese a encontrarse fallecidos ambos titulares registrales y su hija Alba Nieves Tronchet, madre del coactor, la parte actora omitió brindar información sobre los restantes hijos de los causantes con derechos sobre el bien, limitándose a acompañar certificados de defunción e informes negativos del Registro de Juicios Universales para obtener la publicación de edictos con fecha 25 de agosto de 2026.
+Sostuvo que tal proceder lesiona la buena fe y la lealtad procesal, tornando inconsistente la intervención de la Defensoría Oficial y requiriendo que se arbitren las medidas conducentes para citar a los eventuales interesados.
+II.- Que corrido el pertinente traslado, con fecha 23 de octubre de 2026 la parte actora solicitó el rechazo de las excepciones y del planteo de nulidad deducido.
+Argumentó que detenta la posesión pública, pacífica, continua e ininterrumpida con ánimo de dueño desde el año 1993, habiendo operado la interversión de su título en los términos del art. 1915 del Código Civil y Comercial de la Nación. En lo atinente a la nulidad articulada, sostuvo que ninguno de los herederos de los demandados realizó actos de aceptación expresa o tácita de la herencia en el plazo de diez años desde el fallecimiento de los causantes, motivo por el cual consideró que a dichos sucesores les ha caducado el derecho de aceptar, debiendo tenérselos por renunciantes de conformidad con lo dispuesto por el art. 2288 del citado cuerpo legal.
+III.- Que ingresando al análisis de la cuestión traída a resolver, corresponde abordar en primer término el planteo de nulidad deducido por la Defensoría Oficial, toda vez que la regularidad del emplazamiento y la correcta integración de la litis constituyen presupuestos esenciales para la validez de la relación jurídico-procesal y el resguardo de la garantía constitucional de defensa en juicio (art. 18 de la Constitución Nacional; arts. 34 inc. 5°, 145, 169, 341 y 681, CPCC).
+Al respecto, cabe recordar que la citación por edictos prevista por los arts. 145 y 341 del ordenamiento ritual configura un medio de notificación excepcional y de interpretación restrictiva, cuya procedencia se halla supeditada a la demostración de la ignorancia real e invencible acerca de la identidad o del domicilio de las personas a quienes se pretende emplazar, previo agotamiento de las diligencias razonables tendientes a su individualización y localización.
+En la especie, de la lectura del escrito inaugural surge que los propios accionantes denunciaron el vínculo de parentesco que unía al coactor Silvio Héctor Enríquez con los titulares registrales fallecidos Héctor Tronchet y Sara Minotti, expresando de modo explícito que esta última continuó viviendo en el inmueble junto con sus hijos hasta que cada uno de ellos se casó y se mudó con sus respectivas familias. No obstante ello, omitieron individualizar a los restantes descendientes de los causantes, hermanos de la fallecida madre del coactor, promoviendo directamente la citación edictal sin haber intentado siquiera su emplazamiento personal.
+Frente a tal omisión, el argumento ensayado por la parte actora al contestar el traslado con sustento en el art. 2288 del Código Civil y Comercial de la Nación no resulta atendible para convalidar el procedimiento seguido. Ello es así por cuanto la eventual configuración de la caducidad del derecho de opción hereditaria o la invocada interversión del título posesorio constituyen materias sustanciales que no autorizan a quien pretende usucapir a prescindir unilateralmente de la citación personal de los sucesores conocidos de los titulares dominiales, quienes revisten el carácter de contradictores necesarios en el juicio de prescripción adquisitiva y deben contar con la posibilidad efectiva de ser oídos y ejercer su derecho de defensa (art. 1915, CCCN; arts. 679, 680 y 681, CPCC).
+En consecuencia, habiéndose acudido a la vía edictal sin haberse denunciado los datos de los restantes descendientes de los titulares registrales cuya existencia fuera reconocida en la propia demanda, corresponde hacer lugar al planteo articulado por la señora Defensora Oficial, dejando sin efecto la publicación de edictos practicada y la consecuente intervención asumida por el Ministerio Público de la Defensa (arts. 145, 169, 172, 174 y 341 del CPCC).
+Asimismo, atento el estado de las actuaciones y lo resuelto precedentemente, deviene abstracto en esta instancia emitir pronunciamiento acerca de las excepciones de falta de legitimación activa y falta de acción, así como respecto de la contestación de demanda en subsidio y oposiciones probatorias formuladas por la funcionaria interviniente, debiendo la parte actora, con carácter previo a todo otro trámite, denunciar los nombres, apellidos y domicilios de los restantes hijos de los causantes Héctor Tronchet y Sara Minotti -y, en caso de fallecimiento, los de sus respectivos descendientes-, acompañando las partidas o informes pertinentes a fin de integrar debidamente la litis (arts. 34 inc. 5°, 36, 330 y cctes. del CPCC).
+Por todo lo expuesto, RESUELVO:
+1) Hacer lugar al planteo de nulidad deducido por la señora Defensora Oficial con fecha 8 de octubre de 2026 y, en consecuencia, dejar sin efecto la citación por edictos practicada en autos y la intervención conferida a la Unidad Funcional de Defensa Civil N° 6 departamental (art. 18, Const. Nac.; arts. 145, 169, 172, 174 y 341 del CPCC).
+2) Declarar abstracto el tratamiento de las restantes defensas y planteos formulados en forma subsidiaria en la presentación en despacho.
+3) Intimar a la parte actora para que produzca la información tendiente a individualizar y denunciar los datos filiatorios y domicilios de los restantes hijos y/o descendientes de los titulares registrales fallecidos Héctor Tronchet y Sara Minotti, a los fines de la debida integración de la litis (arts. 34 inc. 5°, 36 y 681 del CPCC).
+4) Imponer las costas de la presente incidencia a la parte actora vencida (arts. 68 y 69 del CPCC). REGISTRESE . Notifíquese en forma automática (Ac. 4013/21 y 4039/21 de la SCBA) .
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1365-2026] SALAZAR MONICA ALICIA Y OTRO/A C/ FERNANDEZ ROSANA NOEMI S/ DESALOJO (EXCEPTO POR FALTA DE PAGO)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `23522`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1365-2026`
+- **Código de Acceso SCBA**: `B4A78D2A`
+- **Firmantes**: Fecha: 10/11/2026 09:12:27 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1365-2026 - Código acceso: B4A78D2A - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 09:12
+
+#### Texto Íntegro
+```text
+SALAZAR MONICA ALICIA Y OTRO/A C/ FERNANDEZ ROSANA NOEMI S/ DESALOJO (EXCEPTO POR FALTA DE PAGO)
+Expt. 23522
+IA
+Avellaneda, en el día de la firma digital.
+Proveyendo la presentación electrónica de fs. 38: Agréguese y téngase presente.
+Proveyendo la presentación electrónica de fs. 40: En atención al pedido de caducidad de la prueba testimonial de la parte demandada, Rosana Noemi Fernandez , formulado por la letrada patrocinante de la parte actora, he de indicar que la misma se configura como un modo de sancionar el incumplimiento de las partes en el impulso y desarrollo de las cargas procesales que el Código de Forma les asigna en lo relativo a la producción oportuna de la prueba ofrecida y acarrea como consecuencia la pérdida de ésta, incluso aunque todavía no hubiere fenecido el plazo probatorio.
+En el caso de la prueba testimonial, el artículo 430 del Código Procesal dispone que se tendrá por desistido del testigo a la parte que lo propuso si: 1) No hubiere activado la citación del testigo y éste no hubiese comparecido por esa razón; 2) No habiendo comparecido aquel a la primera audiencia, sin invocar causa justificada, no requiriere oportunamente las medidas de compulsión necesarias; 3) Fracasada la segunda audiencia por motivos no imputables a la parte, esta no solicitare nueva audiencia dentro del quinto día.
+Confrontadas tales disposiciones con el caso de autos, se puede observar que a fojas 16 se fijó audiencia testimonial para que los testigos de la parte actora (Marcela Beatriz Cabrini ) y de la parte demandada ( Camila Ailen Benito, Graciela Beatriz Henriquez y Paola Vanina Fascio ) comparecieran a la audiencia fijada para el día 2 de noviembre a las 11:00 hs.
+Que conforme se desprende del acta de fs. 39, a la audiencia solo comparecieron la doctora Natalia Verónica Villamón y la testigo ofrecido por la parte actor a, la señora Marcela Beatriz Cabrini.
+Ahora, analizada la conducta de la demandada, se puede apreciar que no solo no arbitró los medios necesarios para hacer comparecer a los testigos por ella ofrecida a la audiencia fijada, sino que tampoco solicitó las medidas de compulsión que el Código de Rito indica activar en casos de incomparecencia injustificada para la citación de los testigos (art. 430 inc. 1 y 2, CPCC).
+En consecuencia, por los fundamentos precedentemente vertidos, corresponde declarar el desistimiento de la prueba testimonial ofrecida por la parte demandada , lo que así RESUELVO (arts. 430, CPCC). REGÍSTRESE. Notifiquese de forma automatizada (Ac.4013/21, modif. por Ac.4039/21, SCBA).
+Proveyendo la presentación electrónica de fs. 42: En atención a lo solicitado, dispóngase la remisión de la documentación reservada a fs. 41 a la Asesoría Pericial de Lomas de Zamora. A cuyo fin, líbrese oficio por Secretaría. -
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1366-2026] BUSTOS LEANDRO EZEQUIEL C/ ORUETA GUSTAVO RAUL y otro/a S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24850`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1366-2026`
+- **Código de Acceso SCBA**: `447E2454`
+- **Firmantes**: Fecha: 10/11/2026 09:12:56 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1366-2026 - Código acceso: 447E2454 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 09:12
+
+#### Texto Íntegro
+```text
+BUSTOS LEANDRO EZEQUIEL C/ ORUETA GUSTAVO RAUL Y OTRO/A S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+Expte. N° 24850
+MDM
+Avellaneda, en el día de la firma digital.-
+AUTOS Y VISTOS:
+I.- Homologación. Atento lo dispuesto por los arts. 308 y 309 del Código Procesal, art. 1.643 concordantes y sgtes. del Código Civil y Comercial, homológase el acuerdo celebrado por las partes a fs. 8, cuyas copias serán registradas con la presente.
+Costas conforme lo pactado en la clausula séptima del acuerdo referenciado (art. 73 del CPCC).
+II.- Honorarios. Base regulatoria. En razón del modo en que se ha puesto fin al presente proceso y, de conformidad con lo previsto en el artículo 25 de la ley 14.967, corresponde utilizar como base regulatoria el monto total que resulta del acuerdo presentado, incluyendo en su computo capital, intereses y gastos, esto es, la suma de $9.000.000 .
+En consecuencia, ténganse presentes los honorarios pactados en favor del Dr. Christian Patricio Streit Maturana (T° XXV - F° 75 del C.A.L.Z.) en su carácter de letrado apoderado de la parte actora y, no obstante la base regulatoria que corresponde aplicar, en tanto resulta materia disponible para los interesados, admítanse los mismos en la suma de un millón ochocientos mil pesos ($1.800.000) con más el 10% de aportes de ley e IVA en caso de así corresponder (arts. 2 y 25, ley 14.967). Notifiquese con transcripción del artículo 54 de la ley 14.967.
+Asimismo, aplicada la escala del artículo 21 del mismo cuerpo normativo sobre su resultado, considerando la importancia de cada una de las tareas realizadas por los profesionales beneficiarios de la regulación, reparando también en el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, y en tanto no han sido pactados en el acuerdo presentado, se regulan los honorarios del Dr. Lazaro Arturo Halfon (T° III - F° 369 del CALZ), en carácter de letrado apoderado de la citada en garantía, en la suma de 20 jus arancelarios (RP 1517/26 de la SCBA) con más el 10% de aportes de ley e IVA en caso de así corresponder (art. 21 y 22 de la ley 14.967). Notifiquese con transcripción del artículo 54 de la ley 14.967.
+III.- Honorarios mediador. En cuanto a la retribución correspondiente a la mediadora interviniente en autos, importa señalar que, sin perjuicio de las pautas contenidas en el decreto reglamentario 600/21, los jueces están facultados en el caso concreto a disminuir equitativamente los honorarios de los auxiliares de justicia pese a su determinación legal cuando el apego a la norma conduzca a una evidente e injustificada desproporción entre la retribución resultante y la importancia de la labor cumplida (Conf. seg. párr. art. 1255 CCCN; art. 31, ley 13.951).
+De conformidad con ello, en ponderación de la tarea efectivamente desempeñada (una audiencia remota), de la pauta objetiva del monto del acuerdo ($9.000.000) y la proporcionalidad respecto de los honorarios de la parte vencedora (art. 1255 CCyC) se regulan los honorarios de la Mediadora Diamela Stefano (LA026) en la suma de 13,04 JUS , con más el aporte legal correspondiente (arts. 7, 1251 y 1255, Cód. Civ. y Com.; cfr. Cám. Civ. y Com 1ra. Sala II, Mar del Plata, causa n° 165.429, sent. de 11-XII-2018; Cám. Civ. y Com 2a, Sala I, La Plata, causa n° 123.402, sent. de 10-IV-2018; art. 31, ley 13.951; art. 31, anexo único, decreto 600/21).
+IV.- Tasa de justicia. Contribución. En orden al monto del acuerdo en concepto de capital $6.000.000 y lo dispuesto en los arts. 339 y 340 del Código Fiscal, el Actuario liquida en este acto la tasa y sobretasa de justicia en las sumas respectivas de $132.000 y $6.600.
+En consecuencia, en razón de lo acordado por las partes en la cláusula séptima del acuerdo, intímese a la citada en garantía, obligada al pago, para que en el plazo de cinco días oble las sumas adeudadas bajo apercibimiento de ejecución. Notifíquese por Secretaría en los términos de la Ac. 4039/21 SCBA.
+V.- Aportes. Cumplido con el artículo 21 de la ley 6716, dése por concluidas las actuaciones. Intimase a las partes y los letrados a abonar en el término de cinco días los aportes previsionales bajo apercibimiento de comunicar a la Caja de Abogados de la Provincia de Buenos Aires para que proceda a su ejecución. Notifiquese en los términos de la Ac. 4013 de la SCBA. REGISTRESE.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-10-11-2026. [RR-1367-2026] NUÑEZ JOSE ANTONIO S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24697`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1367-2026`
+- **Código de Acceso SCBA**: `698F17BF`
+- **Firmantes**: Fecha: 10/11/2026 09:13:17 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1367-2026 - Código acceso: 698F17BF - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 09:13
+
+#### Texto Íntegro
+```text
+NUÑEZ JOSE ANTONIO S/ SUCESION AB-INTESTATO
+Expte. N° 24697
+CM
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con el certificado de defunción acompañado a fs. 1 , se justificó en legal forma el fallecimiento del señor JOSE ANTONIO NUÑEZ , ocurrido el día 10 de octubre de 2017.
+II.-) Que el señor JOSE ANTONIO NUÑEZ contrajo matrimonio con la señora INES LEONOR LOPEZ el día 22 de junio de 1979 (ver fs. 1 ) sin que de dicha unión existiera descendencia alguna.
+III.-) Que al momento del fallecimiento del causante JOSE ANTONIO NUÑEZ, sus padres, MARTIN LAUREANO NUÑEZ y TOMASA SEBASTIANA SOLARI , se encontraban fallecidos, lo que se acredita en fs. 3 y 8.
+IV.-) Que, con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2435 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento JOSE ANTONIO NUÑEZ le sucede en carácter de universal heredera , su cónyuge, INES LEONOR LOPEZ , a quien se le declara heredar con respecto a los bienes propios - si los hubiere - sin perjuicio de los derechos que la ley le acuerda con respecto a los gananciales.
+REGISTRESE .
+Cese la intervención del señor Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34, inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decreto ley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1368-2026] NACELI NANCY FABIANA Y OTRO/A S/ BENEFICIO DE LITIGAR SIN GASTOS
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24880`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1368-2026`
+- **Código de Acceso SCBA**: `138C61FC`
+- **Firmantes**: Fecha: 10/11/2026 09:13:36 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1368-2026 - Código acceso: 138C61FC - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 09:13
+
+#### Texto Íntegro
+```text
+NACELI NANCY FABIANA Y OTRO/A S/ BENEFICIO DE LITIGAR SIN GASTOS
+Expte. N° 24880
+MES
+AL- 36401-2026
+Avellaneda, en el día de la firma digital.
+AUTOS Y VISTOS:
+Las presentes actuaciones, traídas a despacho a fin de resolver respecto a la competencia atribuida al suscripto y;
+CONSIDERANDO:
+I.- Que con fecha 29 de Septiembre del 2026 se presentaron Nancy Fabiana Naceli y Federico Agustín Vaccaro Naceli con el patrocinio letrado de la Dra. Patricia Viviana Mazzini, promoviendo incidente de beneficio de litigar sin gastos con relación a los autos caratulados "NACELI NANCY FABIANA y otro/a C/ MANZANARES OSCAR ALFREDO S/ DAÑOS Y PERJ. INCUMP. CONTRACTUAL (EXC. ESTADO) (80)" Expte N° AL-34951/2026" , encontrándose los mismos radicados por ante el Juzgado Civil y Comercial N° 5 departamental (Art. 116 del CPCC).
+II.- No obstante ello, se procedió al sorteo del expediente, viniendo los autos ante este juzgado.
+En esa línea, y más allá del sorteo efectuado, entiendo que predomina lo normado por el articulo 6, inc. 5 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires, el cual establece que el presente incidente de beneficio de litigar sin gastos debe tramitar donde lo hace el proceso principal.
+Por todo lo expuesto y lo peticionado en la presentación en vista, RESUELVO:
+1) Declararme incompetente para intervenir en las presentes actuaciones, correspondiendo conocer al Juez donde tramitan los autos principales ( Art. 6, inc. 5, CPCC.). REGISTRESE. NOTIFIQUESE.
+2) Dese de baja en el Registro Informático de Secretaría, notifíquese de forma automática a la Receptoría General de Expedientes a fin de que tome conocimiento y remítanse al Juzgado Civil y Comercial N° 5 departamental.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1369-2026] FRIAS VIRGILIA SOLEDAD S/ QUIEBRA(PEQUEÑA)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `25008`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1369-2026`
+- **Código de Acceso SCBA**: `8A0BD87A`
+- **Firmantes**: Fecha: 10/11/2026 09:13:51 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1369-2026 - Código acceso: 8A0BD87A - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 09:13
+
+#### Texto Íntegro
+```text
+FRIAS VIRGILIA SOLEDAD S/ QUIEBRA(PEQUEÑA)
+Expte. Nº 25008
+FGD
+Avellaneda, en el día de la firma digital.
+En virtud de lo peticionado, habiéndose dado cumplimiento con lo ordenado al proveído de fecha 27/10/2026, se pasa a proveer el escrito de inicio:
+1.- Por presentado, parte y constituido el domicilio procesal y electrónico indicados (Arts. 40, 46 y 47 del CPCC y Res. 582/16 y 707/16 y Ac. 3540 y 3733 de la SCBA).
+2.- Ténganse por presentados los documentos adunados digitalmente y con ello por prestada declaración jurada del abogado acerca de su correspondencia con los originales y constitúyase al mismo como depositario de los instrumentos indicados en los términos del artículo 6 de la Ac. 4013 de la SCBA.
+AUTOS Y VISTOS:
+De conformidad con lo solicitado, declárase en estado de quiebra a la señora Virgilia Soledad Frias , DNI 35151304 , Policía de la Provincia de Buenos Aires, donde actualmente reviste el grado de Sargento, y presta servicios en jornada completa en la Unidad de Policía de Prevención Local (U.P.P.L.) de Avellaneda , con domicilio real en Pierres Nº 1300, de la localidad de Villa Domínico, partido de Avellaneda, de la Provincia de Buenos Aires, con domicilio electrónico constituido en la casilla 20360668887@notificaciones.scba.gov.ar (arts. 2, 77 inc. 3º, 78, 79, 86 y cc. de la Ley 24.522; 34, 36 del C.P.C.C.). En consecuencia corresponde:
+1) Clasificar la presente quiebra como "pequeña" en términos de los arts. 288 y 289 de la Ley 24.522.
+2) Decretar la inhibición general de bienes del fallido, medida que deberá ser inscripta sin plazo de caducidad y en carácter de interdicción, debiendo mantenerse vigente y a publicidad en la forma ordenada, hasta tanto exista orden judicial en contrario emanada del marco de este proceso, librándose oficios al Registro de la Propiedad de la Provincia de Buenos Aires, al Registro de la Propiedad Inmueble de la Ciudad Autónoma de Buenos Aires y al Registro Nacional de la Propiedad Automotor (el que deberá comunicar la medida decretada por circular interna a todos los registros seccionales del país, lo cual deberá constar expresamente en el oficio respectivo) y la anotación de la sentencia en el Registro de Juicios Universales.
+Ofíciese en la forma de estilo, sin necesidad del previo pago de aranceles, tasas u otros gastos, independientemente de su oportuna consideración (arts. 88 inc. 2, 240 y 273 inc. 8, Ley 24.522).
+3) Decretar el desapoderamiento de pleno derecho del fallido, de sus bienes existentes a la fecha de la declaración de quiebra y de los que adquiera hasta su rehabilitación, con la consecuente pérdida de los derechos de disposición y administración (art. 107 de la Ley 24.522).
+Ordenar al quebrado y a los terceros que entreguen al síndico los bienes de propiedad del fallido.
+4) Prohibir la realización de todo acto por el fallido sobre bienes desapoderados, como asimismo, pagos que hiciere o recibiere, bajo apercibimiento de declararlos absolutamente ineficaces y en consonancia con ello, dentro del marco de facultades del proceso falencial y del instituto del desapoderamiento de marras, decretar, por un lado, el cese de los descuentos que afecten los haberes del deudor, en relación a deudas de causa o título anterior a la sentencia de quiebra dictada en los presentes, esto es, códigos de descuentos de operaciones financieras relacionadas a la compra de bienes o servicios u obtención de créditos dinerarios, excluidos los descuentos de ley (vgr., aportes previsionales, impositivos, obra social, etc.) y retenciones en concepto alimentario, y por otro, en consonancia con los recaudos consignados, procédase a retener y depositar en la cuenta de autos y a nombre del suscripto, el 20% de los haberes que perciba durante un año, con el objeto de afrontar el pasivo concursal (arts. 88 inc. 5, 106, 107, 108, 109, 118, 119, 240, 274 y 278, ley 24.522; arts. 34, inc. 5, 195, 204 y 230 del C.P.C.C.).
+A los fines indicados, ofíciese a la entidad pagadora de sus haberes (embargo del 20% sobre haberes) y al Banco Provincia de Buenos Aires (cese de los descuentos que afecten los haberes del deudor).
+Por medio de la presente se hacen saber los datos de la cuenta bancaria en pesos que se procedió a abrir por Secretaría a nombre de autos en este acto conforme Acuerdo 4233 SCBA:
+Banco de la Provincia de Buenos Aires
+Sucursal: (5026) Avellaneda
+CBU: 0140024327502654467811
+Juzgado en lo Civil y Comercial n° 7 Avellaneda.
+5) Ordenar interceptar la correspondencia del quebrado, la que se entregará al Síndico. A tal fin, ofíciese al Correo Argentino y empresas privadas que presten dicho servicio (art. 88 inc. 6º de la ley 24.522).
+Después de la entrega, el funcionario sindical deberá abrirla en presencia del deudor o en la del Juez en su defecto y hacerle entrega de aquella que fuera estrictamente personal (art. 114 de la Ley 24.522).
+6) Tener por constituido domicilio procesal electrónico del fallido en la casilla 20360668887@notificaciones.scba.gov.ar (art. 88 inc. 7°, ley 24.522).
+7) Prohibir la salida del país del fallido, sin previa autorización judicial. A tal fin, comuníquese mediante oficio al Ministerio del Interior de la Nación, con cargo de hacer saber a las fuerzas de seguridad nacionales y a organismos pertinentes del control de fronteras, esto es y como corresponda en su caso, a la Policía Federal Argentina -Dirección de Migraciones-, Dirección Nacional de Migraciones, Gendarmería Nacional, Prefectura Nacional Marítima y Policía Aeronáutica (arts. 88 inc. 8º y 103 de Ley 24.522).
+8) Librar oficio electrónico a la Receptoría General de Expedientes para que informe todos los juicios de contenido patrimonial que se sigan contra el deudor (arts. 21, 132 y 133 y 274 de la Ley 24.522).
+9) Disponer, una vez firme la presente sentencia, la realización de los bienes del fallido cuya efectiva ejecución difiero para ser efectuada con intervención del Síndico y una vez que se acrediten los bienes que componen su patrimonio, su estado dominial y demás circunstancias que le corresponda.
+En la ocasión procesal pertinente y en atención a la naturaleza de los bienes de aquel, se designará la persona que realizará las enajenaciones.
+10) En virtud de revestir el síndico carácter de funcionario del concurso, deberá realizar el inventario de los bienes generales del fallido dentro del término de treinta días de aceptado el cargo y además proceder en forma inmediata a la incautación de los bienes embargables del quebrado (art. 746 CCCN).
+Al efecto, líbrese mandamiento, que deberá ser diligenciado por el síndico como oficial ad hoc con habilitación de días y horas inhábiles y auxilio de la fuerza pública de resultar necesario.
+En la misma directriz, haciendo uso de las facultades que como director del proceso otorga al Juzgador la ley de rito, a fin de poder determinar la composición patrimonial del fallido (más allá de la información que el mismo brinde), se dispone el libramiento de oficios al Registro de la Propiedad Inmueble de la Provincia de Buenos Aires y de la CABA y a la Seccional del Registro Nacional de la Propiedad Automotor a fin de que expidan índice de titularidad de bienes y en su caso, dominio y gravamen de bienes de propiedad de aquel, tarea que se coloca en cabeza de la Sindicatura (arts. 88 inc. 10, 106, 107, 108, 177, 251, 274 y 275, ley 24.522; art. 153, CPCC).
+11) Fíjase audiencia para el 17 de noviembre de 2026 a las 10:00 horas , a fin de proceder al sorteo del Síndico (arts. 14 inc. 2 y 253 inc. 5 Ley 24.522); disponiéndose que, una vez efectuada la desinsaculación del mismo, se proceda a su notificación -por intermedio del Actuario- con habilitación de días y horas inhábiles, haciéndosele saber su designación en los presentes e intimándolo dentro del tercer día de notificado realice una presentación electrónica, aceptando el cargo para el que fuera desinsaculado, bajo apercibimiento de dejarse sin efecto su designación y comunicarse a la SCBA. (arts. 253, 255, 275, 278 Ley 24.522; 135, 153 y ccs. del C.P.C.C.).
+12) Calendario falencial . En miras de resguardar los principios de economía, eficacia y celeridad procesal, una vez aceptado el cargo por el sindico, procédase a la fijación del calendario falencial y a disponer las medidas de notificación y publicidad pertinentes.
+13) Se deja constancia que en lugar de conformar el correspondiente Legajo de Copias, queda la totalidad de la documentación a disposición de las partes, a la que se podrá acceder desde el sitio web "Mesa de Entrada Virtual (MEV)" perteneciente a la SCBA, dando con ello por cumplimentada íntegramente la manda contenida en los arts. 11 inc. 7 y 86 de la ley 24.522 (arts. 11 inc. 7, 86, 274 y 279, ley 24.522).
+REGISTRESE. NOTIFIQUESE automáticamente por Secretaría (arts. 273, 274 278, ley 24.522 y art. 133, CPCC; Ac. 4.039/21, SCBA).
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1370-2026] RAVI SARA TERESA C/ RAVI LAURA CRISTINA S/ DETERMINACION PRECIO/ALQUILERES
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `25032`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1370-2026`
+- **Código de Acceso SCBA**: `CA5233A1`
+- **Firmantes**: Fecha: 10/11/2026 09:14:03 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1370-2026 - Código acceso: CA5233A1 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 09:14
+
+#### Texto Íntegro
+```text
+RAVI SARA TERESA C/ RAVI LAURA CRISTINA S/ DETERMINACION PRECIO/ALQUILERES
+Expte. N° 25032
+AL-32566-2026
+MB
+Avellaneda, en el día de la firma digital.-
+AUTOS Y VISTOS:
+Las presentes actuaciones, traídas a despacho a fin de resolver la competencia atribuida al Infrascripto y,
+CONSIDERANDO:
+I.- Que a fs. 1 se presentó la peticionante, Sara Teresa Ravi, con el patrocinio letrado de la doctora Patricia Mariana Blanco, a los fines de promover demanda por determinación de precio y cobro de canon locativo contra su coheredera Laura Cristina Ravi, en cuanto al bien inmueble sito en la calle Francisco García Romero n° 3840, Lanús Oeste, del partido de Lanús.
+II.- Que denunció la existencia del juicio sucesorio caratulado como "Ravi José y Otros S/ Sucesión Ab-Intestato", el cual se encuentra en trámite por ante el Juzgado Civil y Comercial n° 8 departamental, solicitando expresamente la accionante -tanto en el apartado II como en el punto 3 del petitorio de su escrito inaugural- la radicación directa de las presentes actuaciones ante dicho órgano jurisdiccional, no obstante haber resultado desinsaculado este Juzgado en oportunidad del sorteo de la mediación prejudicial obligatoria (Expte. n° 32.566).
+Que de las constancias expuestas y de la compulsa de aquellos obrados en la Mesa de Entradas Virtual (Art. 116, CPCC) se advierte que el inmueble objeto del presente integra el acervo hereditario, revistiendo ambas partes el carácter de herederas declaradas y encontrándose aún pendiente la inscripción registral de la declaratoria de herederos dictada en dicho sucesorio.
+III.- Que conforme lo normado por el artículo 2336 del Código Civil y Comercial resulta competente para entender en el juicio sucesorio el juez del último domicilio real del causante y que el mismo conoce de los demás litigios que tienen lugar con motivo de la administración y liquidación de la herencia, de la ejecución de las disposiciones testamentarias, del mantenimiento de la indivisión, de las operaciones de partición, de la garantía de los lotes entre los copartícipes y de la reforma y nulidad de la partición.
+Asimismo, según entiende la doctrina, este artículo resume en su texto las disposiciones contenidas en los artículos 3283, 3284 y 3285 del Código Civil de Vélez Sarsfield en cuanto fija para conocer en el sucesorio al juez del último domicilio que tenía el causante, atribuyéndole al mismo todas las causas en las que se puedan ventilar directamente derechos sucesorios - el llamado fuero de atracción - el que tiene su fundamento en el interés general de la justicia que aconseja ese desplazamiento de la competencia a favor del órgano facultado para recaudar, liquidar y transmitir la totalidad del patrimonio como universalidad jurídica, de ahí que sea considerado de orden público y su vigencia declarable de oficio (Código Civil y Comercial de la Nación Comentado, Tomo VI, págs. 158, 159 y 160, Directores: Dres. Julio César Rivera y Graciela Medina).
+IV.- Que conforme lo dicho por nuestra Jurisprudencia " ...Aún cuando la demanda por fijación de canon locativo entablada por la condómina y heredera del causante -hija- contra otra heredera -cónyuge- se encuentra excluida del fuero de atracción por tratarse de una acción personal de una heredera contra otra y no lo es contra la sucesión; lo cierto es que -dadas las circunstancias de autos- por cuestiones de concentración, orden práctico, economía y ordenamiento procesal, resulta razonable que el presente proceso tramite ante el mismo Juez del sucesorio, pues es quien entiende en todas las cuestiones en las que se encuentran involucradas el patrimonio del causante como universalidad jurídica... " (Cám. Civ. y Com. Sala 3ra. de San Martín, causa nro. 75872 sent. del 17/09/2019).
+Asimismo, sabido es que constituye un imperativo procesal ineludible del órgano jurisdiccional examinar oficiosamente su competencia para entender en las pretensiones deducidas, debiendo en el caso de no resultar habilitada la misma inhibirse de oficio (arts. 7 y 8 del CPCC).
+V.- Ahora bien, habida cuenta que el fuero de atracción sólo se extingue con la partición de los bienes que componen el acervo hereditario en el Registro de la Propiedad respectivo, circunstancia que no se encuentra verificada en los autos "Ravi José y Otros S/ Sucesión Ab-Intestato" de trámite por ante el Juzgado Civil y Comercial n° 8 departamental (Art. 116, CPCC), sumado a que la propia parte actora peticionó en forma expresa la radicación de estos obrados ante dicha sede, por cuestiones de economía procesal y de concentrar por ante el juez del sucesorio todas las cuestiones en las que se encuentra involucrado el patrimonio del causante como universalidad jurídica, a criterio del Infrascripto y de conformidad con los fundamentos expuestos, resulta razonable que las presentes actuaciones tramiten por ante el Juzgado del sucesorio aludido, correspondiendo inhibirme de continuar entendiendo en las presentes (Arts. 2336 del CCCN; Arts. 4, 6, 34 y 36 del CPCC).
+Por todo lo expuesto, RESUELVO:
+1) Inhibirme de entender en las presentes actuaciones y hacer lugar al pedido de radicación formulado por la parte actora (Arts. 4, 6, 7, 8, 34 y 36 del CPCC; Art. 2336 del CCCN);
+2) Una vez firme la presente resolución, previa baja en el Sistema Informático, líbrese oficio a la Receptoría General de Expedientes Departamental a fin de que tome debido conocimiento y radíquense por ante el Juzgado Civil y Comercial n° 8 departamental. REGISTRESE . Notifiquese en forma automática (Ac. 4013/21 y 4039/21 de la SCBA).
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1371-2026] DI GREGORIO TEODORO S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `22460`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1371-2026`
+- **Código de Acceso SCBA**: `9F269AD6`
+- **Firmantes**: Fecha: 10/11/2026 10:10:37 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1371-2026 - Código acceso: 9F269AD6 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 10:10
+
+#### Texto Íntegro
+```text
+DI GREGORIO TEODORO S/ SUCESION AB-INTESTATO
+Expte. N° 22460
+MDM
+Avellaneda, en el día de la firma digital.-
+Agréguese y téngase presente la documentación acompañada y lo manifestado en el punto III del escrito a despacho. AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la inscripción de la declaratoria de herederos dictada en autos a fs. 64/66, con relación a los siguientes bienes que transmite el causante Teodoro Di Gregorio:
+- El 1/2 del bien inmueble al que se refiere el informe de dominio obrante a fs. 69 (Nomenclatura Catastral: Cir.: I, Sec.: H, Mza.: 96, Par.: 25-b, Subpar.: 4, Matrícula: 4.648/4, Pdo.: 25) , atento el carácter ganancial del mismo.
+- El cincuenta por ciento (50%) del bien automotor al que se refiere el informe de dominio obrante a fs. 69 (Dominio CVM737) , atento el carácter ganancial del mismo.
+A esos fines el señor Secretario expedirá la documentación pertinente, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+II.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+II.b.-) Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la "valuación fiscal-impuesto al acto" respecto del bien inmueble acompañada a fs. 69 -$13.025.983- , y de la estimación del valor del automotor atento las publicaciones de venta acompañadas a fs. 71 -$2.566.666,67- , que asciende a la suma total de $15.592.649,67, y teniendo en cuenta el porcentaje transmitido por el causante (50%), la base imponible a los fines regulatorios es de $7.796.324,83 (art.15, ley 14.967).
+Por todo lo expuesto, teniendo en consideración lo dispuesto por el art.16 de la ley 14.967, regulase los honorarios de la doctora Claudia Alejandra Paolucci (T°XX F°440, CALZ ) , letrada patrocinante, por las tres etapas cumplidas y a cargo de la masa en 18 jus arancelarios (RP 1517/2026 SCBA) con más el porcentaje de ley respectivo (ley 6.716) y el 21% de IVA. si correspondiera (arts.1, 2, 10, 13, 14, 15, 16, 21, 22, 27, 28, 35 y 54 y cte., ley 14.967; arts.14, 21 y ccds., ley 6.716).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberán abonarse los aportes previsionales y encontrarse garantizada la percepción de los emolumentos regulados, o bien, manifestar el letrado si los ha percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526).
+III.- Tasa y sobretasa.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art.337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma total de $1.571.785,23. De acuerdo con el informe que en este acto formula el Actuario (art. 116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $34.579,27 con más la de $1.728,96. Consecuentemente téngase por cumplido el pago de la sobretasa con lo abonado a fs. 71. Ahora bien, hágase saber a los peticionantes que previo a todo trámite deberán acompañar la boleta de la tasa de justicia a fines de tener por cumplido en debida forma su pago (art.337 y 338, Código Fiscal de la Pcia. de Bs. As.; arts.865 y 895, CCCN).
+IV.- Atento lo dispuesto por las leyes 14.044 (arts.90 a 118), 14.200 (art.78) y Resolución normativa N° 022/13 en cuanto al impuesto a la transmisión gratuita de bienes, deberán los peticionantes acreditar el pago del mismo o acompañar la declaración jurada debidamente intervenida por el órgano competente aún en los supuestos en los cuáles no supere el monto al que hace referencia el art.306 del Código Fiscal (art.324, ley 10.397, T.O. 2011 y con sus modificatorias, art.6, RN 022/13).
+Para el caso que el presente sucesorio, atento a la fecha de fallecimiento del causante, no se encuentre alcanzado por la normativa citada o la presente transmisión se encuentre exenta conforme lo dispuesto por el art.320 del Código Fiscal, deberá el peticionante manifestarlo expresamente (art.6, RN 022/13). REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-10-11-2026. [RR-1372-2026] CONDE SEVERO ANTONIO S/ QUIEBRA(PEQUEÑA)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `11250`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1372-2026`
+- **Código de Acceso SCBA**: `07E5BBFA`
+- **Firmantes**: Fecha: 10/11/2026 14:05:14 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1372-2026 - Código acceso: 07E5BBFA - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 14:05
+
+#### Texto Íntegro
+```text
+CONDE SEVERO ANTONIO S/ QUIEBRA(PEQUEÑA)
+Expte. N° 11250
+FGD
+Avellaneda, en el día de la firma digital.
+AUTOS Y VISTOS:
+Las presentes actuaciones, en trámite ante el Juzgado de Primera Instancia en lo Civil y Comercial N° 7, a mi cargo, en consideración que el fallido de autos se encuentra fallecido, y estando las actuaciones en estado de distribuir el activo recabado para satisfacer los gastos del concurso y a los fines de dar por concluidas las presentes, corresponde proceder a cuantificar los honorarios de los profesionales intervinientes.
+1. Proyecto de distribución. Téngase presente el proyecto de distribución presentado a fecha 3/11/2026.
+2. Regulación de honorarios. En este sentido importa mencionar que, en el caso de autos, toda vez que el activo recaudado resulta sumamente exiguo, la aplicación estricta del artículo 267 de la ley 24.522, que alude a un honorario mínimo de tres sueldos de Secretario llevaría a una regulación de honorarios excesiva en atención a los reales valores en juego. Asimismo, revisar las regulaciones en base al tope del 12% del activo realizado previsto en el mismo texto legal ocasionaría una evidente e injustificada desproporción entre la importancia del trabajo efectivamente cumplido y la retribución que de acuerdo a aquellas normas arancelarias habría de corresponder (SCBA,. Ac 33.000, sent. 14/08/1984, Ac. y Sent. 1984 - I- 473).
+En efecto, en casos como el sub examine, se ha dicho que si se advierte que el mínimo legal fundado en la retribución del Secretario resulta superior a la previsión del máximo legal (12% del activo), se puede generar una situación de incongruencia y que la estricta aplicación de las pautas indicadas conlleva a un resultado disvalioso que no remunera el trabajo realizado.
+Por su parte el artículo 268 de la ley 24.522, autoriza a consumir la totalidad de los fondos existentes a los fines de intentar una justa retribución considerando la labor desarrollada.
+En consecuencia, en razón de la realidad económica imperante en el presente proceso, juzgo razonable la interpretación del artículo 271 del cuerpo normativo analizado, que dispone que los Jueces deberán regular honorarios sin atender a los mínimos fijados, "...cuando la naturaleza, alcance, calidad o resultado de la labor profesional, o el valor de los bienes que se consideren indicaren que la aplicación lisa y llana de aquellos conduce a una desproporción entre la importancia del trabajo realizado y la retribución resultante" (Cfr. CNCom., Sala B, in re: "Abemerc S.A. s/ quiebra", del 29/09/2014; in re: "Ianna S.R.L. s/quiebra" del 15/12/14).
+Consecuentemente, armonizando el derecho a obtener un emolumento digno para los profesionales, atendiendo el monto del activo realizado, el tiempo insumido y las labores realizadas a lo largo de todo este proceso falencial, en virtud de lo dispuesto por el artículo 1255 del Código Civil y Comercial, teniendo en cuenta la importancia, mérito y eficacia de la labor cumplida, se fijan los estipendios de la siguiente manera:
+A los fines del cumplimiento de lo dispuesto por el art. 21 de la ley 6.716 y tomando como base el monto del activo distribuible conforme surge de la constancia bancaria adunada a la presentación en proveimiento que asciende a la suma de $1.102.997,31 y de acuerdo a la calidad, cantidad y extensión del trabajo realizado, regúlanse los honorarios de la abogada patrocinante del fallido, Maria Magdalena Fernandez (T°XV F°332 CAMDP), en la suma de 7,5 Jus arancelarios (RP 1517/26) con mas el aporte legal correspondiente (arts. 7 CCCN; 1, 15, 16, 22, 24, 28, 36, 54 de la ley 14.967; 218, 265 inc. 3° y 267, ley 24.522).
+Asimismo, regúlanse los honorarios del sindico interviniente, contador público, José Manuel Montaña ( Matricula CPCEProv Bs As Tº 75 Fº 97), en la suma total de cuatrocientos mil pesos ($400.000), con más el aporte legal correspondiente ( art. 265 inc. 4, 266 y 268, ley 24.522).
+3. Elevación. De conformidad con lo previsto por el artículo 272 de la ley 24.522, vencido el término de cinco días de notificada la presente resolución, independientemente de que se hayan o no interpuesto recursos contra los honorarios fijados precedentemente en autos, elévense las a la Alzada para que proceda a su revisión.
+4.- Costas. Gastos. Determinación. Que a fecha 3/11/2026 fue presentado por la Sindicatura, informe sobre determinación de gastos y proyecto de distribución conforme con los saldos que surgen de la cuenta de autos, razón por la cual se readecua el mismo en este acto de la siguiente manera:
+Activo: $1.102.997,31.
+Pasivo: $1.100.223.73
+Honorarios sindico: $400.000. Aportes $40.000
+Honorarios letrada: 7,5 jus, que al día de la fecha ascienden a la suma de $423.195. Aportes $42.319,50.
+Tasa de justicia: $24.265,94
+Sobretasa (5%): $1.213,29
+Publicación de edictos en el boletín oficial: $16.130
+Publicación diario La Calle: $80.000.
+Reg Propiedad Inmueble CABA: $15.000
+Reg Propiedad Inmueble Prov BS AS: $10.100
+Reg Propiedad Automotor: $48.000
+Firme el presente, intimase al órgano falencial a que en el plazo de cinco días de quedar firme la regulación de honorarios dispuesta en autos proceda a efectuar las medidas que estime pertinentes para impulsar la satisfacción de los gastos del concurso. Notifiquese en los términos de la Ac. 4012 de la SCBA.
+MARTIN ALFREDO BOTASSI
+JUEZ
+Art. 54 ley 14.967: "Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación."
+```
+
+---
+
+### ACT-10-11-2026. [RR-1373-2026] GANGAROSSA JOSE Y OTRO/A S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `16497`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1373-2026`
+- **Código de Acceso SCBA**: `9105376A`
+- **Firmantes**: Fecha: 10/11/2026 14:05:33 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1373-2026 - Código acceso: 9105376A - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 14:05
+
+#### Texto Íntegro
+```text
+GANGAROSSA JOSE Y OTRO/A S/ SUCESION AB-INTESTATO
+Expte. N° 16497
+CM
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con los certificados de defunción acompañados a fs. 1/9 se justificó en legal forma el fallecimiento de la señora JOSEFA FIORELLO el día 04 de junio de 1981 y del señor JOSE GANGAROSSA, el día 15 de noviembre de 1988.
+II.-) Que la señora JOSEFA FIORELLO contrajo matrimonio con el señor JOSE GANGAROSSA el día 27 de noviembre de 1937 (ver fs. 68)
+III.-) Que fruto de dicha unión nació su hijo ANGEL GANGAROSSA el día 13 de septiembre de 1938, lo que se acredita con la documentación de fs. 70.
+IV.-) Que, con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO:
+1.-) De conformidad con lo pedido y lo dispuesto por los arts.3282, 3545, 3566 y ssgts. del Código Civil Argentino, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento de la señora JOSEFA FIORELLO , le suceden en carácter de universales herederos, su hijo, ANGEL GANGAROSSA , y su cónyuge, JOSE GANGAROSSA , a quien se le declara heredar con respecto a los bienes propios - si los hubiere - sin perjuicio de los derechos que la ley le acuerda con respecto a los gananciales.
+2.-) De conformidad con lo pedido y lo dispuesto por los arts.3282, 3545, 3566 y ssgts. del Código Civil Argentino, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento del señor JOSE GANGAROSSA , le sucede en carácter de universal heredero, su hijo, ANGEL GANGAROSSA .
+REGISTRESE.
+Cese la intervención del Sr. Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34 inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decretoley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.-
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1374-2026] AYECUASE PABLO DANIEL C/ ALTERA MIGUEL ANGEL Y OTRO/A S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `16516`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1374-2026`
+- **Código de Acceso SCBA**: `CBFE68BA`
+- **Firmantes**: Fecha: 10/11/2026 14:05:44 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1374-2026 - Código acceso: CBFE68BA - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 14:05
+
+#### Texto Íntegro
+```text
+AYECUASE PABLO DANIEL C/ ALTERA MIGUEL ANGEL Y OTRO/A S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+Expte. N° 16516
+OAC
+Avellaneda, en el día de la firma digital.
+Proveyendo la presentación electrónica de fs. 397 : Téngase por contestado el traslado ordenado a fs. 396 en legal tiempo y forma (arts. 382 y 150 del CPCC).
+Asimismo, téngase presente las aclaraciones efectuadas respecto de la prueba informativa a la ART -la que fuera desistida- y a la aseguradora " Royal & Sun Alliance Seguros " (actualmente Galicia Seguros) -cuya respuesta obra a fs. 385- (art. 375, CPCC).
+AUTOS Y VISTOS: Las presentes actuaciones, a mi cargo, traídas a despacho para resolver el acuse de negligencia impetrado por la actora respecto de la prueba informativa ofrecida a la Aseguradora de Riesgos del Trabajo, Hospital Zonal General de Agudos, Royal & Sun Alliance Seguros y La Meridional Seguros.
+CONSIDERANDO: I. Que a fs. 395, la parte actora manifestó que la demandada y citada en garantía no habían producido su prueba informativa (Aseguradora de Riesgos del Trabajo, Hospital Zonal General de Agudos, Royal & Sun Alliance Seguros, La Meridional Seguros), solicitando su desistimiento.
+II. Que al contestar el traslado conferido a fs. 397, la parte demandada y la citada en garantía solicitaron el rechazo, con costas. Al efecto, argumentaron que el período probatorio aún no se encuentra clausurado y que no existe una demora perjudicial que obstruya el avance hacia la sentencia, toda vez que la propia parte actora mantiene prueba pendiente de producción (confesional) y no ha concluido el beneficio de litigar sin gastos.
+III. Que en aras de dar adecuado tratamiento a la incidencia articulada, cabe comenzar señalando que el artículo 382 del Código Procesal ordena como principio general que las partes no sólo tienen la carga de ofrecer las medidas de prueba dentro del término que ordena la ley, sino que también deben los interesados instar la producción de las mismas en tiempo oportuno.
+Se ha sostenido al respecto que, del principio de que a la parte oferente incumbe urgir las medidas para que la prueba se produzca dentro del término oportuno, resulta que incurre en negligencia quien no ha efectuado las diligencias correspondientes a los fines de su producción en el plazo concedido al efecto (Cfr. SCBA, causa n° 61.625, sent. de 11-XI-2021).
+IV. Sub examine. En primer término, cabe señalar respecto de la prueba informativa dirigida a la Aseguradora de Riesgos del Trabajo y a "Royal & Sun Alliance Seguros" (hoy Galicia Seguros), nada corresponde resolver en esta instancia, toda vez que la primera fue desistida a fs. 378 y la segunda se encuentra cumplida con la contestación agregada a fs. 385, conforme lo proveído precedentemente.
+Sentado ello, y circunscribiendo el análisis a la prueba informativa pendiente dirigida al Hospital Zonal General de Agudos y a La Meridional Seguros, se advierte que su producción fue ordenada en fecha 06/11/2024 y 02/12/2024, respectivamente.
+Asimismo, de un pormenorizado estudio de las constancias de autos se verifica que, a diferencia de lo afirmado a fs. 397, la parte actora no cuenta con prueba pendiente de producción. Ello es así por cuanto, en el proveimiento de prueba (fs. 317), el suscripto difirió la prueba confesional a la producción de las restantes pruebas -entre las cuales se encuentran precisamente las aquí analizadas-, por lo que la falta de producción de dicha prueba no puede ser imputable a la accionante.
+Por otra parte, tampoco obsta a la procedencia del acuse de negligencia el beneficio de litigar sin gastos, toda vez que dicho incidente tramita por separado sin efecto suspensivo sobre las actuaciones principales, por lo que su estado no exime a las partes de la carga de urgir oportunamente los medios probatorios ofrecidos en el principal (art. 83 del CPCC).
+V. Así las cosas, de la compulsa de autos se puede constatar que desde que fuera ordenada la producción de la prueba en análisis (06/11/2024 y 02/12/2024) la demandada y citada en garantía recién acompañaron a confronte los primeros oficios respecto de ambas entidades el día 19/03/2025, los cuales fueron librados y notificados para su diligenciamiento el 28/04/2025.
+Posteriormente, recién el día 03/08/2026, se presentaron los oficios reiteratorios, que fueron librados el 04/08/2026. Desde entonces y hasta el acuse de fs. 395, no se ha acreditado su efectivo diligenciamiento ni se peticionó medida útil alguna para urgir su producción (art. 400 del CPCC).
+VI . En consecuencia y por los argumentos esgrimidos, corresponde declarar la negligencia respecto a la prueba informativa ofrecida por la citada en garantía al Hospital Zonal General de Agudos y por la demandada a La Meridional Seguros, lo que así RESUELVO. REGÍSTRESE (art. 382, CPCC). Costas a la parte demandada y citada en garantía en atención al modo en que ha sido resuelto el presente incidente (art. 69, CPCC). Notifiquese de forma automatizada (Ac.4013/21, modif. por Ac.4039/21, SCBA).
+Proveyendo la presentación electrónica de fs. 398 : En atención a lo solicitado y lo resuelto el día de la fecha, procédase a practicar una nueva certificación de prueba.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1375-2026] ARMANINI MONICA ALBA S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24144`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1375-2026`
+- **Código de Acceso SCBA**: `E8F182ED`
+- **Firmantes**: Fecha: 10/11/2026 14:06:30 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1375-2026 - Código acceso: E8F182ED - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 14:06
+
+#### Texto Íntegro
+```text
+ARMANINI MONICA ALBA S/ SUCESION AB-INTESTATO
+Expte. N° 24144
+JM
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con el certificado de defunción acompañado a fs. 11, se justificó en legal forma el fallecimiento de la señora MONICA ALBA ARMANINI , ocurrido el día 1 de octubre de 2025.
+II.-) Que la señora MONICA ALBA ARMANINI contrajo matrimonio con el señor RAFAEL JOSÉ ARTEAGA el día 12 de junio de 1986 (ver fs.13).
+III.-) Que fruto de dicha unión nacieron sus hijos AGUSTINA el día 2 de marzo de 1992 (ver constancia adjunta a fojas 11) e IGNACIO el día 21 de octubre de 1996 (ver constancia adjunta a fojas 11).
+IV.-) Que la señora MONICA ALBA ARMANINI se divorcio del señor RAFAEL JOSÉ ARTEAGA , en fecha 4 de junio del 2008, conforme sentencia de divorcio dictada por el Juzgado Nacional en lo Civil N°81 de Capital Federal (ver constancia adjunta a fojas 13).
+V.-) Que, con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2426 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento de la señora MONICA ALBA ARMANINI, le suceden en carácter de universales herederos, sus hijos AGUSTINA e IGNACIO ARTEAGA . REGISTRESE .
+Cese la intervención del señor Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34, inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decreto ley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-10-11-2026. [RR-1376-2026] SIERRA MARTA JOSEFINA S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24346`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1376-2026`
+- **Código de Acceso SCBA**: `B682509D`
+- **Firmantes**: Fecha: 10/11/2026 14:06:39 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1376-2026 - Código acceso: B682509D - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 14:06
+
+#### Texto Íntegro
+```text
+SIERRA MARTA JOSEFINA S/ SUCESION AB-INTESTATO
+Expte. N° 24346
+OAC
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con el certificado de defunción acompañado a fs. 1 , se justificó en legal forma el fallecimiento de la señora MARTA JOSEFINA SIERRA , ocurrido el día 6 de junio de 2026.
+II.-) Que la señora MARTA JOSEFINA SIERRA contrajo matrimonio con el señor ROBERTO EDUARDO DE JULIO, el día 21 de diciembre de 1950 (fs. 24 ).
+III.-) Que fruto de dicha unión nacieron sus hijos, MARTA ESTELA , el día 31 de marzo de 1953 y CARLOS ROBERTO , el día 6 de julio de 1959, l o que se acredita con la documentación de fs. 1.
+V.-) Que con el certificado de defunción de fs. 20 se acreditó fehacientemente el fallecimiento del señor ROBERTO EDUARDO DE JULIO , ocurrido el día 4 de octubre de 1993.
+VI.-) Que con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art. 2340 del Código Civil y Comercial de la Nación y el art. 734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2426 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento de la señora MARTA JOSEFINA SIERRA le suceden en carácter de universales herederos, sus hijos, MARTA ESTELA y CARLOS ROBERTO DE JULIO.
+REGISTRESE .
+Cese la intervención del señor Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34, inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decreto ley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.
+MARTIN ALFREDO BOTASSI
+JUEZ
+23227181109@notificaciones.scba.gov.ar
+```
+
+---
+
+### ACT-10-11-2026. [RR-1377-2026] LUNA RUBEN OSVALDO S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24615`
+- **Fecha**: 10-11-2026
+- **Número de Registro**: `RR-1377-2026`
+- **Código de Acceso SCBA**: `EEBA4814`
+- **Firmantes**: Fecha: 10/11/2026 14:06:48 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1377-2026 - Código acceso: EEBA4814 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 10/11/2026 14:06
+
+#### Texto Íntegro
+```text
+LUNA RUBEN OSVALDO S/ SUCESION AB-INTESTATO
+Expte. N° 24615
+OAC
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con el certificado de defunción acompañado a fs. 1 , se justificó en legal forma el fallecimiento del señor RUBEN OSVALDO LUNA , ocurrido el día 24 de julio de 2026 .
+II.-) Que el señor RUBEN OSVALDO LUNA contrajo matrimonio con la señora AGUSTINA RAMIREZ , el día 7 de mayo de 1992 (v. fs. 1 ).
+III.-) Que fruto de dicha unión nació su hijo, LUCAS ADRIAN , el día 1 de septiembre de 1999, l o que se acredita con la documentación de fs.1.
+IV.-) Que con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2426, 2433 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento del señor RUBEN OSVALDO LUNA le suceden en carácter de universales herederos , su hijo , LUCAS ADRIAN LUNA y su cónyuge, AGUSTINA RAMIREZ , a quien se le declara heredar con respecto a los bienes propios -si los hubiere- sin perjuicio de los derechos que la ley le acuerda con respecto a los gananciales.
+REGISTRESE .
+Cese la intervención del señor Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34, inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decreto ley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.
+MARTIN ALFREDO BOTASSI
+JUEZ
+27127669673@NOTIFICACIONES.SCBA.GOV.AR
+```
+
+---
 
 ### ACT-05-11-2026. [RR-1352-2026] SAUMA ALICIA ENRIQUETA S/ SUCESION AB-INTESTATO
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA

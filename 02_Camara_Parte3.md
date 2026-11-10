@@ -3,17 +3,141 @@
 - **Organismo Principal**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - AVELLANEDA / LANUS (`idOrganismo: 4157`)
 - **Alzada Residual en causas `AL-...` preexistentes**: Cámara de Apelación en lo Civil y Comercial de Lomas de Zamora - Salas I (`312`), II (`313`) y III (`2063`)
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
-- **Fecha de Extracción**: 2026-11-09
+- **Fecha de Extracción**: 2026-11-10
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`) y Resoluciones Interlocutorias (`RR`) de la Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (`ID 4157`), más Sentencias Definitivas recientes dictadas en causas del Departamento Judicial Avellaneda-Lanús (`AL-...`) por su Alzada histórica.
 
 ---
 - **Fragmento para NotebookLM / Gemini**: Parte 3 de 3 (`02_Camara_Parte3.md`)
 - **Archivo Fuente Completo**: `02_Camara_Avellaneda_Lanus.md`
-- **Fallos incluidos en esta parte**: 17
+- **Fallos incluidos en esta parte**: 19
 
 ---
 
 ## SECCIÓN III: SENTENCIAS EN CAUSAS DE AVELLANEDA-LANÚS (`AL-...`) DICTADAS POR LA ALZADA RESIDUAL (CÁMARA DE LOMAS DE ZAMORA - SALAS I, II Y III) (Continuación - Parte 3/3)
+
+### 42. [RS-129-2026] BANCO SUPERVIELLE SA C/ MUÑOZ ANA LIDIA S/ ACCION DE SECUESTRO (ART.39 LEY 12962)
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - LOMAS DE ZAMORA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `AL-32151-2025`
+- **Fecha**: 07-05-2026
+- **Número de Registro**: `RS-129-2026`
+- **Código de Acceso SCBA**: `52E99382`
+- **Firmantes**: Funcionario: CARAM Rosa Maria JUEZA --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 129-2026 - Código acceso: 52E99382 - PUBLICO | Registrado por: RUIZ Marcelo Hugo - Fecha registración: 07/05/2026 13:00
+
+#### Texto Íntegro
+```text
+20219805579@NOTIFICACIONES.SCBA.GOV.AR
+" BANCO SUPERVIELLE SA C/ MUÑOZ ANA LIDIA S/ ACCION DE SECUESTRO (ART.39 LEY 12962) "
+J. 7 SALA III
+CAUSA N° AL-32151-2025
+JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA (JUZCIV7-AV@JUSBUENOSAIRES.GOV.AR)
+En Lomas de Zamora, en la fecha indicada en la referencia de la firma digital , reunidos en Acuerdo Ordinario los Jueces de la Cámara Primera de Apelación en lo Civil y Comercial, Sala Tercera, de este Departamento Judicial, Doctor Sergio Hernán Altieri y Doctora María Rosa Caram, con la presencia del Secretario del Tribunal se trajo a despacho para dictar sentencia la causa número: AL-32151-2025 , caratulada: " BANCO SUPERVIELLE SA C/ MUÑOZ ANA LIDIA S/ ACCION DE SECUESTRO (ART.39 LEY 12962) " . De conformidad con lo dispuesto por los artículos 168 y 171 de la Constitución de la Provincia de Buenos Aires y 266 del Código Procesal Civil y Comercial del mismo Estado, la Cámara resolvió votar las siguientes:
+C U E S T I O N E S :
+1º) ¿Es justa la sentencia apelada?
+2º) ¿Qué pronunciamiento corresponde dictar?
+Practicado el sorteo de ley (art. 263, "in fine" del C.P.C. y C.); dio el siguiente orden de votación: Dra. Rosa María Caram y Dr. Sergio Hernán Altieri.
+V O T A C I O N
+A la primera cuestión, la Dra. Rosa María Caram dijo :
+I.- Antecedentes - Sentencia - Agravios.
+a) El Sr. Juez titular del Juzgado de Primera Instancia en lo Civil y Comercial Nro. 7 del Departamento Judicial de Avellaneda-Lanús con fecha 22/10/2025, y sin perjuicio de ordenar el secuestro del bien prendado, declaró inaplicable el procedimiento de venta extrajudicial previsto en el Art. 39 de la ley 12.962, por resultar inconciliable su tramitación con la relación de consumo subyacente del contrato acompañado. A su vez, remitió al acreedor a la vía de la ejecución prendaria, a fin de evitar el desmedro del derecho de defensa en juicio del consumidor o usuario del servicio financiero. Dicha decisión fue adoptada sin costas..
+b) El acreedor planteó recurso de revocatoria con apelación en subsidio con fecha 23/10/2025, fundándola en ese mismo acto. Allí, expresó que yerra el Magistrado de grado al equiparar el Art. 39, declarado inaplicable, con una cláusula abusiva, pues el mismo resulta ser un procedimiento de fuente legal y no una cláusula impuesta por el proveedor. Asimismo, argumenta que los derechos y garantías constitucionales del deudor no se encuentran cercenados, ello toda vez que el derecho de defensa del consumidor halla resguardo en el juicio ordinario posterior previsto en la normativa. Sostiene que la armonización entre la Ley 24.240 y la Ley 12.962 que el máximo Tribunal Provincial ha sostenido reiteradamente, no implica derogar la Ley de Prenda sino, simplemente, el ejercicio de un control de legalidad previa, el cual se aprecia en autos tanto con la vista conferida al Ministerio Público Fiscal, como con el análisis del contrato efectuado por el Magistrado de grado. En última instancia pone en relieve la contradicción que, a su entender, existe entre la decisión de hacer lugar al secuestro al automotor prendado, y declarar inaplicable el procedimiento de venta extrajudicial previsto por el Art. 39 de la Ley 12.962.
+En consecuencia, solicitó que se revoquen por contrario imperio los puntos 2, 3 y 4 de la apelada resolución, y se mantenga el secuestro pero autorizando al acreedor a la posterior venta extrajudicial conforme el procedimiento previsto en el Art. 39 de la Ley 12.962.
+c) En fecha 27/10/2025 se desestimó la revocatoria intentada y se concedió en relación el recurso de apelación interpuesto en forma subsidiaria.
+d) Encontrándose firme y consentido el llamamiento de autos para sentencia con fecha 06/04/2026 (art. 270 del CPCC), corresponde el análisis de los planteos realizados, cuestión que abordaré a continuación.
+II.- La solución.
+La apelante ha circunscripto su agravio conforme los términos precedentemente descriptos, por lo que no se encuentra controvertido que en autos se ha entablado entre la ahora recurrente y Ana Lidia Muñoz una relación de consumo. (arts. 1, 2, 3, 4, 36, 53 ss. y cdtes. de la LDC; arts 1092 a 1095 art. 384 y concs. CPCC arts. 1, 2, 3 ss y concds., Ley 24240).
+Por lo tanto, corresponde mencionar, que esta Sala ha tenido oportunidad de pronunciarse en el sentido de dejar establecido que en el derecho argentino rige la interpretación más favorable al consumidor, la precedencia normativa constitucional y la integración con otras normas en el supuesto de ausencia de regulación específica. La referencia a los principios resulta útil para salvaguardar la preeminencia del derecho del consumidor frente a un ordenamiento sustantivo que, por diversas razones, colisiona con este derecho protectorio (Lorenzetti, Ricardo; su voto CSJN, B. 721, XLIV; "Banco de la Provincia de Buenos Aires c/DNCI - Disp. 622/05, 19/03/2014).
+La Suprema Corte de Justicia de la Provincia de Buenos Aires, ha decidido la procedencia de la aplicación del régimen protectorio instaurado por la ley 24.240 en el marco de las acciones de secuestro prendario. En efecto, frente a un planteo de conflicto de competencia, determinó la aplicación de la regla contenida en el art. 36 de la Ley 24240, (SCBA Ac. 120.068 "Fiat Crédito Cía. Financiera SA" del 28/09/2016).
+En sentido concordante, el Máximo Tribunal Federal, en el fallo: "HSBC Bank Argentina SA", consideró - por mayoría - que se trataba de una desprotección frente al mandato del art. 42 de la Carta Magna. Al respecto, sostuvo que "...privar al deudor -en la relación de consumo- de todo ejercicio de derecho de defensa, en forma previa al secuestro del bien prendado, podría colocarlo en una situación que no se condice con la especial protección que le confiere el art. 42 de la CN" (CSJN, 11/06/2019).
+Al respecto, estimó que debió haberse integrado las disposiciones de la ley 24.240 con las normas prendarias, debiendo primar las más favorables al consumidor, como consecuencia de la aplicación del principio "favor debilis". En consecuencia, concluyó que lo resuelto por "el ad quem" debía ser descalificado por arbitrario, toda vez que afectaba de modo directo e inmediato el derecho al debido proceso adjetivo establecido en el artículo 18 de la Constitución Nacional.
+En este sendero, ha resuelto este Tribunal que el artículo 39 del decreto-ley 15.348/1946 -ratificado por la ley 12.962- que habilita a determinados acreedores a desposeer al deudor mediante el secuestro del bien prendado y realizar posteriormente su venta extrajudicial sin su intervención no puede aplicarse, en tanto impide el ejercicio del derecho constitucional de defensa en juicio del consumidor, parte débil en el contrato principal, al cual accede la prenda como garantía de cumplimiento.
+La conclusión que se impone conduce a postular que el sistema protectorio del derecho del consumo, no puede ser enervado por la existencia de un proceso monitorio sostenido en aras de la protección del crédito prendario, cuando la defensa del consumidor y el interés del acreedor pueden canalizarse por medios menos gravosos, como el proceso de ejecución prendaria (art. 598 y sgtes. del CPCC).
+Siguiendo entonces el sendero que nuestro Superior Tribunal provincial ha comenzado a marcar en materia de aplicación de la ley de protección al consumidor en las operaciones de crédito para consumo con garantía prendaria, considero que el trámite normado por el artículo 39 no puede ser aplicado a las relaciones de consumo en tanto impide el ejercicio del derecho constitucional de defensa en juicio del consumidor, parte débil en el contrato principal, al cual accede la prenda como garantía de cumplimiento.
+La solución propuesta encuentra su respaldo legal en el Art. 42 CN y lo dispuesto por el art. 1094 Cód. Civ. y Com. de la Nación, el cual dispone que en caso de duda sobre la interpretación del mismo y las leyes especiales, prevalece la más favorable al consumidor. Y aquí es donde radica el fundamento de dicha solución, y no en la asimilación del procedimiento de venta extrajudicial previsto en el Art. 39 de la Ley de Prenda con una cláusula abusiva.
+En suma, el desplazamiento o la inaplicabilidad del art 39 Ley de Prenda con relación al microsistema de consumo constituye una solución de armonización, integración y complementariedad normativa en el marco del diálogo de fuentes plurales (cfr. arts. 42 de la CN, 15 de la Constitución provincial, art. 39 de la Ley de Prenda con Registro; arts. 1, 2, 3, 4, 36, 37, 65 ss. y cdtes. de la ley 24.240 -texto según leyes 26.361 y 26.994-; art. 598 ss. y cdtes. del Código Procesal, arts. 1, 2, 3, 7, 9, 10, 11, 12, 1092 a 1098, 1120, 1121 y concs. del Código Civil y Comercial, Conf esta Sala causa LZ - 33754-2019, S 13-05-2021, RSD 154-2021; N° LN-11873-2019; S del 29/12/2020, RSD 210-2020; con integración diversa causa N° LZ-39738-2019, S 29-07-2020, RSD 85/2020; e.o).
+En consecuencia, con el alcance señalado VOTO POR LA AFIRMATIVA.
+A la primera cuestión, el Dr. Sergio Hernán Altieri dijo que por compartir los mismos fundamentos: VOTA EN IGUAL SENTIDO.
+A la segunda cuestión , la Dra. Rosa María Caram expresó:
+Visto el acuerdo logrado al tratar la cuestión anterior, corresponde confirmar la apelada resolución del 22/10/2025. Las costas de alzada deben imponerse en el orden causado, habida cuenta la ausencia de contradicción (art. 68 del CPCC). Propicio diferir la consideración de los honorarios profesionales, hasta tanto se practique en la instancia de origen las pertinentes regulaciones de los emolumentos profesionales.
+ASI LO VOTO.
+A la segunda cuestión , por compartir los mismos fundamentos, el Doctor Sergio Hernán Altieri expresó que: VOTA EN IGUAL SENTIDO.
+Con lo que terminó el Acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Que en el Acuerdo celebrado quedó establecido:
+1º) Que la apelada resolución de fecha 22/10/2025 debe confirmarse con el alcance que aquí se decide.
+2º) Que las costas de alzada deben ser impuestas en el orden causado.
+POR ELLO : Y fundamentos consignados en el Acuerdo, confírmase la apelada resolución del 22/10/2025, en cuanto ha sido materia de recurso y agravios, con el alcance que aquí se decide. Impónese las costas de alzada en el orden causado. Difiérese la consideración de los honorarios profesionales hasta la oportunidad señalada al tratar la segunda cuestión. Regístrese. Oportunamente, devuélvanse las actuaciones al juzgado de origen.
+```
+
+---
+
+### 43. [RS-115-2026] VICARIA S.A. C/ RIVADENEIRA NATALIA MARCELA S/ COBRO EJECUTIVO
+- **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - LOMAS DE ZAMORA
+- **Tipo de Fallo**: SENTENCIA DEFINITIVA (REGISTRO DE SENTENCIAS)
+- **Número de Causa / Expediente**: `AL-9275-2023`
+- **Fecha**: 05-05-2026
+- **Número de Registro**: `RS-115-2026`
+- **Código de Acceso SCBA**: `537FD32F`
+- **Firmantes**: Funcionario: CARAM Rosa Maria JUEZA --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE SENTENCIAS - Número: RS- 115-2026 - Código acceso: 537FD32F - PUBLICO | Registrado por: RUIZ Marcelo Hugo - Fecha registración: 05/05/2026 13:07
+
+#### Texto Íntegro
+```text
+23268716394@NOTIFICACIONES.SCBA.GOV.AR
+FISGEN.AL@MPBA.GOV.AR
+" VICARIA S.A. C/ RIVADENEIRA NATALIA MARCELA S/ COBRO EJECUTIVO "
+J. 3 AV/LA - SALA III - CAUSA N° AL-9275-2023
+JUZGADO EN LO CIVIL Y COMERCIAL N° 3- AVELLANEDA (JUZCIV3-AV@JUSBUENOSAIRES.GOV.AR)
+En Lomas de Zamora, en la fecha indicada en la referencia de la firma digital, reunidos en Acuerdo Ordinario los Jueces de la Cámara Primera de Apelación en lo Civil y Comercial, Sala Tercera, de este Departamento Judicial, Doctora Rosa María Caram y Doctor Sergio Hernán Altieri, con la presencia del Secretario del Tribunal se trajo a despacho para dictar sentencia la causa número: AL-9275-2023 caratulada: " VICARIA S.A. C/ RIVADENEIRA NATALIA MARCELA S/ COBRO EJECUTIVO ". De conformidad con lo dispuesto por los artículos 168 y 171 de la Constitución de la Provincia de Buenos Aires y 266 del Código Procesal Civil y Comercial del mismo Estado, la Cámara resolvió votar las siguientes:
+C U E S T I O N E S :
+1º) ¿Es justa la sentencia apelada?
+2º) ¿Qué pronunciamiento corresponde dictar?
+Practicado el sorteo de ley (art. 263, "in fine" del C.P.C. y C.); dio el siguiente orden de votación: Dr. Sergio Hernán Altieri y Dra. Rosa María Caram.
+V O T A C I O N
+A la primera cuestión, el Dr. Sergio Hernán Altieri dijo :
+I.- Antecedentes - Sentencia - Agravios.
+a.- El Señor Juez a cargo del Juzgado en lo Civil y Comercial N° 3 del Departamento Judicial de Avellaneda dictó resolución interlocutoria con fecha 26/11/2025. En ella, declaró abusiva la cláusula inserta en el pagaré que extendía el plazo para su presentación al cobro a setenta y dos (72) meses desde su libramiento, la tuvo por no convenida y, en consecuencia, hizo lugar a la prescripción de la acción planteada por el Ministerio Público Fiscal. Rechazó la ejecución promovida por Vicaria S.A. contra Natalia Marcela Rivadeneira, impuso las costas a la parte ejecutante vencida y difirió la regulación de honorarios.
+b.- El mentado decisorio resultó apelado por la parte actora mediante presentación de fecha 28/11/2025, recurso que fue concedido en relación. La recurrente fundó su memorial con fecha 01/12/2025, el cual fue sustanciado conforme a derecho.
+c.- En su expresión de agravios, la ejecutante sostuvo que la sentencia incurre en error al declarar abusiva la cláusula que amplía a 72 meses el plazo de presentación al cobro del pagaré, afirmando que se trata de una estipulación en beneficio del deudor, en tanto difiere la exigibilidad de la obligación y le permite regularizar su situación antes de la vía judicial. Señaló, además, que el a quo valoró indebidamente la cláusula con posterioridad a su celebración, descontextualizándola, y que dicha ampliación incide directamente en la determinación del momento de exigibilidad, por lo que la acción no se encontraría prescripta.
+d.- Considerando que la presente deriva de una relación de consumo, se otorgó vista al Ministerio Público Fiscal a efectos de que se expida en resguardo y defensa de la ley (v. dictamen de fecha 19/03/2026) (arts.1, 2, 7 y cc. C.C.y C. - ley nacional 26.994-; arts.1, 36, 52, 65 y cc. ley nacional 24.240 - Ley de Defensa del Consumidor-; ley provincial 13.133 - Código provincial del Consumidor-; art.42 CN, art.38 CPBA).
+e.- Encontrándose firme y consentido el llamamiento de autos para sentencia (art. 270 del CPCC), el expediente ha quedado en condiciones de resolver.
+II.- Solución.
+a.- Relación de consumo .
+Entiendo pertinente señalar que la presente acción ejecutiva fue entablada por una entidad financiera contra una persona humana, con el objeto de obtener el cobro de las sumas derivadas de una operación de crédito para consumo instrumentada mediante un pagaré, en el marco de una refinanciación de deuda (ver demanda de fecha 08/03/2023).
+Se coincide con la calificación realizada por el juez de grado en torno a que el presente proceso de ejecución se encuentra alcanzado por el sistema protectorio de los consumidores cuestión que, por lo demás, no ha sido cuestionada por la parte ejecutante y fue compartida por el dictamen efectuado por el Ministerio Público Fiscal de fecha 21/03/2023 y 19/03/2026 (Arts. 42 y 120 CN; Art. 38 C.Pcial.; arts. 1092 y sgtes. CCyCN; art. 52, Ley Nacional N°24240).
+Es dable aclarar que, en cuanto a la estrechez del marco cognoscitivo del proceso ejecutivo y la necesidad de compatibilizar ese ámbito con los postulados de la Ley de Defensa al Consumidor, esta Sala ha señalado que, cabe asumir la faena de interpretar el diálogo de las fuentes del derecho que guardan una fuerte incidencia en autos (esta Sala, causa 8671, RSI-352-17 I 28-08-2017, - e.o.-).
+b.- Legitimación del Ministerio Público Fiscal. Excepción de prescripción liberatoria .
+b.1.- Entiendo pertinente señalar que en autos se verifica la particularidad de que el juez de grado abordó el análisis de la prescripción de la deuda reclamada a partir del planteo introducido por el Ministerio Público Fiscal -en oportunidad de evacuar la vista conferida con anterioridad al dictado de la sentencia (v. dictamen de fecha 15/09/2025)-.
+En tal oportunidad, el señor Agente Fiscal solicitó que se declare la prescripción de la acción, destacando que el pagaré fue librado el 15/08/2014 y la demanda iniciada el 08/03/2023, habiendo transcurrido en exceso el plazo legal sin verificarse causales de suspensión o interrupción (arts. 103, 36, 96 y 97 del Dec. Ley 5965/63). Añadió que tal conclusión se ve reforzada por una interpretación favorable al consumidor (arts. 37 LDC y 1119 CCCN), en concordancia con las normas generales sobre prescripción y el art. 542 inc. 5° del CPCCBA.
+Es pertinente destacar que la parte ejecutada no se ha presentado en autos, pese a encontrarse debidamente intimada de pago y citada de remate, conforme se desprende del mandamiento diligenciado "bajo responsabilidad de la parte actora" el 10 de julio de 2025, en el domicilio sito en Sayos N°3083, de la localidad de Valentín Alsina, del Partido de Lanús (v. informe de fecha 11/07/2025).
+Es decir que, por la sola intervención obligatoria del Ministerio Público Fiscal en calidad de "fiscal de la ley" -art. 52 de la ley 24.240 -, el judicante de grado dio curso a la excepción de prescripción.
+Adelanto, que tal decisión no puede ser convalidada.
+b.2.- En primer término, corresponde recordar que nuestro ordenamiento supedita el tratamiento de la prescripción liberatoria a que ésta haya sido oportunamente planteada por la parte interesada o por un tercero legitimado (arts. 2551 y 2553, CCCN).
+En la Provincia de Buenos Aires, la actuación del Ministerio Público, se encuentra regulada por la ley 14.442. Si bien su art. 1° prevé su intervención en defensa de los intereses de la sociedad, los arts. 23, 33 y 38 delimitan el alcance de sus atribuciones según el rol que le corresponde desempeñar en cada proceso. En particular, el art. 29 inc 4° establece que, en materia civil, comercial, laboral y de justicia de paz, la actuación del agente fiscal se circunscribe a dictaminar en los supuestos legalmente previstos, cuando exista afectación del interés público con entidad suficiente.
+A su vez, en los procesos vinculados a derechos de usuarios y consumidores, el representante del Ministerio Público fiscal no actúa como mandatario o representante del consumidor, sino en carácter de "fiscal de la ley" (conf. art 52 de la ley 24.240 y art. 27 de la ley 13.133). En virtud de ello, su intervención no lo habilita a sustituir la actividad procesal de las partes, por ende, no se encuentra facultado a oponer excepción de prescripción.
+Una interpretación contraria implicaría desnaturalizar el régimen previsto en los arts. 2551 a 2553 del Código Civil y Comercial de la Nación, que consagra el carácter disponible del instituto y su renunciabilidad, admitiendo que el juez declare de oficio la prescripción, lo que se encuentra expresamente vedado.
+En efecto, el art. 2552 del citado cuerpo legal, dispone que la prescripción no puede ser declarada de oficio. Esta regla se vincula con la posibilidad de renuncia una vez cumplida (art. 2535, CCCN), así como con la eventual existencia de hechos impeditivos, suspensivos o interruptivos que no pueden surgir de las constancias de la causa y cuya alegación corresponde exclusivamente a la parte interesada.
+Por todo ello, aun cuando el agente fiscal pudiera advertir -a partir del análisis de las constancias de la causa- el eventual transcurso del plazo de prescripción, ello no lo habilita a introducir dicha defensa en el proceso, en tanto se trata de una prerrogativa de carácter personal que sólo puede ser ejercida por el sujeto a quién beneficia.
+En tales condiciones, la admisión de la excepción en los términos en que fue planteada no resulta ajustada a derecho, razón por lo cual, he de proponer al Acuerdo la revocación de la decisión recurrida.
+c.- Consecuentemente, se dispone llevar adelante la ejecución, hasta tanto la deudora Natalia Marcela Rivadeneira haga al acreedor Vicaria S.A., íntegro pago del monto que alcanza la suma de cuatro mil ciento noventa y siete pesos con noventa y cuatro centavos ($4.197,94). Atento el criterio sostenido por esta Sala en materia de intereses aplicables a supuestos como el del caso, a dicha suma se deberán aplicar los intereses que cobra el Banco de la Provincia de Buenos Aires en sus depósitos ordinarios de descuento a treinta días en pesos - tasa activa -, desde la fecha de mora del deudor (26/03/2020) y hasta su efectivo pago (doct. y arg. arts. 768, 957 y 959, CCCN).
+III.- Atento como se resuelve la presente corresponde que las costas de ambas instancias sean soportadas por la parte ejecutada (cfr. arts. 68, segundo párrafo, 274 y 556, CPCC).
+En consecuencia,
+VOTO POR LA NEGATIVA
+A la primera cuestión , por compartir los mismos fundamentos, la Doctora Caram dijo que: VOTA EN IGUAL SENTIDO .
+A la segunda cuestión, el Dr. Sergio Hernán Altieri expresó :
+Visto el Acuerdo logrado al tratar la cuestión anterior, corresponde revocar la resolución apelada de fecha 26/11/2025. En consecuencia, cabe hacer lugar a la demanda, mandando llevar adelante la ejecución, hasta tanto la deudora Natalia Marcela Rivadeneira haga al acreedor Vicaria S.A., íntegro pago del monto que alcanza la suma de cuatro mil ciento noventa y siete pesos con noventa y cuatro centavos ($4.197,94), con más los intereses que cobra el Banco de la Provincia de Buenos Aires en sus depósitos ordinarios de descuento a treinta días en pesos - tasa activa -, desde la fecha de mora del deudor (26/03/2020) y hasta su efectivo pago (doct. y arg. arts. 768, 957 y 959, CCCN). Asimismo, corresponde que las costas de ambas instancias sean soportadas por la parte ejecutada atento reviste calidad de vencida (arts. 68, segundo párrafo, 274 y 556, CPCC). Propicio diferir la consideración de los honorarios profesionales para su oportunidad.
+ASI LO VOTO
+A la segunda cuestión , por compartir idénticos fundamentos, la Doctora Caram expresó que: VOTA EN IGUAL SENTIDO .
+Con lo que terminó el Acuerdo, dictándose la siguiente:
+S E N T E N C I A
+Que en el Acuerdo celebrado quedó establecido:
+1º) Que la apelada sentencia de fecha 26/11/2025 debe revocarse
+2º) Que las costas de ambas instancias deben ser soportadas por la parte ejecutada.
+POR ELLO : Y fundamentos consignados en el Acuerdo, revócase la resolución apelada de fecha 26/11/2025, haciéndose lugar a la demanda, mandando llevar adelante la ejecución hasta tanto la deudora Natalia Marcela Rivadeneira haga al acreedor Vicaria S.A. íntegro pago del monto que alcanza la suma de cuatro mil ciento noventa y siete pesos con noventa y cuatro centavos ($4.197,94), con más los intereses que cobra el Banco de la Provincia de Buenos Aires en sus depósitos ordinarios de descuento a treinta días en pesos - tasa activa -, desde la fecha de mora del deudor (26/03/2020) y hasta su efectivo pago. Impónense las costas de ambas instancias a la parte ejecutada. Difiérase la consideración de los honorarios profesionales para su oportunidad. Regístrese. Devuélvase sin más trámite al juzgado de origen, dejando constancia de que, para el caso de ser necesaria la elevación de las actuaciones frente a alguna presentación de las partes, las mismas serán requeridas por este Tribunal. -
+```
+
+---
 
 ### 44. [RS-116-2026] FCA COMPAÑIA FINANCIERA S.A. C/ CAMACHO CRISTINA DANIELA S/ ACCION DE SECUESTRO (ART.39 LEY 12962)
 - **Organismo**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL SALA III - LOMAS DE ZAMORA
