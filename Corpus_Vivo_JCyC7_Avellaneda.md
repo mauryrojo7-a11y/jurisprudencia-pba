@@ -1,6 +1,6 @@
 # CORPUS VIVO: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 DE AVELLANEDA Y CÁMARA DE APELACIÓN DE AVELLANEDA-LANÚS (SCBA)
 
-- **Actualización Automática**: 2026-11-12T10:57:14.644Z
+- **Actualización Automática**: 2026-11-13T18:14:37.805Z
 - **Juzgado de Primera Instancia**: Juzgado en lo Civil y Comercial N° 7 de Avellaneda (`idOrganismo: 3659` - Dr. Martín Alfredo Botassi)
 - **Alzada Departamental Directa**: Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (`idOrganismo: 4157`)
 - **Fuente Oficial en Tiempo Real**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
@@ -12,7 +12,7 @@
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA (`idOrganismo: 3659`)
 - **Juez Titular**: Dr. Martín Alfredo Botassi
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` (Suprema Corte de Justicia de la Provincia de Buenos Aires)
-- **Fecha de Extracción**: 2026-11-12
+- **Fecha de Extracción**: 2026-11-13
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`: 129) y Resoluciones Interlocutorias recientes (`RR`) con Carátula, N° de Causa, Fecha, N° de Registro, Código de Acceso y Texto Íntegro.
 
 ---
@@ -11759,6 +11759,636 @@ JUEZ
 
 
 ## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS RECIENTES (`REGISTRO DE RESOLUCIONES - RR`)
+
+### ACT-13-11-2026. [RR-1389-2026] POLLONE HUGO S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24352`
+- **Fecha**: 13-11-2026
+- **Número de Registro**: `RR-1389-2026`
+- **Código de Acceso SCBA**: `E65A969B`
+- **Firmantes**: Fecha: 13/11/2026 13:48:26 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1389-2026 - Código acceso: E65A969B - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 13/11/2026 13:48
+
+#### Texto Íntegro
+```text
+POLLONE HUGO S/ SUCESION AB-INTESTATO
+Expte. N° 24352
+MES
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con el certificado de defunción acompañado a fs. 22 , se justificó en legal forma el fallecimiento del señor HUGO POLLONE , ocurrido el día 15 de Febrero del 2026.
+II.-) Que el señor HUGO POLLONE contrajo matrimonio con la señora DORA ALICIA ABRIGO el día 24 de Abril del año 1970 (ver fs. 18 ) .
+III.-) Que fruto de dicha unión nacieron sus hijos: HUGO ESTEBAN el día 19 de Mayo de 1970, MARCELO GUSTAVO el día 7 de Abril del año 1972, DANIELA VANESA el día 15 de Abril del año 1977 y ALEJANDRO NICOLAS el día 6 de Septiembre del año 1983, l o que se acredita con la documentación de fs. 5 y 15.
+IV.-) Que, con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2426, 2433 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento del señor HUGO POLLONE le suceden en carácter de universales herederos, sus hijos HUGO ESTEBAN, MARCELO GUSTAVO, DANIELA VANESA y ALEJANDRO NICOLAS POLLONE, y su cónyuge, DORA ALICIA ABRIGO , a quien se le declara heredar con respecto a los bienes propios - si los hubiere - sin perjuicio de los derechos que la ley le acuerda con respecto a los gananciales.
+REGISTRESE .
+Cese la intervención del señor Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34, inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decreto ley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber a la letrada interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-13-11-2026. [RR-1390-2026] CASAL CARLOS EMANUEL C/ BERRUEZO LUCAS JAVIER Y OTRO/A S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24364`
+- **Fecha**: 13-11-2026
+- **Número de Registro**: `RR-1390-2026`
+- **Código de Acceso SCBA**: `C49402AD`
+- **Firmantes**: Fecha: 13/11/2026 13:48:38 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1390-2026 - Código acceso: C49402AD - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 13/11/2026 13:48
+
+#### Texto Íntegro
+```text
+CASAL CARLOS EMANUEL C/ BERRUEZO LUCAS JAVIER Y OTRO/A S/ DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE (EXC.ESTADO)
+Expt. 24364
+JM
+Avellaneda en el día de la firma digital.
+Proveyendo la presentación electrónica de fs. 20:
+A mérito del poder acompañado, tiénese por presentado en representación de la parte actora Carlos Emanuel Casal y constituidos los domicilios procesales físico y y electrónico indicados (Arts. 40, 46 y 47 del CPCC y Res. 582/16 y 707/16 y Ac.3540 y 3733 de la SCBA).
+Encontrándose cumplido con lo requerido en autos, corresponde proveer la presentación electrónica de fs. 18:
+AUTOS Y VISTOS:
+I.- Ténganse por presentados los documentos adunados digitalmente y con ello por prestada declaración jurada de los abogados acerca de su correspondencia con los originales y constitúyase a los mismos como depositarios de los instrumentos indicados en los términos del artículo 6 de la Ac. 4013 de la SCBA
+II.- Homologación.
+Atento lo solicitado, y lo dispuesto por los arts. 308 y 309 del Código Procesal, art. 1.643 concordantes y sgtes. del Código Civil y Comercial, homológase el acuerdo celebrado por las partes cuya copia será registrada con la presente, costas conforme lo pactado en las cláusulas cuarta.
+III.-Tasa de justicia. Contribución.
+En orden al monto del acuerdo -$10.000.000- y lo dispuesto en los arts. 339 y 340 del Código Fiscal, la Actuaria liquida en este acto la tasa y sobre tasa de justicia en las sumas respectivas de $220.000 y $11.000.
+En consecuencia, en razón de lo acordado por las partes, intímese a Provincia Seguros S.A. , obligada al pago, para que en el plazo de cinco días oble las sumas adeudadas bajo apercibimiento de ejecución. Se notifica de forma automatizada conforme Acordada 4013/2021, modf. 4039/2021 de la SCBA
+III.- Honorarios.
+Ténganse presentes los honorarios pactados y no obstante la base regulatoria que corresponde aplicar, en tanto resulta materia disponible para los interesados, admítanse los mismos, en favor del abogado Martin Isaias Puglisi (TºXII Fº52 C.A.Q.) en su carácter de letrado apoderado de la parte actora, por la suma de pesos dos millones ($2.000.000) , y los del abogado Juan Ramon Verón (T°X F°325 C.A.Q) , en su carácter de letrado apoderado de Provincia Seguros S.A. en la suma de 7 Jus arancelarios con más el 10% de aportes de ley e IVA en caso de así corresponder (arts. 2 y 25, ley 14.967). Notifiquese con transcripción del artículo 54 de la ley 14.967.
+IV.- Honorarios mediador.
+En cuanto a la retribución correspondiente al mediador interviniente en autos, importa señalar que, sin perjuicio de las pautas contenidas en el decreto reglamentario 600/21, los jueces están facultados en el caso concreto a disminuir equitativamente los honorarios de los auxiliares de justicia pese a su determinación legal cuando el apego a la norma conduzca a una evidente e injustificada desproporción entre la retribución resultante y la importancia de la labor cumplida (Conf. seg. párr. art. 1255 CCCN; art. 31, ley 13.951).
+De conformidad con ello, ponderando las tareas efectivamente desempeñadas (una audiencia remota), de la pauta objetiva del monto del acuerdo ($10.000.000) y la proporcionalidad respecto de los honorarios de la parte vencedora (art. 1255 CCyC), se regulan los honorarios del Mediador Sergio Omar Cossi en la suma de 5 Jus arancelarios , con más el aporte legal correspondiente (arts. 7, 1251 y 1255, Cód. Civ. y Com.; cfr. Cám. Civ. y Com 1ra. Sala II, Mar del Plata, causa n° 165.429, sent. de 11-XII-2018; Cám. Civ. y Com 2a, Sala I, La Plata, causa n° 123.402, sent. de 10-IV-2018; art. 31, ley 13.951; art. 31, anexo único, decreto 600/21).
+V.- Aportes. Cumplido con el artículo 21 de la ley 6716, dése por concluidas las actuaciones. REGISTRESE. Se notifica de forma automatizada conforme Acordada 4013/2021, modf. 4039/2021 de la SCBA
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-13-11-2026. [RR-1391-2026] VAZQUEZ NATALIA ANDREA C/ PERFIGOM S.R.L S/ NULIDAD ACTO JURIDICO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24510`
+- **Fecha**: 13-11-2026
+- **Número de Registro**: `RR-1391-2026`
+- **Código de Acceso SCBA**: `E08EDA19`
+- **Firmantes**: Fecha: 13/11/2026 13:48:51 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1391-2026 - Código acceso: E08EDA19 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 13/11/2026 13:48
+
+#### Texto Íntegro
+```text
+VAZQUEZ NATALIA ANDREA C/ PERFIGOM S.R.L S/ NULIDAD ACTO JURIDICO
+Expte. N° 24510
+MDM
+Avellaneda, en el día de la firma digital.-
+Proveyendo la presentación electrónica de fs. 13:
+En atención al acuerdo presentado por las partes, y en virtud de los términos establecidos en el mismo, hágase saber que el tratamiento del recurso de reposición con apelación en subsidio incoado a fs. 13 deviene abstracto.-
+Proveyendo conjuntamente las presentaciones electrónicas de fs. 14 y 15:
+AUTOS Y VISTOS:
+I.- Homologación. Atento lo dispuesto por los arts. 308 y 309 del Código Procesal, art. 1.643 concordantes y sgtes. del Código Civil y Comercial, homológase el acuerdo celebrado por las partes a fs. 14/15, cuyas copias serán registradas con la presente.
+Costas conforme lo pactado en la clausula 4.6. del acuerdo referenciado (art. 73 del CPCC).
+II.- Honorarios. Base regulatoria. En razón del modo en que se ha puesto fin al presente proceso y, de conformidad con lo previsto en el artículo 25 de la ley 14.967, corresponde utilizar como base regulatoria el monto total que resulta del acuerdo presentado, incluyendo en su computo capital, intereses y gastos, esto es, la suma de USD 4.745 (cuatro mil setecientos cuarenta y cinco dólares estadounidenses), equivalente a siete millones cuatrocientos veinticinco mil novecientos veinticinco pesos ($7.425.925) - conforme valor del dólar oficial al día de la fecha proporcionado por el Banco de la Nación Argentina y lo pactado por las partes en la clausula 4.6. del acuerdo, esto es, $1.565 -.
+En consecuencia, ténganse presentes los honorarios pactados en favor de la Dra. María Caitana Montero Rubinetti (T° XXVIII - Fº 231 del C.A.L.Z.) , en su carácter de letradas patrocinante de la parte actora y, no obstante la base regulatoria que corresponde aplicar, en tanto resulta materia disponible para los interesados, admítanse los mismos en la suma de doscientos cincuenta y cinco dólares estadounidenses (USD 255) -equivalentes a trescientos noventa y nueve mil setenta y cinco pesos ($399.075), conforme lo dispuesto ut supra en relación al valor del dólar oficial- con más el 10% de aportes de ley e IVA en caso de así corresponder (arts. 2 y 25, ley 14.967). Notifiquese con transcripción del artículo 54 de la ley 14.967.
+Asimismo, aplicada la escala del artículo 21 del mismo cuerpo normativo sobre su resultado, considerando la importancia de cada una de las tareas realizadas por los profesionales beneficiarios de la regulación, reparando también en el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, y en tanto no han sido pactados en el acuerdo presentado, se regulan los honorarios del Dr. Santiago Puchulu (T° XLV - F° 456 del CASI), en carácter de letrado apoderado de demandada, en la suma de 13 jus arancelarios (RP 1517/26 de la SCBA) con más el 10% de aportes de ley e IVA en caso de así corresponder (art. 21 y 22 de la ley 14.967). Notifiquese con transcripción del artículo 54 de la ley 14.967.
+III.- Honorarios mediador. En cuanto a la retribución correspondiente al mediador interviniente en autos, importa señalar que, sin perjuicio de las pautas contenidas en el decreto reglamentario 600/21, los jueces están facultados en el caso concreto a disminuir equitativamente los honorarios de los auxiliares de justicia pese a su determinación legal cuando el apego a la norma conduzca a una evidente e injustificada desproporción entre la retribución resultante y la importancia de la labor cumplida (Conf. seg. párr. art. 1255 CCCN; art. 31, ley 13.951).
+De conformidad con ello, en ponderación de la tarea efectivamente desempeñada (una audiencia presencial), de la pauta objetiva del monto del acuerdo ($7.425.925) y la proporcionalidad respecto de los honorarios de la parte vencedora (art. 1255 CCyC) se regulan los honorarios del Mediador Christian Javier Lema (LA048) en la suma de 7,31 JUS , con más el aporte legal correspondiente (arts. 7, 1251 y 1255, Cód. Civ. y Com.; cfr. Cám. Civ. y Com 1ra. Sala II, Mar del Plata, causa n° 165.429, sent. de 11-XII-2018; Cám. Civ. y Com 2a, Sala I, La Plata, causa n° 123.402, sent. de 10-IV-2018; art. 31, ley 13.951; art. 31, anexo único, decreto 600/21).
+IV.- Tasa de justicia. Contribución. En atención a lo solicitado por las partes en la clausula séptima del acuerdo respecto de la eximición en el pago de la tasa de justicia y su contribución, y toda vez que las razones invocadas no encuentran sustento en ninguno de los supuestos de exención previstos por el Art. 343 del Código Fiscal, no ha lugar a lo solicitado. En consecuencia, en orden al monto del acuerdo ($7.425.925) y lo dispuesto en los arts. 339 y 340 del Código Fiscal, el Actuario liquida en este acto la tasa y sobretasa de justicia en las sumas respectivas de $163.370,35 y $8.168,51.
+En consecuencia, en razón de lo acordado por las partes en la cláusula 4.6. del acuerdo, intímese a la demandada, obligada al pago, para que en el plazo de cinco días oble las sumas adeudadas bajo apercibimiento de ejecución. Notifíquese por Secretaría en los términos de la Ac. 4039/21 SCBA.
+V.- Aportes. Cumplido con el artículo 21 de la ley 6716, dése por concluidas las actuaciones. Intimase a las partes y los letrados a abonar en el término de cinco días los aportes previsionales bajo apercibimiento de comunicar a la Caja de Abogados de la Provincia de Buenos Aires para que proceda a su ejecución. REGÍSTRESE. Notifiquese en los términos de la Ac. 4013 de la SCBA.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-13-11-2026. [RR-1392-2026] MARENCO PAULINA C/ KALENCHUK MIGUEL S/ MATERIA A CATEGORIZAR
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `25062`
+- **Fecha**: 13-11-2026
+- **Número de Registro**: `RR-1392-2026`
+- **Código de Acceso SCBA**: `D2512D94`
+- **Firmantes**: Fecha: 13/11/2026 13:49:02 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1392-2026 - Código acceso: D2512D94 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 13/11/2026 13:49
+
+#### Texto Íntegro
+```text
+MARENCO PAULINA C/ KALENCHUK MIGUEL S/ MATERIA A CATEGORIZAR
+Expte. Nro. 25062 | N° Recep. AL-40652-2026
+IA
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Se presenta la señora Paulina Marenco c on el patrocinio letrado del Dr. Diego Alejandro Lomban , a los fines de promover demanda de división de condominio contra el señor Miguel Kalenchuk , solicitando en el punto 1.2 d el escrito a despacho, la radicación de las actuaciones por ante el Juzgado en lo Civil y Comercial N° 5 departamental , toda vez que allí fueron radicados los autos sobre fijación de canon locativo , caratulados "MARENCO, PAULINA c/ KALENCHUK, MIGUEL s/ DOMINIO - ACCIONES DERIVADAS", Nº de Receptoría AL-31231-2026, Nº de Expediente MED-129140.
+No obstante su expresa petición, se procedió al sorteo del expediente, viniendo los autos ante este juzgado. Sin embargo, entiendo que predomina el principio de conexidad, tanto más si existe identidad entre las pretensiones, partes y antecedentes fácticos.
+En consecuencia, RESUELVO : Inhibirme para entender en las presentes actuaciones. Previa comunicación a la Receptoría General de Expedientes, remítanse al Juzgado en lo Civil y Comercial N° 5 (Ex Jcc N° 2) - Lanus . REGISTRESE . NOTIFIQUESE. -
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-12-11-2026. [RR-1378-2026] VARELA MAGDALENA BEATRIZ S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `16717`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1378-2026`
+- **Código de Acceso SCBA**: `73D18D72`
+- **Firmantes**: Fecha: 12/11/2026 09:01:35 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1378-2026 - Código acceso: 73D18D72 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 09:01
+
+#### Texto Íntegro
+```text
+VARELA MAGDALENA BEATRIZ S/ SUCESION AB-INTESTATO
+Expte. N° 16717
+CM
+Avellaneda, en el día de la firma digital.-
+Agréguese, téngase presente. AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la inscripción de la declaratoria de herederos dictada en autos a fs.71/73, con relación al cincuenta por ciento (50%) d el bien automotor que transmite la señora Magdalena Beatriz Varela, atento el carácter ganancial del mismo y al que se refiere el informe de dominio obrante a fs. 198 (Renault Kangoo, 2008, Dominio: HEU168 ) .
+A esos fines la Sra. Secretaria expedirá la documentación pertinente, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+II.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+II.b.-) Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la valuación fiscal adjunta a la presentación electrónica de fecha 03/11/2026 (fs. 198), que asciende a la suma de $8.088.100 y teniendo en cuenta el porcentaje transmitido por la causante (50%), la base imponible a los fines regulatorios es de $4.044.050 (art.15, ley 14.967).
+Por todo lo expuesto, teniendo en consideración lo dispuesto por el art.16 de la ley 14.967, regulase los honorarios de la Dra. Graciela Eloina del Hoyo (T°XVI F°33 CASI) , por las tres etapas cumplidas y a cargo de la masa en 9 jus arancelarios (Res. RP N° 1517/2026 SCBA) con más el porcentaje de ley respectivo (ley 6.716) y el 21% de IVA. si correspondiera (arts.1, 2, 10, 13, 14, 15, 16, 21, 22, 27, 28, 35 y 54 y cte., ley 14.967; arts.14, 21 y ccds., ley 6.716).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberán abonarse los aportes previsionales y encontrarse garantizada la percepción de los emolumentos regulados, o bien, manifestar el letrado si los ha percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526).
+III.-Tasa y sobretasa de justicia.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art.337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma de $4.044.050. De acuerdo con el informe que en este acto formula la Actuaria (art. 116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $88.969,10 con más la de $4.448,45. Consecuentemente téngase por cumplido su pago con lo abonado a fs.198 (art.337 y 338, Código Fiscal de la Pcia. de Bs. As.; arts.865 y 895, CCCN).
+Hágase saber a la peticionante que podrá tramitar por ante la Secretaría de Administración de la SCBA y la Caja de Abogados de la Provincia de Buenos Aires, el reintegro de lo pagado en exceso en concepto de tasa de justicia y sobretasa (cfr. art.2, inc."e", res.298/2021 SCBA).
+IV.- Agréguese, tiénese presente y por cumplido con la declaración jurada en relación al impuesto a la transmisión gratuita de bienes (art.320, Código Fiscal; arts.90 a 118 ley 14.044; art.78, ley 14.200 y resolución normativa 022/13). REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-12-11-2026. [RR-1379-2026] PEPE JUAN JOSE S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `7530`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1379-2026`
+- **Código de Acceso SCBA**: `6D39F6E2`
+- **Firmantes**: Fecha: 12/11/2026 18:48:19 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1379-2026 - Código acceso: 6D39F6E2 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:48
+
+#### Texto Íntegro
+```text
+PEPE JUAN JOSE S/ SUCESION AB-INTESTATO
+Expte. N° 7530
+MDM
+Avellaneda, en el día de la firma digital.
+Agréguese y téngase presente. AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la inscripción de la declaratoria de herederos dictada en autos a fs. 105/107, con relación al 1/1 del bien inmueble que transmite el señor Juan Jose Pepe , atento el carácter propio del mismo y al que se refiere el informe de dominio obrante a fs. 163 (Nomenclatura Catastral: Cir.: II, Sec.: T, Mza.: 25, Par.: 12, Matrícula: 30.553, Pdo.: 25) .
+A esos fines el señor Secretario expedirá la documentación pertinente, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+a) Clasificación de tareas.
+En primer término cabe destacar que en el proceso sucesorio, para la regulación de los honorarios donde ha existido actuación simultánea de varios profesionales, es indispensable la clasificación de trabajos, ya que a través de ella se obtiene una determinación del carácter de cada una de las tareas desarrolladas por los profesionales intervinientes (Medina Graciela, "Proceso Sucesorio", Rubinzal-Culzoni T.II. p. 444).
+Dicha clasificación deberá contemplar y determinar cual ha sido la actuación de cada profesional en las distintas etapas del proceso, debiendo distinguirse entre trabajos comunes y particulares dependiendo de si la labor beneficia a los herederos en particular o a toda la masa en general (Art.35, última parte de la ley 14.967).
+Por trabajos comunes deben entenderse aquellos que benefician a todos los herederos por igual y, en especial, los escritos que estén dirigidos a la conservación, liquidación y división de los bienes hereditarios, en cuanto importen diligencias o trámites necesarios y eficaces a tal fin. Vale decir, aquellos escritos que resulten imprescindibles para la tramitación del juicio y de los que los legitimados para actuar en el proceso sucesorio no pueden prescindir.
+En efecto, debe tratarse de trabajos útiles y necesarios que hayan contribuido a zanjar alguna cuestión que impedía la fluidez del trámite. Es decir, que hayan facilitado el cumplimiento de la finalidad del juicio sucesorio, consistente en la práctica transmisión de los bienes hereditarios, sin importar la calidad del profesional de quien emanan y respondiendo a intereses generales (CC0102 MP 175.118 408-R I 18/08/2022 Carátula: FERNANDEZ SOLANO INES MARIA S/ SUCESIÓN AB INTESTATO Magistrados Votantes: Loustaunau-Monterisi).
+En el caso de autos, atento la clasificación de tareas efectuada por los doctores Cristina Marangone, Felix Horacio Molinari y Betiana Daniela Sini, RESUELVO: Tener por aprobada la clasificación de tareas efectuada a fs. 163 (Art.35 de la ley 14.967).
+b) Base regulatoria y escala legal aplicable.
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la "valuación fiscal - impuesto al acto" adjunta a la presentación electrónica de fs. 163, que asciende a la suma de $15.716.456 y teniendo en cuenta el porcentaje transmitido por el causante (100%), la base imponible a los fines regulatorios es de $15.716.456 (art.15, ley 14.967).
+Por todo lo expuesto, teniendo en consideración lo dispuesto por el art.16 de la ley 14.967, regulase los honorarios de la doctora Cristina Marangone (T°I F°429 CAAL), letrada patrocinante de Ruben Roberto Pepe, por las tareas cumplidas en las tres etapas y a cargo de la masa en la suma de 30 Jus arancelarios (RP 1517/2026 SCBA), los del doctor Felix Horacio Molinari (T°1 F°178 CAAL), letrado patrocinante de Patricia Vanesa Pepe, por trabajos particulares en favor y a cargo de la heredera mencionada en la suma de 3 Jus arancelarios (RP 1517/2026 SCBA), y los de la doctora Betiana Daniela Sini (T°XX F°123 CALZ), letrada patrocinante de Damian Alberto Pepe, por trabajos particulares en favor y cargo del heredero mencionado en la suma de 3 jus arancelarios (RP 1517/2026 SCBA), todos con más el porcentaje de ley respectivo (ley 6.716) y el 21% de IVA. si correspondiera (arts.1, 2, 10, 13, 14, 15, 16, 21, 22, 27, 28, 35 y 54 y cte., ley 14.967; arts.14, 21 y ccds., ley 6.716).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberán abonarse los aportes previsionales y encontrarse garantizada la percepción de los emolumentos regulados, o bien, manifestar los letrados si los han percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526).
+III.- Tasa y sobretasa.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art.337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma de $696.062,40 . De acuerdo con el informe que en este acto formula el Actuario (art. 116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $15.313,37 con más la de $765,66 . Consecuentemente téngase por cumplido su pago con lo abonado a fs. 163 (art.337 y 338, Código Fiscal de la Pcia. de Bs. As.; arts.865 y 895, CCCN).
+IV.- Atento lo dispuesto por las leyes 14.044 (arts.90 a 118), 14.200 (art.78) y Resolución normativa N° 022/13 en cuanto al impuesto a la transmisión gratuita de bienes, deberán los peticionantes acreditar el pago del mismo o acompañar la declaración jurada debidamente intervenida por el órgano competente aún en los supuestos en los cuáles no supere el monto al que hace referencia el art.306 del Código Fiscal (art.324, ley 10.397, T.O. 2011 y con sus modificatorias, art.6, RN 022/13).
+Para el caso que el presente sucesorio, atento a la fecha de fallecimiento del causante, no se encuentre alcanzado por la normativa citada o la presente transmisión se encuentre exenta conforme lo dispuesto por el art.320 del Código Fiscal, deberá el peticionante manifestarlo expresamente (art.6, RN 022/13). REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-12-11-2026. [RR-1380-2026] IANDOLO MABEL SUSANA S/ DILIGENCIAS PRELIMINARES
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `8607`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1380-2026`
+- **Código de Acceso SCBA**: `26652E67`
+- **Firmantes**: Fecha: 12/11/2026 18:48:42 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1380-2026 - Código acceso: 26652E67 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:48
+
+#### Texto Íntegro
+```text
+IANDOLO MABEL SUSANA S/ DILIGENCIAS PRELIMINARES
+EXPTE. Nº 8607
+AL-23088-2022
+CM /NDO
+Avellaneda, en el día de la firma digital .-
+Téngase presente y hágase saber la certificación y el informe efectuado por el Actuario.
+AUTOS Y VISTOS:
+Las presentes actuaciones, a mi cargo, traídas a despacho a fin de resolver respecto a la competencia atribuida al suscripto y;
+CONSIDERANDO:
+I. Que en fecha 23 de mayo de 2022 se presentó la señora Mabel Susana Iandolo con el patrocinio de la doctora Viviana Muiños (Tº XXIV Fº 548, CALZ), peticionado diligencias preliminares respecto del inmueble ubicado en la calle Eva Peron nº 3916, Monte Chingolo, Lanús.
+Que, asimismo, a fs. 14 denunció la existencia de los autos principales caratulados "COVACICH LEONARDO VICTORIO Y OTROS C/ EVA PERÓN N°3916 LANUS S/ ACCION REIVINDICATORIA" (Expte.104452) en trámite ante el Juzgado Civil y Comercial nº 9 de Lomas de Zamora, peticionando -en consecuencia- la declaración de incompetencia del Infrascripto y la remisión de las actuaciones al organismo señalado, ello así a los fines de preservar la unidad de conocimiento, evitar decisiones contradictorias y garantizar una adecuada administración de justicia.
+En atención a ello, conforme fuera informado por el actuario en el informe que antecede, habiéndose realizado una compulsa en la Mesa de Entradas Virtual de la S.C.B.A. (art. 116, CPCC), se advirtió que ante el mismo juzgado, tramitan dichos autos.
+II. Que el articulo 6, inc. 4 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires, establece que las medidas preliminares tramitarán donde lo hace el proceso principal, considerando que el juez interviniente es el que cuenta con los elementos suficientes para expedirse en relación a su procedencia y pertinencia. Ello en virtud del carácter accesorio de las diligencias preliminares o precautorias anticipadas, que determina que la competencia para decretarlas corresponde al juez que vaya a conocer en el posterior proceso principal (SCBA, causa n° 78.495 sent. de 07-XII-2022).
+III. Por todo lo expuesto, RESUELVO: 1.-) Declararme incompetente para intervenir en las presentes actuaciones, correspondiendo conocer al Juez donde tramitan los autos principales (art. 6, inc. 4, CPCC.). REGISTRESE. NOTIFIQUESE en forma automática (Ac. 4013/21 y 4039/21 de la SCBA) ; 2.-) Firme la presente, dese de baja en el Registro Informático de Secretaría, líbrese oficio a la Receptoría General de Expedientes Departamental a fin de que tome conocimiento de ello.
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-12-11-2026. [RR-1381-2026] MATINELLA GIUSEPPE S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `12016`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1381-2026`
+- **Código de Acceso SCBA**: `D44A7B10`
+- **Firmantes**: Fecha: 12/11/2026 18:48:55 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1381-2026 - Código acceso: D44A7B10 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:48
+
+#### Texto Íntegro
+```text
+MATINELLA GIUSEPPE S/ SUCESION AB-INTESTATO
+Expte. N° 12016
+OAC
+Avellaneda, en el día de la firma digital.
+Agréguese y téngase presente.
+I.- Honorarios:
+I.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+I.b.-) Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la "valuación fiscal-impuesto al acto" adjunta a la presentación electrónica de fs. 126, que asciende a la suma de $34.292.197 y teniendo en cuenta el porcentaje transmitido por el causante (100%), la base imponible a los fines regulatorios es de $34.292.197 (art.15, ley 14.967).
+Por todo lo expuesto, teniendo en consideración lo solicitado por el letrado respecto de la regulación de sus honorarios en el mínimo de la escala legal - v. fs. 122, punto IV- y lo dispuesto por el art.16 de la ley 14.967, regulase los honorarios del doctor Pablo Leonardo Brugnone (TºVIII Fº 478, CAQ), abogado patrocinante, por las tres etapas cumplidas y a cargo de la masa en 36 jus arancelarios (RP 1517/26 SCBA) con más el porcentaje de ley respectivo (ley 6.716) y el 21% de IVA. si correspondiera (arts.1, 2, 10, 13, 14, 15, 16, 21, 22, 27, 28, 35 y 54 y cte., ley 14.967).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberán abonarse los aportes previsionales y encontrarse garantizada la percepción de los emolumentos regulados, o bien, manifestar el letrado si los ha percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526). REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-12-11-2026. [RR-1382-2026] SCIAN GUSTAVO SILVANO S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `17258`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1382-2026`
+- **Código de Acceso SCBA**: `7214635D`
+- **Firmantes**: Fecha: 12/11/2026 18:49:19 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1382-2026 - Código acceso: 7214635D - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:49
+
+#### Texto Íntegro
+```text
+SCIAN GUSTAVO SILVANO S/ SUCESION AB-INTESTATO
+Expte. N° 17258
+MVF
+Avellaneda, el día de la firma digital.-
+AUTOS y VISTOS:
+Agréguese, téngase presente. En atención a lo manifestado y el informe de dominio adjunto a la presentación a despacho, rectifíquese la inscripción de declaratoria de herederos dictada a fojas 56 y su aclaratoria de fojas 58, dejándose debida constancia que la nomenclatura catastral correcta del inmueble componente del acervo hereditario resulta ser: Cir 1:, Sec R:, Mza 56:, Par 31a: Uf.:, Matrícula: 70959, Pdo.: Lanús 025, ello atento a la anexión de las parcelas 20b y 31. Regístrese en relación a su antecedente y notifíquese. -
+MARTIN ALFREDO BOTASSI
+JUEZ
+Se notifica el presente al domicilio electrónico de la Dra. ROMINA DEL VALLE CABRERA :
+27288305302@NOTIFICACIONES.SCBA.GOV.AR . -
+```
+
+---
+
+### ACT-12-11-2026. [RR-1383-2026] MOREL MARIO OSCAR Y OTRO/A S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `19479`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1383-2026`
+- **Código de Acceso SCBA**: `14D4EBEB`
+- **Firmantes**: Fecha: 12/11/2026 18:49:49 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1383-2026 - Código acceso: 14D4EBEB - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:49
+
+#### Texto Íntegro
+```text
+MOREL MARIO OSCAR Y OTRO/A S/ SUCESION AB-INTESTATO
+Expte. N° 19479
+CM
+Avellaneda, en el día de la firma digital.
+Agréguese, téngase presente. AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la inscripción de la declaratoria de herederos dictada en autos a fs.79/81 y su aclaratoria de fs.83, con relación al cien por ciento (100%) que transmiten los señores Mario Oscar Morel y Cecilia Crassilovski, atento el carácter ganancial del mismo y al que se refiere el informe de dominio obrante a fs.84 (Nomenclatura Catastral: Cir.: 2, Sec.: L, Mza.: 58, Par.: 19, Subpar.:2, Uf.:2, Matrícula: 16165, Pdo.: 25, Lanús )
+A esos fines la Sra. Secretaria expedirá la documentación pertinente, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+II.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+II.b.-) Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la "valuación fiscal-impuesto al acto" adjunta a la presentación electrónica de fs. 84 que asciende a la suma de $19.091.536 y teniendo en cuenta el porcentaje transmitido por los causantes (100%), la base imponible a los fines regulatorios es de $19.091.536 (art.15, ley 14.967).
+Por todo lo expuesto, teniendo en consideración lo dispuesto por el art.16 de la ley 14.967, regulase los honorarios del doctor Matias Fabian Presedo (T° VIII, F° 357, CALM), patrocinante por las tres etapas cumplidas y a cargo de la masa en 43,9 jus arancelarios (Res. RP N° 1517/2026 SCBA) con más el porcentaje de ley respectivo (ley 6.716) y el 21% de IVA. si correspondiera (arts.1, 2, 10, 13, 14, 15, 16, 21, 22, 27, 28, 35 y 54 y cte., ley 14.967;arts.14, 21 y ccds., ley 6.716).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberán abonarse los aportes previsionales y encontrarse garantizada la percepción de los emolumentos regulados, o bien, manifestar el letrado si los ha percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526).
+III.- Tasa y sobretasa.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art.337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma de $845.540,30. De acuerdo con el informe que en este acto formula la Actuaria (art. 116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $18.601,88 con más la de $930,09. Consecuentemente téngase por cumplido su pago con lo abonado a fs. 84 (art.337 y 338, Código Fiscal de la Pcia. de Bs. As.; arts.865 y 895, CCCN).
+IV.- Agréguese, tiénese presente y por cumplido con la declaración jurada en relación al impuesto a la transmisión gratuita de bienes (art.320, Código Fiscal; arts.90 a 118 ley 14.044; art.78, ley 14.200 y resolución normativa 022/13).- REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+V.- Se deja constancia que la inscripción se realizará bajo la modalidad de tracto abreviado, con la intervención del titular del registro N°4 del partido de Lanús y la Escribania Garello (art.16, ley 17.801).-
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-12-11-2026. [RR-1384-2026] GOLFIERI LEONOR S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `22308`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1384-2026`
+- **Código de Acceso SCBA**: `C835D89E`
+- **Firmantes**: Fecha: 12/11/2026 18:52:34 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1384-2026 - Código acceso: C835D89E - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:52
+
+#### Texto Íntegro
+```text
+GOLFIERI LEONOR S/ SUCESION AB-INTESTATO
+Expte. N° 22308
+MVF
+Avellaneda, en el día de la firma digital.
+Agréguese, téngase presente. AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la inscripción de la declaratoria de herederos dictada en autos a fs. 57, con relación al 50% d el bien inmueble que transmite la señora LEONOR GOLFIERI , atento el carácter ganancial del mismo y al que se refiere el informe de dominio obrante a fs. 60 (Nomenclatura Catastral: Cir.: I, Sec.: J, Mza.: 66, Par.: 25, Subpar.: 9, Uf.: 9, Matrícula: 189/9, Pdo.: 025-Lanús ) .
+A esos fines el señor Secretario expedirá la documentación pertinente, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+II.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+II.b.-) Sub exámine. Base Regulatoria. Clasificación de tareas:
+A tal efecto, en virtud de la "valuación fiscal-impuesto al acto" adjunta a la presentación electrónica de fs. 58, que asciende a la suma de $17.802.704 y teniendo en cuenta el porcentaje transmitido por la causante (50%), la base imponible a los fines regulatorios es de $8.901.352 (art.15, ley 14.967).
+Ahora bien, atento a la intervención en estos obrados de más de un letrado, hágase saber a los mismos que deberán proceder a clasificar las pertinentes tareas profesionales ejercidas en los términos de la ley 14967. Fecho, se procederá a la fijación de los estipendios correspondientes.
+III.- Tasa y sobretasa.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art.337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma de $394.229,55. De acuerdo con el informe que en este acto formula la Actuaria (art. 116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $8.673,05 con más la de $433,65. Consecuentemente téngase por cumplido su pago con lo abonado a fs. 58 (art.337 y 338, Código Fiscal de la Pcia. de Bs. As.; arts.865 y 895, CCCN).
+IV.- Atento lo dispuesto por las leyes 14.044 (arts.90 a 118), 14.200 (art.78) y Resolución normativa N° 022/13 en cuanto al impuesto a la transmisión gratuita de bienes, deberán los peticionantes acreditar el pago del mismo o acompañar la declaración jurada debidamente intervenida por el órgano competente aún en los supuestos en los cuáles no supere el monto al que hace referencia el art.306 del Código Fiscal (art.324, ley 10.397, T.O. 2011 y con sus modificatorias, art.6, RN 022/13).
+Para el caso que el presente sucesorio, atento a la fecha de fallecimiento de la causante, no se encuentre alcanzado por la normativa citada o la presente transmisión se encuentre exenta conforme lo dispuesto por el art.320 del Código Fiscal, deberá el peticionante manifestarlo expresamente (art.6, RN 022/13). REGISTRESE. NOTIFIQUESE.-
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-12-11-2026. [RR-1385-2026] BRAZ SILVESTRE ANALIA AMBROZIO S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `23296`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1385-2026`
+- **Código de Acceso SCBA**: `78DFDFE0`
+- **Firmantes**: Fecha: 12/11/2026 18:53:18 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1385-2026 - Código acceso: 78DFDFE0 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:53
+
+#### Texto Íntegro
+```text
+BRAZ SILVESTRE ANALIA AMBROZIO S/ SUCESION AB-INTESTATO
+Expte. N° 23296
+OAC
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con el certificado de defunción acompañado a fs. 8 , se justificó en legal forma el fallecimiento de la señora ANALIA AMBROZIO BRAZ SILVESTRE , ocurrido el día 9 de mayo de 2025 .
+II.-) Que la señora ANALIA AMBROZIO BRAZ SILVESTRE contrajo matrimonio con el señor RUBEN HERIBERTO ORTEGA, el día 14 de diciembre de 1967 (v. fs. 43 ).
+III.-) Que fruto de dicha unión nacieron sus hijos, FERNANDO LIONEL, el día 9 de mayo de 1979 y ERICA SOFIA , el día 14 de febrero de 1973, l o que se acredita con la documentación de fs. 9 y 10.
+IV.-) Que con los certificados de defunción acompañados a fs. 13 y 15 se acreditó fehacientemente el fallecimiento del señor RUBEN HERIBERTO ORTEGA ocurrido el día 1 de diciembre de 1996 y de FERNANDO LIONEL ORTEGA, ocurrido el día 17 de enero de 2024.
+V.-) Que con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2426 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento de la señora ANALIA AMBROZIO BRAZ SILVESTRE le sucede en carácter de universal heredera, su hija, ERICA SOFIA ORTEGA.
+REGISTRESE .
+Cese la intervención del señor Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34, inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) del/los causante/s debidamente actualizados (decreto ley 5.479/65 y decreto ley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción.
+MARTIN ALFREDO BOTASSI
+JUEZ
+20169630721@notificaciones.scba.gov.ar . -
+```
+
+---
+
+### ACT-12-11-2026. [RR-1386-2026] CARUSO RAFAEL JOSE y otro/a S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24557`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1386-2026`
+- **Código de Acceso SCBA**: `D06BDD76`
+- **Firmantes**: Fecha: 12/11/2026 18:54:50 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1386-2026 - Código acceso: D06BDD76 - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:54
+
+#### Texto Íntegro
+```text
+CARUSO RAFAEL JOSE y otro/a S/ SUCESION AB-INTESTATO
+Expte. N° 24557
+CM
+Avellaneda, en el día de la firma digital.
+Agréguese, téngase presente. AUTOS Y VISTOS:
+I.- Inscripción declaratoria de herederos.
+En atención a lo pedido, estando en autos cumplidos los recaudos necesarios, procédase a la inscripción de la declaratoria de herederos dictada en autos a fs.22, con relación al cien por ciento (100%) d el bien inmueble que transmiten los señores Rafael Jose Caruso y Teresa Caruso, atento el carácter ganancial del mismo y al que se refiere el informe de dominio obrante a fs. 23 (Nomenclatura Catastral: Cir.: 1, Sec.:V, Mza.:25, Par.: 31-A, Matrícula: 5535, Pdo.:025, Lanús ) .
+A esos fines la Sra. Secretaria expedirá la documentación pertinente, previo cumplimiento de lo dispuesto por el art.21 de la ley 6.716.
+II.- Honorarios:
+II.a.-) Base regulatoria y escala legal aplicable:
+A fin de proceder a la valuación de los estipendios que corresponde asignar por la labor desarrollada en las presentes, corresponde indicar que el artículo 35 de la ley de honorarios de la Provincia de Buenos Aires ha previsto para casos como el de autos, que para establecer los estipendios profesionales por trabajos realizados en el proceso, debe calcularse aplicando una escala del seis (6) al veinte (20) por ciento del total transmitido.
+A los fines de traer mayores precisiones sobre el asunto antes de proceder a la cuantificación de los estipendios que corresponde asignar en autos, se impone determinar con mayor precisión la base regulatoria, como así también fijar las pautas para aplicar la escala mencionada sobre esta última.
+Respecto del primero de los asuntos, se tiene dicho que el acervo es el caudal relicto dejado por el causante, como consecuencia inmediata a su fallecimiento, quedando determinado tanto por los créditos como por las deudas de aquel. Es así que al interpretar de forma sistémica las disposiciones de la ley de honorarios Provincial, se puede llegar a colegir que la normativa apunta a una regulación de los estipendios profesionales por todo lo actuado en el proceso y no por la transmisión de cada bien en particular.
+En lo que a la determinación del porcentaje a aplicar sobre la base regulatoria, cabe considerar que de un juego armónico del artículo 35 de la ley de honorarios Provincial con el artículo 16 del mismo plexo normativo se puede inducir que la regulación de los honorarios de los abogados se deben efectuar en base a la media de la escala aplicable para el caso concreto (6% al 20%), pudiendo disminuirse o elevarse por resolución fundada. A tal efecto, por regla, el porcentaje que debería aplicarse para el caso de autos resultaría ser del 13%, el que podrá ser elevado o disminuido considerando las demás pautas de valoración contempladas en el artículo 16, esto es, la importancia de cada una de las tareas realizadas por el profesional beneficiario de la regulación, el monto del asunto, el valor, mérito y calidad jurídica de las labores desarrolladas, la complejidad y/o novedad de la cuestión planteada, la responsabilidad involucrada y los resultados obtenidos, etc.
+II.b.-) Sub exámine. Base Regulatoria:
+A tal efecto, en virtud de la "valuación fiscal-impuesto al acto" adjunta a la presentación electrónica de fs. 84 que asciende a la suma de $53.780.638 y teniendo en cuenta el porcentaje transmitido por los causantes (100%), la base imponible a los fines regulatorios es de $53.780.638 (art.15, ley 14.967).
+Por todo lo expuesto, teniendo en consideración lo dispuesto por el art.16 de la ley 14.967, regulase los honorarios del doctor/de la doctora Hector Lavia (T.6 F.243 CALZ) , patrocinante, por las tres etapas cumplidas y a cargo de la masa en 123,9 jus arancelarios (Res. RP N° 1517/2026 SCBA) con más el porcentaje de ley respectivo (ley 6.716) y el 21% de IVA. si correspondiera (arts.1, 2, 10, 13, 14, 15, 16, 21, 22, 27, 28, 35 y 54 y cte., ley 14.967; arts.14, 21 y ccds., ley 6.716).
+A los fines de dar cumplimiento con lo dispuesto por el art. 21 de la ley 6.716 deberán abonarse los aportes previsionales y encontrarse garantizada la percepción de los emolumentos regulados, o bien, manifestar el letrado si los ha percibido (arts. 14 y 21 de la Ley 6716 modificado por la Ley 12.526).
+III.- Tasa y sobretasa.
+La base que debe adoptarse para determinar el cumplimiento de la tasa de justicia y su contribución, de conformidad con lo normado por el art.337 del Código Fiscal de la Provincia de Buenos Aires, asciende a la suma de $2.381.877,30. De acuerdo con el informe que en este acto formula la Actuaria (art. 116, CPCC), los montos en concepto de los tributos indicados sobre el haber hereditario transmitido, ascienden a las sumas respectivas de $52.401,30 con más la de $2.620,06. Consecuentemente téngase por cumplido su pago con lo abonado a fs. 23 (art.337 y 338, Código Fiscal de la Pcia. de Bs. As.; arts.865 y 895, CCCN).
+IV.- Atento lo dispuesto por las leyes 14.044 (arts.90 a 118), 14.200 (art.78) y Resolución normativa N° 022/13 en cuanto al impuesto a la transmisión gratuita de bienes, deberán los peticionantes acreditar el pago del mismo o acompañar la declaración jurada debidamente intervenida por el órgano competente aún en los supuestos en los cuáles no supere el monto al que hace referencia el art.306 del Código Fiscal (art.324, ley 10.397, T.O. 2011 y con sus modificatorias, art.6, RN 022/13).
+Para el caso que el presente sucesorio, atento a la fecha de fallecimiento de los causantes, no se encuentre alcanzado por la normativa citada o la presente transmisión se encuentre exenta conforme lo dispuesto por el art.320 del Código Fiscal, deberá manifestarlo expresamente (art.6, RN 022/13). REGISTRESE. NOTIFIQUESE con transcripción del art.54 de la ley 14.967.
+MARTIN ALFREDO BOTASSI
+JUEZ
+ARTÍCULO 54.- Las providencias que regulen honorarios deberán ser notificadas personalmente, por cédula a sus beneficiarios, al mandante o patrocinado y al condenado en costas, si lo hubiere. Asimismo, será válida la notificación de la regulación de honorarios efectuada por cualquier otro medio fehaciente, a costa del interesado.
+Los honorarios a cargo del mandante o patrocinado quedarán firmes a su respecto si la notificación se hubiere practicado en su domicilio real y a la contraparte en su domicilio constituido.
+Habiendo cesado el patrocinio o apoderamiento y constituido el ex cliente nuevo domicilio, la notificación de honorarios a éste podrá ser efectuada en este último domicilio.
+En todos los casos, bajo pena de nulidad, en el instrumento de notificación que se utilice para ello, deberá transcribirse este artículo.
+Los honorarios regulados por trabajos judiciales deberán abonarse dentro de los diez (10) días de haber quedado firme el auto regulatorio.
+Los honorarios por trabajos extrajudiciales se abonarán dentro de los diez (10) días de intimado su pago, cuando sean exigibles.
+Operada la mora, el profesional podrá optar por:
+a) reclamar los honorarios expresados en la unidad arancelaria Jus prevista en esta ley, con más un interés del 12% anual.
+b) reclamar los honorarios regulados convertidos al momento de la mora en moneda de curso legal, con más el interés previsto en el artículo 552 del Código Civil y Comercial de la Nación.
+```
+
+---
+
+### ACT-12-11-2026. [RR-1387-2026] VELAZQUEZ JUAN JOSE Y OTRO/A S/ SUCESION AB-INTESTATO
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `24582`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1387-2026`
+- **Código de Acceso SCBA**: `715E463C`
+- **Firmantes**: Fecha: 12/11/2026 18:55:06 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1387-2026 - Código acceso: 715E463C - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:55
+
+#### Texto Íntegro
+```text
+VELAZQUEZ JUAN JOSE Y OTRO/A S/ SUCESION AB-INTESTATO
+Expte. N° 24582
+IA
+Avellaneda, el día de la firma digital.
+AUTOS Y VISTOS:
+Tiénese presente el dictamen que antecede por parte del señor Agente Fiscal.
+Habiendo cumplido los recaudos necesarios, se deja constancia que las presentes actuaciones se encuentran en estado de dictar la correspondiente declaratoria de herederos (art.735, CPCC).
+CONSIDERANDO:
+I.-) Que con los certificados de defunción acompañados a fs. 1 , se justificó en legal forma el fallecimiento del señor JUAN JOSE VELAZQUEZ , ocurrido el día 26 de febrero de 2004 y de la señora CATALINA LUISA TROJAN , ocurrido el día 30 de noviembre de 2022.
+II.-) Que el señor JUAN JOSE VELAZQUEZ contrajo matrimonio con la señora CATALINA LUISA TROJAN el día 8 de febrero de 1974 (ver fs. 1 ).
+III.-) Que fruto de dicha unión nacieron sus hijos DIEGO GASTON el día 20 de abril de 1975 y SILVANA ELIZABETH el día 29 de diciembre de 1978, l o que se acredita con la documentación de fs. 1.
+IV.-) Que, con las constancias agregadas en autos se acreditó la publicación de edictos que prescribe el art.2340 del Código Civil y Comercial de la Nación y el art.734, inc.2 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires.
+POR ELLO : de conformidad con lo pedido y lo dispuesto por los arts.3282, 3545, 3565, 3570 y ssgts. del Código Civil Argentino, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento del señor JUAN JOSE VELAZQUEZ le suceden en carácter de universales herederos , sus hijos , DIEGO GASTON y SILVANA ELIZABETH VELAZQUEZ y su cónyuge, CATALINA LUISA TROJAN , a quien se le declara heredar con respecto a los bienes propios - si los hubiere - sin perjuicio de los derechos que la ley le acuerda con respecto a los gananciales.
+Asimismo, de conformidad con lo pedido y lo dispuesto por los arts.2279, 2424, 2426 y ssgts. del Código Civil y Comercial de la Nación, 735 y 737 del Código Procesal Civil y Comercial de la Provincia de Buenos Aires se declara en cuanto ha lugar por derecho y sin perjuicio de terceros que, por el fallecimiento de la señora CATALINA LUISA TROJAN le suceden en carácter de universales herederos, sus hijos, DIEGO GASTON y SILVANA ELIZABETH VELAZQUEZ .
+REGISTRESE .
+Cese la intervención del Sr. Agente Fiscal (art.728, inc.1, CPCC).
+En virtud de las facultades conferidas por el código de rito (art.34 inc.5, CPCC), se hace saber que a los fines de un eventual pedido de inscripción de la presente declaratoria de herederos, deberá previamente presentarse:
+a) Informe de dominio del bien e informes de anotaciones personales (inhibición y cesión) de los causantes debidamente actualizados (decreto ley 5.479/65 y decretoley 11.643/63, inmuebles), estableciéndose la vigencia de los mismos en noventa días corridos a partir de la fecha de su expedición para el caso de bienes inmuebles (art.28, decreto provincial 5.479/65; decreto provincial 2.612/72; arts.23 y 27 ley nacional 17.801; modif. decreto 2.080/80) y de 15 días hábiles para automotores desde su fecha de expedición (decreto ley 6.582/58 y art. 16 del decreto 1.114/97, automotores).
+b) En caso de existir cesión de acciones y derechos hereditarios, deberá encontrarse agregado a los autos el instrumento pertinente.
+c) Título de propiedad original (art.23, ley 17.801).
+d) Valuación fiscal del bien del año en curso y valuación al impuesto al acto (art.337 inc. "f " del Código Fiscal).
+e) Si lo transmitido fuere dinero, los montos deberán encontrarse depositados en una cuenta a nombre de autos y a la orden del suscripto en el Banco de la Provincia de Buenos Aires, sucursal Avellaneda.
+f) Declaración jurada patrimonial para el pago de la tasa de justicia (art.337 inc. "f", Código Fiscal - ley 10.397 y sus modif.).
+g) Abonarse la tasa y sobre tasa de justicia correspondiente, tomando en cuenta el porcentaje transmitido y el monto obtenido en la declaración jurada (art.337, Código Fiscal).
+Asimismo, en caso de abonarse incorrectamente la tasa de justicia y conforme lo previsto por el art.340 del Código Fiscal, la Actuaria liquidará la misma, no expidiéndose la documentación necesaria hasta que dicho requisito sea cumplido (art.341, código citado).
+Hágase saber al letrado interviniente que resulta aconsejable que la documentación enumerada sea acompañada en su totalidad en una sola presentación electrónica y en formato PDF al momento de solicitar la inscripción de la declaratoria de herederos. Ello a los fines de que los certificados no sean objeto de vencimiento y a efectos de cumplir con un buen orden procesal.
+Por último se deja constancia que si se optare para la transmisión dominial por el procedimiento de tracto abreviado, los interesados deberán denunciar tal circunstancia conjuntamente con el pedido de inscripción. -
+MARTIN ALFREDO BOTASSI
+JUEZ
+```
+
+---
+
+### ACT-12-11-2026. [RR-1388-2026] DEVEIKIS CLAUDIA MAGDALENA C/ AGROSALTA COOPERATIVA DE SEGUROS LIMITADA. S/ EJECUCION HONORARIOS
+- **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA (REGISTRO DE RESOLUCIONES)
+- **Número de Causa / Expediente**: `25056`
+- **Fecha**: 12-11-2026
+- **Número de Registro**: `RR-1388-2026`
+- **Código de Acceso SCBA**: `AC7A2BAE`
+- **Firmantes**: Fecha: 12/11/2026 18:55:20 Funcionario: BOTASSI Martin Alfredo JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES - Número: RR- 1388-2026 - Código acceso: AC7A2BAE - PUBLICO | Registrado por: BOTASSI Martin Alfredo - Fecha registración: 12/11/2026 18:55
+
+#### Texto Íntegro
+```text
+DEVEIKIS CLAUDIA MAGDALENA C/ AGROSALTA COOPERATIVA DE SEGUROS LIMITADA. S/ EJECUCION HONORARIOS
+Expte.N° 25056 | AL-40482-2026
+OAC
+Avellaneda, el día de la firma digital.-
+AUTOS Y VISTOS:
+Los presentes actuados, en trámite ante el Juzgado de Primera Instancia en lo Civil y Comercial n° 7 del departamento judicial Avellaneda-Lanus, a mi cargo, traídos a despacho a los fines de expedirme acerca de la competencia atribuida para entender en las presentes actuaciones y;
+CONSIDERANDO:
+I.- Que con fecha 4 de noviembre de 2026 se presentó Claudia Magdalena Deveikis con el patrocinio letrado de la Dra. Loguzzo Quimey Rocio promoviendo demanda de ejecución de honorarios contra Agrosalta Cooperativa De Seguros Limitada.
+Expuso que mediante la resolución de fecha 23/05/2025 en los autos caratulados: " Caballero Venialgo Inocencio c/ Agroosalta Cooperativa De Seguros Limitada S/ Daños Y Perj. Incump. Contractual (Exc. Estado) ", Nº de Expediente: LN - 5925 - 2019, en trámite por ante el Juzgado en lo Civil y Comercial N° 6 de Lanús, Departamento Judicial Avellaneda-Lanús, se le regularon por su labor de perito contadora la suma de trescientos treinta mil pesos ($330.000) -correspondiente a $300.000 de honorarios y $30.000 de aportes- , los cuales se encuentran firmes e impagos.
+Asimismo, acompañó copia simple de la resolución y de la intimación cursada a la demandada, obligada al pago, de sus estipendios profesionales.
+II.- Que el artículo 6° del Código Procesal Civil y Comercial de la Provincia de Buenos Aires, en su inciso 1°, establece que será competente para entender en los incidentes y en la ejecución de honorarios el Juez del proceso principal. En el mismo orden de ideas, en los artículos 497, 498 y 499, del mismo cuerpo legal, se dispone que será el Juez que pronunció la sentencia, el competente para la ejecución de los honorarios regulados.
+En ese sentido, tiene dicho la jurisprudencia que "La ejecución de honorarios judiciales regulados constituye un incidente del proceso donde se han originado y, por lo tanto, el juez competente para decidir es el del proceso principal" (arg. arts. 6 inc. 1, CPCC.; art. 58 ley 8904/77; art. 5 ley 13.928; SCBA LP Rc 117321 I 20/03/2013).
+Ello así y teniendo en cuenta que el proceso principal en el que fueron regulados los honorarios que se pretenden ejecutar, tramita por ante el Juzgado de igual clase N° 6 de Lanús, corresponde inhibirme de entender en los presentes y, previo conocimiento de la Receptoría General de Expedientes, radicar estos actuados por ante dicha dependencia.
+Por todo lo expuesto, RESUELVO: 1) Inhibirme de entender en las presentes actuaciones (art. 166 in fine, Constitución Provincial; art. 58 de la ley 14.967; art. 4, arg. art. 6 inc. 1 y arts. 497/499 del C.P.C.C); 2) Una vez firme la presente resolución, previa baja en el Sistema Informático, comuníquese en forma automática a la Receptoría General de Expedientes a fin de que tome conocimiento y radíquense por ante el Juzgado en lo Civil y Comercial N°6 de Avellaneda-Lanús. REGISTRESE . NOTIFIQUESE .-
+MARTIN ALFREDO BOTASSI
+JUEZ
+Se notifica el presente al domicilio electrónico:
+23415666284@notificaciones.scba.gov.ar
+y a la R.G.E.:
+RECEPTORIA-AL@JUSBUENOSAIRES.GOV.AR .
+```
+
+---
 
 ### ACT-10-11-2026. [RR-1363-2026] BANCO CREDICOOP COOPERATIVO LTDO. C/ P. N. A. S/ COBRO EJECUTIVO
 - **Organismo**: JUZGADO EN LO CIVIL Y COMERCIAL N° 7 - AVELLANEDA
@@ -30009,7 +30639,7 @@ b) reclamar los honorarios regulados convertidos al momento de la mora en moneda
 - **Organismo Principal**: CAMARA DE APELACION EN LO CIVIL Y COMERCIAL - AVELLANEDA / LANUS (`idOrganismo: 4157`)
 - **Alzada Residual en causas `AL-...` preexistentes**: Cámara de Apelación en lo Civil y Comercial de Lomas de Zamora - Salas I (`312`), II (`313`) y III (`2063`)
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
-- **Fecha de Extracción**: 2026-11-12
+- **Fecha de Extracción**: 2026-11-13
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`) y Resoluciones Interlocutorias (`RR`) de la Cámara de Apelación en lo Civil y Comercial de Avellaneda-Lanús (`ID 4157`), más Sentencias Definitivas recientes dictadas en causas del Departamento Judicial Avellaneda-Lanús (`AL-...`) por su Alzada histórica.
 
 ---

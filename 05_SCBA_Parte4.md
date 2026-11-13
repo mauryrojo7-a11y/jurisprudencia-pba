@@ -4,17 +4,1293 @@
 - **Secretaría Actuante**: Secretaría Civil, Comercial y de Familia SCBA (Causas `C.` / `Ac.`)
 - **Carácter Normativo y Procesal**: Doctrina Legal obligatoria de Casación Provincial (arts. 161 inc. 3 ap. "a" Constitución PBA y arts. 278, 279, 289 y concs. CPCCBA)
 - **Fuente Oficial**: `https://sentencias.scba.gov.ar/` y `https://sentencias-camara.scba.gov.ar/`
-- **Fecha de Extracción**: 2026-11-12
+- **Fecha de Extracción**: 2026-11-13
 - **Contenido**: Totalidad de las Sentencias Definitivas (`RS`: 119) y Resoluciones Interlocutorias recientes (`RR`: 350) dictadas por la Suprema Corte de Justicia de la Provincia de Buenos Aires en materia Civil, Comercial y de Familia, incluyendo Metadatos Verificados, Tribunal de Origen, Magistrados Votantes, Sumarios JUBA / Doctrina Legal Aplicable, Precedentes Citados y Texto Íntegro.
 
 ---
 - **Fragmento para NotebookLM / Gemini**: Parte 4 de 4 (`05_SCBA_Parte4.md`)
 - **Archivo Fuente Completo**: `05_Suprema_Corte_SCBA_Civil_Comercial.md`
-- **Fallos incluidos en esta parte**: 109
+- **Fallos incluidos en esta parte**: 141
 
 ---
 
 ## SECCIÓN II: RESOLUCIONES INTERLOCUTORIAS DE LA SUPREMA CORTE DE JUSTICIA PBA (`REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - RR`) (Continuación - Parte 4/4)
+
+### 210. [RR-1679-2026] B., N. B. (.................... S/INCIDENTE DE APELACION DE APORTES SOBRE HONORARIOS EN AUTOS "JORGE, LUCIANA MABEL S/MATERIA A CATEGORIZAR EXPTE. 68464")
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129062`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1679-2026`
+- **Código de Acceso SCBA**: `496F1447`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1679-2026 - Código acceso: 496F1447 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129062 "DEFENSORIA GENERAL DEPARTAMENTAL S/ INCIDENTE DE APELACION DE APORTES SOBRE HONORARIOS EN AUTOS "J., L. M. S/ MATERIA A CATEGORIZAR EXPTE. 68464""
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 211. [RR-1680-2026] B., N. B. (.................... S/ ALIMENTOS S/ INCIDENTE DE APELACIÓN)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129071`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1680-2026`
+- **Código de Acceso SCBA**: `775E1F4F`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1680-2026 - Código acceso: 775E1F4F - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129071 "F. C. C/ C. M. S/ ALIMENTOS S/ INCIDENTE DE APELACIÓN"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 212. [RR-1681-2026] B., N. B. (.................... S/ ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129100`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1681-2026`
+- **Código de Acceso SCBA**: `D4A9A9E4`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1681-2026 - Código acceso: D4A9A9E4 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129100 "E. Y. P. C/ E. R. J. C. S/ ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 213. [RR-1682-2026] B., N. B. (.................... S/INCIDENTE POR APELACION DE APORTES PREVISIONALES ART. 91 LEY 5827 EN AUTOS "GIMENEZ, VICTOR DANIEL C/CEPE, KAREN AYELEN S/PROTECCION CONTRA LA VIOLENCIA FAMILIAR. EXPTE. 65.251")
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129164`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1682-2026`
+- **Código de Acceso SCBA**: `F8169E20`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1682-2026 - Código acceso: F8169E20 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129164 "DEFENSORIA GENERAL DEPARTAMENTAL (DR. A. D., D. I.) S/ INCIDENTE POR APELACION DE APORTES PREVISIONALES ART. 91 LEY 5827 EN AUTOS "G., V. D. C/ C., K. A. S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR. EXPTE. 65.251""
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 214. [RR-1683-2026] B., N. B. (.................... S/DERECHO DE COMUNICACION S/INCIDENTE DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129166`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1683-2026`
+- **Código de Acceso SCBA**: `CCD7357D`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1683-2026 - Código acceso: CCD7357D - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129166 "A. B. A. C/ I. M. S/ DERECHO DE COMUNICACION S/ INCIDENTE DE APELACION"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 215. [RR-1684-2026] B., N. B. (.................... S/INCIDENTE POR APELACION DE APORTES PREVISIONALES ART. 91 LEY 5827 EN AUTOS "MELENDRES, NELI C/BRITO, CONCEPCION S/DENUNCIA LEY 12.569. EXPTE. 50587")
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129174`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1684-2026`
+- **Código de Acceso SCBA**: `A2076CF8`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1684-2026 - Código acceso: A2076CF8 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129174 "DEFENSORIA GENERAL DEPARTAMENTAL (DR. A. D., D. I.) S/ INCIDENTE POR APELACION DE APORTES PREVISIONALES ART. 91 LEY 5827 EN AUTOS "M., N. C/ B., C. S/ DENUNCIA LEY 12.569. EXPTE. 50587""
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 216. [RR-1685-2026] B., N. B. (.................... S/BENEFICIO DE LITIGAR SIN GASTOS (FAMILIA) S/ LEGAJO DE APELACIÓN)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129184`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1685-2026`
+- **Código de Acceso SCBA**: `357272DC`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1685-2026 - Código acceso: 357272DC - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129184 "A., N. G. C/ F., D. O. S/ BENEFICIO DE LITIGAR SIN GASTOS (FAMILIA) S/ LEGAJO DE APELACIÓN"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 217. [RR-1686-2026] B., N. B. (.................... S/ALIMENTOS S/ LEGAJO DE APELACIÓN)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129193`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1686-2026`
+- **Código de Acceso SCBA**: `B5AB8B27`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1686-2026 - Código acceso: B5AB8B27 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129193 "P., M. A., C/ R., D. E. S/ ALIMENTOS S/ LEGAJO DE APELACIÓN"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 218. [RR-1687-2026] B., N. B. (.................... S/ ALIMENTOS S/ INCIDENTE DE ALIMENTOS S/ INCIDENTE DE APELACIÓN)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129223`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1687-2026`
+- **Código de Acceso SCBA**: `B0FCE6BC`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1687-2026 - Código acceso: B0FCE6BC - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129223 "M., M. C/ B., P. M. S/ ALIMENTOS S/ INCIDENTE DE ALIMENTOS S/ INCIDENTE DE APELACIÓN"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 219. [RR-1688-2026] B., N. B. (.................... S/ LEY 12569.S/INCIDENTE DE APELACION DE APORTES)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129226`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1688-2026`
+- **Código de Acceso SCBA**: `C055ACCE`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1688-2026 - Código acceso: C055ACCE - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129226 "C. M. F. C/ G. S. A. S/ LEY 12569. S/ INCIDENTE DE APELACION DE APORTES"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 220. [RR-1689-2026] B., N. B. (.................... S/ALIMENTOS S/ INCIDENTE DE APELACION DE APORTES)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129227`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1689-2026`
+- **Código de Acceso SCBA**: `3F67F098`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1689-2026 - Código acceso: 3F67F098 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129227 "C., H. C/ F. M., J. S/ ALIMENTOS S/ INCIDENTE DE APELACION DE APORTES"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 221. [RR-1690-2026] B., N. B. (.................... S/ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129228`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1690-2026`
+- **Código de Acceso SCBA**: `C96B407D`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1690-2026 - Código acceso: C96B407D - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129228 "EXPTE N° LEGA-JPGM-31718-2023-. P., A. L. C/ I., W. S/ ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 222. [RR-1691-2026] B., N. B. (.................... S/ HOMOLOGACION DE CONVENIO S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129229`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1691-2026`
+- **Código de Acceso SCBA**: `C2DB721C`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1691-2026 - Código acceso: C2DB721C - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129229 "G., V. C/ C., R. D. S/ HOMOLOGACION DE CONVENIO S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 223. [RR-1692-2026] B., N. B. (.................... S/ SU DENUNCIA. S/ INCIDENTE DE APELACION DE APORTES)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129230`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1692-2026`
+- **Código de Acceso SCBA**: `7A416EB4`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1692-2026 - Código acceso: 7A416EB4 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129230 "M. M. F. C. S. (REPRESENTACION DE SU HIJA MENOR DE EDAD M. F. M. ) S/ SU DENUNCIA. S/ INCIDENTE DE APELACION DE APORTES"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 224. [RR-1693-2026] B., N. B. (.................... S/ALIMENTOS S/INCIDENTE DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129231`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1693-2026`
+- **Código de Acceso SCBA**: `41385EC1`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1693-2026 - Código acceso: 41385EC1 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129231 "P. F. C/ M. N. S/ALIMENTOS S/ INCIDENTE DE APELACION"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 225. [RR-1694-2026] B., N. B. (.................... S/CUIDADO PERSONAL DE HIJOS S/INCIDENTE DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129232`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1694-2026`
+- **Código de Acceso SCBA**: `AC8E72B1`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1694-2026 - Código acceso: AC8E72B1 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129232 "T. C. S. C/ D. L. M. S/ CUIDADO PERSONAL DE HIJOS S/ INCIDENTE DE APELACION"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 226. [RR-1695-2026] B., N. B. (.................... S/ ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716 EXPTE. N° LEGA-32063-01)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129233`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1695-2026`
+- **Código de Acceso SCBA**: `080078FC`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1695-2026 - Código acceso: 080078FC - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129233 "I., D. R. J. C/ J., M. F. S/ ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716 EXPTE. N° LEGA-32063-01"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 227. [RR-1696-2026] B., N. B. (.................... S/ APELACION EN LOS AUTOS "SCAZZARO CLAUDIA ADRIANA PATRICIA C/ CERMUNDO EDUARDO OMAR S/ ALIMENTOS")
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129268`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1696-2026`
+- **Código de Acceso SCBA**: `3FE96B51`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1696-2026 - Código acceso: 3FE96B51 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129268 "DEFENSORIA OFICIAL S/ APELACION EN LOS AUTOS "S. C. A. P. C/ C. E. O. S/ ALIMENTOS""
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 228. [RR-1697-2026] B., N. B. (.................... S/ CUIDADO PERSONAL UNILATERAL S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129275`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1697-2026`
+- **Código de Acceso SCBA**: `CAA89A53`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1697-2026 - Código acceso: CAA89A53 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129275 "C., G. A. C/ M., S. A. S/ CUIDADO PERSONAL UNILATERAL S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 229. [RR-1698-2026] B., N. B. (.................... S/ HOMOLOGACION DE CONVENIO DE ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-129277`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1698-2026`
+- **Código de Acceso SCBA**: `5E93A256`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1698-2026 - Código acceso: 5E93A256 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 107.702`, `C. 117.998`, `C. 122.908`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+
+#### Texto Íntegro
+```text
+C-129277 "G., A. A. Y A., J. N. S/ HOMOLOGACION DE CONVENIO DE ALIMENTOS S/ INCIDENTE DE APELACIÓN DE HONORARIOS Y/O APORTES PREVISIONALES LEY 6716"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de Dolores confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales que actuaron como Ministerio Público ad hoc un porcentaje en concepto de contribución previsional a cargo de la Procuración General de la Suprema Corte, obligada al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, cuya denegatoria -fundada en la insuficiencia del valor del agravio para recurrir- motivó la interposición de la presente queja (art. 292 CPCC).
+II. Pasando a considerar la vía directa incoada cabe señalar que, en relación al cumplimiento de los requisitos establecidos en el art. 278 del ordenamiento procesal, el impugnante solicita en su queja la aplicación del art. 31 bis de la ley 5.827 que permite habilitar la revisión ante esta Corte, formulando el planteo de modo suficiente.
+Tal como se lo señala en la causa C. 124.105, "B., N. B." (resol. de 10-VI-2022 y dictamen del señor Procurador General de 6-VII-2021, de la causa cit.), se dan en el caso las circunstancias que tornan operativa la referida norma, quedando habilitado este Tribunal para conocer del planteo casatorio, aun cuando no se encuentren reunidos los recaudos exigidos por el art. 278 del Código Procesal Civil y Comercial (conf. art. 31 bis cit.; doctr. causas C. 107.702, "Arriaga", resol. de 6-VI-2011; C. 117.998, "G., M. A.", resol. de 4-VI-2014; C. 122.908, "Pucheta", resol. de 8-VI-2021).
+Así, en atención a la facultad prevista en la norma citada y en consideración al planteo traído, corresponde admitir la queja traída y declarar admisible el recurso extraordinario articulado (arts. 31 bis, ley 5.827; 278 y 292, CPCC).
+III. Ingresando al estudio del carril otorgado, se anticipa que no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5.827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en las causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+IV. Por último, cabe observar al igual que se hiciera en los precedentes citados, que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en las sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. sent. de 18-III-2025, ptos. IV y V) y C. 126.200, "M., J. A." (v. resol. de 18-XI-2025, pto. V).
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) Hacer lugar a la queja traída y conceder el recurso extraordinario de inaplicabilidad de ley deducido (arts. 31 bis, ley 5827; 278 y 292, CPCC); 2) en atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 3) obsérvese lo dispuesto en el punto IV de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t. o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 230. [RR-1699-2026] .................... S/ BENEFICIO DE LITIGAR SIN GASTOS ( DESIGNACION DE DEFENSOR OFICIAL)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-126776`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1699-2026`
+- **Código de Acceso SCBA**: `2B340D28`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1699-2026 - Código acceso: 2B340D28 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-126776 "S. C. A. I. C/ P. J. S. S/ BENEFICIO DE LITIGAR SIN GASTOS (DESIGNACION DE DEFENSOR OFICIAL)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 231. [RR-1700-2026] .................... S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) (LEGAJO DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128026`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1700-2026`
+- **Código de Acceso SCBA**: `8E0EC645`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1700-2026 - Código acceso: 8E0EC645 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128026 "L. M. A. C/ C. L. F. G. S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) (LEGAJO DE APELACION)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 232. [RR-1701-2026] .................... S/ INCIDENTE DE RECURSO EXTRAORDINARIO DE INAPLICABILIDAD DE LEY (EN EXPEDIENTE MARIO, ZULMA NOEMÍ C/ RODRÍGUEZ, ALAN ADRIÁN S/CUIDADO PERSONAL DE HIJOS)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128176`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1701-2026`
+- **Código de Acceso SCBA**: `5F492B1F`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1701-2026 - Código acceso: 5F492B1F - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- C-128176 "P. D. L. P. D. B. A. S/ INCIDENTE DE RECURSO EXTRAORDINARIO DE INAPLICABILIDAD DE LEY (EN EXPEDIENTE M., Z. N. C/ R., A. A. S/CUIDADO PERSONAL DE HIJOS)"
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+
+#### Texto Íntegro
+```text
+C-128176 "P. D. L. P. D. B. A. S/ INCIDENTE DE RECURSO EXTRAORDINARIO DE INAPLICABILIDAD DE LEY (EN EXPEDIENTE M., Z. N. C/ R., A. A. S/CUIDADO PERSONAL DE HIJOS)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 233. [RR-1702-2026] .................... S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEGAJO DE COPIAS)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128610`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1702-2026`
+- **Código de Acceso SCBA**: `D849C9AB`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1702-2026 - Código acceso: D849C9AB - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128610 "G. S. E. C/ P. M. S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEGAJO DE COPIAS)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 234. [RR-1703-2026] .................... S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) (LEGAJO DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128611`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1703-2026`
+- **Código de Acceso SCBA**: `7A3B66B7`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1703-2026 - Código acceso: 7A3B66B7 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128611 "A. D. F. C/ A. J. D. S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) (LEGAJO DE APELACION)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 235. [RR-1704-2026] .................... S/ PROTECCIÓN CONTRA LA VIOLENCIA FAMILIAR (LEY 12.569) (LEGAJO DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128612`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1704-2026`
+- **Código de Acceso SCBA**: `11E3F9BE`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1704-2026 - Código acceso: 11E3F9BE - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128612 "A. A. A. C/ L. J. M. S/ PROTECCIÓN CONTRA LA VIOLENCIA FAMILIAR (LEY 12.569) (LEGAJO DE APELACION)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 236. [RR-1705-2026] .................... S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) (LEGAJO DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128613`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1705-2026`
+- **Código de Acceso SCBA**: `7D9C433E`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1705-2026 - Código acceso: 7D9C433E - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128613 "L. A. B. C/B. R. A. S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) (LEGAJO DE APELACION)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 237. [RR-1706-2026] .................... S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12.569) (LEGAJO DE APELACION)
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128614`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1706-2026`
+- **Código de Acceso SCBA**: `174D6BB0`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1706-2026 - Código acceso: 174D6BB0 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128614 "C. B. M. C/ M. P. D. S/ PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12.569) (LEGAJO DE APELACION)"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 238. [RR-1707-2026] JUAREZ LORENA ELIZABETH C. AVALOS LEANDRO SILVERO S. PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) -RECURSO EXTRAORDINARIO
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128797`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1707-2026`
+- **Código de Acceso SCBA**: `C44900F5`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1707-2026 - Código acceso: C44900F5 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128797 "J. L. E C. A. L. S. S. PROTECCION CONTRA LA VIOLENCIA FAMILIAR (LEY 12569) -RECURSO EXTRAORDINARIO"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 239. [RR-1708-2026] .................... S/ INCIDENTE APELACION DE APORTES
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128912`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1708-2026`
+- **Código de Acceso SCBA**: `B382D3B8`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1708-2026 - Código acceso: B382D3B8 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128912 "P. D. F. (¨VTMA P. F. J.) C/ S. M. N. Y S. H. S/ INCIDENTE APELACION DE APORTES"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 240. [RR-1709-2026] .................... S/INCIDENTE APELACION APORTES
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128918`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1709-2026`
+- **Código de Acceso SCBA**: `2D915615`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1709-2026 - Código acceso: 2D915615 - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128918 "P. G. A. (VICTIMA: M. P. A. G.) C/ M. W. G. S/INCIDENTE APELACION APORTES"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
+
+### 241. [RR-1710-2026] .................... S/INCIDENTE APELACION APORTES
+- **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA
+- **Tipo de Fallo**: RESOLUCIÓN INTERLOCUTORIA DE SUPREMA CORTE (REGISTRO DE RESOLUCIONES DE SUPREMA CORTE)
+- **Número de Causa / Expediente**: `C-128919`
+- **Fecha**: 25-09-2026
+- **Número de Registro**: `RR-1710-2026`
+- **Código de Acceso SCBA**: `7478945F`
+- **Tribunal de Origen / Cámara Apelada**: Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que
+- **Firmantes**: Funcionario: MANCINI HEBECA Fernando Luis Maria JUEZ --- Certificado Correcto
+- **Datos de Registración**: Registro: REGISTRO DE RESOLUCIONES DE SUPREMA CORTE - Número: RR- 1710-2026 - Código acceso: 7478945F - PUBLICO | Registrado por: CAMPS Carlos Enrique - Fecha registración: 25/09/2026 14:45
+- **Precedentes SCBA Citados (Doctrina Legal)**: `C. 124.105`, `C. 126.200`
+
+#### Sumario JUBA y Doctrina Legal Aplicable
+- Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+- En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+- En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+- III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+
+#### Texto Íntegro
+```text
+C-128919 "D. X. M. C/ M. G. A. S/INCIDENTE APELACION APORTES"
+AUTOS Y VISTOS:
+I. La Cámara de Apelación en lo Civil y Comercial del Departamento Judicial de La Plata confirmó la decisión de primera instancia que, en lo que resulta de interés a los fines recursivos, adicionó a los honorarios regulados de los profesionales ad hoc un porcentaje en concepto de contribución previsional a cargo del Ministerio Público, obligado al pago de los estipendios.
+Frente a ello, el Defensor General departamental interpuso recurso extraordinario de inaplicabilidad de ley, el que fue concedido.
+II. Ingresando al estudio del carril otorgado, se anticipa que el mismo no prospera en virtud de lo resuelto por este Superior Tribunal en casos análogos (arts. 31 bis, ley 5827, texto según ley 13.812).
+En efecto, se advierte que la misma cuestión planteada a través del recurso extraordinario articulado en estos autos ha sido resuelta por esta Suprema Corte en la causas C. 124.105, "B., N. B." (sent. de 18-III-2025) y C. 126.200, "M., J. A." (resol. de 18-XI-2025). En esos casos, este Tribunal se pronunció sobre la interpretación y alcances que corresponde otorgarle al art. 91 de la ley 5.827 y las conclusiones allí expuestas resultan directamente aplicables al presente supuesto en estudio.
+En consecuencia, corresponde rechazar el recurso extraordinario de inaplicabilidad de ley incoado y confirmar que los honorarios fijados con cargo al Ministerio Público deben estimarse complementados con los aportes previstos en el art. 12 inc. "a", parte final, de la ley. 6.716 (art. 289, CPCC y 31 bis, ley 5.827 -texto según ley 13.812-).
+III. Por último, cabe observar -al igual que se hiciera en los precedentes citados- que en lo relativo a la exigibilidad del pago de lo adeudado a los profesionales, habrá de estarse a la reglamentación que al efecto dicte la Procuración General en función de sus disponibilidades presupuestarias y con el alcance establecido en la sentencias dictadas por esta Suprema Corte en las causas C. 124.105, "B., N. B." (v. ptos. IV y V) y C. 126.200, "M., J. A." (v. pto. V) previamente citadas.
+Por ello, la Suprema Corte de Justicia
+RESUELVE:
+1) En atención a lo resuelto en casos análogos, se rechaza el recurso extraordinario de inaplicabilidad de ley interpuesto (conf. art. 31 bis, ley 5.827 -texto según ley 13.812-) y 2) obsérvese lo dispuesto en el punto III de la presente.
+Las costas se imponen por su orden dada la índole de las cuestiones planteadas (art. 68, segundo párr., CPCC)
+Regístrese y notifíquese por medios electrónicos (conf. resol. SC 921/21 y Ac. 4013/21 y sus modif. -t.o. por Ac. 4039/21-) y devuélvase.
+Suscripto por el Actuario interviniente, en la ciudad de La Plata, en la fecha indicada en la constancia de la firma digital (Ac. SCBA 3971/20).
+```
+
+---
 
 ### 242. [RR-1711-2026] .................... S/INCIDENTE APELACION APORTES
 - **Organismo**: SECRETARIA CIVIL ,COMERCIAL Y DE FAMILIA - SUPREMA CORTE DE JUSTICIA

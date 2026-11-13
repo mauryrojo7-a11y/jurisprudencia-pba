@@ -2,7 +2,7 @@
 
 - **Repositorio**: `mauryrojo7-a11y/jurisprudencia-pba`
 - **Fuente Científica en Tiempo Real**: API Oficial de arXiv (`https://export.arxiv.org/api/query` — Categorías `cs.AI`, `cs.CL`, `cs.LG`)
-- **Última Actualización Automática**: 2026-11-12
+- **Última Actualización Automática**: 2026-11-13
 - **Ejes Monitoreados Diariamente**:
   1. **Test-Time Compute & Inference-Time Scaling**
   2. **Process Reward Models (PRM) & Step-Level Verification**
@@ -28,6 +28,84 @@ Las siguientes reglas operativas sintetizan los hallazgos de frontera extraídos
 ---
 
 ## EJE: TEST-TIME COMPUTE & INFERENCE-TIME SCALING
+
+### [arXiv:2611.17287] Negative-Only Policy Optimization for One-Sided Verifiable Rewards
+- **arXiv ID**: `2611.17287` (2611.17287v1)
+- **Fecha de Publicación**: 2026-11-12
+- **Categorías arXiv**: `cs.LG`, `cs.CL`
+- **Eje Cognitivo**: Test-Time Compute & Inference-Time Scaling
+- **Autores**: Jiacheng Xu, Shuo He, Fuxiang Zhang, Chaojie Wang, Bo An
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.17287)](https://arxiv.org/abs/2611.17287) | [PDF (https://arxiv.org/pdf/2611.17287.pdf)](https://arxiv.org/pdf/2611.17287.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified positives are merely non-falsified candidates and may contain many false positives. This asymmetry makes standard RLVR unreliable, because reinforcing verified positives can directly reward shortcuts that pass partial checks. To address this issue, we propose Negative-Only Policy Optimization (NOPO), which treats verified positives as unlabeled and updates the policy only by suppressing trusted verified negatives. Specifically, NOPO combines a reference-relative negative suppression loss with a group-level adapter that scales each update by the proportion of non-falsified responses. Across unit-test, constraint-check, and LLM self-verifiers, NOPO improves pass@k over baselines on code, logic, and math benchmarks when oracle rewards are unavailable. These gains persist under inference-time scaling and cross-benchmark transfer.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Test-Time Compute & Inference-Time Scaling]**: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.16991] AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design
+- **arXiv ID**: `2611.16991` (2611.16991v1)
+- **Fecha de Publicación**: 2026-11-12
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Test-Time Compute & Inference-Time Scaling
+- **Autores**: NovaSilicon Team
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.16991)](https://arxiv.org/abs/2611.16991) | [PDF (https://arxiv.org/pdf/2611.16991.pdf)](https://arxiv.org/pdf/2611.16991.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Coding agents have demonstrated strong capabilities in software development, yet their ability to tackle long-horizon engineering tasks governed by physical constraints remains less understood. We study this question through analog circuit layout, which demands domain knowledge, geometric reasoning, and iterative interaction with design and verification tools. We introduce \textbf{AnalogLayoutWorld}, an open-source agent benchmark with 40 expert-reviewed tasks for end-to-end layout generation from fixed transistor-level netlists. It combines an integrated design environment with independent physical and post-layout electrical verification, as well as objective layout quality metrics co-designed with analog layout experts. Across 13 model--harness configurations, 91.1\% of attempts produce GDS layouts, but only 23.0\% satisfy the benchmark's acceptance criteria. We also evaluate Novara, an internally developed agent system, which achieves the highest reported aggregate score. Our analysis links performance differences to test-time scaling under fixed budgets, suggesting that reasoning efficiency and effective use of verification feedback help sustain design quality as task complexity grows.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Test-Time Compute & Inference-Time Scaling]**: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  5. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.15515] Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents
+- **arXiv ID**: `2611.15515` (2611.15515v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.AI`, `cs.MA`
+- **Eje Cognitivo**: Test-Time Compute & Inference-Time Scaling
+- **Autores**: Jipu Su
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.15515)](https://arxiv.org/abs/2611.15515) | [PDF (https://arxiv.org/pdf/2611.15515.pdf)](https://arxiv.org/pdf/2611.15515.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Personal AI agents now persist: they hold accounts, mailboxes, long-term memory, and open-ended task streams, yet the dominant way to improve them remains capability-side: prompt engineering, larger models, longer thinking, and retrieval. We argue that long-lived agents are missing an incentive layer. We formalize an incentive not as text in a prompt but as a runtime contract over the agent's operating point (model tier, test-time compute, memory budget, tool authority, task priority, verification, and compensation) that the agent's policy must causally consume. We develop a principal-agent model with hidden effort, a contractible operating point, and costly verification. We derive (i) a non-consumption invariance principle separating genuine incentives from prompt-level persuasion, (ii) a persistence-as-discount theorem making identity continuity a precondition for sustained effort, (iii) an incentive-capability exchange-rate frontier yielding a per-task routing rule, and (iv) a Goodhart bound for multi-channel verification, plus a three-channel decomposition of mechanism gains (allocation, verification, continuation). A 240-run real-LLM experiment with two models and 60 verifiable tasks shows that prompt-level incentive framing has no detectable effect (p = 0.62), whereas runtime allocation raises success on the hardest task family from 0.60 to 1.00 (p = 0.008) at 4.8x price-weighted cost; the exchange-rate theorem predicts the break-even baseline at 0.21. A 20-seed, 3,000-task simulation shows resource ROI rising from 7.09 to 16.67 and gaming falling from 0.333 to 0.115. Code, simulator, and all results are released; live deployment remains future work.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Test-Time Compute & Inference-Time Scaling]**: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  5. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.14965] Early Signals, Strong Decisions: Prefix-Guided Sampling for Parallel Test-Time Scaling
+- **arXiv ID**: `2611.14965` (2611.14965v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Test-Time Compute & Inference-Time Scaling
+- **Autores**: Jie Ren, Jonathan Rosenfeld, Neil Thompson
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.14965)](https://arxiv.org/abs/2611.14965) | [PDF (https://arxiv.org/pdf/2611.14965.pdf)](https://arxiv.org/pdf/2611.14965.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Parallel test-time scaling (TTS) has been shown to enhance reasoning in large language models by generating and aggregating multiple independent reasoning paths. Internal confidence scores can further improve this process by identifying paths of varying quality. However, existing methods remain computationally inefficient, as low-quality paths are fully expanded before being evaluated. In this work, we aim to improve the use of internal confidence signals for better model performance and computational efficiency. We begin by offering a new perspective on the role of confidence in aggregation, showing that it is most impactful for questions near the decision boundary. Notably, when amplified by multi-sample aggregation, even small confidence signals derived from short prefixes can meaningfully influence outcomes in these boundary cases. Building on this insight, we introduce Prefix-Guided Sampling (PreG), a method that reallocates computation by first generating short prefixes, ranking them using internal confidence scores, and then completing only the most promising candidates. This strategy reduces token usage while maintaining gains in path quality. We provide theoretical analysis demonstrating that, under a fixed compute budget, PreG strengthens the effective signal by widening the decision boundary margin. Empirically, our method consistently outperforms standard parallel TTS approaches across benchmarks, while significantly improving token efficiency and reducing overall computation.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Test-Time Compute & Inference-Time Scaling]**: Asignar presupuesto computacional adaptativo en tiempo de inferencia según la complejidad del caso: descomponer cuestiones ambiguas en múltiples trayectorias de análisis, contrastar hipótesis rivales y aplicar verificación cruzada antes de emitir la conclusión.
+  2. **[Supervisión Granular por Pasos (Step-Level PRM)]**: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
 
 ### [arXiv:2611.14383] An Energy-Based Perspective on Machine Learning
 - **arXiv ID**: `2611.14383` (2611.14383v1)
@@ -1372,6 +1450,95 @@ Las siguientes reglas operativas sintetizan los hallazgos de frontera extraídos
 ---
 
 ## EJE: REASONING IN LLMS (DELIBERATIVE, CHAIN-OF-THOUGHT & SELF-VERIFICATION)
+
+### [arXiv:2611.16104] Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning
+- **arXiv ID**: `2611.16104` (2611.16104v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.CL`, `cs.AI`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Jessica Lundin, Katherine Rosenfeld, David Adelani, Geoffrey Mosoti Nyakiongora, Halfan Ngowo, Sloan Coffin et al.
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.16104)](https://arxiv.org/abs/2611.16104) | [PDF (https://arxiv.org/pdf/2611.16104.pdf)](https://arxiv.org/pdf/2611.16104.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> We present Fikiria, a two-stage SFT+GRPO recipe for Swahili mathematical reasoning. Its reward multiplies a format gate by a weighted sum of answer accuracy and the ChrF\texttt{++} similarity of the Swahili reasoning to an in-language reference chain of thought, so that training targets the surface fidelity of the reasoning trace and not only the final answer. We train on a 2.3k-problem Swahili dataset created by translating GSM8K with GPT-4.1 and filtering with SSA-COMET. On AfriMGSM Swahili, Fikiria-AfriqueQwen-14B reaches 79.2\%. Under the same fixed prompt and strict answer-format scoring, GPT-4o reaches 68.0\%, partly because it often fails the required answer format; IrokoBench reports 78.8\% for GPT-4o using a best-per-model prompt, a figure numerically close to ours but not directly comparable. In a small human evaluation with co-author annotators, GPT-4o's outputs were preferred overall. ChrF\texttt{++} measures surface fidelity, not the validity of individual reasoning steps.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  3. **[Trazabilidad y Explicabilidad Técnica]**: Explicitar los fundamentos y pasos de derivación desde los datos de entrada hasta la conclusión dispositiva, garantizando auditabilidad completa del razonamiento.
+
+---
+
+### [arXiv:2611.15680] SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol
+- **arXiv ID**: `2611.15680` (2611.15680v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.LG`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Ameen Izhac, Nobuko Yoshida, Ronald Clark
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.15680)](https://arxiv.org/abs/2611.15680) | [PDF (https://arxiv.org/pdf/2611.15680.pdf)](https://arxiv.org/pdf/2611.15680.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Despite impressive advances in large language models (LLM), vision-language models (VLM) still exhibit limited spatial reasoning capabilities. Recent progress in feed-forward 3D reconstruction has enabled precise, real-time geometric understanding from visual inputs. In this work, we propose SpaceMCP, a framework that leverages these advances to introduce an MCP-style paradigm for spatial reasoning. Our approach augments a VLM with structured function calls, allowing it to query a scene graph for spatial information such as distances, object positioning, and camera properties. The scene graph is constructed in real time using feed-forward 3D reconstruction to recover metric geometry, combined with open-vocabulary segmentation to identify and localize relevant objects within the scene. Paired with the VLM's strong reasoning capabilities, the VLM is able to combine this primitive information to solve more complex spatial tasks. Without any training, SpaceMCP achieves state-of-the-art results on VSI-Bench, MMSI-Bench and VSTI-Bench, outperforming recent spatially post-trained VLMs and improving its base VLM by 15-22 points per benchmark. We argue that, given the contrast between the relatively slow progress in native VLM spatial reasoning and the rapid advances in feed-forward 3D computer vision, this paradigm offers a promising path forward for enabling robust spatial reasoning.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.15449] Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning
+- **arXiv ID**: `2611.15449` (2611.15449v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.CV`, `cs.AI`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Jaeseong Lee, Jinwoo Kim, Jinho Jeong, Seon Joo Kim
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.15449)](https://arxiv.org/abs/2611.15449) | [PDF (https://arxiv.org/pdf/2611.15449.pdf)](https://arxiv.org/pdf/2611.15449.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration problem, yet severely degraded text often cannot be read from local visual evidence alone. Humans instead read it by reasoning over image context, logical patterns, and prior knowledge. This raises a fundamental question: Does TAISR need reasoning? To answer this, we introduce two diagnostic tools. The first, ReasonText, is a human-curated benchmark that separates reasoning-required text from locally recoverable text. The second, Ground-Truth Text-Crop Accuracy (GTTCA), is a recognition-based metric that measures text restoration quality without text detection errors. Evaluating twelve recent super-resolution (SR) models, we find a consistent and substantial performance drop on reasoning-required text, revealing a systematic blind spot. Two observations point to a remedy. One is that text-conditioned SR models restore text substantially better when given ground-truth text. The other is that multimodal large language models (MLLMs) can read degraded text in low-resolution images through reasoning. We therefore propose Reasoning Transfer via Captioning (RTC), a training-free plug-in that uses an external MLLM to infer the degraded text and feeds the resulting caption to a text-conditioned SR model. RTC consistently improves all six text-conditioned SR models we evaluate, especially on reasoning-required text. Surprisingly, a real-world SR model with RTC can even outperform the TAISR model with RTC, suggesting that reasoning should be a core design axis for future TAISR.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  3. **[Trazabilidad y Explicabilidad Técnica]**: Explicitar los fundamentos y pasos de derivación desde los datos de entrada hasta la conclusión dispositiva, garantizando auditabilidad completa del razonamiento.
+
+---
+
+### [arXiv:2611.15225] Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark
+- **arXiv ID**: `2611.15225` (2611.15225v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Shunming Liu, Jianyi Peng, Cheng Li, Lu Hou, Pei Huang, Yajing Sun et al.
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.15225)](https://arxiv.org/abs/2611.15225) | [PDF (https://arxiv.org/pdf/2611.15225.pdf)](https://arxiv.org/pdf/2611.15225.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Surround-view video understanding in autonomous driving is a crucial capability for Multimodal Large Language Models (MLLMs) to achieve reliable driving reasoning. Real-world driving often requires information beyond the front-view camera. Existing MLLMs primarily focus on front-view information, while their spatio-temporal understanding and reasoning abilities remain unknown. To address this gap, we propose MVDriveBench, a high-information-density video QA benchmark for autonomous driving, characterized by synchronized surround-view inputs, spatio-temporal understanding, and reasoning-chain-oriented evaluation. We design 12 categories of QA tasks that cover the complete reasoning pipeline from low-level visual perception to high-level driving decision-making, enabling a systematic evaluation of MLLMs surround-view spatio-temporal understanding and reasoning capabilities in complex driving environments. We conduct a comprehensive evaluation of 23 open-source, closed-source, and expert MLLMs on MVDriveBench. The results show that current MLLMs still exhibit insufficient surround-view spatio-temporal reasoning ability. Meanwhile, closed-loop evaluations of specialist models in AlpaSim reveal a correlation between surround-view spatio-temporal reasoning capabilities and closed-loop driving performance, highlighting the importance of comprehensive multi-view understanding for reliable vehicle control.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Trazabilidad y Explicabilidad Técnica]**: Explicitar los fundamentos y pasos de derivación desde los datos de entrada hasta la conclusión dispositiva, garantizando auditabilidad completa del razonamiento.
+
+---
+
+### [arXiv:2611.14881] MLIRBench - A Benchmark and Dataset for Compiler and Hardware-Aware Reasoning
+- **arXiv ID**: `2611.14881` (2611.14881v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.PL`, `cs.AI`, `cs.LG`
+- **Eje Cognitivo**: Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)
+- **Autores**: Pranava Sai Maganti, Meghasyam Peddireddy, Muzakker Hossain, Kaining Gao, Farhan Ahmed, Ali Jannesari
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.14881)](https://arxiv.org/abs/2611.14881) | [PDF (https://arxiv.org/pdf/2611.14881.pdf)](https://arxiv.org/pdf/2611.14881.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> In recent years, large language models (LLMs) have become increasingly popular in software engineering and have performed well on different programming tasks. However, it is still difficult to know whether these models truly understand program behavior or whether they mainly rely on patterns learned from their training data. This distinction is particularly important for intermediate representations (IRs), where operations, dataflow, and execution semantics are explicitly represented. In this paper, we introduce MLIRBench, a benchmark for evaluating how LLMs reason about MLIR programs. MLIRBench uses a multi-agent pipeline to generate program mutations, validate their behavior through execution, and construct reasoning tasks from torch and linalg program pairs. The dataset contains 1,768 validated pairs, including 888 linalg pairs and 880 torch pairs, labeled as EQUIV, DIVERGE, or ERROR. We evaluated nine models, including five open-weight and four proprietary models. Gemini 3.1 Pro achieved the highest hard-label accuracy of 92.65% across all 1,768 pairs, counting unsuccessful predictions as incorrect. Across its 1,768 scored predictions, it achieved an aggregate score of 74.18 and a judge-assigned result-behavior score of 5.04/10. These results show that strong semantic classification does not necessarily imply accurate prediction of detailed execution behavior, highlighting a gap in current LLM reasoning over compiler IRs. By exposing this gap through execution-validated program pairs, MLIRBench provides a reproducible foundation for studying semantic reasoning over compiler IRs and related tasks such as program repair and semantic classification.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Reasoning in LLMs (Deliberative, Chain-of-Thought & Self-Verification)]**: Estructurar cadenas de razonamiento explícitas (Chain-of-Thought deliberativo) separando estrictamente la premisa fáctica probada, la premisa normativa vigente y el juicio de subsunción, ejecutando un pase de autoverificación contra alucinaciones o saltos lógicos.
+  2. **[Supervisión Granular por Pasos (Step-Level PRM)]**: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.
+  3. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+
+---
 
 ### [arXiv:2611.14263] Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning
 - **arXiv ID**: `2611.14263` (2611.14263v1)
@@ -2744,6 +2911,44 @@ Las siguientes reglas operativas sintetizan los hallazgos de frontera extraídos
 
 ## EJE: PROMPT ENGINEERING, META-PROMPTING & IN-CONTEXT OPTIMIZATION
 
+### [arXiv:2611.16414] Small Language Models for Inference-Capability Routing: Effects of Model Capacity and Prompt Optimization on Downstream Quality and Efficiency
+- **arXiv ID**: `2611.16414` (2611.16414v1)
+- **Fecha de Publicación**: 2026-11-12
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Prompt Engineering, Meta-Prompting & In-Context Optimization
+- **Autores**: Sailendra Kolluru, Maheshkumar Duvvarapu
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.16414)](https://arxiv.org/abs/2611.16414) | [PDF (https://arxiv.org/pdf/2611.16414.pdf)](https://arxiv.org/pdf/2611.16414.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Optional reasoning, retrieval, web search, and tool use can improve large language model responses but incur unnecessary computation when activated indiscriminately. This study investigates whether prompt optimization can compensate for limited router capacity and whether classification gains translate into downstream efficiency. The proposed framework uses prompt-driven small language models to make four independent capability decisions, allowing multiple capabilities to be selected per query. Qwen2.5 routers ranging from 1.5B to 14B parameters are compared across five prompting strategies, followed by an evaluation of capability-specific optimized configurations using a fixed GPT-OSS-120B downstream model on 127 questions. Under minimal prompting, increasing router capacity does not consistently improve classification performance. Prompt optimization narrows the capacity gap for reasoning and calculator routing, whereas RAG and web search retain larger benefits from higher capacity. Similar classification F1 scores do not necessarily imply equivalent downstream behavior: false-positive activations increase unnecessary computation, while missed capabilities can reduce answer quality. The 14B router achieves a mean BERTScore F1 of 0.8408, compared with 0.8418 when all capabilities are enabled, while reducing average downstream token consumption by 68.7\% (8,837 to 2,764 tokens) and median downstream latency by 80.5\% (9.79 to 1.91 seconds). These savings exclude router overhead, which is measured separately in a different inference environment and increases with router capacity. The findings demonstrate that the relationship between router capacity, prompt design, and downstream efficiency is capability-dependent. Consequently, router selection must consider error profiles and routing overhead alongside classification performance.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Prompt Engineering, Meta-Prompting & In-Context Optimization]**: Anclar el contexto mediante restricciones explícitas de formato, ejemplos verificados en contexto (few-shot grounding), delimitación estricta de fuentes autorizadas y descomposición modular de instrucciones.
+  2. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  4. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
+
+### [arXiv:2611.14924] Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs
+- **arXiv ID**: `2611.14924` (2611.14924v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.AI`
+- **Eje Cognitivo**: Prompt Engineering, Meta-Prompting & In-Context Optimization
+- **Autores**: Zahraa Selim, Menna Hamed, Wesam Ahmed, Sohyla Said, Sara Basheer, Rami Zewail
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.14924)](https://arxiv.org/abs/2611.14924) | [PDF (https://arxiv.org/pdf/2611.14924.pdf)](https://arxiv.org/pdf/2611.14924.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical evaluation of a multimodal RAG framework optimized for consumer-grade Turing hardware (e.g., NVIDIA Tesla T4). Our system-level analysis identifies a critical trade-off: while generative pre-trained transformer quantization (GPTQ) offers superior throughput (51.6 tok/s), it exhibits significant context instability at 2048+ tokens on Turing architectures. Conversely, NormalFloat 4-bit (NF4) maintains robust long-context performance with viable latency (81 ms/tok). By coupling NF4 with a decoupled Florence-2 vision integration, we achieve visual reasoning with only 430 MB VRAM overhead. Furthermore, empirical observations of prompt-induced search space pruning show that structured prompting reduces latency by 47% without altering computational intensity (1.88 GFLOPs/token). The integrated architecture maintains an 8.37 GB footprint, establishing a viable RAG pipeline for 12-16 GB GPUs. Finally, structured few-shot prompting effectively compensates for quantization-induced reasoning loss, restoring mathematical accuracy from 35.0% to 92.0% across 200 trials.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Prompt Engineering, Meta-Prompting & In-Context Optimization]**: Anclar el contexto mediante restricciones explícitas de formato, ejemplos verificados en contexto (few-shot grounding), delimitación estricta de fuentes autorizadas y descomposición modular de instrucciones.
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+  4. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
+
 ### [arXiv:2611.14480] Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation
 - **arXiv ID**: `2611.14480` (2611.14480v1)
 - **Fecha de Publicación**: 2026-11-10
@@ -3479,6 +3684,81 @@ Las siguientes reglas operativas sintetizan los hallazgos de frontera extraídos
 ---
 
 ## EJE: AGENTIC WORKFLOWS, MULTI-AGENT SYSTEMS & TOOL-AUGMENTED REASONING
+
+### [arXiv:2611.16425] RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication
+- **arXiv ID**: `2611.16425` (2611.16425v1)
+- **Fecha de Publicación**: 2026-11-12
+- **Categorías arXiv**: `cs.IR`, `cs.AI`, `cs.CL`
+- **Eje Cognitivo**: Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning
+- **Autores**: Oleg Zendel, Kun Ran, Chenglong Ma, Nguyen Khoi Vo, Shuai Wang
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.16425)](https://arxiv.org/abs/2611.16425) | [PDF (https://arxiv.org/pdf/2611.16425.pdf)](https://arxiv.org/pdf/2611.16425.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> We describe the RMIT-ADM+S team's participation in the TREC 2026 Retrieval-Augmented Generation (RAG) track using the ClimbMix corpus. We submitted seven research-agent runs using proprietary OpenAI and open-weight models, exploring different retrieval strategies, writer models, and agent workflows. Pre-submission ablations identified writer selection and adjacent-chunk expansion as the main factors affecting answer quality. In the official NIST evaluation, six of seven runs exceeded the track median across all three rubric/nugget collections. Our best-performing run, brief-hybrid, achieved the highest all-item coverage among our submissions and tied the track maximum (0.892) for Batch-1 vital coverage. Human side-by-side preferences differed across evaluation batches: the open-weight owa-glm5 led Batch 1 despite lower automated coverage, while sol-research-first led Batch 2. These findings highlight differences between automated coverage measures and human preferences, as well as the potential of lower-cost open-weight models for research-agent systems.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning]**: Orquestar flujos agénticos en etapas especializadas: (1) Agente Investigador/Recuperador (búsqueda documental exacta), (2) Agente Analista/Verificador (contraste de precedentes y normas), y (3) Agente Redactor/Crítico (proyección formal y auditoría de consistencia).
+  2. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  3. **[Búsqueda Deliberativa y Consenso Interno]**: Generar y contrastar múltiples líneas argumentales (argumento principal, eventuales defensas y criterio de Alzada) seleccionando la solución que maximice la coherencia interna y la estabilidad frente a una eventual apelación.
+
+---
+
+### [arXiv:2611.15522] GHAgentCI: A Dataset of Coding-Agent Invocations in CI Workflow Histories
+- **arXiv ID**: `2611.15522` (2611.15522v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.SE`, `cs.AI`
+- **Eje Cognitivo**: Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning
+- **Autores**: Daniel Ogenrwot, Jorge Gonzalo Delgado Cervantes, Woojoong Kim, John Businge
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.15522)](https://arxiv.org/abs/2611.15522) | [PDF (https://arxiv.org/pdf/2611.15522.pdf)](https://arxiv.org/pdf/2611.15522.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Coding agents are increasingly integrated into GitHub Actions to review pull requests, triage issues and modify code. Identifying these integrations is challenging because agentic workflows often resemble ordinary CI files, with evidence appearing in action references, shell commands and workflow conventions. We present GHAgentCI, a dataset of 15K+ workflow histories from 6K+ of 196K+ mined GitHub repositories, comprising 159K+ revisions and 205K+ agent-evidence records linked to workflow triggers and declared execution constraints. Our open-source extractor, cai-miner, detects agent-related evidence using an extensible catalogue. Manual validation of 576 stratified records confirmed 96.1% of dedicated-action matches and 98.8% of GitHub Agentic Workflow matches, with lower rates for other evidence kinds. Exploratory analyses reveal a shift toward command-line and GitHub Agentic Workflow integrations, differences in declared safeguards, and frequent removal of detected agentic workflows. GHAgentCI supports longitudinal studies of coding-agent integration into CI.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning]**: Orquestar flujos agénticos en etapas especializadas: (1) Agente Investigador/Recuperador (búsqueda documental exacta), (2) Agente Analista/Verificador (contraste de precedentes y normas), y (3) Agente Redactor/Crítico (proyección formal y auditoría de consistencia).
+  2. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  3. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.15126] Recompute or Restore? Host-Tier KV for Multi-Model Agent Workflows on a Static-Graph NPU Serving Stack
+- **arXiv ID**: `2611.15126` (2611.15126v1)
+- **Fecha de Publicación**: 2026-11-11
+- **Categorías arXiv**: `cs.DC`, `cs.LG`, `cs.PF`
+- **Eje Cognitivo**: Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning
+- **Autores**: Sungwon Woo, Seyeon Kim
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.15126)](https://arxiv.org/abs/2611.15126) | [PDF (https://arxiv.org/pdf/2611.15126.pdf)](https://arxiv.org/pdf/2611.15126.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Agent workflows issue dependent model calls that share long context prefixes, so serving them efficiently depends on reusing the key-value (KV) cache of those prefixes. On accelerators that compile model graphs ahead of time, however, the device KV budget is fixed, and prefixes evicted under load must be recomputed. Restoring them from host memory avoids this recomputation, but the transfer occupies the same engine thread as prefill and decode, so its benefit is not guaranteed. In this paper, we study when restoring beats recomputing on a commercial static-graph neural processing unit (NPU) stack (Rebellions ATOM+, vllm-rbln 0.10.2) that serves a Qwen3-8B planner on two cards and a Qwen3-0.6B executor on one. We first show that repeated prefill dominates planner work when default serving collapses: 89.5% of the executed planner prompt tokens had been materialized before. We then build a synchronous host-DRAM tier on the runtime's public KV copy calls, together with a scheduler-aware event model whose predictions are frozen before each test cohort. Experimental results show that the host tier raises workflow service-level objective (SLO) attainment from 22.8% to 100% and from 9.4% to 99.8% in the two tested overload conditions, and endpoint confirmation on two new seeds supports conservative load gains of 11.8% (chain) and 18.2% (fork), while mixed and bursty workloads remain seed-sensitive. The frozen model predicts median and 99th-percentile (P99) latency within its 15% tolerance in all 24 common-load conditions, including the 16-18% P99 increase that the tier causes for fork workflows, but it misorders three policy contrasts and overestimates the benefit of a cheaper store path (11% predicted against 3.1% measured). The trade-off therefore depends on runtime scheduling and transfer cost as well as cache capacity.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning]**: Orquestar flujos agénticos en etapas especializadas: (1) Agente Investigador/Recuperador (búsqueda documental exacta), (2) Agente Analista/Verificador (contraste de precedentes y normas), y (3) Agente Redactor/Crítico (proyección formal y auditoría de consistencia).
+  2. **[Supervisión Granular por Pasos (Step-Level PRM)]**: Validar secuencialmente cada considerando o nodo de decisión. Si un paso intermedio presenta incertidumbre o ambigüedad, podar esa rama de razonamiento y recalcular desde el último antecedente verificado.
+  3. **[Asignación Dinámica de Cómputo de Inferencia]**: Calibrar la profundidad deliberativa según la complejidad del caso: aplicar resolución directa en trámites estandarizados y expandir el árbol de búsqueda (múltiples candidatos + ranking) en casos con colisión normativa o jurisprudencial.
+  4. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  5. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
+
+### [arXiv:2611.14581] When Evaluators of AI Agents Disagree: An Empirical Study of Native Scoring, LLM Judges, and Commit-Boundary Checks on tau2-bench
+- **arXiv ID**: `2611.14581` (2611.14581v1)
+- **Fecha de Publicación**: 2026-11-10
+- **Categorías arXiv**: `cs.SE`, `cs.AI`, `cs.CR`
+- **Eje Cognitivo**: Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning
+- **Autores**: Sungbin Im
+- **Enlaces Oficiales**: [Abstract (https://arxiv.org/abs/2611.14581)](https://arxiv.org/abs/2611.14581) | [PDF (https://arxiv.org/pdf/2611.14581.pdf)](https://arxiv.org/pdf/2611.14581.pdf)
+
+#### Resumen Técnico (Technical Abstract & Mechanism)
+> Agentic workflows, in which a large language model (LLM) calls tools to read and write data, are evaluated in two ways. Benchmarks compare the final state against a gold answer. Deployed services have none; an LLM judge reads the transcript and decides. Practice treats the two as interchangeable. This paper measures whether they are. We ran 2,160 episodes in tau2-bench's airline and retail domains and recorded every database write. We scored each episode four ways: native scoring against gold state, an LLM judge, that judge given the policy document, and the boundary evaluator, a minimal rule-based check of whether a write was expected against whether one occurred in the trace. Two annotators independently labeled 120 episodes for task correctness, policy compliance, and commitment correctness. The judge repeated its verdict 98.2% of the time but agreed with native scoring on 56.2%. In 11 episodes the agent executed a forbidden write. The judge passed 10 to 11, with or without the policy or transcript. A stronger judge still passed 6. The boundary evaluator, with no model call, caught all 11; no judge significantly exceeded it on human labels. Forbidden writes occurred in 11.1% of episodes without gates. Verification, correction, and safe-termination gates did not reduce them significantly. The traces show a candidate cause: the gates' evidence digest dropped the order status and customer authentication, so valid requests were rejected. The choice of evaluator decides the conclusion; the minimal check exposes failures the judges miss. Traces, code, prompts, and labels are released.
+
+#### Reglas Operativas Extraídas (Aplicación en Inferencia y Razonamiento)
+  1. **[Directiva de Agentic Workflows, Multi-Agent Systems & Tool-Augmented Reasoning]**: Orquestar flujos agénticos en etapas especializadas: (1) Agente Investigador/Recuperador (búsqueda documental exacta), (2) Agente Analista/Verificador (contraste de precedentes y normas), y (3) Agente Redactor/Crítico (proyección formal y auditoría de consistencia).
+  2. **[Protocolo de Verificación Intrínseca]**: Implementar un paso de auditoría independiente sobre cada afirmación fáctica y cita normativa/jurisprudencial antes de consolidar la respuesta final, rechazando cualquier inferencia no respaldada por evidencia documental directa.
+  3. **[Descomposición Agéntica y Uso de Herramientas]**: Dividir la tarea compleja en subtareas atómicas verificables (extracción de hechos -> búsqueda de precedentes -> encuadre legal -> redacción -> control de calidad), invocando herramientas externas de recuperación antes de razonar en abstracto.
+  4. **[Estructuración de Contexto y Restricciones Explícitas]**: Formular las restricciones negativas (prohibición de alucinar metadatos) y las plantillas estructurales al inicio del bloque de instrucciones, utilizando precedentes reales recuperados como anclaje in-context.
+
+---
 
 ### [arXiv:2611.13776] DisasterAgent: An Evidence-Driven Agent for Verifiable Disaster Report Generation From Remote Sensing Imagery
 - **arXiv ID**: `2611.13776` (2611.13776v1)
